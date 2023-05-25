@@ -1,0 +1,124 @@
+1. How far away is the star Sirius from the Earth in meters?
+2. Given 1 trillion cuts, what is the maximum number of pieces you can
+slice a pizza into?
+3. Evaluate 200!
+4. Evaluate -(999,999,999)^2+(1,000,000,001)^2
+5. How many points have been scored in the UNC-Duke Rivalry games?
+6. How many distinct March Madness brackets are there?
+7. If we have a March Madness bracket and the better team (i.e rank 1
+always beats rank 2, 2 will beat 3, etc.) always wins, in how many
+scenarios will the overall #1 ranked team and #2 ranked teams meet in
+the final?
+8. How many games will be played in a March Madness style tournament
+with 2^100 teams?
+9. How many points are scored in the highest scoring NBA season?
+10. If we combine the total points scored by the top 10 NBA scorers of all
+time, how many of those seasons could be “played”?
+11. If we assume all of Steph’s 3 pointers have come from the 3 point line
+how many times could we travel from the Earth to the Sun?
+12. How tall in nanometers is Mt Everest?
+13. What is the height of Duke Chapel in micrometers?
+14. How big is Duke’s campus (including every part of Duke-owned land)
+according to Google in cm?
+
+15. How deep in cm is the deepest part of the ocean?
+16. How long was the 2021-2022 NBA season in nanoseconds from the
+first tip off to the end of the finals?
+17. What is the total number of competitors today?
+18. How many students apply to Duke each year?
+19. How much gasoline is used in the entire United States in one day in
+gallons?
+20. How many suns can fit in our solar system?
+21.What is the national debt per citizen in the US?
+22.What is US debt minus US GDP?
+23.On average, how many times has Taylor Swift’s Anti-Hero been
+watched on Youtube per day since it was uploaded?
+24.How much does one Starbucks store in Durham, NC make in one
+day?
+25. How many Americans have at least 1 sibling?
+26.How many grams of CO2 are emitted by cattle every day?
+27.How many dentists are there per 100,000 resident population in the
+US?
+28. How many zettabytes is one gigabyte?
+29.How many zettabytes is the amount of data on the Internet?
+30.How many gigabytes of information is in our brain?
+31.How many brains would you need to store all the information on the
+Internet?
+32.How many turkeys were eaten per American in 2022?
+33. If all of the ice in Antarctica were to melt because of global warming,
+how high, in cm, would the oceans rise?
+34. Evaluate 0.9^2023
+35.How many mL of blood does our heart pump each day?
+36.What percentage is that volume compared to mL of water on Earth?
+37. How many inches does the average soccer player run per match?
+38.How many soccer games will it take for all the players to run the surface
+area of the sun?
+39. Assuming each of the soccer games in #38 is of the regular length of
+time (no extra time/penalties), how many times in a row could I binge
+watch Game of Thrones?
+40. How heavy is one mol of benzene in micrograms?
+41.How heavy is one mol of PVA?
+42. Around what would the concentration of H+, in molar, be in PVA?
+43.What is energy stored per mole of oxygen evolved in kcal during
+photosynthesis?
+44. How many photosynthesis reactions does it take for the energy stored
+per mole of oxygen to power a man throughout his life?
+45. What is the wavelength of red light in meters?
+46.How many times could the length of red light’s wavelength travel over
+our skin’s surface area?
+47. How many dollars are traded in the stock market each year?
+48. How many times could the amount of money in #47 end world
+hunger for one year?
+49. How many likes total does Elon Musk have on Twitter across all
+tweets?
+50.How many characters are on this test?
+16
+23
+374
+9
+4
+18
+1
+30
+5
+0
+-7
+12
+7
+13
+6
+16
+2
+4
+8
+7
+4
+12
+6
+4
+8
+7
+2
+-12
+2
+6
+3
+-1
+4
+-93
+6
+-18
+5
+10
+8
+7
+4
+-5
+2
+5
+-7
+-7
+13
+3
+9
+3

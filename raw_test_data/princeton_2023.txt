@@ -1,0 +1,84 @@
+1. How many washing machines are there in South Korea?
+2. How much money does the Las Vegas strip make from gamblers per year?
+3. Accounting for major pandemics, war, famines, as well as life expectancy and population change over time, how
+many seconds have been experienced by all humans throughout time?
+4. If ISS did not burn and came down, probability of hitting a Ferrari
+5. How many sticks of chalk are consumed by Fine (everyone in the Princeton math department) every year?
+6. How much weight volume (weight * #) lifted over course of entire year at Dillon by all
+7. How many pawns has Kasparov (whatever chess player) taken since
+8. Assuming perfect power transmission and ability for continuous power delivery without pause, how long, in
+seconds, would it take a taser to charge a Tesla Model X?
+9. What is the product of the dollar value of the Ivy League universities’ endowments?
+10. How many amps of current to cancel Earth’s magnetic field?
+11. How many votes have been cast for GOP EVER for President in state of NY
+12. What is the ratio of bullets fired in the American Revolutionary War to those fired in World War II?
+13. How many times is the word “science” written in all books in Firestone Library (including reserves)?
+14. With an infinitely thin laser, what’s the probability (in decimal) of randomly pointing it out into space and hitting
+Proxima Centauri?
+15. Consider the resonant periods (in seconds) of the Golden Gate bridge in the following three directions: Horizontal,
+Vertical, and Longitudinal (within the material). What is their product (in seconds^3)?
+16. Estimate 24!! (24x22x20x18…x2)
+17. How long would it take to assemble all of the products sold by IKEA in 2021?
+18. If you randomly dropped a pin over the United states, what is the probability that it would land in a swimming
+pool?
+19. Estimate the minimum k such that the sum from n= 1 to k of 1/n is greater than 10.
+20. How long of a line could you draw with a single standard No. 2 pencil? (meters)
+21. How many atoms of gold are in an iPhone XR?
+22. How much on average, in USD, does Drake make during one second on Spotify?
+23. Suppose a comedian told a (funny) joke at the Super Bowl, and everybody watching laughed at their joke.
+Cumulatively, how many pounds are lost due to laughter by everyone watching (including on TV)?
+24. How many transistors could fit in a square centimeter of circuit board in 1990?
+25. Right now (the time you are reading this!), in football fields, what is the area of the triangle formed by Eris, Pluto,
+and Ceres?
+26. If you had a meter long slab of diamond and you heated it up by 10 degrees Celsius from room temperature, how
+much would its length expand, in meters?
+27. How many Toyota Corollas could fit on Route 66?
+28. How much does all of the ketchup sold in the USA in 2019 weigh? (in kg.)
+29. How many people in the United States have the last name Smith?
+30. The Lamorghini Veneno is the most expensive Lamborghini sold new. How many of these could you buy with the
+GDP of Italy?
+31. Assuming one is sitting in Princeton NJ, how much faster is one moving around the center of the Milky Way than
+around the center of Earth?
+32. How many seconds passed between Enrico Fermi’s death and the establishment of Fermilab?
+33. An SR-71 Blackbird flying at top speed takes how many seconds to reach the Sun from Earth?
+34. How large, in square centimeters, is the combined area (one side) of the solar panel arrays on the International
+Space Station?
+35. Counting all agencies and the type of work (seasonal, full time, etc), how many people are employed by the *just*
+the federal government (not state, local) of the United States of America?
+36. Assuming he runs at his 100m-record average speed, how many parsecs can Usain Bolt run in 2023 years?
+7
+10
+20
+-9
+4
+8
+5
+7
+82
+9
+8
+5
+7
+-18
+3
+12
+8
+-5
+4
+2
+20
+0
+3
+6
+22
+-5
+6
+7
+6
+5
+3
+8
+4
+7
+6
+-5

@@ -1,0 +1,172 @@
+1. What was the population of Ghana in 1950?
+
+7
+
+2. How many books were sold in the U.S. in 2021?
+
+9
+
+3. How many photos are stored in the camera rolls of all iOS devices around the world?
+
+12
+
+4. How many flights by major U.S. carriers were canceled in 2021? TB5
+
+5
+
+5. How many gallons of water are used for showering in the United States each year?
+
+12
+
+6. How many motor vehicle crash deaths have there been in the last 5 years?
+
+5
+
+7. How many sheets of paper are used in US schools each year?
+
+10
+
+8. How many tons of food waste is generated in Singapore each year?
+
+
+6
+
+9. Assuming minimal light pollution, how many stars can you see in the night sky?
+
+4
+
+10. What is the ratio of the atmosphere’s mass to the Earth’s mass?
+
+-6
+
+11. How many days does it take oysters in the Chesapeake Bay to filter the entire water volume of the bay?
+
+2
+
+12. How many Mercurys could fit inside Jupiter?
+
+4
+
+13. What is the total weight, in pounds, of caribou in Alaska?
+
+7
+
+14. At top speed, how many times would a hummingbird’s wings beat while flying 30 miles? TB4
+
+5
+
+15. How many dogs are there in the world?
+
+8
+
+16. How many miles will an Arctic Tern fly in its lifetime?
+
+
+
+6
+
+17. In 2022, what was the underwear market revenue in the US in dollars?
+
+10
+
+18. What is the median lifetime earnings, in dollars, for an American?
+
+6
+
+19. In 2022, how many U.S. merger and acquisition transactions were valued at more than one billion dollars?
+
+2
+
+20. How much profit per year, in dollars, do the Fortune 500 companies make combined?
+
+9
+
+21. How many more smartphones were sold in 2021 than 2020?
+
+8
+
+22. In California, how many target stores are there per person? TB3
+
+-5
+
+23. In 2021, how many millionaires were there in Germany?
+
+6
+
+24. In 2021, what was the ratio of Cambodia’s GDP per capita to the U.S.’s GDP per capita?
+
+
+
+-2
+
+25. On average, how many kilowatt-hours will a residential solar panel produce per month?
+
+2
+
+26. How much energy, in joules, would it take to convert 10 grams of water to 10 grams of steam at 100
+degrees Celsius?
+
+4
+
+27. How many U.S. homes can an average wind turbine power?
+
+3
+
+28. How much energy, in joules, would it take to raise the atmosphere’s temperature by one-degree Celsius?
+TB2
+
+22
+
+29. How much energy, in kWh, does the average Canadian household use per year?
+
+4
+
+30. How many calories does your brain consume per day?
+
+2
+
+31. How much energy, in joules, would it take to bring an average person to 1% the speed of light?
+
+12
+
+32. Suppose we were able to capture all the sun’s energy reaching the Earth’s surface. What is the ratio of
+that energy to global energy consumption?
+
+4
+
+33. If Jerry flips a hundred fair coins, what is the percentage chance that at least 85 of the coins end up as
+heads?
+
+-11
+34. Jalal flips an unfair coin (heads 3
+
+10 of the time and tails 7
+
+10 of the time) 50 times and calls it an experiment.
+On average, how many experiments will Jalal have to conduct until he flips at least 48 tails? TB1
+
+5
+
+35. How many prime numbers are there that are less than 1,000,000?
+
+5
+
+36. How many elements are in the power set of set S, where S consists of the integers from 1 to 1000?
+
+301
+
+37. How many possible five-card hands can you deal with a standard 52-card deck?
+
+8
+
+38. If you rolled ten twenty-sided dice, what percent of the time would you roll a total of 18?
+
+-7
+
+39. What is the hundredth Fibonacci number? (Consider the first to be 0 and the second to be 1).
+
+20
+
+40. What is the volume of an icosahedron with side length 10,000?
+
+12

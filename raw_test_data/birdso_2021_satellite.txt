@@ -1,0 +1,242 @@
+1. (5 points) Calculate 10^100 − 10^99 − 10^98 − . . . − 10^1
+.
+
+100
+2. (5 points) How many unique tetrominoes are there? Tetrominoes are any arrangement of four squares on a grid
+such that all four are connected by edges. Rotationally symmetric (in the grid plane) pieces are only counted as
+one unique piece.
+1
+3. (5 points) How many bird species are there in North America?
+3
+4. (5 points) If you gained one dollar per mouse click, and you click at a continuous rate of the fastest click a
+human can achieve, how long in years would it take for you to reach Jeff Bezos’ net wealth?
+2
+5. (5 points) How tall are you, in millimeters?
+3
+6. (5 points) If each US citizen paid an equal amount to pay off the US national debt, how many dollars would
+each person have to pay?
+5
+7. (5 points) Ti-5Al-2.5Sn-ELI is a Titanium alloy composed of (in weight percentage) 5% Aluminum (Al), 2.5%
+Tin (Sn), and the base metal Titanium (Ti). How many cans of Arizona iced tea do you need to provide enough
+aluminum for a kilogram of Ti-5Al-2.5Sn-ELI?
+0
+8. (5 points) How many gallons of milk are sold in the US a year?
+11
+9. (5 points) What will the overall BirdSO Satellite B/C (not just Fermi Questions) winning team’s team number
+be?
+2
+
+10. (5 points) What will the winning team score for BirdSO Satellite B/C (not just Fermi Questions) be?
+
+2
+
+11. (5 points) What is the sum of the numbers from 1 to 105
+?
+
+10
+12. (5 points) How many cars were scrapped in the EU in 2019?
+
+7
+
+13. (5 points) What is 2× (the number of letters in the English alphabet)?
+
+2
+
+14. (5 points) The current world record single for the 3x3 Rubik’s Cube is 3.47 seconds by Yusheng Du. If he could
+continue solving at world record pace, how many times could he solve the Rubik’s Cube in one day?
+4
+
+15. (5 points) How many mitochondria are in the average adult human body?
+17
+
+16. (5 points) How many dollars worth of salmon does an adult female brown bear consume a year?
+
+4
+
+17. (5 points) The board game Monopoly includes a certain amount of money for the bank and a number of “Get
+Out of Jail Free” cards. Suppose the bank money is equivalent to real life money and each card is worth the
+median bail in California, how many Monopoly sets would you need to purchase the average home in Palo Alto
+in 2021?
+1
+
+18. (5 points) Assuming that the Emus won the Emu War with the minimum number of emus they needed to win
+and that the chances of the emus winning is proportional to human population, how many emus would there
+have to be worldwide in order to win an Emu War against all humans today?
+7
+
+19. (5 points) How much would it cost in USD to cover the average American house in 24 inches of fake snow?
+
+6
+
+20. (5 points) How many molecules of ATP are used in an average human in one day?
+26
+21. (5 points) The NBA trade deadline was pretty recent. What is the total value in Japanese Yen of all contracts
+traded on the trade deadline?
+10
+22. (5 points) How many Greek triremes could float on the Aegean Sea, packed as tightly as possible but not stacked
+on top of one another?
+9
+
+23. (5 points) How many times more money would you gain from sweeping gold medals in the Winter Olympics
+(and selling for the equivalent precious metal value) compared to sweeping gold medals at a 23 event Science
+Olympiad competition (and selling for the purchase value)?
+3
+
+24. (5 points) The winner of the 2013 MIT Mystery Hunt’s team name was the complete text of Atlas Shrugged.
+How many words long is that team’s name?
+6
+
+25. (5 points) How many times more energy is released due to the mass-energy equivalent of of glucose compared
+to the metabolism of glucose?
+10
+26. (5 points) How many characters are in the text of this test?
+
+4
+
+27. (5 points) What is the mass of all humans on Earth in daltons?
+39
+28. (5 points) How many ways are there to make change for a dollar?
+
+2
+
+29. (5 points) What is the worldwide coffee bean production, in picograms?
+25
+
+30. (5 points) How many gallons of water does it take to grow one almond?
+
+0
+
+31. (5 points) What is the difference in dollars between the amount of Skittles and the amount of Swedish Fish sold
+in the US in 2017?
+8
+
+32. (5 points) What percent of the world’s salt is used to de-ice American roads?
+
+1
+
+33. (5 points) How much power (in Watts) did the space shuttle consume?
+
+4
+
+34. (5 points) There are a total of 636 teams attending the 2022 BirdSO tournaments. Suppose geon, in their
+benevolence, decided to give away free T-Shirts to four teams. How many ways are there to randomly select
+those four winners?
+10
+35. (5 points) The mantis shrimp has sixteen color-receptive cones. One can assume that if they developed advanced
+technology, they would eventually create RGBESUCLYKNOZWJM LEDs (as opposed to our RGB LEDs). If
+each color can have an intensity level of 0 to 6, how many possible colors would there be?
+13
+36. (5 points) How many carbon atoms does an average size antigen contain?
+
+2
+
+37. (5 points) We are designing a space station that can mimic Earth’s gravity using centrifugal acceleration. Sup-
+pose the space station is a spinning torus with a diameter equal to the width of the ISS, what angular acceleration
+
+would be needed, in arcseconds per second?
+5
+
+38. (5 points) In Beauty and the Beast, Gaston famously ate 4 dozen eggs each day in his childhood (let’s assume
+until age 18), and then upon adulthood, he ate 5 dozen eggs each day. How many kilocalories worth of protein
+has Gaston eaten from eggs in his life so far? Gaston is canonically 25 years old.
+7
+
+39. (5 points) Minecraft Steve decides to rob a bank. He mines through the obsidian walls and fills his inventory
+(36 slots) with stacks (64 items per stack) of gold blocks (each block is 1 meter3
+
+). What equivalent USD value
+
+of gold did Steve escape with?
+12
+40. (5 points) How many meters would a strand of DNA be that could hold the entire data storage of the internet?
+14
+41. (5 points) Count the number of unique homeomorphically irreducible trees of size n=10.
+
+1
+
+42. (5 points) In case you weren’t aware, Donkey Kong’s Coconut Gun can fire in spurts. What the DK Rap didn’t
+tell you was that his Coconut Gun can also fire constantly, shooting coconuts about as quickly as a real-life
+machine gun. If Donkey Kong were to buy all the coconuts produced in the world in 2020, how many hours
+could he fire his coconut gun before running out of coconuts?
+6
+
+43. (5 points) How many attoparsecs are in a foot?
+
+1
+
+44. (5 points) Norway is the 118th most populous country in the world. What is the population of Norway?
+
+7
+
+45. (5 points) How many fish are there, on average, per meter cubed of water in the earths ocean?
+-6
+46. (5 points) DISCARD
+10
+47. (5 points) How many 2 liters bottles of Coke would you need to bottle such that the amount of CO2 in the Coke
+is equivalent to the amount of CO2 released from streaming everything on Netflix?
+4
+
+48. (5 points) Express Hubble’s constant (taken as 68 km/s/Mpc) in Planck units, given: 1 Planck Length =
+1.616255 × 10−35 m, 1 Planck Mass = 2.176434 × 10−8 kg, 1 Planck Time = 5.391247 × 10−44 s
+-61
+49. (5 points) How many prime numbers are there that are less than the number of kilometers that equal the
+diameter of the observable universe?
+22
+50. (5 points) The AIME has fifteen questions, each of which with an answer that is an integer from 000 to 999
+inclusive. If you guessed all the questions on the AIME, what is the probability that you get exactly 12 questions
+correct?
+-34
+51. (5 points) The median person has ten fingers and can easily press ten keys on a keyboard at once. They could
+even use their palms to press more keys. Suppose the median American woman (by weight) can somehow
+distribute their entire body mass to press keys. How many Anne Pro 2 60% keyboards with Gateron Brown
+switches could they press down at once?
+2
+
+52. (5 points) Compute 2^2^2^2^2
+.
+
+19728
+53. (5 points) Express Coulomb’s constant
+
+8.988 × 109 kg m^3
+/s^2 C^2
+
+using the units
+
+(picogram)(smoot)^2
+(miles)/
+
+(Planck time)(femtosecond)(exacoulomb)(yottacoulomb)
+
+-22
+54. (5 points) Calculate 2[6]2 (alternate formatting 2↑↑↑↑2) where [6] or ↑↑↑↑ represents hexation. Hexation is
+defined as iterated pentation, pentation is defined as iterated tetration, and tetration is defined as iterated
+exponentiation. (Exponentiation is iterated multiplication, and multiplication is iterated addition).
+0
+
+55. (5 points) In the video game Stardew Valley, one cup of coffee costs 300g (g is the in-game currency). Buying
+three coffees in the game allows you to cook a Triple-Shot Espresso, which sells for 450g. If you were to convert
+the United States’ yearly coffee consumption into Triple-Shot Espresso, how much g would you lose?
+13
+56. (5 points) How many buckminsterfullerene (buckyballs) can you create using all the carbon in the air inside a
+standard soccer ball?
+15
+57. (5 points) Convert 1 (tons4 × nanograms3 × parsecs2 × years) / (attoseconds2 × light year × pounds3 ×
+kilograms3
+) to newton-seconds (standard SI units)
+46
+58. (5 points) If I randomly shot a bullet horizontally at a 1 cm wide target 10 meters away every minute with my
+mouth wide open and pointed to the sky, and everytime I hit the target, a flying bird would poop somewhere on
+earth, and everytime I had bird poop land into my mouth, I would run a one mile loop, how many food calories
+would I burn purely from running in a galactic year?
+-5
+59. (5 points) If all of the energy from a type Ia supernova was pumped into the ice in Antarctica, what would be
+the final temperature of the ice?
+21
+60. (5 points) If a photon with a wavelength of Planck’s length were to collapse its mass-energy equivalent to a black
+hole, how long in seconds would it take for this black hole to evaporate due to Hawking radiation, given that
+the lifetime of a black hole with the mass of the sun is around 2E67 years, and that time taken to evaporate is
+inversely proportional to the mass3
+?
+
+-37

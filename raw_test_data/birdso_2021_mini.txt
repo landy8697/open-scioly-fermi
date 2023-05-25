@@ -1,0 +1,173 @@
+1. (5 points) Assuming notes actually get that high, what is the frequency of E300?
+Solution: 91
+2. (5 points) What would the minimum population of the United States be so that the GDP per capita would be
+below 1?
+Solution: 13
+3. (5 points) How many people would need to be in a room so that the probability 2 people randomly selected from
+the room share a birthday is at least 99.9999
+Solution: 2
+4. (5 points) How many characters are in this bizarre sentence?
+Solution: 1
+5. (5 points) How many keys are on the standard US keyboard layout?
+Solution: 2
+6. (5 points) How many times older is the first bird-line archosaurs compared to BirdSO?
+Solution: 8
+7. (5 points) How many atoms are in a human body?
+Solution: 28
+8. (5 points) What is the circumference of the sun in millimeters?
+Solution: 12
+9. (5 points) What is the mass of the moon in tons?
+Solution: 20
+10. (5 points) How many cows are in the world?
+Solution: 9
+11. (5 points) On average, how many feathers are on a pigeon?
+Solution: 4
+12. (5 points) In Iowa 2020, how many ears of corn were harvested per baby ear born?
+Solution: 6
+13. (5 points) What is the average frequency of light emitted by an American robin egg, in hertz?
+Solution: 15
+14. (5 points) How many creases are in a brown paper bag?
+Solution: 1
+15. (5 points) If each mango tree leaf was $1, how many bluefin tunas can you buy with one mango tree?
+Solution: 0
+16. (5 points) How many crows would actually be needed for a murder, that is, how many crows would it take so that
+their combined weight would crush a human being by breaking their bones?
+Solution: 3
+17. (5 points) How many direct airplane flights between Los Angeles (LAX) and New York City (JFK) could you take
+back and forth in the time since the end of the Mesozoic Era?
+Solution: 11
+18. (5 points) How many Quiz Bowl Tossups can someone read aloud in the time it takes a top-5 Super Mario Odyssey
+speedrunner to complete the game Any%?
+Solution: 2
+19. (5 points) Twister Feast starts a campaign called teamteas. If they are successful in their goal in dumping 40 million
+cups of tea into the world ocean, by what percent does the world ocean’s total volume increase?
+Solution: -12
+20. (5 points) Suppose that Starbucks buys out The Roost (Brewster’s coffee shop) in Animal Crossing: New Leaf. If
+one cup of coffee costs 200 Bells, how much money, in US dollars, does one need to pay to Tom Nook in order to
+completely expand their house?
+Solution: 5
+21. (5 points) How many characters are in the source code for the official YouTube video of “Never Gonna Give You
+Up”?
+Solution: 6
+22. (5 points) How many Olympic-sized swimming pools would you have to dig out of the ground in order to have a pile
+of dirt weighing the same as an adult blue whale?
+Solution: -2
+23. (5 points) I have a wall that is the size of Greenland. How many 2-gallon buckets of paint do I need to completely
+paint my wall?
+Solution: 10
+24. (5 points) How many hairs are on all the heads at a typical NFL game?
+Solution: 10
+25. (5 points) How many Amazon boxes could be made from all the trees in the Amazon rainforest?
+Solution: 14
+26. (5 points) What percentage of food produced worldwide are poultry and other products derived from domesticated
+birds?
+Solution: 0
+27. (5 points) Express the ideal gas constant in units of (volume of the Pacific Ocean)(pressure at the bottom of the
+Mariana Trench)/((Rankine)(mol))
+Solution: -25
+28. (5 points) How many traffic lights are there in the United States?
+Solution: 5
+29. (5 points) What is the worldwide sugar consumption in grams per year?
+Solution: 14
+30. (5 points) What is the tensile strength of Kevlar rope in Pascals?
+Solution: 9
+31. (5 points) How many unique ways are there to arrange 5 red, 5 blue, 5 green, and 5 yellow marbles?
+Solution: 10
+32. (5 points) In Squid Game, assuming the players cooperate, what is the probability of everyone dying on the game
+glass bridge? (16 players, 18 tiles)
+Solution: -3
+33. (5 points) How many atoms of Hydrogen do humans intake due to the consumption of Aspirin?
+Solution: 22
+34. (5 points) What is the temperature of the cosmic microwave background in degrees Delisle?
+Solution: 3
+35. (5 points) What is the volume of a Minecraft world in 1.18 in blocks?
+Solution: 18
+36. (5 points) Let “A” map to 1, “B” to 2, and so on, up to “Z” to 26. What is the expected product of 10 letters taken
+from any English text?
+Solution: 9
+37. (5 points) Take the current 3-6-3 cup stacking world record (1 stack of 6 cups and 2 stacks of 3 cups) as the speed
+at which 12 cups can be placed. Assuming you have to stack in a pyramid (each row down must have one additional
+cup), how long would it take to stack from Earth to the asteroid belt, in seconds?
+Solution: 23
+38. (5 points) How many times greater is the average separation of water molecules than the covalent bond within them?
+Solution: 0
+39. (5 points) What is the additional acceleration of Voyager 1 by shining a red laser pointer at it, in meters per second
+squared?
+Solution: -15
+40. (5 points) How many satellites are currently orbiting the Earth for every moon of Uranus?
+Solution: 3
+41. (5 points) How many sievert of radiation were in the 2002 production of bananas in Uganda?
+Solution: 3
+42. (5 points) How many grains of tapioca starch fit into the volume of one boba pearl?
+Solution: 8
+43. (5 points) Assuming constant area density of cells and a laboratory setting, what is the average speed of expansion
+of a 2 meter diameter flat circle of E. coli, in miles per Pentium 4 clock cycle?
+Solution: -17
+44. (5 points) Assuming a Bluetooth 4 connection, how many Airpod earbuds would you need to cover the entire Earth?
+Solution: 10
+45. (5 points) If we provide every bird in the world with a bird house, how many Congo rainforests would we need to
+chop down?
+Solution: -4
+46. (5 points) How many Dyck paths are there from (0, 0) to (420, 420)?
+A Dyck path from (0, 0) to (n, n) is a path in which the only legal moves are to move 1 unit right or 1 unit up and
+the path does not cross the main diagonal (the line y = x).
+Solution: 248
+47. (5 points) Compute 5^5^5 * 4^4^4 * 3^3^3 * 2^2^1 * 1^1^1
+
+Solution: 2352
+48. (5 points) Define a sequence of sums as follows: Snn + 2n
+2 + 3n
+3 + · · · + 21n
+21 =
+P21
+k=1 knk
+. Compute P20
+i=1 Si
+.
+
+Solution: 29
+49. What is the 100-volume in (beard seconds)^100 of a 100-dimensional hypersphere with radius 1 angstrom?
+Solution: -210
+50. (5 points) In thermodynamics, Boltzmann–Planck equation describes the relationship between entropy and the total
+number of microstates in the macrostate of an ideal gas. It is given as the equation: S = KB ln(W) where KB is the
+Boltzmann constant. (Boltzmann’s constant is also equivalent to the ideal gas constant / Avogadro’s constant)
+Let n = number of molecules present and e = total energy, where the energy of a molecule is at least 1.
+In a system where n = 2 and e = 4, W is found to be 3.
+Similarly, in a system where n = 4 and e = 8, W is found to be 35.
+
+Find the entropy of a system in J/K where n = 1024 and e = 2 × 1024
+Solution: 1
+51. (5 points) Take the density of the observable universe to be approximately 6 protons/m3
+
+. Find the radius of a
+Schwarzschild black hole such that the density of the black hole is the same as the density of the observable universe.
+Solution: 26
+52. (5 points) Given Information:
+1 Planck Temperature = 1.416784×1032 K 1 Planck Length = 1.616255×10−35 m 1 Planck Mass = 2.176434×10−8
+Kg 1 Planck Time = 5.391247 × 10−44 s
+The R-value is a measure of how well a 2-D barrier can resist the conductivity of heat. The SI units for R-value is
+Kelvin meters squared per Watt, where the units for Watts are kilogram meters squared per seconds cubed. Convert
+1 R-value to Planck R-value, where Planck R-value is the R-value expressed in Planck units.
+Solution: -90
+53. (5 points) DISCARD
+Solution: 1
+54. (5 points) Observe the previous problem. How many times more photons are released per second for a 1 billion solar
+mass Schwarzschild supermassive black hole compared to the 1 solar mass Schwarzschild black hole?
+Solution: -9
+55. (5 points) A 10 watt light emits only 10 micron photons. These photons all hit a polar bear. How many are reflected
+off the polar bear in one second?
+Solution: 19
+56. (5 points) How many of the smallest Nintendo DS game cards would you need to store one image displayed on the
+largest Times Square digital billboard?
+Solution: 1
+57. (5 points) Sandy sells seashells by the seashore. If she sells a seashell for every selenium atom in the Sargasso Sea
+in seventy seconds and each seashell scoops the sea and scares a squid, how many sverdrups of ink are secreted?
+Solution: 21
+58. (5 points) Wing loading is the total mass of an object divided by the area of its wing. Calculate the ratio of the
+wing loading of a Boeing 747 to that of a Monarch butterfly and multiply it by the ratio of the average flight speed
+of a Boeing 747 to that of a Monarch butterfly.
+Solution: 5
+59. (5 points) In the board game Risk, each of the six players receive armies that consist of infantry, cavalry, and artillery.
+Suppose each of them were their full size equivalent. If all infantry (from all six armies) were running, all cavalry
+were galloping, and all artillery fired a cannonball, what is the total kinetic energy, in eV?
+Solution: 26

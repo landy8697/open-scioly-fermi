@@ -1,0 +1,88 @@
+1. How many golf balls would it take to fill up all the tanks in the Atlanta Aquarium?
+2. What is the weight in nanograms of all the coffee beans that were consumed in 2022?
+3. DISCARD
+4. How many valid unique solved Sudoku puzzles exist?
+5. At what speed do I need to throw a basketball in meters per second from the surface of
+Mercury for it to escape Mercury’s atmosphere?
+6. How long would it take in seconds for an ant to diagonally cross a football field?
+7. With what force in Newtons should I throw an ostrich egg at a 45 degree angle if I want it to
+land 85 meters away?
+8. For how many days can a person survive on all of the oxygen produced by the Amazon
+rainforest in one minute?
+9. How many unique legal chess positions are possible after both sides have played 8 moves
+each?
+10. How many plastic bags need to be burnt to generate enough power to operate the Large
+Hadron Collider for a year?
+11. What is the value of the 5,000,000
+th
+term of the Fibonacci sequence?
+
+12. How many calories are there in a Pizza Hut Pepperoni pizza the size of a baseball field?
+13. How many dozens of glazed donuts can I buy from Dunkin Donuts in a year with the yearly
+salary of a US Senator?
+14. How long in minutes will it take a person to play Beethoven’s Fifth Symphony at each of
+London’s metro stations? (you do not need to account for travel time between stations)
+15. How many atoms are there in a basketball?
+16. What was the power in watts needed to run New York’s train system in 2021?
+17. How many meters on average did a person in Switzerland travel by train in 2021?
+
+18. If you randomly pick 5 distinct letters of the English alphabet (in a particular order) what is
+the probability that they form a word present in the Oxford Dictionary?
+19. How much memory in bytes does it take to store all the English books ever written in a PDF
+format?
+20. How many credit card transactions took place in the world in 2022?
+21. How many pennies need to be stacked to reach the height of the top of the Empire State
+Building?
+22. What is the average value of a credit card transaction in the United States in dollars?
+23. Tom has a chess board with 1 jellybean on the first square, 3 jellybeans on the second square,
+9 jellybeans on the third square and so on with the nth square having 3^(n-1)
+jellybeans on it. How
+
+many jellybeans does Tom have in total?
+24. How many people can the Eiffel Tower hold at maximum capacity?
+25. At what temperature in Kelvin does a forest fire burn?
+26. How many liters of sanitizer were consumed in 2021?
+27. How many cups of coffee are consumed in the United States every day?
+28. How many strands of hair are there on all the heads of people in the world?
+29. How many seconds of videos have been uploaded to YouTube in 2021?
+30. What is the value of the 1,000,000th term of the Catalan sequence?
+
+31. How many toothpicks are needed to completely cover the body of a blue whale?
+32. How many pounds of chicken are used every year by Chipotle?
+33. How much power in watts was needed to power UNC’s campus for the year 2021?
+34. How many unique types of bacteria exist in the small intestine of the average person?
+
+1. ____9____
+2. ____22____
+3. ____0____
+4. ____22____
+5. ____3____
+6. ____3____
+7. ____3____
+8. ____5____
+9. ____17____
+10. ____19____
+11. ____1,044,938____
+12. ____8____
+13. ____4____
+14. ____4____
+15. ____26____
+16. ____11____
+17. ____3____
+18. ____-3____
+19. ____13____
+20. ____11____
+21. ____5____
+22. ____2____
+23. ____31____
+24. ____4____
+25. ____3____
+26. ____5____
+27. ____8____
+28. ____15____
+29. ____8____
+30. ___903080_____
+31. ____9____
+32. ____8____
+33. ____10____
+34. ____5____
