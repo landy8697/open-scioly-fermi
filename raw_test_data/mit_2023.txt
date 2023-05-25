@@ -1,0 +1,155 @@
+
+
+1. What are you and your partner's combined heights, in mm?
+2. How many letters are in you and your partner's first and last name
+combined?
+3. What is your team number?
+
+4. How old are you, in minutes?
+5. What year was your mother born in?
+Andru: Rae, I think we're getting a bit too suspicious. Let's tone it back a
+bit for now.
+
+6. How many hairs are on your head? (For this question we're gonna assume
+you’re not bald)
+7. How many red blood cells are contained within your body?
+8. How many atoms are contained in your body?
+9. What is the surface area of your skin, in km2?
+10. How many digits do you have on your hand and feet?
+
+11. DISCARD
+
+
+12. How many cases of fraud and identity theft are there per year in the
+United States, as reported by the US Federal Trade Commission?
+
+
+
+13. Rae wants to gain access to your bank, but she forgot to ask which
+Commercial bank system that you utilize. If you utilize a FDIC-insured
+commercial bank and she hacks into a random FDIC-insured commercial bank, what
+is the probability that she hits a bank that includes your account?
+14. Rae also attempts to redirect your income into her account using your SSN.
+Assuming you make the median income, how many cents can Rae expect to be
+deposited into her account per year before taxes (because obviously a scammer
+would evade taxes)?
+
+
+15. Andru and Rae buy a ton (unit) of average store brought pineapples. How
+many pineapples did they buy?
+16. Pine... Apples... How many times more would a 50 foot tall pine tree weigh
+compared to an apple?
+
+17. It's pretty dang hard to get caught for tax evasion. By IRS estimates,
+what percentage of people that evade taxes in some form get caught and
+convicted for doing so?
+
+18. How many individuals are incarcerated in prison at any given point in the
+US?
+19. What is the annual cost in USD of incarcerating one person for one year in
+NYC?
+20. For the crimes committed (fraud and tax evasion), how long could Rae and
+Andru be sentenced for, in decades? (assume sentences would be concurrent, and
+they are sentenced to the upper limit of federal guidelines).
+
+21. How much would a cubic meter of dirt weigh, in milligrams?
+22. Let's see how realistic it would be to break out. How many prisoners break
+out of State or Federal prisons each year?
+
+
+23. How many gallons of air are breathed in with one breath at rest?
+24. Ah yes, the duo finally touched grass for the first time in months... How
+many grass blades are in contact with one foot stepping on grass?
+25. Andru and Rae decide to leave and go make a new life for themselves. They
+decide on going to Paris, France. How far in gigameters would they need to
+travel from NYC to reach their final destination?
+
+
+26. How many ways are there to make change for a dollar (Quarters, dimes,
+nickels, pennies)?
+27. 4329
+28. Given: log(e) = .4342944. Calculate 10,000!
+29. What is the 250th fibonacci number divided by the 50th fibonacci number?
+30. 10^(10^(10^(10^-100)))
+
+31. How many cans of SpaghettiOs does it take to have enough letters to
+rewrite the entire Lord of the Rings trilogy?
+32. If I can read a book a day, how many picoseconds would it take for me to
+read every book that has ever been published?
+33. How many languages are currently spoken in the world?
+34. If you guess the same valid Wordle word every single day (assuming all
+valid words occur in equal frequency and can repeat), how many centuries would
+it take until you have a >50% chance of getting a Wordle in one?
+35. How many letters are utilized by this very quirky sentence?
+History! Or uh kinda history related...
+36. How long, in light-feet, has the earth existed for?
+37. How large is the surface area of the United States in Barns (unit, not
+building)?
+38. In the duration of the Black Plague pandemic, how many humans died per
+year globally?
+
+39. The cubit is the first known unit of length used by ancient humans, while
+the Planck units were very recent, first originating in 1899. How many Planck
+lengths long is one typical cubit?
+40. How many years ago did Homo sapiens originate?
+And obviously the most important subject: Science!
+41. (Biology) How many molecules of ATP are used by an average adult over the
+period of a fortnight?
+42. (Chemistry): How many possible isomers are there of the molecule
+Tetracontane (molecular formula: C40H82)?
+43. (Physics): If earth is replaced by an equivalent mass of swiss cheese,
+what is the new acceleration due to gravity (g)?
+44. (Astronomy/Chemistry): If all of the energy from a type Ia supernova was
+pumped into the ice in Antarctica, what would be the final temperature of the
+ice in Kelvin?
+45. (Environmental Science): How many milligrams of nitrogen are biologically
+fixed every year?
+46. Pick a integer between 1-300. The answer to this question will be the
+product of all valid responses for this question from all teams.
+47. Pick another integer between 1-300. The answer to this question will be
+the sum of all valid responses for this question from all teams.
+48. Pick any non-negative integer. The answer to this question will be the
+median of all valid responses for this question from all teams.
+49. Between the last three questions, how many total teams received full
+points on at least one of the questions?
+50. DISCARD
+51. Let's start with some unit conversions. Not too bad right? An Henry
+(units) is a measurement of electrical inductance with SI units of
+(kg)(m)^2(s)^-2(A)^-2. Convert one Henry to units of (solar masses)(astronomical
+units)^2(years)^-2(nanoamperes)^-2
+52. At the time of writing this question, it's almost Christmas, which means
+gift wrapping! If I take a point and continue to wrap layers of .1 mm thick
+wrapping paper around, how many layers would be needed for the layered
+wrapping papers to collapse into a black hole? Presume perfect wrapping and
+that any resulting sphere has the density of wrapping paper.
+53. What is primorial(30)? A primorial is when for the nth prime number, the
+primorial is defined as the product of the first n primes.
+54. Peter Piper picked a peta-pound of palatable pineapples. If Peter Piper
+places a pair of pennies per pico-pineapple picked perfectly planar what
+percent of Peru (by surface area) can Peter Piper pack?
+55. Humans beings give off heat emitted as infrared radiation with a
+wavelength of around 1 mm. How many centuries would it take for all current
+humans (assume they are at rest) in the world to emit as many photons as there
+are atoms on earth?
+56. How fast does a point one femto-chain away expand in giga-fathom per
+nanocentury due to the expansion of the universe?
+57. The probability of winning the Powerball lotto is 1/292,201,338 per play.
+How many dollars would you have to spend to buy enough tickets so that you are
+more likely to have won the powerball 10 times in a row than to not have won
+10 times in a row?
+58. Bitcoin mining can get quite energy intensive. In his quest to mine
+bitcoins, Aidan has come up with a brilliant idea: he develops the Potential
+Energy Collecting Setup (PECS) that can collect gravitational potential energy
+of a falling object and transform 100% of that energy into mining bitcoins. If
+Aidan places PECS in his room and jumps up and down, where PECS collects
+Aidan's gravitational potential energy at each peak of his jump, how many
+times must Aidan jump to mine one Bitcoin?
+
+59. You have a spherical mass of gold of the maximum size such that Aidan from
+the previous problem can jump into orbit (achieve escape velocity). If Aidan
+were to melt down this mass of gold and sell it, how much money in USD could
+Aidan theoretically make?
+60. They say to shoot for the moon and if you miss you'll land among the
+stars. If you randomly shoot a ray in any direction, how many times more
+likely are you to hit the moon as compared to hitting any star visible by the
+naked eye?

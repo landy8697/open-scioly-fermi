@@ -1,0 +1,226 @@
+1. Assuming the US average, how many grams of food will be wasted today
+by all Science Olympiad competitors?
+
+2. If all competitors chose to work a Massachusetts minimum wage job
+instead of competing in this tournament (8 hour work day), how many
+Bitcoins could you make instead (1 Bitcoin ~ $13200 at time of writing)?
+
+3. During the course of this event, how many tons of carbon dioxide will you
+have emitted by breathing?
+
+4. About 2*10^38
+
+neutrinos are created in the Sun every second. Assuming
+they radiate out of the Sun uniformly, how many solar neutrinos will go
+through you during this event?
+
+5. If all Fermi competitors chewed gum during their block, how much energy,
+in Btu (British thermal units), would be collectively spent doing so?
+
+6. During the course of this event, how much less will a dollar be worth due
+to inflation (in dollars)? Assume a linear decrease in value.
+
+7. How many times will your heart beat during the course of this event?
+
+8. Assuming the US average, how many seconds will all competitors
+collectively spend on their phones today?
+
+9. Assuming 1 byte is needed per character to store this test digitally, how
+many bits are needed for the whole test? Assume only text counts towards
+this, aka the XKCD in front counts as 0 bits.
+
+10. How many dead skin cells will have been shed by Fermi competitors in
+this room today (gross)?
+
+11. How many births worldwide will there have been during this event?
+
+6
+
+1
+
+-5
+
+18
+
+4
+
+-6
+
+3
+
+7
+
+5
+
+8
+
+4
+
+
+12. How many trees (or fractions of trees) have been cut down to produce all
+the paper needed for tests in this event?
+
+13. Assume the Earth is made entirely of water. How many seconds would it
+take for the Sun to increase the Earth’s temperature by 1oC? Assume 100% of
+the input energy is used to heat up the Earth (no loss in energy to reflection,
+atmospheric effects, etc).
+
+14. How many iPhone X’s could we power with this amount of energy?
+
+15. Compared to all humans who have ever existed, what fraction of them are
+competing in today’s tournament?
+
+16. If we wanted to power all MIT buildings using just AAA batteries today,
+how many would we need?
+
+17. We want to be really energetic for our tests, so to get maximum value we
+decide to eat uranium instead of food for energy. How much more
+energy-dense is uranium than carbohydrates per kilogram (fission of uranium
+vs. combustion of carbohydrates)?
+
+18. Assuming an average distance of 1 foot between your center of mass and
+this test, what is the gravitational force between you in Newtons?
+
+19. During the course of this event, how much money will Google have
+made?
+
+20. Suppose you eat pizza today for lunch. If you put the equivalent of one
+Jalapeño pepper’s worth of red pepper on your pizza, how many pizzas would
+you need to consume to eat one Carolina Reaper’s worth of Scoville units?
+Assume Scoville units are additive.
+
+21. During the course of this event, how much energy could one typical solar
+panel produce in Joules? Assume these are photovoltaic, 65” x 39”, and are
+the ones typically used for powering homes.
+
+-3
+
+10
+
+23
+
+-8
+
+11
+
+6
+
+-9
+
+7
+
+2
+
+6
+
+
+22. During the course of this event, how many neural spikes will you have
+had, assuming high brain activity?
+
+23. Suppose we can fit at most 72 teams at MIT due to its surface area. How
+many teams could the Pacific Ocean fit, surface-area wise?
+
+24. How many dollar bills would it take to fill the Great Dome of MIT?
+Assume the walls are thin and the inside completely hollow, and that the
+dome is a perfect hemisphere. Ignore any packing effects.
+
+25. How far will the Jakobshavn Isbrae, the fastest glacier in the world, travel
+during the course of this event in millimeters?
+
+26. Assume each competitor spends 1 hour today scrolling through Facebook
+on their phone. Assuming about 1 post per screen size, a 5” screen
+(vertically), and about 5 seconds per post, how many miles of Facebook will
+competitors collectively scroll through?
+
+27. If all competitors put a three minute song on Spotify and play it
+continuously 24 hrs today, how much money would we make in dollars?
+
+28. What percent of the annual US cotton production goes into making MIT
+Science Olympiad shirts? Assume we make one for each competitor, and that
+shirts are 100% cotton.
+
+29. Time for some major 2017 events. The neutron star collision detected by
+LIGO produced about 200 Earth masses of gold. Assuming 1 kg of gold is
+worth $1200, how many times greater value did this produce than the current
+US national debt?
+
+30. The US was hit by three major hurricanes in 2017 - Harvey, Irma, and
+Maria. In dollars, what is the estimated total damage from these hurricanes?
+
+31. President Donald Trump’s inauguration was exactly a year ago today -
+how many people actually showed up?
+
+14
+
+10
+
+10
+
+3
+
+2
+
+3
+
+-6
+
+17
+
+11
+
+6
+
+32. On September 3, North Korea tested their largest nuclear weapon yet.
+Assuming the highest energy estimate, how many Joules of energy did this
+explosion release?
+
+33. One of the biggest controversies of 2017 was the active involvement of
+Russia in sabotaging the U.S. election. How much more money (aka a factor)
+was spent by Hillary Clinton and Donald Trump on Facebook advertisements
+compared to Russian troll farms?
+
+34. The Cassini probe entered Saturn’s orbit on July 4, 2004, and remained
+there until the mission end on September 15, 2017. How many seconds was it
+in Saturn’s orbit?
+
+35. The Keystone pipeline released 210,000 gallons of oil into South Dakota -
+how much energy was wasted, in Joules?
+
+36. The “Great American Eclipse” occurred on August 21, 2017 and the next
+such total eclipse across North America will occur on April 8, 2024. How
+many U.S. quarters will we need to stack to match the distance the Earth
+travels in its orbit during this time?
+
+37. The Paradise Papers have revealed that many companies actively attempt
+to avoid paying US taxes. How much money does the US government lose to
+tax cheats a year, in dollars?
+
+38. The Wanna Cry exploit was the biggest ransomware attack in history,
+affecting as many as 150 countries, and was based on a Windows exploit.
+Assuming there is a possible exploit per 100 lines of code in Windows, how
+many exploits are possible?
+
+39. On a much lighter note, Pokemon released its 27th and 28th games in its
+core series, Ultra Sun and Ultra Moon. Not including these two, how many
+total copies of the core games have been sold so far?
+
+40. Now that you’ve finished taking it, on a scale of 5-49, how difficult did
+you think this test was?
+
+15
+
+3
+
+8
+
+13
+
+15
+
+11
+
+6
+
+8
+
+1
