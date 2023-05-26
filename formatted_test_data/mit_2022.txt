@@ -1,0 +1,92 @@
+MIT Invitational 21-22
+45
+If you’re taking this test as part SciOly, you should know that you’re part of one of the greatest communities in high school. This section will try to serve as a testament to this fact. How many secondary school students compete in Science Olympiad across the US?
+5
+If you haven’t checked it out already, the SciOly.org forum is a pretty cool place to go and meet people. How many total posts are there on the SciOly.org forum?
+5
+One of the most exciting prospects of competing is being able to go to Nationals. How many total miles were travelled by Div C teams to the 2015 National Tournament in Lincoln, NE?
+5
+But even after you graduate, the Science Olympiad community will follow you around, to college and beyond. How many alumni of SciOly are there?
+6
+You may even one day be part of running a competition yourself! How much Google Drive space has MIT Science Olympiad used over the years since its inception in zettabytes?
+-11
+Your friend, YuQing, ixs a particle physics boi who works at the Large Hadron Collider. How many times do accelerating particles travel around the circumference of the LHC every fortnight?
+10
+Often at the LHC, employees will engage in the simple pleasure of watching YouTube during break time. How many views does the first video on YouTube have?
+8
+After engaging in the stimulating thinking experiments about particle physics, let’s instead talk about Large Happy Cows. What is the Big Mac Index of four-years of MIT tuition?
+4
+Contrary to popular opinion, you only like to eat spicy things, so you decide to try a spicy Big Mac. How spicy, in Scoville units, is the spiciest Big Mac in the world?
+7
+Now that you’ve eaten such a powerful Big Mac, you are feeling a bit queasy. How many molecules of methane are released into the atmosphere each year due to cow manure?
+34
+Man, climate change sucks! New studies have shown that the Arctic may be ice-free by 2035, fifteen years earlier than the previous estimate of Calculate how much the global sea level would rise in centimeters should all the ice in the Arctic melt.
+0
+Speaking of the oceans, did you know that there are actually a ton of viruses just chilling on the surface of seawater? (well I guess they aren’t chilling because of climate change and increasing ocean temperatures... but whatever!). How many viruses would you expect to find within a cubic meter of surface seawater?
+13
+You already knew this one was coming. How many total coronavirus vaccines have been given to people around the world since the start of the pandemic?
+10
+Onto quarantine activities! My friend Kristina really likes to read: how many books have been bought since the start of the pandemic in 2020?
+8
+Another popular quarantine activity was baking. My friend Tian really likes to bake banana bread: how many grains (unit) of bananas were produced in the Philippines in 2020?
+14
+Yet another popular quarantine activity was breathing. My friend Allen Ding really loves to breathe: how many nitrogen atoms does a human inhale in the average breath?
+22
+In The Lorax, Aloysius O’Hare tries to sell bottled air to the public, making us very glad that plants are here to bring us free oxygen. How many trees are there in the world?
+12
+Reminiscing about your childhood, now you want to watch a movie. Turns out, a lot of Americans share the same sentiment. How much is the American film industry worth as of 2020 in Indonesian rupiahs?
+15
+Apparently a significant part of my ”childhood” consisted of studying for Fermi exams on Quizlet... how many Quizlet sets have been made in the history of the site?
+9
+In a fitting end to a miscellaneous trivia section, you’ve probably heard that the canonical Fermi Question is ”how many piano tuners are there in Chicago,” but I’m curious: how many piano tuners are there in the entire world?
+4
+The year is 2025, and you are preparing to become a new MIT tour guide. However, nerdy students often ask many difficult questions about MIT, so as part of your training, you must learn to handle whatever may be thrown at you. How many iPhone 12 Pro Max’s could fit inside the Great Dome of MIT?
+9
+History is a very important part of a school’s legacy! A curious student, Anne-Marie Xu, is very interested in her networking prospects should she come to MIT, and asks you how many alumni does MIT have?
+5
+Anne-Marie is satisfied with your answer. She wonders just how successful these alumni are. What is the combined GDP of all businesses started by MIT graduates (2013)? (Hint: it is comparable to the 10th largest GDP country in the world).
+12
+Enough about money! After all, an MIT education should not be sought after for the money – there’s a lot of cool science going on too! How many researchers, including post-doctoral students, worked with MIT during Fall 2020?
+4
+Recently in attempts to advance towards a sustainable fusion reactor, MIT Plasma Science and Fusion Center (PSFC) developed a 20 T superconducting magnet with the goal of maintaining a magnetic field strong enough to contain plasma the temperature of the Sun[1] . In comparison to the Earth’s magnetic field, how many times stronger is this new superconducting magnet?
+6
+Another curious high schooler, Beter Barker, who just happened to be bitten by a radioactive spider, is interested in how fast he can swing across campus. Given that his swing is purely dependent on acceleration due to gravity, how many femtoseconds would it take Beter Barker to swing across the Infinite Corridor? Assume that velocity remains constant and at its maximal value and that Beter is 5’7 and begins his swings at shoulder height.
+16
+Beter is also interested in joining science-related clubs at MIT. Marveling at the prospect of joining MIT SciOly, he innocently asks What is the cumulative total score of all teams that have ever competed at MIT Science Olympiad Invitational tournaments (including no-shows)?
+6
+One of the greatest worries in the daily life of an MIT student is to be hit by a car while crossing Mass Ave on the way to class. We are here to see just how much of a concern this really is! Given that each person living in Boston has an equal chance of getting in a car accident and struck by lightning in the next year, how many times more likely are you to be struck by lightning in your lifetime than to die as a pedestrian being hit by a car in your four years at MIT?
+0
+On November 8th, 2021, MIT students around campus awoke to a special surprise: to com- memorate a hack from seventy years ago, seventy poles around MIT were turned into barbershop poles using red, white, and blue ribbon. If all such poles were as tall as those seen in Lobby 7, how many square feet of ribbon would this have taken?
+5
+A popular destination among students of MIT is the campus’s famed Banana Lounge, where boxes upon boxes of bananas are made available for free to all students 24/ How many bananas were purchased for the banana lounge during the Fall 2018 semester?
+4
+You have been selected to try out for an estimation game show, GalaxyBrain. This show will consist of three rounds, each with one question, with the first round offering you a hefty prize of $250,000 and each round thereafter being double-or-nothing. However, the host of GalaxyBrain, a prominent individual named Haphne Dao, has sent you a challenging mathematics question to be completed as a pre-requisite. The question reads: how many primes are there that are less than 6^350?
+270
+Sometimes life is unfair... despite you solving the question correctly, Haphne Dao insists that you can only participate on the show if you flip an unfair coin that comes up heads 3/7 of the time fifty times and get exactly 25 heads. What is the probability of this happening?
+-1
+You get lucky and land exactly 25 heads! You’ve made it onto the show. For the first question, Haphne asks you to estimate the 127th Fibonacci number.
+26
+With some money secured through that first round, you move on to the second round, which features a diagram of a 5x5 square. How many ways are there to place the numbers 1-25 into this square such that every row and column is increasing?
+9
+(Tiebreaker) You’ve moved on to the final round with a chance to win a million dollars. How- ever, if you get it wrong, you will lose all of your earnings up to now... what will you do? Compute 49^2^10^−2 .
+2
+While writing this exam, I am currently listening to some nice lofi hip hop radio - beats to relax/study to. Lo-Fi Girl on YouTube seems to be expending a lot of energy since her desk lamp is on 24/.. How many jiffies (unit) will a standard 1600-lumen lightbulb stay on for after capturing the energy released in one minute by the Sun that hits a square-meter of Earth at noon at the equator at summer equinox?
+13
+I will fight you on this, but Christopher Nolan films are absolutely fire. In Interstellar, scientists observe a disturbance in space-time within the orbit of Saturn and decide to send a crew to explore it, to which they found a completely new star system. Although we are not close to sending people out that far, we have at least made some progress! How many meters away from Earth is the Voyager II spacecraft?
+13
+In Up, Carl uses a bunch of balloons to lift his house up off of the ground. I often wonder how feasible this is, because my dorm is inconveniently far away from main campus. How many helium- filled balloons would it take to lift the weight of an average house off of the ground?
+7
+You’re doing great so far on this exam! What a star! Assuming that humans are perfect blackbodies, what is our peak wavelength of emission in nanometers?
+4
+I’m getting pretty tired writing this test though, and it really feels like my bed is calling me. What is the gravitational attraction between me and my bed while I am sitting at my desk?
+-8
+Sometimes when I sleep, I’m really good at sleeping through my alarms. Assuming that my alarm is a 50W speaker and that I sleep five meters away from it, what is the amount of energy in kJ that my eardrum absorbs per minute if the surface area of my ear is 80 mm2?
+-6
+If you can’t already tell from this exam, I’m really good at spacing out. That’s my crappy transition into writing a question about space. How many kJ of energy has been produced in all of the supernovas that have thus far been recorded?
+46
+A very cool remnant of a supernova that occurred near us is Sagittarius A*. Assuming perfect efficiency, how much energy would be produced from the entirety of the mass contained in Sag A*?
+53
+Approximately this amount of energy will be released through Hawking Radiation across a very, very long time. How many years will it take for Sag A* to completely evaporate?
+87
+Now that’s a lot of energy! In America, we also use a lot of energy. How many pounds (lbs) of wood need to be burned per year in order to sustain the yearly energy consumption of America?
+7

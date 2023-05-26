@@ -1,3 +1,7 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_QUESTION_NUMBER
+
+
 1. During the 2019 Super Bowl, how many seconds were spent by consumers watching
 Super Bowl ads on YouTube?
 2. Since the beginning of the American Music Awards, of all of the “Artist of the Year”

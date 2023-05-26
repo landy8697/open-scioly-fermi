@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
 1. Assuming the US average, how many grams of food will be wasted today
 by all Science Olympiad competitors?
 

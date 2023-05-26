@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_QUESTION_NUMBER
+
 1. Muons that hit you every minute? ____
 2. Farmers in the United States in 2022? ____
 3. Time in seconds until your partner processes your whisper? ____
@@ -7,7 +10,7 @@
 7. Speed of light, in carbon radii per dog year? ____
 8. Species of roses in the United States? ____
 9. African elephants that could fit in Atheron? ____
-10.Tinba Trojan horses on 4GB thumb drives that could fit in the original Trojan
+10. Tinba Trojan horses on 4GB thumb drives that could fit in the original Trojan
 horse? ____
 
 11. Dollars raised by Harvard affiliates in 2021 from venture or growth investors?
@@ -20,7 +23,7 @@ horse? ____
 18. Number of Google Searches per second? ____
 19. Time in seconds it takes to start watching Netflix after clicking play when not
 downloaded? ____
-20.Time in seconds for your phone to turn off after clicking the power button? ____
+20. Time in seconds for your phone to turn off after clicking the power button? ____
 
 21. Carats of diamonds mined every day in Kimberly in 1900? ____
 
@@ -34,7 +37,7 @@ ____
 28. Federalist papers written by Alexander Hamilton? ____
 29. Number of times Adam Smith uses the term “invisible hand” in “The Wealth of
 Nations”? ____
-30.Number of British subjects when Hitler invaded the Rhineland? ____
+30. Number of British subjects when Hitler invaded the Rhineland? ____
 
 31. Hectares to cover the city of Paris in the year the Sun King left? ____
 32. Carrier pigeons sent to other cities during Paris’s siege in the Franco-Prussian
@@ -46,7 +49,7 @@ war? ____
 37. Baguettes eaten daily in France? ____
 38. Length in days of the German invasion of France in World War II? ____
 39. Number of mirrors stolen from Venice in Versailles’s Hall of Mirrors? ____
-40.Candles that lit the room where the Treaty of Versailles was signed? ____
+40. Candles that lit the room where the Treaty of Versailles was signed? ____
 
 
 1. 4

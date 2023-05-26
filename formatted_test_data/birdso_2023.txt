@@ -1,0 +1,112 @@
+BirdSO In-Person Invitational 22-23
+55
+What is the mass of the sun, in solar masses?
+6
+How many millimeters are in a kilometer?
+6
+How many seconds are in a decade?
+8
+What is the temperature of this room in Kelvin?
+2
+What is 212?
+3
+How many bird species have been recorded in California?
+3
+How many Science Olympiad teams compete around the nation?
+4
+If I have a metric ton of hundred dollar bills, how many cents is that equivalent to?
+8
+How many moles of glucose are contained within 1 gram of glucose?
+-2
+What is the pressure at the bottom of the Mariana Trench in mmHg?
+6
+How many joules of kinetic energy are imparted upon a baseball upon release when thrown by an MLB pitcher?
+2
+What is the frequency of earth's rotation in Hertz?
+-5
+What is the force in Newtons exerted on the ground by the weight of an average human adult?
+3
+A theoretical star 1 parsec away would display a parallax of how many degrees?
+-4
+How many watts of energy are given off by an average human adult in the form of infrared radiation?
+2
+One coulomb contains how many elementary charges?
+19
+What is the average fuel efficiency of a petrol car in units of m/m^-3 (meters per cubic meter of fuel)?
+7
+What is the mass of the planet Jupiter in micrograms?
+36
+How many unique Pokémon National Pokédex entries are there?
+3
+Assume the moon has sustained a constant orbital period around earth since the moon was initially formed. How many times has the moon orbited around earth?
+11
+How many ergs are contained within one kW⋅h?
+13
+How many grams of caffeine would it take to kill off the entire human population based on LD50?
+11
+What is C(100, 50) or 100 choose 50?
+29
+What is 41124?
+500
+How many pounds of cow milk are produced for human consumption in the United States every year?
+11
+RuBisCO is thought to be the most common protein in nature. How many grams of RuBisCO are thought to be in the biosphere?
+15
+How many ants are thought to be living at any given point?
+16
+What is the probability that you will be struck by lightning twice this year and survive?
+-12
+How many times bigger is the largest country in the world by surface area compared to the 100th largest country in the world?
+2
+How many cubic parsecs of rain fall over earth as precipitation each year?
+-35
+How many astronomical units away is Andromeda galaxy?
+11
+How many fun-sized milky ways (candy) by volume can fit into the Milky Way (galaxy)?
+65
+How many structural isomers are there of Triacontane (C30H62)?
+9
+In honor of Argentina winning the world cup, let's ask a question about Argentina. What is the total GDP of Argentina in Argentine Pesos?
+14
+What is the volumetric flow rate of the Nile river in Sverdrups?
+-3
+If you laid out all the navigable roadways in the United States in a straight line and walked at an average pace, how many seconds would it take for you to walk from beginning to end?
+9
+How many molecules are contained within Earth's atmosphere?
+44
+How many times more individual bacteria are there on earth as compared to fish?
+18
+How many flowers does a beehive need to visit to produce one pound of honey?
+6
+How many leopard geckos are owned as pets in the United States?
+6
+How many poronkusema are in one siriometer? Hint: The poronkusema is a Finnish unit of distance related to reindeers.
+13
+How many outhouses (unit) are in a square yoctoparsec?
+19
+How many svedbergs are in one galactic year?
+29
+How many Planck energies are contained within one foe?
+35
+Express the gravitational constant in units of Rod3 ⋅Slug−1 ⋅Fortnight−2
+1
+A sequence goes 1,1,1,4,27,.. Find the 16th term of this sequence.
+1699
+If every question on this exam has an answer between -100 and 100 inclusive (not a true statement), and you guessed every answer randomly, what is the probability that you get a full score (300/300)?
+-138
+Based on the previous question, if you randomly placed a guess between -98 and 98 for every question, what is the probability that you receive either partial or full credit on every question?
+-96
+Now if you randomly guessed every question what is the probability that you will receive full credit on 20 questions and no credit on any of the other questions?
+-31
+What is (1000!)100?
+256760
+What is the mass in kilograms of Sagittarius A*, the supermassive black hole at the center of the Milky Way galaxy?
+37
+If you have a 1 solar mass black hole, what is the corresponding Schwarzschild radius in meters?
+3
+If you have the same 1 solar mass black hole, what is the lifetime of the black hole in seconds before it dissipates fully due to Hawking Radiation? Presume there is never any mass input into the black hole.
+74
+[Question 53] If you have the same 1 solar mass black hole, what is the lifetime of the black hole in seconds before it dissipates fully due to Hawking Radiation? Presume there is never any mass input into the black hole. \nWith your answer from the previous question, estimate the nominal luminosity in watts of the black hole. You can assume the luminosity of the black hole remains constant throughout its lifespan although in actuality it will increase as the black hole decays.
+-28
+As King Midas might know, too much gold is not always a good thing. If you have a sphere of pure gold, how much would the sphere be worth ignoring deflation in USD at the point just where all of the gold is no longer retrievable? (The sphere is a black hole with the density of gold).
+42

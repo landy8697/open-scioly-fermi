@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
 1. How many hydrogen atoms can fit inside of a gallon bottle?
 
 2. In miles, how many NERDS ropes would it take to wrap around Mars?
@@ -16,90 +19,89 @@
 
 9. How many needles are on an acre's worth of Christmas trees on a Christmas tree farm?
 
-10.How many mini Milky Way chocolate bars does it take to cross the Milky Way?
+10. How many mini Milky Way chocolate bars does it take to cross the Milky Way?
 
 11. How many anteater tongues would it take to make up the border of Staten Island?
 
-12.What is the ratio of the speed of light to the speed of Usain Bolt?
+12. What is the ratio of the speed of light to the speed of Usain Bolt?
 
-13.How many Drake’s would it take to fill the Nile River?
+13. How many Drake’s would it take to fill the Nile River?
 
-14.How many seconds will it take Micheal Phelps to cross the English Channel?
+14. How many seconds will it take Micheal Phelps to cross the English Channel?
 
-15.How many galaxies are in the Milky Way?
+15. How many galaxies are in the Milky Way?
 
-16.How many steps would it take to walk the Autobahn in Germany?
+16. How many steps would it take to walk the Autobahn in Germany?
 
-17.How many hours did it take to write this test?
+17. How many hours did it take to write this test?
 
-18.How many students are enrolled in the North Pocono School District?
+18. How many students are enrolled in the North Pocono School District?
 
-19.How many milliseconds are in a year?
+19. How many milliseconds are in a year?
 
-20. 29
-6
+20. 29^6
 
-21.How many hours would it take to travel one hour in a school zone on a manual scooter?
+21. How many hours would it take to travel one hour in a school zone on a manual scooter?
 
-22.How high can you jump on a pogo stick in grains of rice?
+22. How high can you jump on a pogo stick in grains of rice?
 
-23.How many nanoseconds long is the song “Hey There Delilah”?
+23. How many nanoseconds long is the song “Hey There Delilah”?
 
-24.The amount of medals that are given out today will equate to how many micrograms?
+24. The amount of medals that are given out today will equate to how many micrograms?
 
-25.How many grams of protein are in a food palette full of one dozen egg cartons?
+25. How many grams of protein are in a food palette full of one dozen egg cartons?
 
-26.How many students got accepted into college and university in America in 2022?
+26. How many students got accepted into college and university in America in 2022?
 
-27.How many hours would it take to walk across Pennsylvania (north to south)?
+27. How many hours would it take to walk across Pennsylvania (north to south)?
 
-28.How many atoms of oxygen are sealed in a typical bag of Lay’s potato chips?
+28. How many atoms of oxygen are sealed in a typical bag of Lay’s potato chips?
 
-29.How long would it take you, in seconds, to recite the entire The Lego Movie 2: The Second Part
+29. How long would it take you, in seconds, to recite the entire The Lego Movie 2: The Second Part
 
 script if you are reading at the pace of a first grade student?
 
-30.How many videos are posted on YouTube in the time it took to make this test?
+30. How many videos are posted on YouTube in the time it took to make this test?
 
-31.How about YouTube videos are posted in a day?
+31. How about YouTube videos are posted in a day?
 
-32.How many YouTube videos are on the site as a whole?
+32. How many YouTube videos are on the site as a whole?
 
-33.How many seconds long is the entire Shrek saga?
+33. How many seconds long is the entire Shrek saga?
 
 34. 20log10
 
-35.How many pounds of trash is Mr. Beast responsible for removing from the ocean?
+35. How many pounds of trash is Mr. Beast responsible for removing from the ocean?
 
-36.How about the number of trees Mr. Beast and his organization planted?
+36. How about the number of trees Mr. Beast and his organization planted?
 
-37.How many children were born in America in December of 2019?
+37. How many children were born in America in December of 2019?
 
-38.How many houses per hour does Santa need to visit to complete his mission?
+38. How many houses per hour does Santa need to visit to complete his mission?
 
-39.How many strips of bacon would be needed to feed everyone one strip in Chad?
+39. How many strips of bacon would be needed to feed everyone one strip in Chad?
 
-40.How many seconds are in a century?
+40. How many seconds are in a century?
 
 41. 42log24
 
-42.How many inches can a fresh ballpoint pen write?
+42. How many inches can a fresh ballpoint pen write?
 
-43.How many people work from home in America?
+43. How many people work from home in America?
 
-44.How many beats will a heart make in a lifetime?
+44. How many beats will a heart make in a lifetime?
 
-45.How many red blood cells circulate the human body every minute?
+45. How many red blood cells circulate the human body every minute?
 
-46.How many grains of sand are in a child’s sandbox?
+46. How many grains of sand are in a child’s sandbox?
 
-47.How many nanograms of caffeine are in a grande latte from the Dunkin’ up the road?
+47. How many nanograms of caffeine are in a grande latte from the Dunkin’ up the road?
 
-48.How tall does the average human grow, in centimeters, per day?
+48. How tall does the average human grow, in centimeters, per day?
 
-49.How many Ethans are in America?
+49. How many Ethans are in America?
 
-50.How many times does the word “the” appear in the Lord of the Rings trilogy?
+50. How many times does the word “the” appear in the Lord of the Rings trilogy?
 
 28
 8

@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\)'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
 1) Penn's founder Benjamin Franklin was a big proponent of being frugal, coining his phrase "a
 penny saved is a penny earned" in Poor Richard's Almanac 1737. If you saved a penny every
 time a baby was born in 2023 so far, how many pennies would you have "earned"? 

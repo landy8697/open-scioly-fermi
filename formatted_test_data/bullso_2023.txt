@@ -1,0 +1,82 @@
+BullSO Invitational 22-23
+40
+How many moles of water are found on Earth?
+23
+The mass of the Sun is equivalent to the mass of how many school buses?
+26
+The wavelength of visible green light is equivalent to how many toothpick diameters?
+-6
+The volume of the Pacific Ocean is equivalent to the volume of how many keyboard keys?
+24
+How many loops would be drawn in the first 200,000 digits of Pi? (For the sake of this question, 4 isn’t considered to have a loop while 6856 has four)
+5
+How many bolts of lightning strike Earth’s surface each year?
+9
+How many nanoseconds of content is uploaded to YouTube in two weeks?
+19
+How many terameters are in an angstrom?
+-22
+What percentage of the total water on Earth is found in rivers?
+-6
+What percentage of people who have ever lived are alive today?
+1
+How many total schools are in the state of Florida?
+4
+What is the fuel cost, in cents, of a road trip from Tampa to Philadelphia?
+4
+How many humans would it take to accumulate enough total DNA to string together a strand that is equivalent to the estimated diameter of the observable universe?
+13
+What is the ratio of wheels to doors on Earth?
+2
+What is the ratio of the human population in 2000BCE to the population in 8000BCE?
+1
+What is the total number of reported Covid-19 cases worldwide?
+9
+How many species of insect are found in Florida?
+4
+How many amperes is enough to kill an average adult male?
+-1
+What is the time, in seconds, it takes for a photon to travel across downtown Tampa?
+-6
+If a coin is flipped 239 times, what are the odds of getting all heads? (The common log of 2 is about .30)
+-72
+How many meters do you travel in total displacement within the milky way galaxy over a lifetime?
+15
+How many words will you speak in a fortnight?
+5
+How many carbon atoms are found in a 20 fl oz bottle of Coca-Cola?
+24
+What is 10^[(2*log(5)) + log(10) + log(4)]?
+3
+What is the probability of a randomly selected person on Each having an IQ of above 200?
+-1
+How many femtojoules are in a petajoule?
+30
+A particle is placed in a rigid box (the walls are impenetrable). What is the probability of finding it anywhere within? For reference, the one dimensional wave equation is ψ=Asin[(nπ/L)*x]
+2
+Without accounting for inflation, how much money, in US dollars, did the highest grossing film of all time generate?
+9
+What is the coefficient of kinetic friction for wet ice?
+-2
+How long is the total length of your short and long intestine in meters?
+1
+A 27 base pair DNA strand could theoretically code for how many different polypeptides?
+9
+How much heat, in joules, is required to raise the temperature of all of the earth’s ocean water by 2 degrees celsius?
+25
+What is 3^[(4*4)+14] * 9^[6+(4^3+3^4)]? For reference, the common log of 9 is about
+158
+How many air molecules in a breath you take could have been shared by Einstein during his life?
+8
+How many words comprise the entire Harry Potter book series?
+6
+At its all time high, what would be the height, in meters, of 2023 bitcoin as a stack of one hundred dollar bills?
+2
+How many hours of coursework/studying does it take to complete a bachelor’s degree?
+4
+Approximately how many mutations have occurred in the DNA of your cells over the course of this testing block (1 hour)?
+10
+BullSO has been a tournament for how many science olympiad seasons?
+0
+How many words are on this exam (including the introduction and instructions)? [40 question exam]
+3

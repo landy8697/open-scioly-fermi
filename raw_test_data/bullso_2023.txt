@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
 1. (5.00 pts) How many moles of water are found on Earth?
 
 2. (5.00 pts) The mass of the Sun is equivalent to the mass of how many school buses?
@@ -56,6 +59,7 @@ A particle is placed in a rigid box (the walls are impenetrable). What is the pr
 
 28. (5.00 pts) Without accounting for inflation, how much money, in US dollars, did the highest grossing film of all time generate?
 
+29. (5.00 pts) What is the coefficient of kinetic friction for wet ice?
 30. (5.00 pts) How long is the total length of your short and long intestine in meters?
 
 31. (5.00 pts) A 27 base pair DNA strand could theoretically code for how many different polypeptides?

@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
 1. How far away is the star Sirius from the Earth in meters?
 2. Given 1 trillion cuts, what is the maximum number of pieces you can
 slice a pizza into?
@@ -29,49 +32,49 @@ first tip off to the end of the finals?
 19. How much gasoline is used in the entire United States in one day in
 gallons?
 20. How many suns can fit in our solar system?
-21.What is the national debt per citizen in the US?
-22.What is US debt minus US GDP?
-23.On average, how many times has Taylor Swift’s Anti-Hero been
+21. What is the national debt per citizen in the US?
+22. What is US debt minus US GDP?
+23. On average, how many times has Taylor Swift’s Anti-Hero been
 watched on Youtube per day since it was uploaded?
-24.How much does one Starbucks store in Durham, NC make in one
+24. How much does one Starbucks store in Durham, NC make in one
 day?
 25. How many Americans have at least 1 sibling?
-26.How many grams of CO2 are emitted by cattle every day?
-27.How many dentists are there per 100,000 resident population in the
+26. How many grams of CO2 are emitted by cattle every day?
+27. How many dentists are there per 100,000 resident population in the
 US?
 28. How many zettabytes is one gigabyte?
-29.How many zettabytes is the amount of data on the Internet?
-30.How many gigabytes of information is in our brain?
-31.How many brains would you need to store all the information on the
+29. How many zettabytes is the amount of data on the Internet?
+30. How many gigabytes of information is in our brain?
+31. How many brains would you need to store all the information on the
 Internet?
-32.How many turkeys were eaten per American in 2022?
+32. How many turkeys were eaten per American in 2022?
 33. If all of the ice in Antarctica were to melt because of global warming,
 how high, in cm, would the oceans rise?
 34. Evaluate 0.9^2023
-35.How many mL of blood does our heart pump each day?
-36.What percentage is that volume compared to mL of water on Earth?
+35. How many mL of blood does our heart pump each day?
+36. What percentage is that volume compared to mL of water on Earth?
 37. How many inches does the average soccer player run per match?
-38.How many soccer games will it take for all the players to run the surface
+38. How many soccer games will it take for all the players to run the surface
 area of the sun?
 39. Assuming each of the soccer games in #38 is of the regular length of
 time (no extra time/penalties), how many times in a row could I binge
 watch Game of Thrones?
 40. How heavy is one mol of benzene in micrograms?
-41.How heavy is one mol of PVA?
+41. How heavy is one mol of PVA?
 42. Around what would the concentration of H+, in molar, be in PVA?
-43.What is energy stored per mole of oxygen evolved in kcal during
+43. What is energy stored per mole of oxygen evolved in kcal during
 photosynthesis?
 44. How many photosynthesis reactions does it take for the energy stored
 per mole of oxygen to power a man throughout his life?
 45. What is the wavelength of red light in meters?
-46.How many times could the length of red light’s wavelength travel over
+46. How many times could the length of red light’s wavelength travel over
 our skin’s surface area?
 47. How many dollars are traded in the stock market each year?
 48. How many times could the amount of money in #47 end world
 hunger for one year?
 49. How many likes total does Elon Musk have on Twitter across all
 tweets?
-50.How many characters are on this test?
+50. How many characters are on this test?
 16
 23
 374

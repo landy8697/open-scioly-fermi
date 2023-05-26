@@ -1,3 +1,5 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_QUESTION_NUMBER
 
 1. How many sheets of paper is your exam booklet?
 2. What is the ratio of the current human population to the total human population in 2023 BCE?

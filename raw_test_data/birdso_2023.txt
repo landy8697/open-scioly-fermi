@@ -1,3 +1,5 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
 
 1. What is the mass of the sun, in solar masses?
 2. How many millimeters are in a kilometer?
@@ -21,8 +23,7 @@ degrees?
 15. How many watts of energy are given off by an average human adult in the
 form of infrared radiation?
 16. One coulomb contains how many elementary charges?
-17. What is the average fuel efficiency of a petrol car in units of m⋅m
--3
+17. What is the average fuel efficiency of a petrol car in units of m/m^-3
 
 (meters per cubic meter of fuel)?
 18. What is the mass of the planet Jupiter in micrograms?
@@ -72,7 +73,6 @@ Finnish unit of distance related to reindeers.
 ⋅Slug−1
 ⋅Fortnight−2
 
-(Difficulty: Hard, Math)
 46. A sequence goes 1,1,1,4,27,3125... Find the 16th term of this sequence.
 47. If every question on this exam has an answer between -100 and 100
 inclusive (not a true statement), and you guessed every answer randomly, what

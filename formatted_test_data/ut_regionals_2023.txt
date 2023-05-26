@@ -1,0 +1,90 @@
+UT Austin Regionals 22-23
+44
+How many UT undergraduate students are there?
+4
+How many total UT students are there?
+5
+If a random team of 10 undergraduates from UT research secretly created a bioweapon, what is the probability that one of your proctors (who is a random undergrad at UT) is one of those 10 researchers?
+-4
+If they were to accidentally let the virus breach containment and it killed 90% of the world’s population, how many people will be left at the end?
+9
+What is the probability that everyone in a family of 4 survives the virus?
+-4
+Assuming that the evildoer does not get arrested along the way, how long– in seconds– would it take for them to escape to the Mexican border if they walked the entire way?
+5
+Oh no! They were captured by the US military along the border. Assuming standard issue rifles, how long would the evildoer have, in seconds, to dodge a bullet from 100 meters away?
+11
+If we were to purchase every person in greater Austin a McFlurry (regular size), how much would it cost in New Taiwan Dollars?
+8
+Downscaling the population above to only regional competitors, how much would it cost to buy all of them a McFlurry (regular size) in Ukrainian dollars?
+5
+As a ratio, how much can the amount from the previous question make up for UT’s in-state tuition for all four years?
+-2
+Some simple math questions: what is 0001^10001?
+0
+2^65
+22
+tan(π/4)
+0
+(e^33)*π
+14
+40!/(π^π)
+46
+2^100
+30
+What is the product of the past six math problems (11 - 16)?
+114
+In a standard game of poker (where each player is dealt 5 cards), what is the probability that player A is dealt a straight (a sequence of 5 consecutive cards) four times in a row in four separate games?
+-10
+Assume that there are only 4 players (including player A). If player A were to be dealt a straight, what are the chances that player A loses? Hint: They can only lose if someone else has any of the following hands: a. A higher straight (a consecutive sequence of five cards that has a higher card than Player A’s highest card) b. A flush (five cards of the same suit) c. A four-of-a-kind (four cards of the same number and one other card)
+-2
+If a smoker were to smoke in the same house as their non-smoking family every day, how much greater are the family members’ chances of getting lung cancer compared to a normal non-smoker?
+1
+How many basketballs are sold in the US each year?
+7
+Some people aren’t very good at basketball (like the writer of this test). How many ankles were broken in the US in 2021?
+7
+How much does the average American spend each year on healthcare in 2020 in USD?
+4
+The great USA can’t possibly be the only developed country without universal healthcare right? Right? How many developed countries in the world are there without universal healthcare?
+0
+How many US families have dogs in their home?
+7
+Some people’s favorite things to do on the weekends are to watch YouTube videos and play video games. How many YouTube videos exist on the platform?
+9
+How many minutes would it take a person to watch every single video on youtube if they were to watch four videos at x2 speed simultaneously?
+9
+Assuming the US average, how many hours would it take an average highschooler to do all the homework they procrastinated on for two weeks in one go?
+1
+How many people play Overwatch 2?
+7
+Regardless of your opinion, CSGO is superior to Valorant. However, most people are hardstuck silvers. How many silvers are there in CSGO in North America, just like the writer of this test?
+5
+Mrekk is one of the fastest osu! players right now and can push keys very fast. With two keys, how many keypresses can he perform per minute?
+3
+I just bought the RTX 3060 for about 600 dollars. Assuming it is running at its rated TGP (Total Graphics Power), how many electron volts does it use up in one hour?
+24
+Sometimes gamers are also lifters. There is this archaic powerlifting exercise called a backlift. What is the world record for the backlift, in stones?
+2
+What is the most weight a person has ever deadlifted, in units of dynes?
+8
+How much is the world record squat, in units of the eiffel tower?
+-4
+Scientists have recently discovered that Bismuth-209 is not actually the heaviest stable element– it is radioactive. What is its half-life, in years?
+19
+Due to quantum tunneling and other theoretical physics, no matter in the universe is permanently stable and will eventually decay. Lead is now recognized as the heaviest stable element. What is its predicted half-life as a multiple of the age of the universe?
+25
+In about 5 billion years, the Milky Way and Andromeda galaxy will collide with each other. What is the expected speed the galaxies will be at when they collide, in terms of kilometers per second?
+2
+How many atoms are there in the observable universe?
+80
+The human genome is mostly non-coding and has very many SSR (short sequence repeats). The FBI used to use 13 standardized SSR loci known as CODIS to catch criminals. What is the probability of two people having the exact same 13-CODIS profile (not counting identical twins)?
+-9
+How many possible positions are there after 3 moves in chess?
+7
+Checkers has recently become a solved game, meaning that the outcome of the game can be predicted from any position if both players play optimally. How many possible positions are there for checkers?
+21
+Connect 4 has also been solved– how many possible positions are there for this game?
+12
+How many possible Wordle answers are there?
+3

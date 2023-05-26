@@ -1,0 +1,82 @@
+UT Austin Invitational 22-23
+40
+The volume of the Earth, in cubic millimeters.
+30
+The pH of water.
+1
+The volume of all landmass above sea level in gallons.
+19
+Number of $100 bills currently in circulation worldwide.
+10
+The melting point of helium, in Kelvin.
+0
+The mass of almonds produced in the US during the most recent growing season, in solar masses.
+-21
+The density of a cloud in grams per liter.
+0
+The number of hydrogen atoms in the sun.
+57
+The number of people killed by lightning strikes across all of history.
+6
+The proportion of tin in bronze.
+-1
+The great circle distance between Miami and Seattle, measured in standard unsharpened pencils.
+8
+The age of the oldest living single (i.e. non- clonal) tree in months.
+5
+Average annual household electricity consumption, in kilowatt-hours.
+4
+The midpoint cross-sectional area of the observable universe in acres.
+50
+The weight of the Great Pyramid of Giza, in pounds.
+10
+The wavelength of the lowest-pitched audible sounds to humans in room-temperature sea- level air, measured in furlongs.
+-1
+Total hours of television watched in the US every day.
+12
+The number of grains of sand on Earth divided by the number of stars in the Milky Way.
+8
+The total mass of all DNA in every living human in kilograms.
+9
+The thickness of a typical sheet of printer paper in standard human hair widths.
+0
+Total annual expenditures of every government in the world in 2019 in dollars.
+13
+The temperature of the core of the Sun in Kelvin.
+7
+The total length of all US interstate highways in feet.
+8
+The net weight of ashfall produced by the 1980 Mount St. Helens eruption, in pounds.
+12
+The average molecular speed of room temperature air, in miles per hour.
+3
+Annual worldwide iron production divided by annual worldwide gold production, by mass.
+6
+The total volume of precipitation that falls in the US in an average year, in pints.
+16
+The volume of the Cullinan Diamond (the largest discovered uncut gem-quality diamond) in units of the volume of an Olympic swimming pool.
+-7
+The total surface area of all rivers in the world in square meters.
+11
+The number of shipping containers that could be filled using all of the ice in the world.
+15
+Low-end voltages for long-distance electric power transmission lines.
+5
+The weight of all neckties produced each year in the US in pounds.
+7
+The number of adults standing shoulder to shoulder that could fit on Taiwan, assuming flat ground.
+11
+The force needed to rupture a watermelon in compression, in Newtons.
+2
+The number of unique issues of American comics ever published.
+5
+The number of different items sold on Amazon.
+8
+The total storage capacity of all storage media in the world in bits.
+23
+Total land area of farmland in the world, in square miles.
+7
+Total transistors produced throughout history.
+22
+Total mass of ants in the world in metric tons.
+8

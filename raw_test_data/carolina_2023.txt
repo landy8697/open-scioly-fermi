@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SANDWICHED_NUMBER
+
 1. How many golf balls would it take to fill up all the tanks in the Atlanta Aquarium?
 2. What is the weight in nanograms of all the coffee beans that were consumed in 2022?
 3. DISCARD
@@ -62,7 +65,7 @@ many jellybeans does Tom have in total?
 8. ____5____
 9. ____17____
 10. ____19____
-11. ____1,044,938____
+11. ____1044938____
 12. ____8____
 13. ____4____
 14. ____4____

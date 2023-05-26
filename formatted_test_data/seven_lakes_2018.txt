@@ -1,0 +1,60 @@
+Seven Lakes Invitational 17-18
+29
+What is 22017?
+607
+What is 745?
+38
+What is 216352 × 836732?
+11
+What is 230 × 123 × 161 × 538?
+9
+The largest prime number discovered to date is 274,207,281 − How many digits does this number have?
+7
+How many ways are there to arrange 8 queens on a standard 8 × 8 chessboard?
+9
+Now suppose that the queens must be arranged in a manner such that none of the queens could capture another (i.e. none of the queens can be under attack). How many such configurations are possible? Do not include boards that are reflections, rotations, etc.
+1
+How much energy has been used through the consumption of gasoline by all the cars in the world since the invention of the automobile?
+17
+How long, in seconds, would it take for the Sun to output the amount of energy found in the question above?
+-10
+How many ways are there to scramble a Rubik’s cube?
+19
+Suppose that Feliks Zemdegs (a speedcuber from Australia) takes 10 seconds to solve every Rubik’s cube. How long would it take him, in years, to solve the number of cubes found in the question above?
+13
+How many atoms are in the average human’s body?
+28
+What is the military budget of the United States, in US Dollars?
+12
+How many students could be put through elementary and secondary school with the amount of money found in the question above?
+8
+How many 1 meter square solar panels would you need to power 13 microwaves?
+1
+What is the thickness of a cell membrane, in meters?
+-8
+How much land area would each person have, in square meters, if all the land on Earth was evenly distributed?
+5
+How fast does a raindrop fall at terminal velocity, in centimeters per second?
+3
+What is the pressure, in atmospheres, at the bottom of the Mariana Trench?
+3
+How much energy is stored in a 9V battery, in picoJoules?
+15
+How many standard 2x2 Lego bricks do I need to stack on top of each other to create a stack as tall as the Empire State Building?
+4
+The stack referenced in the previous question reaches a height far from the theoretical maximum height. How high, in meters, could Lego bricks be stacked one on top of the other, before the bottom brick is crushed? The average maximum force a single brick can withstand is about 4,000 Newtons.
+3
+How much does the DNA content of a single cell weigh, in Newtons?
+-15
+Consider the combustion of butane (2C4H10 + 13O2 → 8CO2 + 10H2), which has an enthalpy of com- bustion of -5 kJ/mol. How much energy, in Joules, would be released by reacting an Avogadro’s number of moles of butane with unlimited oxygen?
+30
+How many seconds would it take the average nuclear plant to generate the amount of energy found in the question above?
+20
+How many pencils are made each year?
+10
+What is the distance between the Earth and the Moon, in multiples of regulation NBA basketballs?
+9
+How much energy, in Joules, is released in a typical type II supernova from gravitational potential energy?
+46
+Of the quantity found in the question above, n% is used to convert protons and electrons to neutrons. What is n?
+1

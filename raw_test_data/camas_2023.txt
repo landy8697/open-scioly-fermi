@@ -1,3 +1,5 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_QUESTION_NUMBER
 1. How much volume would a mole (unit of measurement) of moles (the small furry
 critter) take up? [L]
 2. How long would it take for an average kid to completely fill up a pool with saliva?
@@ -79,7 +81,7 @@ States.
 34. How much energy is converted from gravitational potential to electricity by the
 Grand Coulee Dam? Answer in terms of HME [hamster wheel equivalents / min].
 35. Estimate the cost of one minute of class time at a top-tier private university. [US $]
-36 How many acres of coffee farms are required to supply enough coffee beans to
+36. How many acres of coffee farms are required to supply enough coffee beans to
 meet the yearly demand in the United States?
 37. What is the mass of the ink in a printed book? [g]
 38. Estimate the thickness of a US penny. [copper atoms]

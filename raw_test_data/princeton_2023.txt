@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
 1. How many washing machines are there in South Korea?
 2. How much money does the Las Vegas strip make from gamblers per year?
 3. Accounting for major pandemics, war, famines, as well as life expectancy and population change over time, how

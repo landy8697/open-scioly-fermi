@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
 1. Levin and Kitty just had their first child! Congratulations to the parents. They plan to entertain their newborn with Teletubbies, at a rate of one episode per day. How many years will the television series last them?
 2. How many pandas currently reside in Japan?
 3. The newest entry in the Cyberpunk video game series is set in what year?

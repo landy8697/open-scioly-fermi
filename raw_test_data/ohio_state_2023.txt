@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
 1. What is 115 to the power of 48?
 
 2. What is the distance between Cleveland and Columbus in lightyears?

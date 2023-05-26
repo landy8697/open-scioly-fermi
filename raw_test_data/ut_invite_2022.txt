@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
 1. The volume of the Earth, in cubic millimeters.
 2. The pH of water.
 3. The volume of all landmass above sea level in

@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SOLUTION:_NUMBER
+
 1. (5 points) Assuming notes actually get that high, what is the frequency of E300?
 Solution: 91
 2. (5 points) What would the minimum population of the United States be so that the GDP per capita would be

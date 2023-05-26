@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_QUESTION_NUMBER
+
 1. The probability of rolling a 79 by rolling a die 79 times in a row.
 2. The number of pixels on iPhones sold globally in 2021, assuming all iPhones sold were
 iPhone 13’s.

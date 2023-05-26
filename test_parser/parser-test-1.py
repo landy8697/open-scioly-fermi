@@ -1,9 +1,9 @@
 import fileinput
 import re
 
-filepath = "C:\\Andy\\Programming Projects\\discord-fermi-bot\\raw_test_data"
-filepath2 = "C:\\Andy\\Programming Projects\\discord-fermi-bot\\test_parser"
-new_filepath = "C:\\Andy\\Programming Projects\\discord-fermi-bot\\formatted_test_data"
+filepath = "raw_test_data"
+filepath2 = "test_parser"
+new_filepath = "formatted_test_data"
 
 current_file = "milpitas_2022.txt"
 filewrite = open(f"{new_filepath}\\{current_file}", "w", encoding="utf-8")

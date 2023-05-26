@@ -15,7 +15,7 @@ function placeRandomQuestion(){
     cur = parseInt(Math.random() * data.length);
     question = data[cur];
     console.log(question);
-    if (question=="DISCARD"){
+    if ("DISCARD" in question){
         placeRandomQuestion();
         return;
     }
@@ -24,7 +24,7 @@ function placeRandomQuestion(){
         <small><i>${question.source}, #${question.number}</i></small>`;
 }
 function submitAnswer(){
-    console.log("hai");
+    console.log("QUestion Submission");
     user = document.getElementById("answer-box").value;
     ans = data[cur].answer;
     if (Math.abs(ans-user) == 0){
@@ -60,7 +60,7 @@ function submitAnswer(){
 }
 
 function newQuestion(){
-    console.log("hai2");
+    console.log("Question Generation");
     placeRandomQuestion();
     document.getElementById("answer-alert").innerHTML = 
         `

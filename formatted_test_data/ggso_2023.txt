@@ -1,0 +1,108 @@
+Golden Gate Invitational 22-23
+53
+The probability of rolling a 79 by rolling a die 79 times in a row.
+-62
+The number of pixels on iPhones sold globally in 2021, assuming all iPhones sold were iPhone 13’s.
+15
+(TB) The capacitance in Farads of two football fields made of a perfect conductor, spaced 1 golden retriever-height apart vertically, assuming only dry air is between the fields.
+-7
+The time in years that a 20-inch electric box fan can be powered if it was powered by burning all of the money gambled in Las Vegas in a year, assuming all gambled money was in the form of $1 bills.
+3
+The number of plant cells that come in contact when you (one average adult person) actually go outside and touch grass, with one palm completely covered by grass.
+7
+The number of servings of instant ramen that can be made with water collected by plowing snow on 1 acre of land after the snowiest Chicago day in February
+5
+The number of American nuclear reactors to power the world for a year.
+4
+The weight in troy ounces of all cars (ignore buses and trucks) in California today.
+12
+The number of crayons needed to mold into a 1:1 scale solid (that is, not hollow) replica of the Statue of Liberty.
+9
+The energy in BTUs to melt all of the crayons in #9 from 0 degrees celsius.
+8
+The number of rock pigeons that live in New York City.
+6
+The time in hours it takes to drive from San Francisco to Tokyo in a Honda Civic, assuming that the car drives on water and achieves the California highway speed limit throughout the entire trip.
+2
+The number of gallons of gas it would take to go through the journey in #
+2
+The time in centuries of Vsauce watched if his current total view count reflected one Mind Field episode per view.
+3
+The area in square miles of an Intel i7 chip if all CMOS transistors were replaced with BJTs on an infinite breadboard, assuming that all holes on the breadboard are filled and used solely for the BJT pins.
+-2
+The price in dollars of such a computer (ignore the breadboard price).
+9
+The amplification in dB needed to return a music signal perfectly modulated and demodulated via AM radio 23 times back to its original strength.
+2
+(TB) The price in dollars of all Mac Pro Stands if every person in the world purchased one when World War 1 started, adjusting for inflation and assuming that Mac Pro Stands existed back then.
+10
+5^
+155
+The volume in milliliters of ink used to print all events’ exams today.
+2
+The number of calories that flow through Niagara Falls per nanosecond if the water was replaced with Hershey’s chocolate syrup, assuming the same weight flows through per unit time.
+2
+The volume of water in Olympic swimming pools used for showering in the US in a day.
+4
+The number of smart fridges that can be bought with the value of 10 30-second Super Bowl LVI commercial spots.
+4
+The area in square kilometers of the US that is covered by corn fields.
+5
+The volume of blood in liters donated every year in the US.
+7
+The weight in tons of the animal feed required to feed all chickens around the world in a week.
+7
+(TB) The volume in gallons of tears produced by all American undergraduate engineering majors after crying nonstop for a month.
+5
+The distance in kilometers run by all players in the World Cup in
+4
+The equivalent in number of burritos of Chipotle’s total annual revenue.
+9
+Mandy lives in a tiny cottage by a river in New Jersey. In the amount of time that it takes Mandy to knit a scarf as long as the Mississippi river, how many electrons in total pass through the lightbulbs in her humble home?
+30
+They say that it took Thomas Jefferson 1,000 tries to successfully create the first lightbulb. How many Navajo Indians died in that amount of time?
+3
+How many molecules of sodium does the average teen (yes, you) eat in a year?
+25
+How much money would AT&T make in a year if it sold its customer phone calls to the government for 1 cent per minute?
+7
+How many animals are there in the world?
+19
+How many animals were killed by humans for food in 2022?
+12
+(TB) Brahmanandam, an Indian movie star, holds the Guiness World Record for highest screen credits (number of movies he is in), with Eric Roberts coming in second place (Julia Roberts’ older brother). How many movies is Brahmanandam in?
+3
+Number of ‘a’ characters typed by software engineers in the US in a day.
+10
+How many ways are there to make change for $1?
+2
+How about for $10?
+6
+I want to make money off of TikTok. How many views in total do I need to make 10 grand from the app?
+8
+Assuming every post on the app has equal likelihood of being seen, how many posts do I need to make to ensure that I get this many views in a week?
+2
+How many times can I walk the perimeter of Vatican city in the amount of time it takes for a bullet to travel around the world?
+-1
+How many iron atoms are on the head of a safety pin (the pointy part)?
+13
+How deadly was the Bubonic Plague, as compared to COVID-19 (ratio of number of deaths)?
+1
+How many school buses are needed to store the number of people who have been killed by lightning in the 21st century?
+3
+How many jars of 5 oz Nutella can fit on a Boeing 737 (assuming very efficient packing)?
+6
+You are packing a gag gift for your sister, and you want her to think it is a Boeing 737 based on the package’s mass. How many Jet-Puffed brand original large-size marshmallows are needed to accomplish this?
+7
+How many work days does 1 worker need to single-handedly rebuild the Empire State Building?
+6
+I am trying to find my birth mother, who is also from the US. Assuming she is as likely as a random US citizen to be present there, what is the probability that she is in the stadium at the 2022 World Cup Final match?
+-4
+How many times can human DNA wrap around the moon?
+6
+(TB) How many times does a bee’s wings flap in a minute?
+4
+How many Dyson hair dryers do I need to leave on in order to double global annual energy consumption?
+17
+Bonus (Ungraded): How many doors and wheels are there in the world, combined (accepting all definitions of doors and wheels)?
+11

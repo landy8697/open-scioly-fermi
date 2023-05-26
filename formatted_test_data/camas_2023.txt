@@ -1,0 +1,98 @@
+Camas Invitational 22-23
+48
+How much volume would a mole (unit of measurement) of moles (the small furry critter) take up? [L]
+22
+How long would it take for an average kid to completely fill up a pool with saliva? Assume no evaporation. [years]
+4
+If a 185 lb adult human climbed a staircase from earth up to space, how many Calories would be burned climbing to the top? [Calories]
+5
+Estimate how many snowflakes it would take to cover the entire world (not including oceans) in 3 meters of snow. Assume no compression over time. [snowflakes]
+26
+How many keystrokes would be required to write all of Williams Shakespeare’s plays? [keystrokes]
+6
+After the age of 5, 75% of the world’s population stops producing the enzyme, lactase, required to break down the sugars in milk, and they develop lactose intolerance. Lactaid is an enzyme supplement that supports lactose digestion. Determine the total number of Lactaid pills needed to ensure each of these individuals can enjoy a gallon of ice cream. Three original strength pills should be used per serving of dairy. [pills]
+11
+If you could collect all the viruses on earth, how many tall Starbucks cups (12 fl.oz.) could you fill to the brim? [cups]
+19
+In order to print the whole English Wikipedia assuming it stops updating at this point in time, how many pages would you need? [pages of 5x11 inch paper, 12 point font, singled-spaced]
+7
+How many pieces of luggage go through Seatac airport in a year?
+8
+How many words are spoken by the entire US population in a year? [words]
+15
+Approximately, how many blades of grass would it take to feed a 450 kg dairy cow for a week? [blades]
+10
+How much food does an average person eat in their lifetime? [g]
+7
+Estimate how many molecules of oxygen would be needed to combust enough octane to drive from California to New York. [molecules]
+31
+Estimate how many holiday cups are sold during the months of November through January at Starbucks in the US. [cups]
+9
+Determine the number of barns [Barn = 00 * 10 -28 m2 ] covered by Washington state’s apple orchards.
+37
+Estimate the total number of meters a team runs in an average FIFA World Cup soccer match.
+5
+Determine how many times a typical hummingbird flaps its wings in its lifetime.
+10
+Estimate how much time was globally streamed by Spotify listener’s over the past 5 years. [weeks]
+9
+Assuming no other expenses, determine the number of hours you would have to work at a minimum wage job to pay for 4 years worth of college tuition at a top-tier college. [hours]
+4
+Suppose you could harvest the energy from a fidget spinner’s rotational energy to charge your iphone. How many spins would it take to fully charge the battery?
+5
+A sheppey is the distance from which one has the most picturesque view of a sheep. This distance is 7⁄8 of a mile. At how many sheppeys/hour, does one need to travel to reach the Sun from Earth in an average human’s lifetime?
+2
+How many grains of rice are consumed in a single day around the world?
+14
+How many Hershey’s chocolate kisses would you have to melt to make a lifesize model of the moon? [chocolate kisses]
+10
+Approximately how many popcorn kernels are popped in all the movie theaters across the US on an average Saturday? [kernels]
+9
+Objects like the International Space Station travel about 100 miles above the surface of the Earth. If you have the wonder (and patience) on a clear night, you can see it pass overhead every 90 minutes. How fast do they travel to avoid falling back to Earth? [m/s]
+7
+How many gulps would it take to swallow Earth’s oceans?
+26
+Estimate how much a cup of tea heats up when you stir it for 2 min? [degrees C] Assume no cooling.
+-5
+Suppose you were taking the SAT and decided to randomly guess on every multiple choice question. What are the odds that you would get all the questions right? Note: there are 158 total questions, each with 5 choices.
+-111
+Suppose you wanted to send a radio message to the nearest exoplanet 4 light-years away. You have a great transmitter and power source large enough to provide electricity to Portland, OR. Estimate the intensity of the signal when it reaches the far-away planet. [dB]
+-1
+How long could you power a game console if you were able to harness all the energy from a lightning strike? [min]
+5
+How much gravitational potential energy is stored in the water of a typical rainstorm? [J]
+15
+Estimate the number of Calories consumed at winter holiday parties in the United States.
+9
+What is the mass of all the DNA in a typical human? [kg]
+-4
+How much energy is converted from gravitational potential to electricity by the Grand Coulee Dam? Answer in terms of HME [hamster wheel equivalents / min].
+5
+Estimate the cost of one minute of class time at a top-tier private university. [US $]
+0
+How many acres of coffee farms are required to supply enough coffee beans to meet the yearly demand in the United States?
+5
+What is the mass of the ink in a printed book? [g]
+2
+Estimate the thickness of a US penny. [copper atoms]
+7
+How fast does human hair grow? [miles / lifetime]
+-2
+Estimate the rate at which electric charge flows through wires when someone charges their cell phone. [electron charge / second]
+19
+In the Incredibles universe, Frozone frequently creates ice bridges to slide across. (See figure at right.) To create the ice bridge, energy must be absorbed from the water vapor in the air so that it condenses and then freezes. Since we don’t see Frozone’s surroundings heat up when he uses his powers, let’s suppose that he absorbs that energy. Imagine he absorbs the energy from his surroundings to create an ice bridge 30 m long. How many single-serving bags of Doritos would he have to eat to gain the equivalent amount of energy?
+4
+In the Incredibles universe, Elastigirl is able to stretch to remarkable lengths. One possible mechanism might be that Elastigirl rearranges her cells rather than changing the volume of her cells. In that scenario, estimate the circumference of her upper arm (i.e., her biceps + triceps) [cm] if she stretches her arm to 10 m.
+1
+How much banana is too much banana? Bananas contain significantly high potassium concentrations. Potassium is an essential element for life as we know it. Among other things, it facilitates the normal transmission of signals through the nervous system. But, in nature, about 012% of potassium is the radioactive isotope potassium- Thus, the potassium-40 (K-40) in a single banana exposes a person to about 100 nSv (also known as a banana equivalent dose or BED). A lethal dose of radiation for 50% of people in 30 days (LD50/30) is about 5,000 mSv. Estimate the volume of bananas required to provide a lethal exposure to K- [classrooms]
+0
+Estimate how much helium you would need to float away on a lawn chair. [birthday balloons]
+3
+You see color because the cones in your retina interact with certain wavelengths of light (420 - 720 nm). If you had the same number of cones but could see the energy from a radio tower antenna transmitting at 5 MHz, what would the radius of your eyes be? [cm]
+7
+In the Marvel universe, Thor sometimes pounds his magical war hammer on the ground to create a shock wave to knock his opponents down. If his foes are 6 m away, estimate the pressure at the point of contact between the hammer and the ground. [atm] For the sake of this estimate, assume his foes are humanoid and have human mass.
+3
+If you walked at a snail’s pace in an approximately straight line, estimate how long it would take to travel from Camas to the top of Mt. Rainier. [hrs]
+5
+Estimate the amount of energy it takes to smile. [J]
+-3

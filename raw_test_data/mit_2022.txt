@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
 1. (5 points) If you’re taking this test as part SciOly, you should know that you’re part of one of the
 greatest communities in high school. This section will try to serve as a testament to this fact. How
 many secondary school students compete in Science Olympiad across the US?
@@ -14,7 +17,7 @@ college and beyond. How many alumni of SciOly are there?
 
 5. (5 points) You may even one day be part of running a competition yourself! How much Google Drive
 space has MIT Science Olympiad used over the years since its inception in zettabytes?
-6. (5 points) Your friend, YuQing, is a particle physics boi who works at the Large Hadron Collider. How
+6. (5 points) Your friend, YuQing, ixs a particle physics boi who works at the Large Hadron Collider. How
 many times do accelerating particles travel around the circumference of the LHC every
 fortnight?
 
@@ -202,3 +205,35 @@ of America?
 22
 12
 15
+9
+4
+
+9
+5
+12
+4
+6
+
+16
+6
+0
+5
+4
+
+270
+-1
+26
+9
+2
+
+13
+13
+7
+4
+-8
+
+-6
+46
+53
+87
+7

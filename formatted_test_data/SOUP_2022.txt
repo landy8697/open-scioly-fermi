@@ -1,0 +1,102 @@
+SOUP Invitational 22-23
+50
+Penn's founder Benjamin Franklin was a big proponent of being frugal, coining his phrase "a penny saved is a penny earned" in Poor Richard's Almanac  If you saved a penny every time a baby was born in 2023 so far, how many pennies would you have "earned"?
+7
+How many pennies would it take to cover the state of Pennsylvania?
+13
+How many quarters would it take to balance the weight of the amount of pennies in the previous problem on a scale?
+13
+It's Penn's 7th Invitational this year. What is 2023 to the power of 7?
+23
+The average tree has about 200,000 leaves, each of which weighs about 5 grams. How many pounds of leaves should we expect to grow back in Philadelphia by the end of spring?
+10
+Aphids are pests to springtime growth, but luckily lady bugs are here to the rescue! Each ladybug can eat 5000 aphids in its lifespan. If there are as many aphids in Pennsylvania as can fit to the moon and back, how many ladybugs would be needed to eat all of them?
+5
+Nitrogen makes up around 4% of a plant's DRY weight. If you had a greenhouse that grew 10 pounds of LIVE plants, how many nitrogen atoms would have been taken up from the soil?
+24
+If the fictional Penn Ivy grows at a rate of 3 cm per hour and was planted during a full moon, how long in mm would it be by the next full moon?
+3
+In the interval of one hummingbird flap, how many yards has light traveled?
+7
+In the same time frame as the previous question, how many inches would a sound wave have traveled?
+3
+How many hydrogen atoms are in the Sun?
+57
+If there are 143 different bowls of soup on a table, and I wanted to choose 17 of them to eat, in how many ways can I do so?
+21
+Suppose we had enough soup cans (2 inch radius, 6 inches tall) to fill up an Olympic sized pool. How many feet of wrapping would we need to label all of them?
+6
+If you never stopped playing the piano at 164 bpm in common time for 10 years straight, how many bars would you have played?
+8
+Suppose you played the lowest string on a tuned violin for 10 minutes straight. How many times would that string have vibrated back and forth?
+5
+How many fully grown silverback gorillas would it take to bench press the Eiffel tower?
+4
+Suppose you could consume uranium-235 (undergoing complete nuclear fission) and absorb all of its energy in calories without any adverse health effects. Assuming that you are an average human weight, how many miles would you have to run to burn off the energy obtained from consuming a kilogram of uranium?
+11
+The infinite monkey theorem states that a monkey hitting keys at random on a typewriter keyboard for an infinite amount of time will almost surely type any given text. If the monkey consistently types at 100 WPM on a 44 key-typewriter, how long, in minutes, would we expect the monkey to take to type the following string: "GOOD SOUP"
+13
+Suppose you want to go on a road trip from Seattle, Washington to Miami, Florida, inside a Tesla Model S Plaid. Assuming that the battery has infinite capacity, how many seconds would it take to charge the car for the entire trip with a 120W macbook pro charger?
+7
+If you dropped a cubic meter block of gold into the deepest part of Marianas Trench, how long would it take (in seconds) for it to sink to the bottom?
+2
+How many people would it take to be able to push the statue of liberty, assuming that it is sitting on a surface with a frictional coefficient of 1?
+6
+Suppose that each of the people in the last question were paid $25 an hour to push the statue. How long, in hours, would they have to push to collectively acquire as much money as Elon Musk?
+4
+Iowa is known for growing a lot of corn. How many pounds of corn is produced per capita in Iowa?
+4
+Suppose I wanted to make creamy corn soup using all of Iowa's corn. How many bowls of soup would I be able to make?
+11
+If you uncoiled each strand of DNA that you had and placed them end to end, how long, in miles, would it be?
+11
+How many miles long is the thickness of a single base pair in a DNA?
+-13
+A round trip between the Moon and the Earth would be equal to what fraction of the unraveled length of all your DNA?
+-5
+Suppose you were applying to UPenn. If you had a letter for each base pair of DNA in the human genome, how many common app essays could you write (assume the average word is 5 letters)?
+6
+If the weight of all humans on Earth is approximately one trillion pounds, how many pounds of ants are there on Earth?
+11
+Rhode Island is the smallest state in the US. Under Wegener's theory of Continental Drift, how many Rhode Island's would be able to fit inside Pangea?
+4
+How many google search results show up when I search 'how to make soup'?
+9
+Suppose you play a game with the following rules: you roll a fair 20 sided die five times and flip a fair coin. If you roll a twenty every time and get heads, then you win $1,000,000, You must pay $20 to play the game. How much money do you expect to win from playing the game 1,000,000 times?
+8
+For every one million English league soccer games played, how many would you expect to end in a draw?
+5
+How many soccer balls could you fit on a professional soccer field?
+4
+What is the probability that you get hit by a meteorite during your lifetime?
+-14
+During the final football game of the ivy league season, Penn secured a tight win against Princeton 20- What is 2019^(20+19)?
+129
+One of Penn's colors is red. How many football fields can fit into a wavelength of red light?
+-9
+Suppose a tennis player serves a ball at 120 mph. How much force, in newtons, is exerted on the ball?
+3
+How many cans of alphabet soup must I buy to fill a sphere the size of the moon?
+23
+How long, in hours, would it take to fully watch every youtube video ever created back to back?
+11
+How many people in the world turn 30 every day?
+5
+If Usain Bolt maintained his top speed, how many days would it take him to run along a track the length of the equator?
+2
+If I were to use a 100 mL pipette to drain lake superior, how many times would I have to use the pipette?
+17
+If I were to read one word every day, how many days would it take for me to read every book in the New York public library?
+12
+If the average snowfall in Houston, Texas in December was distributed evenly across Russia's surface area, how many inches of snow would there be?
+-5
+How many dog breeds are officially recognized by the F'd'ration Cynologique Internationale?
+2
+How many streetlights are there in seattle?
+5
+How many people visit Times Square every year?
+8
+Suppose that I randomly pick a city that has over 100,000 residents. What is the probability that it is in Pennsylvania?
+-3
+How many 10-digit numbers are prime?
+8

@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_EXPECTED_ANSWER
+
 1. (5.00 pts) How many 2x4 lego bricks would it take to equal the volume of the earth.
 
 2. (5.00 pts) How many 2022 Toyota Prii (plural for Prius) stacked on top each other would it take to reach the moon.

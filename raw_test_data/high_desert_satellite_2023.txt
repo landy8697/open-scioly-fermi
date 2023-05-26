@@ -1,3 +1,11 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. (5.00 pts) DISCARD
+
+0
+
+
 2. (5.00 pts) How many steps will a human take in their lifetime?
 
 8

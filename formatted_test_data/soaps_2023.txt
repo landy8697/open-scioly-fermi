@@ -1,0 +1,122 @@
+SOAPS Invitational 22-23
+60
+How many sheets of paper is your exam booklet?
+1
+What is the ratio of the current human population to the total human population in 2023 BCE?
+2
+What fraction (expressed as a decimal) of positive integers less than are perfect squares?
+-50
+How many bytes of data are created/uploaded on the Internet every day?
+18
+How many times does the word "Sith" appear in the movie transcript of Star Wars: Episode III - The Revenge of The Sith (2005)?
+1
+What is ? Here log denotes the base 10 logarithm.
+4
+What is the numeric difference between one extra degree north of the latitude of the pyramid of Giza (in degrees North) and the speed of light (in tens of megameters per second), where both are given in 5 significant figures?
+0
+What is the total length, in inches, of all the (currently alive) people estimated to be born on February 29th stacked head to toe?
+8
+The answer to this question is an integer between -100 and -1 inclusive. What is the probability you get this question correct (if you were to guess randomly)?
+-2
+32 teams are competing at SOAPS today. How many events will be competed in today? If k teams participate in an event, then we count k "events competed in".
+3
+A DNA strand 36 base pairs in length could code for how many different polypeptides?
+13
+How many times faster would someone need to travel to go around the Milky Way galaxy in 80 days if it takes them 80 days to go around the world (on the Earth's equator)? (Ignore any effects of special relativity.)
+14
+What is the ratio of worldwide deaths from the Black Death (during the 1300s) to worldwide Covid-19 deaths?
+1
+In how many days would the breaths you exhale equal the volume of air that comprises the lung capacity of a blue whale?
+0
+What is the ratio of 20-illion (short scale) over 23-illiard?
+-78
+How many neutrons would need to be lined up to reach the length of one Smoot?
+15
+What is the cost in cents of a road trip from Penn State University to Wichita State University?
+4
+You may have heard that recently two pairs of prefixes were added to the SI system! How many quettameters is the length of a proton's diameter?
+-44
+Suppose that the entire US military budget for this fiscal year was spent to buy all the ants on Earth. How many dollars would each individual ant cost?
+-4
+How many light-meters would it take to take a flight from Miami, Florida to St. Petersburg, Russia?
+13
+Hyperion is the tallest (living) tree in the world. How many times further is the average distance between the Earth and the Moon than the height of Hyperion?
+6
+In 1862, the Homestead Act let citizens of the US claim 160 acres of "surveyed" land. How many such 160-acre plots would there be if the entire USA were used for this purpose, including Alaska, Hawaii, and overseas territories?
+7
+How many gross of great gross of dozens of eggs are needed to make one soft-boiled egg?
+-7
+As Ash will no longer be the protagonist of the Pokemon series, if he were to be compensated with all of the revenue the franchise has ever made in USD, how many times could he retire? Use the median retirement savings of an American as the cost for retirement.
+6
+The current meerkat population is about 500, Approximately how many of these meerkats will be murdered by their own species if we follow all of them to their cause of death? Hint: Meerkats have been deemed the "most murderous" mammal species.
+5
+Suppose the entire budget for SOAPS this year were spent on a prize pool for the tournament such that the n-th placing team would receive a share of the pot (eg. 1st place would get 50%, 3rd place 5%, etc). If infinitely many teams signed up but the budget doesn't change, how many teams would have received at least ?
+3
+What is the minimum number of gigabytes necessary to represent googolplex?
+90
+It is said that Olive Garden offers unlimited breadsticks for its customers. However, they are filthy liars as the production of wheat obviously limits how many breadsticks can be offered to customers. Suppose that the entirety of the US production of wheat in 2021-2022 were provided to Olive Garden to make breadsticks. How many breadsticks could Olive Garden serve, assuming they were only limited by how much wheat they had?
+11
+Assume one Ohio-class submarine launches its entire arsenal (when maxed out) of UGM-133 Trident II (Trident D5) submarine-launched ballistic missiles (SLBMs), where each ballistic missile is loaded with eight Mk-V multiple independently targetable reentry vehicles (MIRVs) and each Mk-V MIRV is loaded with a W88 American thermonuclear warhead. What is the maximum amount of the Earth's surface area, in kilometers squared, that can be covered by AT LEAST light blast damage (1 psi blast pressure) if all the Ohio-class's W88 warheads reach their target? Exclude any effects of nuclear fallout.
+5
+You may recall that a ship was stuck in the Suez Canal. What would be the font size of the phrase EVERGREEN as printed on the side of that ship, the Ever Given?
+4
+Using its all-time high from November 2021, what would be the height, in meters, of 114 Bitcoin as a stack of 1 dollar bills?
+4
+How much Coleslaw, in grams, would fulfill a three-toed sloth's metabolic needs for a day? (Fun fact: Most sloths are entirely folivores, meaning they just eat leaves.)
+2
+Suppose we were to approximate the solar system (very poorly) using a circle with radius the maximum distance from the Sun to Pluto. What is the area of this circle in hectares?
+22
+How long, in seconds, would your eyes be closed if you stayed awake for 3 days straight?
+4
+How many kilometers does the tip of Leonard Bernstein's baton move when he conducted his overture to "Candide" with the New York Philharmonic (specifically the Oct. 22, 1960 performance during the NY Phil Young People's Concert)? The overture is about 4 minutes long.
+-1
+An apple a day is said to keep the doctors away. Suppose a hypothetical reality where this is the case. Assume an individual somehow consumed the entire US production of apples in 2021 (in fresh equivalent), completely for free. Assume every doctor kept away by every apple this individual ate saved a sum of money equivalent to an average primary care (checkup) visit expense in 2022 (US). How much money did this individual save?
+13
+Assume “cats'' and “dogs” are both quantitative measurements of precipitation. A “cat” corresponds to a volume of water that has the same mass as an average adult domestic cat. Similarly, a “dog” corresponds to a volume of water that has the same mass as an average adult (large breed) dog. How many PAIRS of "cats and dogs” precipitated down in the US in 2021? (Note: one PAIR must only contain/is the combined total of just one cat and just one dog, so mass of one PAIR = mass of one "cat" + mass of one "dog". Also, assume room temperature water density for calculating the mass of total precipitation in the US.)
+14
+How much more would Hurricane Katrina (Aug 2005) have weighed if it also came with silver lining as thick as A4 letter paper? (Assume the silver is at room temperature, and Katrina's peak size.)
+20
+How many times, if you weren't constrained by how many times you could fold it, would you need to fold a sheet of A4 paper in half to reach Pluto from the Sun (on average)?
+2
+How long would it take, in days, for your fingernails to grow the same length that the North American continent drifts away from the Eurasian continent in 150 days?
+2
+How many mutations occur in the DNA in your body in the time it takes to watch Gattaca?
+10
+What is the combined weight of each viewer of the season finale of the most recently completed season of America's Got Talent in Roman talents?
+7
+What would be the volume (in meters cubed) of a sphere, one atom thick, formed from the carbon atoms obtained from a standard unsharpened wooden 2B pencil? (Assume the carbon atoms are not bonded in the sphere but simply closely packed without overlapping orbitals)
+4
+You might have heard the saying that someone is worth their weight in gold. How many Whoppers (the burger) can the average adult buy using the value of their weight in gold?
+6
+How many atoms of Fluoride are in the total food and drink a person ingests as well as the toothpaste the average person uses, assuming they brush twice a day?
+20
+Suppose a snail appears 1 foot behind you and is tasked with chasing you; if it touches you, you will suffer immeasurable consequences. To avoid such a fate, you leave from where you're sitting taking this exam at SOAPS and quickly (read: instantaneously) travel to Anchorage, Alaska. How many hours would it take for the snail to catch up to you if you stop moving as soon as you land?
+5
+If you could capture all of it, how long (in seconds) would it take for the body heat of a single, full science olympiad team to melt 23 first place gold medals? (assume the medals are pure gold, initially at room temperature, and about 1cm thick with a diameter of 5cm)
+3
+Superswimming is a glitch in The Legend of Zelda: The Wind Waker that allows players to increase their speed while swimming. Specifically, the magic speed speedrunners aim for while using superswimming is "500 units” of speed. Suppose people could superswim in real life, reaching a speed of 500 knots. How many laps in an olympic swimming pool could an average healthy adult swim (where a lap is one length of the pool, not two) in one breath while superswimming? Assume that superswimming does not reduce the maximum time the person could hold their breath underwater.
+3
+The Legend of Zelda: The Wind Waker's Great Sea is made up of 49 tiles in a 7x7 grid with various islands and points of interest. Each tile is further divided into a grid of 1000 units x 1000 units. Define one unit of length being the distance one would travel at 1 knot for 1 minute. Suppose the X-th largest US state by area is closest in area to that of the Great Sea. What is ?
+20
+How many carbon atoms are found in two 20 fl oz bottles of Coca-Cola (one for each of you!), if you somehow removed all of the sugar?
+23
+What is the difference, in centitones, of middle C (C4 = 63 Hz) and the perceived note that black hole 3C 84 in Perseus A (NGC 1275) of the Perseus cluster produces through the sonification of relativistic plasma bubble pressure waves?
+4
+Assume you are sound designing using an FM synthesizer to generate imperfect intervals, in relation to an equally tempered scale where A4 = 440 Hz. You program the carrier oscillator to play a C1 based on the equally tempered scale. You then turn the FM ratio knob of the modulation oscillator to generate a 13:1 FM ratio. In cents, what is the difference between the highest overtone played by the FM synthesizer and the fundamental?
+3
+The n-th Fermat number is defined as . What is ? Here log denotes the base-10 logarithm.
+609
+Assume an intergalactic extraterrestrial by the name of "YM" had an infinitesimally small volume but the same mass as supermassive blackhole Tonantzintla If "YM" spontaneously stood near the event horizon of the supermassive blackhole Sagittarius A*, how large would the gravitational force on "YM" be in Newtons at that instant? (Assume only Newtonian physics for simplicity, and that "YM" and Sgr A* are the only masses in this situation.)
+47
+The Ottoman Basilic was a 30 caliber siege cannon used during the Conquest of Constantinople that fired large spherical cannonballs of marble. To minimize the friction in the barrel while firing the cannonballs
+6
+If adult pigs had fixed wings (without flaps) with a standard lift coefficient, what is the minimum total surface area that the wings should be (in meters squared) such that the pig is able to achieve flight from sea level on Earth assuming it travels at average pig running speed? (Assume the only forces acting on the pig are lift and gravity.)
+2
+Define the double factorial for odd integers n as . What is 2023!!? For this question, the scoring will be 5 points for within 5%, 3 points for within 1%, and 1 point for within 2%.
+2906
+A hypothetical tunnel is dug through the Earth forming an actual straight line (in 3D) from Washington D.C. to Olympia, Washington State. If we assume the Earth is a perfect sphere, and use the airplane direct flight distance between the two cities as the arc distance, we will notice that the tunnel forms a "chord" in this perfect sphere Earth. Given these simplifications, in kelvin, how much hotter is the hottest temperature that the environment surrounding the tunnel underground will reach, due to the geothermal gradient, compared to the surface? (Use average geothermal gradient for the US)
+4
+Problems 59 and 60 use the same context in a hypothetical universe. After enduring "down in Ohio" jokes for an eternity, residents of Ohio (Ohioans) have planned their revenge: taking over the United States. Ohioans are evenly distributed among the 49 defending US states (you may neglect the remainder), forming 49 different corps (enumerated 1st through 49th). Each corp has the same fixed number of brigades. EACH brigade contains 1,000 Ohioans. Each corp battles a different state, and the brigades of each corp attack the corresponding state independently. Brigades either win or lose an attack and each have the same percent chance of victory in an independent attack as the percent of the world's population that the Mongol invasions allegedly killed. (Assume that the population of Ohio in ) (Case 1:) Ohio begins by testing the brigades of its 37th corp on just one state: Indiana. If the conquest of Indiana fails, Ohio will cease to be a menace to the rest of the US, compromising Ohio's war strategies. *** In the battle of Indiana, AT LEAST ONE of the 37th corp's brigades must win an attack for Ohio's success in defeating Indiana. What is the percent chance that Ohio is unsuccessful in the battle of Indiana? (Hint: the chance is very small.)
+-12
+Problems 59 and 60 use the same context in a hypothetical universe. After enduring "down in Ohio" jokes for an eternity, residents of Ohio (Ohioans) have planned their revenge: taking over the United States. Ohioans are evenly distributed among the 49 defending US states (you may neglect the remainder), forming 49 different corps (enumerated 1st through 49th). Each corp has the same fixed number of brigades. EACH brigade contains 1,000 Ohioans. Each corp battles a different state, and the brigades of each corp attack the corresponding state independently. Brigades either win or lose an attack and each have the same percent chance of victory in an independent attack as the percent of the world's population that the Mongol invasions allegedly killed. (Assume that the population of Ohio in ) (Case 2:) A surprise coup d'etat in the governance of Ohio prior to the battle of Indiana causes a change of plans in Ohio's war strategies. Now, Ohio will swiftly engage in a battle with all 49 defending states at once, instead of just Indiana. Additionally, Ohio has realized that to secure stable control over the states once the war has ended, AT LEAST HALF the brigades of each corp must survive and win their independent attacks on their corresponding states. What is the percent chance that Ohio is unsuccessful in conquering the United States if at least half of the brigades of each corp must win their independent attacks? (Note: corps also battle each state independently, and must either win or lose each battle. Ohio prevails in conquering the US if every corp succeeds against every state--particularly when at least half of each of their brigades prevail.)
+2

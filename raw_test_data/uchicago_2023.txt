@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
 1. How many grains of sand are on Earth?
 2. How many leaves do all of the trees in the amazon rainforest have?
 3. What is the circumference of the Earth in centimeters?
@@ -20,55 +23,55 @@ stacked up?
 18. How many sticky notes would you need to stack up in a pile to be as tall as
 Uchicago’s Rockefeller Chapel (207 feet)?
 19. How many grains of sugar are in a regular 12oz Coke can?
-20.How many feet do all the people in the world have combined?
+20. How many feet do all the people in the world have combined?
 21. How many cigarette butts are thrown out each year?
-22.How many times would you have to empty a 20oz water bottle to fill up an empty
+22. How many times would you have to empty a 20oz water bottle to fill up an empty
 Lake Michigan?
-23.How many seconds are the Marvel movies combined, going from Iron Man 1 to
+23. How many seconds are the Marvel movies combined, going from Iron Man 1 to
 Avengers: Endgame?
-24.How much time do you have to complete this test in years?
-25.Assuming a snail moves 3.28 feet per hour, how many hours would it take for a
+24. How much time do you have to complete this test in years?
+25. Assuming a snail moves 3.28 feet per hour, how many hours would it take for a
 snail to go from Los Angeles to New York City and back?
-26.How many Oreos would it take to cover the surface of Texas (assuming Texas is
+26. How many Oreos would it take to cover the surface of Texas (assuming Texas is
 just flat land)
 27. How many hairs does an average adult male have on their entire body?
-28.On September 25, 2022, Eliud Kipchoge set the world record for the fastest
+28. On September 25, 2022, Eliud Kipchoge set the world record for the fastest
 marathon ever ran at 2:01:09. How many times did he blink during his run?
-29.How many pennies are thrown into “It’s a Small World” at Disneyland every year
+29. How many pennies are thrown into “It’s a Small World” at Disneyland every year
 (only Disneyland)
-30.How many letters (excluding spaces) are in Stephen King’s novel, IT?
+30. How many letters (excluding spaces) are in Stephen King’s novel, IT?
 
 31. How many popsicle sticks would you need to recreate a life-size replica of the
 Leaning Tower of Pisa?
-32.How many licks does it take to get to the center of a tootsie pop?
-33.How many seconds would it take to walk to the moon?
-34.How many times does an average American say “potato” in their lifetime?
-35.When you shuffle a deck of cards, probably, the world has never seen that
+32. How many licks does it take to get to the center of a tootsie pop?
+33. How many seconds would it take to walk to the moon?
+34. How many times does an average American say “potato” in their lifetime?
+35. When you shuffle a deck of cards, probably, the world has never seen that
 combination before. How many possible different arrangements of a deck of 52
 cards are there?
-36.If you started at exactly midnight on December 25th, how many times could you
+36. If you started at exactly midnight on December 25th, how many times could you
 listen to Mariah Carey’s “All I Want for Christmas is You” before Christmas day
 the next year?
 37. How many square inches is Russia?
-38.How many grains of salt are in a 3lb Kosher salt box?
-39.How many red blood cells are in the human body?
-40.How many high school football players are there? (in the US only)
+38. How many grains of salt are in a 3lb Kosher salt box?
+39. How many red blood cells are in the human body?
+40. How many high school football players are there? (in the US only)
 41. Shaquille O’Neal is a powerful dude. How many rims did he damage during his
 career in the NBA?
-42.How many locks are on the Lock Bridge (the Pont des Arts) in Paris?
-43.How many ounces does a typical cumulus cloud weigh?
-44.What is the total pixel count on an average HD (1080p) flat-screen TV?
+42. How many locks are on the Lock Bridge (the Pont des Arts) in Paris?
+43. How many ounces does a typical cumulus cloud weigh?
+44. What is the total pixel count on an average HD (1080p) flat-screen TV?
 45. How many teeth do hippos have?
-46.If you were to level the entire Amazon rainforest (2.6 million mi^2) and turn all
+46. If you were to level the entire Amazon rainforest (2.6 million mi^2) and turn all
 the trees into paper, how many 100-page notebooks (college-ruled, of course)
 could you give to each student at UChicago (only the undergrads)?
-47.About how many videos are on YouTube?
-48.How many students could you actually fit into a classroom (if they were stacked
+47. About how many videos are on YouTube?
+48. How many students could you actually fit into a classroom (if they were stacked
 on top of each other and really packed in there)?
-49.If everyone in the world stood as close to each other as possible, how many
+49. If everyone in the world stood as close to each other as possible, how many
 square meters of ground would we cover? (hint: the world population just hit 8
 billion as of November 2022!)
-50.How many Bic ballpoint pens would it take to draw a to-scale 2-D replica of a
+50. How many Bic ballpoint pens would it take to draw a to-scale 2-D replica of a
 commercial airplane? (think: Boeing 737)
 
 22

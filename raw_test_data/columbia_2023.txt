@@ -1,3 +1,6 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_QUESTION_NUMBER
+
 1. (5 points) In honor of me eating at Cracker Barrel for the first time in my life this year, what
 is the annual revenue (in USD) of Cracker Barrel in 2022?
 
