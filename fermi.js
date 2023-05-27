@@ -2,7 +2,6 @@ document.addEventListener("DOMContentLoaded", function() {
     document.getElementById('submit').addEventListener('click', () => {
         submitAnswer();
     });document.getElementById("new-question").addEventListener('click', () => {
-        console.log("plz");
         newQuestion(); 
     });
     placeRandomQuestion();
@@ -15,7 +14,8 @@ function placeRandomQuestion(){
     cur = parseInt(Math.random() * data.length);
     question = data[cur];
     console.log(question);
-    if ("DISCARD" in question){
+    if (question.question.includes("DISCARD")){
+        console.log("DISCARDED QUESTION")
         placeRandomQuestion();
         return;
     }
