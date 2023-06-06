@@ -31,3 +31,8 @@ for item in files:
 json_object = json.dumps(questions, indent=4)
 with open("formatted_test_data\\questions.json", "w") as outfile:
     outfile.write(json_object)
+    
+#Writing test data to data.js file which is in root directory
+with open(".\\data.js", "w") as outfile:
+    outfile.write("data = ")
+    outfile.write(json_object)
