@@ -1,206 +1,236 @@
 _QUESTIONFORMAT_ r'\d+\.'
 _ANSWERFORMAT_ STYLE_SINGLE_NUMBER
 
-1. (5.00 pts) What is the ratio of the height of the Taj Mahal to the height of Burj Khalifa?
-
-2. (5.00 pts) How many atoms are there combined in all of the people in North America and South America (including Central America) assuming they are all average adults?
-
-3. (5.00 pts)
-If Joe gives every person in Florida the current minimum wage of Florida for 8 hours a day, 5 days a week for the length of a solar cycle, how much money in US dollars (assuming
-population and wage stays constant) would the combined population have earned in that time?
-
-4. (5.00 pts) Based on the population density of the most densely populated city on Earth, how many people could cover the entire surface area of the Earth?
-
-5. (5.00 pts) How many long ago in lustrums did the first photosynthesizing cyanobacteria form?
-
-6. (5.00 pts)
-You have decided to make a unit grid from your house to James S. Rickards High School. You plot your house at the origin of your grid and Rickards HS at the point (150, 150). If you
-can only go up 1 unit or right 1 unit at a time, how many different paths are there to get from your house to Rickards HS?
-
-7. (5.00 pts) If the total cost of the 2018 renovation of Rickards HS’ campus was piled up in quarters, then what would be the weight of the quarters in troy ounces?
-
-8. (5.00 pts)
-Maybe after all of these questions, you think to take on the It’s About Time event. What is the period of a pendulum (on Earth) in Olympiads, given that the pendulum length is 1 foot?
-
-9. (5.00 pts)
-The 2022 FIFA World Cup is coming! The tournament will take place in Qatar during November and December because of the excessive heat during the summer. What was the
-highest recorded temperature in Qatar ever in degrees Rankine?
-
-10. (5.00 pts)
-Argentina is one of the favorites for the World Cup. If half of the people in Argentina were given a standard soccer/football (association football), then how many hexagons would
-there be total from all of the balls?
-
-11. (5.00 pts) If the stars in the universe were evenly distributed among all of the galaxies in the universe, what would be the amount of stars in each galaxy?
-
-12. (5.00 pts)
-3 people are buying SciOly invitational medals at a rate of 5 medals per second each. If Amazon’s 2021 revenue was evenly distributed among the 3 of them, how long in
-exaseconds would it take 1 of the buyers to have spent all of their money?
-
-13. (5.00 pts)
-Kevin is a circuit builder. He has 1000 resistors he wants to put in a circuit. 500 of them are in series and have values (in ohms) of 1, 8, 27, 64, 125, ... , 500 . The other 500 are in
-parallel and have values (in ohms) of 1, 2, 3, 4, 5, ... , 500. For series resistors, R = R + R + R + ... + R . For parallel resistors, 1/R = 1/R + 1/R + 1/R + ... + 1/R . What is the
-equivalent resistance of the entire circuit in kiloohms?
-
-14. (5.00 pts) How many asteroid belts would it take to equal the mass of the Kuiper belt?
-
-15. (5.00 pts) How many fortnights ago from today, 11/06/2022, was the first recorded Science Olympiad competition?
-
-16. (5.00 pts) How many pairs of Nike shoes (based on MSRP) would China have to sell to gain their projected 2027 revenue for all footwear?
-
-17. (5.00 pts) Sand particles come in varying sizes. How many grains of “fine sand” would it take to fully fill a cone with radius of 3 feet and a height of 1.83 meters?
-
-18. (5.00 pts) At what temperature in degrees Celsius does it have the same number for degrees Delisle?
-
-19. (5.00 pts) How many pages are there in the AP Calculus Textbook by Ron Larson and Bruce Edwards?
-
-20. (5.00 pts) How many characters including spaces are in the last 5 questions combined (this question is included in the 5)? [This question is about the length of the others]
-
-21. (5.00 pts) What is the value for the number of ways to arrange a 6 x 6 Rubik’s cube multiplied by the number of ways to arrange a 4 x 4 Rubik’s cube?
-
-22. (5.00 pts)
-The test writer making this question is feeling sick currently. Since the start of the COVID-19 pandemic, how many people in the world have recovered from the virus?
-
-23. (5.00 pts) How many blue whales would it take to line up lengthwise across the diameter of half of the universe?
-
-24. (5.00 pts) What is the value of the 750th Fibonacci number subtracted by the 740th Fibonacci number?
-
-25. (5.00 pts)
-In an electrochemical cell, the dichromate anion ( ) is used as an oxidizing agent for the formation of the potassium ion. What would be the equilibrium constant of this
-reaction at standard conditions?
-
-26. (5.00 pts) Hall has 105 books. How many ways are there for him to order 13 books on a shelf?
-
-27. (5.00 pts)
-Germans consume a lot of beer. If the amount of beer sold in Germany in 2021 was consumed by 1 person, how many Planck lengths would the person have to run to burn all of
-those calories?
-
-28. (5.00 pts)
-In a chemical reaction, 50 moles of CO and 60 moles of H O react to form 80 moles of oxygen gas and 10 moles of pentane (C H ). How much heat is absorbed in kilojoules per
-mole?
-
-29. (5.00 pts)
-An object on Earth freely falls with an acceleration of 10 downwards with no air resistance. If a person initially at rest were to constantly speed up with this acceleration, but in a
+1. How many asteroid belts would it take to equal the mass of the Kuiper belt?
+2
+2. How many ways are there to arrange the letters of RICKARDSSCIENCEOLYMPIAD? 
+19
+3. How many atoms are there combined in all of the people in North America and South
+America (including Central America) assuming they are all average adults? 
+37
+4. An object on Earth freely falls with an acceleration of 10 m/s^2 downwards with no air
+resistance. If a person initially at rest were to constantly speed up with this acceleration, but in a
 horizontal direction, how long in Svedbergs would it take them to get from the Earth to Uranus?
+19
+5. Rickards alumnus T-Pain is a well known American music artist and record producer. As of
+today, 11/06/2022, what is the average rate of euros per galactic years that T-Pain gained his
+net worth since the day he was born?
+14
 
-30. (5.00 pts) How many ways are there to arrange the letters of RICKARDSSCIENCEOLYMPIAD?
+6. You have decided to make a unit grid from your house to James S. Rickards High School.
+You plot your house at the origin of your grid and Rickards HS at the point (150, 150). If you can
+only go up 1 unit or right 1 unit at a time, how many different paths are there to get from your
+house to Rickards HS?
+89
 
-31. (5.00 pts)
-Andrew Jackson did not win the Presidential election of 1824, although he had the most popular and electoral college votes. If I say that 1 electoral college vote is equivalent to 5000
-popular votes, then how many total popular votes did Andrew Jackson receive?
+7. After careful consideration, you have concluded that SciOly is not for you and you want to go
+on the path to be a history major instead. You decide that you want to write the Constitution of
+the United States. It took you the time interval between taxation assessments in the Roman
+Empire to write the full constitution 1994 times. With the same rate of writing, how many words
+of the constitution could you write in the time length of a shake?
+-10
 
-32. (5.00 pts) What is the number of ways to make change for 50, allowing 2 bills?
+8. Kevin is a circuit builder. He has 1000 resistors he wants to put in a circuit. 500 of them are in
+series and have values (in ohms) of 1, 8, 27, 64, 125, ... , 500^3. The other 500 are in parallel
+and have values (in ohms) of 1, 2, 3, 4, 5, ... , 500. For series resistors, RT = R1 + R2 + R3 + ... +
+Rn. For parallel resistors, 1/RT = 1/R1 + 1/R2 + 1/R3 + ... + 1/Rn. What is the equivalent
 
-33. (5.00 pts)
-After careful consideration, you have concluded that SciOly is not for you and you want to go on the path to be a history major instead. You decide that you want to write the
-Constitution of the United States. It took you the time interval between taxation assessments in the Roman Empire to write the full constitution 1994 times. With the same rate of
-writing, how many words of the constitution could you write in the time length of a shake?
+resistance of the entire circuit in kiloohms? 
+7
 
-34. (5.00 pts)
-Rickards alumnus T-Pain is a well known American music artist and record producer. As of today, 11/06/2022, what is the average rate of euros per galactic years that T-Pain gaine
-his net worth since the day he was born?
 
-35. (5.00 pts) How many positive integral divisors does the number 27,081,081,027,000 have?
+9. If Joe gives every person in Florida the current minimum wage of Florida for 8 hours a day, 5
+days a week for the length of a solar cycle, how much money in US dollars (assuming
+population and wage stays constant) would the combined population have earned in that time?
+13
 
-36. (5.00 pts)
-Emma tracks the progress of a certain second-order chemical reaction by measuring the concentration of one of the reactants, A, using a device with a detection limit of 0.45 ppm.
-She notes that it takes exactly 24 hours for the concentration of A to fall from its initial concentration of 2 M to 1 M. Given that the molar mass of A is 893.51 g/mol, how many
-additional hours would it take for the concentration of A in solution to become undetectable?
 
-37. (5.00 pts)
-Reactions with a free energy change of more than around 30 kJ/mol are considered "irreversible." For such a reaction at 25 degrees Celsius, what is the ratio of products to reactant
-at equilibrium?
+10. In a chemical reaction, 50 moles of CO2 and 60 moles of H2O react to form 80 moles of
+oxygen gas and 10 moles of pentane (C5H12
 
-38. (5.00 pts)
-A 60mm long stick of 0.7mm diameter pencil lead weighs 0.04 grams. Assuming that pencil lead is composed of pure carbon, calculate the average separation, in meters, between
-the carbon atoms in pencil lead.
+). How much heat is absorbed in kilojoules per
 
-39. (5.00 pts) What is the largest number that can be represented using a 64-bit signed integer?
+mole? 
+4
 
-40. (5.00 pts) How many cents per hour of footage would it cost to to store a 60 fps 4K video on hard drives?
+11. Based on the population density of the most densely populated city on Earth, how many
+people could cover the entire surface area of the Earth? 
+13
 
-41. (5.00 pts)
-The Library of Babel is a fictional library, described in the Jorge Luis Borges short story of the same name, that contains every possible book composed of 3,000 characters (limited to
-the 26 uppercase and lowercase English letters, spaces, and periods). How many books are in the Library of Babel?
+12. 3 people are buying SciOly invitational medals at a rate of 5 medals per second each. If
+Amazon’s 2021 revenue was evenly distributed among the 3 of them, how long in exaseconds
+would it take 1 of the buyers to have spent all of their money? 
+-8
 
-42. (5.00 pts)
-[The Library of Babel is a fictional library, described in the Jorge Luis Borges short story of the same name, that contains every possible book composed of 3,000 characters (limited to
+
+13. Germans consume a lot of beer. If the amount of beer sold in Germany in 2021 was
+consumed by 1 person, how many Planck lengths would the person have to run to burn all of
+those calories? 
+48
+14. The 2022 FIFA World Cup is coming! The tournament will take place in Qatar during
+November and December, because of the excessive heat during the summer. What was the
+highest recorded temperature in Qatar ever in degrees Rankine? 
+3
+
+15. Argentina is one of the favorites for the World Cup. If half of the people in Argentina were
+given a standard soccer/football (association football), then how many hexagons would there
+be total from all of the balls? 
+8
+
+16. What is the ratio of the height of the Taj Mahal to the height of Burj Khalifa? 
+-1
+
+17. How many fortnights ago from today, 11/06/2022, was the first recorded Science Olympiad
+competition? 
+3
+
+18. What is the number of ways to make change for $50, allowing $2 bills? 
+11
+19. If the stars in the universe were evenly distributed among all of the galaxies in the universe,
+what would be the amount of stars in each galaxy? 
+12
+
+20. How many blue whales would it take to line up lengthwise across the diameter of half of the
+universe? 
+25
+
+
+21. If the total cost of the 2018 renovation of Rickards HS’ campus was piled up in quarters,
+then what would be the weight of the quarters in troy ounces? 
+7
+
+22. The test writer making this question is feeling sick currently. Since the start of the COVID-19
+pandemic, how many people in the world have recovered from the virus? 
+8
+
+23. Maybe after all of these questions, you think to take on the It’s About Time event. What is
+the period of a pendulum (on Earth) in Olympiads, given that the pendulum length is 1 foot? 
+-8
+
+24. How many pairs of Nike shoes (based on MSRP) would China have to sell to gain their
+projected 2027 revenue for all footwear? 
+9
+
+
+25. Sand particles come in varying sizes. How many grains of “fine sand” would it take to fully
+fill a cone with radius of 3 feet and a height of 1.83 meters? 
+11
+
+26. At what temperature in degrees Celsius does it have the same number for degrees
+Delisle? 
+2
+
+27. How many pages are there in the AP Calculus Textbook by Ron Larson and Bruce
+Edwards? 
+3
+
+28. How many characters including spaces are in the last 5 questions combined (this question
+is included in the 5)? 
+3
+
+29. In an electrochemical cell, dichromate is used as an oxidizing agent for the formation of the
+potassium ion. What would be the equilibrium constant of this reaction at standard conditions? [Apparently this is an anticheat problem]
+431
+
+30. Andrew Jackson did not win the Presidential election of 1824, although he had the most
+popular and electoral college votes. If I say that 1 electoral college vote is equivalent to 5000
+popular votes, then how many total popular votes did Andrew Jackson receive? 
+6
+
+
+31. How long ago did the first photosynthesizing cyanobacteria form in lustrums? 
+9
+
+32. How many positive integral divisors does the number 27,081,081,027,000 have? 
+3
+
+
+33. What is the value of the 750th Fibonacci number subtracted by the 740th Fibonacci
+number? 
+156
+
+34. What is the value for the number of ways to arrange a 6 x 6 Rubik’s cube multiplied by the
+number of ways to arrange a 4 x 4 Rubik’s cube? 
+162
+
+
+35. Hall has 105 books. How many ways are there for him to order 13 books on a shelf? 
+26
+
+
+36. Emma tracks the progress of a certain second-order chemical reaction by measuring the
+concentration of one of the reactants, A, using a device with a detection limit of 0.45 ppm. She
+notes that it takes exactly 24 hours for the concentration of A to fall from its initial concentration
+of 2 M to 1 M. Given that the molar mass of A is 893.51 g/mol, how many additional hours
+would it take for the concentration of A in solution to become undetectable? 
+8
+
+
+
+37. Reactions with a free energy change of more than around 30 kJ/mol are considered
+"irreversible." For such a reaction at 25 degrees Celsius, what is the ratio of products to
+reactants at equilibrium? 
+5
+
+38. A 60mm long stick of 0.7mm diameter pencil lead weighs 0.04 grams. Assuming that pencil
+lead is composed of pure carbon, calculate the average separation, in meters, between the
+carbon atoms in pencil lead. 
+-10
+
+39. What is the largest number that can be represented using a 64-bit signed integer? 
+19
+
+40. How many cents per hour of footage would it cost to to store a 60 fps 4K video on hard
+drives? 
+2
+
+41. The Library of Babel is a fictional library, described in the Jorge Luis Borges short story of
+the same name, that contains every possible book composed of 3,000 characters (limited to the
+26 uppercase and lowercase English letters, spaces, and periods). How many books are in the
+Library of Babel? 
+5197
+
+42. [The Library of Babel is a fictional library, described in the Jorge Luis Borges short story of the same name, that contains every possible book composed of 3,000 characters (limited to
 the 26 uppercase and lowercase English letters, spaces, and periods).]
 Let x denote the number of books in the Library of Babel as specified in the previous question. Let y denote the number of works on Archive of Our Own, the largest online fanfiction
 repository. What is x/y?
-
-43. (5.00 pts)
-Consider the following anecdote:
-"In Lower Pomerania is the Diamond Mountain, which is two miles and a half high, two miles and a half wide, and two miles and a half in depth; every hundred years a little bird
-comes and sharpens its beak on it, and when the whole mountain is worn away by this, then the first second of eternity will be over."
-Suppose each time the bird sharpens its beak, one carbon atom is removed from the diamond lattice. By this definition, how many times longer is one second of eternity compared
-to an actual second?
-
-44. (5.00 pts) Suppose I spent all of my free time over summer break watching Netflix. What proportion of Netflix's total 2021-2022 viewing time would this constitute?
-
-45. (5.00 pts) How many pixels are found in the largest (defined by having the highest pixel count) photograph of all time?
-
-46. (5.00 pts) If all of the sand in the world were placed in Lake Erie, then what would be the ratio of grains of sand per cubic yoctometer?
-
-47. (5.00 pts)
-Wang has 36 big Reese’s Cups he wants to give to 5 people. If everyone must get at least 3 candies, then how many ways can Wang distribute the Reese’s Cups to the 5 people?
-
-48. (5.00 pts) If the number of cells in the average human body decreased by half in the time for the half-life of carbon-14, then how long in hours would it take for 1 cell to remain
-
-49. (5.00 pts) As of now, Drake’s most listened to song on Spotify has billions of plays. For how many jiffies (the physics time unit) has the song been listened to?
-
-50. (5.00 pts) Convert (AU) * (metric tons)^2 * (nautical leagues)^4 * (shakes) /
-(ounces) * (megaparsecs)^2 * (angstroms) * (stones) * (yottaseconds) to meters
-2
-19
-37
-19
-14
-89
--10
-7
-13
-4
-
-13
--8
-48
-3
-8
--1
-3
-11
-12
-25
-
-7
-8
--8
-9
-11
-2
-3
-3
-431
-6
-
-9
-3
-156
-162
-26
-8
-5
--10
-19
-2
-
-5197
 5190
+
+43. Consider the following anecdote:
+
+"In Lower Pomerania is the Diamond Mountain, which is two miles and a half high, two miles
+and a half wide, and two miles and a half in depth; every hundred years a little bird comes
+and sharpens its beak on it, and when the whole mountain is worn away by this, then the
+first second of eternity will be over."
+Suppose each time the bird sharpens its beak, one carbon atom is removed from the diamond
+lattice. By this definition, how many times longer is one second of eternity compared to an
+actual second? 
 49
+
+44. Suppose I spent all of my free time over summer break watching Netflix. What proportion of
+Netflix's total 2021-2022 viewing time would this constitute? 
 -8
+
+45. How many pixels are found in the largest (defined by having the highest pixel count)
+photograph of all time? 
 12
+
+46. If all of the sand in the world were placed in Lake Erie, then what would be the ratio of
+grains of sand per cubic yoctometer? 
 -65
+
+47. Wang has 36 big Reese’s Cups he wants to give to 5 people. If everyone must get at least 3
+candies, then how many ways can Wang distribute the Reese’s Cups to the 5 people? 
 4
+
+48. If the number of cells in the average human body decreased by half in the half-life length of
+carbon-14, then how long in hours would it take for 1 cell to remain? 
 9
+
+49. As of now, Drake’s most listened to song on Spotify has billions of plays. For how many
+jiffies (the physics time unit) has the song been listened to? 
 35
+
+50. Convert (AU) * (metric tons)^2 * (nautical leagues)^4 * (shakes) /
+(ounces) * (megaparsecs)^2 * (angstroms) * (stones) * (yottaseconds) to meters
 -56

@@ -1,12 +1,15 @@
 import fileinput
 import re
+import os.path
 
 filepath = "raw_test_data"
 filepath2 = "test_parser"
 new_filepath = "formatted_test_data"
 
-current_file = "ut_regionals_2023.txt"
-filewrite = open(f"{new_filepath}\\{current_file}", "w", encoding="utf-8")
+current_file = "rickards_2023.txt" #ONLY LINE THAT NEEDS TO BE CHANGED
+path = f".\\{new_filepath}\\{current_file}"
+title = open(path, "r", encoding="utf-8").readline().strip() if os.path.isfile(path) else current_file #Reading old title if file is already formatted
+filewrite = open(path, "w", encoding="utf-8")
 
 settings = []
 settings.extend([
@@ -16,8 +19,6 @@ settings.extend([
 ])
 
 q_start_pattern = r'\d+\.' #1. or 2. etc.
-#print(q_start_pattern)
-
 '''
 q_start_pattern = r'\d+\.' #1. or 2. etc.
 q_start_pattern = r'\d+' # 1 or 2 etc.
@@ -34,7 +35,6 @@ answer_format =  "STYLE_QUESTION_NUMBER" # 1. Answer [WILL VARY, MOST COMMON]
  "STYLE_SANDWICHED_NUMBER" #___Answer___, sandwiched between underscores
  "STYLE_EXPECTED_ANSWER" #Expected Answer: Answer
 '''
-
 
 question_answer_ordering = "FULL_DISJOINT" #ALL TEST SETS WILL BE READ THIS WAY
 '''
@@ -122,8 +122,8 @@ def read_full_disjoint():
             except:
                 pass
         for token in line.split():
-            match = re.fullmatch(q_start_pattern, token)
-            if(match): #question start pattern identical to 1.
+            match = re.fullmatch(q_start_pattern, token) #question start pattern identical to 1.
+            if(match): 
                 if(token[:-1].isdigit() and not int(token[:-1]) == question_num+1):
                     continue #question number does not match with actual
                 if(question_num > 0):
@@ -146,7 +146,7 @@ questions[-1] = questionsCleanup(questions[-1]).strip()
 
 print(answers)
 print(f"QUESTION LENGTH: {len(questions)}, ANSWER LENGTH: {len(answers)}")
-filewrite.write(current_file+"\n")
+filewrite.write(title+"\n")
 filewrite.write(f"{len(questions)}\n")
 for i in range(len(questions)):
     filewrite.write(questions[i]+"\n")
