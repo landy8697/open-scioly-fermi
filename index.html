@@ -23,10 +23,19 @@
      <body class="text-dark">
         
         <div class="container-md text-center">
-            <h1 class="display-4 mt-5 mb-1 text-center">SciOly Fermi Tester</h1>
-            <p class="lead fw-light text-center mb-1"> 1200+ updated question set</p>
-            <p class="lead fw-light text-center mb-4"> Brought to you by SLHS Invite</p>
-            <div class="row justify-content-center my-3">
+
+            <div class=" row mt-4 me-1 float-end">
+                <button id="darkmode" class="btn btn-outline-dark border-0 btn-sm darkoff">
+                    <i class="bi bi-brightness-high-fill"></i>
+                </button>
+            </div>
+            <div class="row ps-2 justify-content-center">
+                <h1 class="display-4 mt-5 mb-1 text-center">SciOly Fermi Tester</h1>
+                <p class="lead fw-light text-center mb-1"> 2000+ updated question set</p>
+                <p class="lead fw-light text-center mb-4"> Brought to you by SLHS Invite</p>
+                
+            </div>
+           <div class="row justify-content-center my-3">
                 <div class="col-md">
                     <div class="card ">
                         <div id="question-box" class="card-body text-start text-wrap">
@@ -42,8 +51,8 @@
             <div class="row justify-content-center my-2">
                 <div class="col-md">
                     <div id="answer-alert" >
-                        <div class="alert alert-secondary" role="alert">
-                            No answer provided
+                        <div class="alert alert-info" style="white-space: pre-line" role="alert"> Press button or click enter to submit
+                            Use arrow buttons or left/right keys for navigation (only answered questions)
                         </div>
                     </div>
                 </div>
@@ -52,7 +61,7 @@
             <div class="row align-items-center justify-content-center mt-2 mb-2 d-none">
                 <div class="col-auto d-none d-md-inline">
                     
-					<button  class="bg-transparent border-0 fs-6 ">New Question</button>	
+					<button class="bg-transparent border-0 fs-6 ">New Question</button>	
 					
             
                 </div> 
@@ -94,9 +103,20 @@
                     <div class="button-group mb-3">
                         <button id="submit" type="button" class="btn btn-primary">Submit</button>
                         <button id="new-question" type="button" class="btn btn-success">New Question</button>
+                        <div class="btn-group" role="group">
                         
+                            <button id="back" type="button" class="btn btn-outline-secondary" >						
+                                <i class="bi bi-chevron-left"></i>
+                            </button>
+                            
+                            <button id="forward" type="button" class="btn btn-outline-secondary" >						
+                                <i class="bi bi-chevron-right"></i>
+                            </button>
+                        
+                        </div>
                     </div>
-                <div class="col-auto">
+                </div>
+                <div class="col-auto px-0">
                     
                 </div>
                 

@@ -27,6 +27,9 @@ for item in files:
     if ".json" in item:
         continue
     searchFile(os.path.join(path, item))
+fs = open("test_parser\\misc\\daily_fermi.json", mode="r", encoding="utf-8")
+daily_questions = json.load(fs)
+questions.extend(daily_questions)
 
 json_object = json.dumps(questions, indent=4)
 with open("formatted_test_data\\questions.json", "w") as outfile:

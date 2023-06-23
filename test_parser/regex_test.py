@@ -10,7 +10,10 @@ print(re.fullmatch(r'Question \d+\.',"Question 21.").group(
 
 '''
 
+'''
 res = re.search(r'_(-?\d+\.?\d*)_', '2. ___-12___')
 print(int(res.group()[1:-1]))
+
+'''
 
 
