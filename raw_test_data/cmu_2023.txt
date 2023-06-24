@@ -1,0 +1,188 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. What is the flow rate of the Allegheny River (one of the three main rivers in Pittsburgh)
+in cubic feet per minute?
+6
+
+2. If you had a spherical shell of pennies 1 layer thick with the Earth’s mass, what would
+this shell’s radius be in meters?
+11
+3. How many years could all the electricity on Earth be supplied using the total light energy
+that hits the Earth in 1 second?
+-4
+
+
+4. How many Olympic swimming pools could be filled with all the water that rains on
+Earth over the course of a year?
+11
+
+5. What is the mass of the Earth’s atmosphere in kilograms?
+19
+
+
+6. If everyone on Earth submerged themselves in the ocean at the same time, how much
+would the sea levels rise, in meters?
+-6
+
+7. If the Moon was made of swiss cheese, how many Calories would it be?
+29
+
+8. What is the surface area of Antarctica in acres?
+9
+
+
+9. Between the years of 2000 and 2020, how many people traveled through Pittsburgh
+International Airport?
+8
+
+10. How many miles are collectively driven by all Americans, per year?
+12
+
+11. What fraction of Americans are competing in Science Olympiad Division B or C this
+year?
+-4
+
+
+12. How many breaths of air are taken by all competitors at this competition over the course
+of the competition?
+6
+
+13. What fraction of humans currently riding on a plane at this instant?
+-4
+14. What fraction of humans that have ever lived are currently alive?
+-1
+15. How many liters of water will the average person drink in their lifetime?
+6
+
+
+16. How many dollars worth of gold could a Boeing 747 cargo plane transport?
+10
+17. Over the course of the time you spend on this test, how much money will Jeff Bezos
+make from Amazon revenue, in dollars?
+7
+
+
+18. How much would a Sun-sized sphere made of pure silver cost in dollars?
+34
+19. How much money was spent on Halloween candy in the United States last year?
+9
+20. How many dollars worth of pennies are currently in circulation in the US?
+9
+
+21. What would be the value of a stack of dollar bills the height of the Statue of Liberty?
+6
+
+
+22. How many hours would an average American need to work in order to purchase a Boeing
+787 Dreamliner?
+7
+
+
+23. What is the product of first ten positive perfect squares?
+13
+24. What is the number of digits in 1521315213?
+5
+
+25. What is the volume of an icosahedron with length 15?
+4
+
+
+26. What is the 2023th pentagonal number? (The first few pentagonal numbers are shown
+in Figure 1.)
+7
+
+27. I have a group of 50 students, and I want to choose 15 of them to form our school’s
+Science Olympiad A team (without choosing events yet). How many ways can I do this?
+12
+
+
+
+28. What is 1/(1 + 1/(2 + 1/(3 + . . . )))?
+
+0
+
+29. What is the 50th Fibonacci number (if the sequence starts with fib(0) = 0, fib(1) = 1)?
+10
+
+
+30. What is the furthest possible distance between Jupiter and Saturn (in m)?
+12
+
+31. What fraction of sunlight reaches earth?
+
+-10
+
+32. What is the ratio of mass of Neptune to mass of Earth?
+
+1
+
+33. What is the escape velocity of an apple in a vacuum (in m/s)?
+
+-5
+
+34. Assuming there was a hole that leads directly to the center of the Earth, how long would
+it take to fall to get there (in seconds)?
+
+3
+35. How many times faster is a commercial airplane (while cruising) than a normal walking
+pace?
+
+2
+
+36. How many times could you charge an iPhone 14 using the energy released during the
+Trinity nuclear test?
+
+9
+37. How many newtons of force are exerted on the Earth due to the gravitational attraction
+of the Sun?
+
+22
+38. What is the diameter of Sars-COV-2?
+
+-7
+
+39. How many ants are on Earth?
+16
+40. Number of red blood cells produced every second in the human body?
+6
+41. Fraction of US population with Down Syndrome?
+
+-3
+
+42. How much honey does a honeybee make in its lifetime in kg?
+
+-3
+
+43. What is the average lifespan of a lanternfly (in days)?
+
+2
+
+44. How many twists does DNA make within a single human cell?
+9
+
+
+
+45. How many classrooms does CMU have in the Pittsburgh campus?
+
+2
+46. What is the number of courses offered on the CMU Pittsburgh campus in spring 2023?
+3
+
+
+47. How many active student organizations does CMU have?
+2
+
+
+
+
+48. How many applicants were there for the class of 2026?
+4
+
+
+49. What is the endowment of CMU per year?
+9
+
+
+50. What is the size of CMU’s campus (in square meters)?
+6

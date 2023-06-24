@@ -1,0 +1,174 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. First things first, I figured the best butter chicken recipe must be in India. Therefore, I got
+on a flight there. How long is the distance between the San Francisco airport and
+Mumbai, India in miles?
+2. As it turns out, the plane has a new engine that uses hydrogen as fuel. State the
+distance between San Francisco and Mumbai in hydrogen atom radii, instead.
+3. After making it to India, I felt a little bit tired from the long flight. How many hours are
+spent on airplanes every day?
+4. In order to buy butter chicken, I have to convert my US dollars to rupees. How many
+rupees is the GDP of the United States in 2022?
+5. Finally, I also need a hotel to stay in to search for butter chicken. How much money, in
+rupees, in total around the world is spent on hotels every minute?
+Now that I’ve made it into India and gotten myself settled, I can start looking for the
+perfect bowl of butter chicken. I’ve decided to learn a bit more about the dish. I also have
+to dish out some questions.
+6. India, being the culinary capital that it is, consumes a large amount of butter chicken. If
+every atom of butter chicken consumed in 2022 was a full bowl of butter chicken, how
+many years would the giant chicken ball feed the Earth if everyone on Earth ate only
+butter chicken from that bowl? (Assume we don’t get sick of butter chicken.)
+7. Butter chicken isn’t the only dish served in India. What is the proportion of all dishes
+served in India that is butter chicken?
+8. Garam masala is an integral part of butter chicken. However, I’ve forgotten which
+ingredients are in garam masala. How many ways are there to choose a subset of spices
+that belong in garam masala?
+9. Similarly, I’ve forgotten the ingredients in the dish itself. Assuming that garam masala is
+a single ingredient, how many ways are there to choose a subset of ingredients of butter
+chicken?
+10. As I journey through India, I can see a lot of cows. As I’m hungry for butter chicken, I am
+wondering how much of it I can have. If all the milk from cows in India is used to make
+butter for butter chicken, how many plates of butter chicken can we make in a year?
+11. Restaurants tend to serve a lot of rice. If we filled the volume of an entire restaurant with
+grains of uncooked basmati rice, how many grains would it take?
+12. If I placed 1 grain of rice on the first square of a chessboard, 2 grains on the second, 4
+grains on the third, and 2^(n-1) grains on the nth square, how many grains of rice would
+be on the entire chessboard?
+13. Rice often comes in 25-pound bags at the supermarket. How many of these bags are
+consumed daily in the world?
+14. If the surface area of every planet in the Solar System was covered with rice paddies,
+how much water, in liters, would be needed to irrigate them? Assume the rice is grown in
+wet paddies.
+15. Water is also needed to cook rice. How much water, in liters, would one need to cook all
+of the rice grown on these planetary paddies of plunderous, plump perfection?
+16. How many restaurants are in India?
+17. If only one restaurant in India has perfect butter chicken, on average, how many
+restaurants do I have to visit to have a 50% chance of finding that one?
+18. If it takes an hour to review one plate of butter chicken, how many times can I visit every
+restaurant in India in my lifetime? Ignore travel time.
+19. In rupees, how big is the restaurant industry in India?
+20. If every Fermi Questions competitor at an average invitational ate a meal of butter
+chicken at an Indian restaurant once every day since the creation of the universe, how
+much money in rupees would they have spent?
+21. Assuming I’ve visited half of the restaurants in India on foot, how many steps have I
+made? (Assume optimal solution to traveling salesman problem.)
+22. How many plates of butter chicken would I need to eat to travel that distance?
+23. Assuming everyone from the US drove to every restaurant in India. If we make this a
+yearly tradition, how many gallons of gas will we use before the return of Halley’s comet?
+(Assume everyone drives their own car.)
+24. As The Proclaimers once said, “I would walk 500 miles and I would roll 500 more.” If I
+rolled inside a giant hamster wheel, how many servings of butter chicken would I need to
+have enough energy to travel those 500 miles?
+25. If driving evenly deposited rubber over the street, how many tires would I have to drive
+through to deposit a 1-meter thick layer of rubber over 500 miles?
+26. How much money, in USD, is spent at Michelin-star restaurants every year?
+27. What proportion of restaurants are Michelin starred?
+28. Assuming you were constantly eating, how many nanoseconds would it take you to eat
+everything the world eats in a year?
+29. Assuming all people eat on plates, how many barns of plate surface is washed every
+year? Count only the top surface that touches food.
+30. If every menu in the United States was stacked on top of each other, how many cows
+high would they reach?
+31. What is 2023! * 20! * 23! (Very cliche question.)
+32. I, being a high school student, must study for the SAT. If I were to guess on every
+question in both math sections of the SAT, what is the probability that I’ll get 90% or
+above? (Assume all questions are multiple-choice with 4 answers.)
+33. Seeing that my chance here is dismal, what is the chance that I obtain an
+above-average math score on the SAT?
+34. How many vertices are on every platonic solid, combined?
+35. Another cliche question: what is the 2023rd Fibonacci number?
+36. How many letters are in all Goosebumps books, combined?
+37. How much energy, in terms of plates of butter chicken, would it take to press down the
+keys on a typewriter to write every book in the Library of Congress?
+38. What fraction of the permutations of 6 arbitrary letters consist of a valid 6-letter word in
+English?
+39. It is often said that “a picture is worth a thousand words.” If we converted all words in the
+English language into pictures, how many cartridges would it take to print them if each
+picture was on a piece of 8.5’’x11’’ paper?
+40. If I wrote a book every day on paper made from a tree currently on Earth, how many
+nanoseconds would it take for me to use up every tree?
+41. If I had an atom of Uranium-235 that formed at the birth of the Universe, what’s the
+chance it’s still an atom of Uranium-235 today?
+42. If I created a baseball-sized lump of alpha particles and they traveled together at their
+normal speed, what would be their kinetic energy? Assume they are perfectly packed
+together.
+43. If I liquified a mole of moles and shaped that mole into a sphere, how many barns would
+the surface area be? (Hail Randall Munroe)
+44. How many nanograms of ATP will be produced if a cubic smoot of butter chicken was
+metabolized perfectly?
+45. How much energy, in Joules, is needed to propel a cannonball at the edge of space to
+orbital velocity?
+46. If Rockefeller’s fortune accrued interest in a typical bank from the beginning of the
+universe, how many Chinese Yuan would it be worth now? (Note: The scoring for this
+question is different. The score is 5 if your estimate n if you calculate your answer as
+10^n is within a factor of 10 of the true answer, 3 if within a factor of 100, and 1 if within a
+factor of 1000.)
+47. How many red blood cells were shed by the soldiers killed in the Civil War?
+48. Enrico Fermi, the scientist our event is named after, pioneered nuclear energy. How
+many grams of uranium would remain in a 1kg block of pure U-235 created when Fermi
+was born?
+49. If we took every strand of hair from every human ever born and laid them end to end,
+how many lightyears would that mega-hair stretch?
+50. In the bible, there was a cup described that had a perimeter of 30 cubits. Convert that to
+Smoots.
+
+4
+17
+5
+15
+6
+
+22
+-2
+3
+7
+12
+
+9
+19
+8
+20
+17
+
+7
+7
+-2
+12
+18
+
+10
+6
+15
+2
+7
+
+10
+-5
+25
+39
+5
+
+5852
+-27
+-5
+2
+422
+
+7
+7
+-4
+2
+28
+
+-6
+30
+42
+17
+8
+
+20920074
+19
+3
+-1
+0

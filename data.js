@@ -1284,6 +1284,306 @@ data = [
         "number": 40
     },
     {
+        "question": "First things first, I figured the best butter chicken recipe must be in India. Therefore, I got on a flight there. How long is the distance between the San Francisco airport and Mumbai, India in miles?\n",
+        "answer": 4,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 1
+    },
+    {
+        "question": "As it turns out, the plane has a new engine that uses hydrogen as fuel. State the distance between San Francisco and Mumbai in hydrogen atom radii, instead.\n",
+        "answer": 17,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 2
+    },
+    {
+        "question": "After making it to India, I felt a little bit tired from the long flight. How many hours are spent on airplanes every day?\n",
+        "answer": 5,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 3
+    },
+    {
+        "question": "In order to buy butter chicken, I have to convert my US dollars to rupees. How many rupees is the GDP of the United States in 2022?\n",
+        "answer": 15,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 4
+    },
+    {
+        "question": "Finally, I also need a hotel to stay in to search for butter chicken. How much money, in rupees, in total around the world is spent on hotels every minute? Now that I\u2019ve made it into India and gotten myself settled, I can start looking for the perfect bowl of butter chicken. I\u2019ve decided to learn a bit more about the dish. I also have to dish out some questions.\n",
+        "answer": 6,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 5
+    },
+    {
+        "question": "India, being the culinary capital that it is, consumes a large amount of butter chicken. If every atom of butter chicken consumed in 2022 was a full bowl of butter chicken, how many years would the giant chicken ball feed the Earth if everyone on Earth ate only butter chicken from that bowl? (Assume we don\u2019t get sick of butter chicken.)\n",
+        "answer": 22,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 6
+    },
+    {
+        "question": "Butter chicken isn\u2019t the only dish served in India. What is the proportion of all dishes served in India that is butter chicken?\n",
+        "answer": -2,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 7
+    },
+    {
+        "question": "Garam masala is an integral part of butter chicken. However, I\u2019ve forgotten which ingredients are in garam masala. How many ways are there to choose a subset of spices that belong in garam masala?\n",
+        "answer": 3,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 8
+    },
+    {
+        "question": "Similarly, I\u2019ve forgotten the ingredients in the dish itself. Assuming that garam masala is a single ingredient, how many ways are there to choose a subset of ingredients of butter chicken?\n",
+        "answer": 7,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 9
+    },
+    {
+        "question": "As I journey through India, I can see a lot of cows. As I\u2019m hungry for butter chicken, I am wondering how much of it I can have. If all the milk from cows in India is used to make butter for butter chicken, how many plates of butter chicken can we make in a year?\n",
+        "answer": 12,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 10
+    },
+    {
+        "question": "Restaurants tend to serve a lot of rice. If we filled the volume of an entire restaurant with grains of uncooked basmati rice, how many grains would it take?\n",
+        "answer": 9,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 11
+    },
+    {
+        "question": "If I placed 1 grain of rice on the first square of a chessboard, 2 grains on the second, 4 grains on the third, and 2^(n-1) grains on the nth square, how many grains of rice would be on the entire chessboard?\n",
+        "answer": 19,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 12
+    },
+    {
+        "question": "Rice often comes in 25-pound bags at the supermarket. How many of these bags are consumed daily in the world?\n",
+        "answer": 8,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 13
+    },
+    {
+        "question": "If the surface area of every planet in the Solar System was covered with rice paddies, how much water, in liters, would be needed to irrigate them? Assume the rice is grown in wet paddies.\n",
+        "answer": 20,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 14
+    },
+    {
+        "question": "Water is also needed to cook rice. How much water, in liters, would one need to cook all of the rice grown on these planetary paddies of plunderous, plump perfection?\n",
+        "answer": 17,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 15
+    },
+    {
+        "question": "How many restaurants are in India?\n",
+        "answer": 7,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 16
+    },
+    {
+        "question": "If only one restaurant in India has perfect butter chicken, on average, how many restaurants do I have to visit to have a 50% chance of finding that one?\n",
+        "answer": 7,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 17
+    },
+    {
+        "question": "If it takes an hour to review one plate of butter chicken, how many times can I visit every restaurant in India in my lifetime? Ignore travel time.\n",
+        "answer": -2,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 18
+    },
+    {
+        "question": "In rupees, how big is the restaurant industry in India?\n",
+        "answer": 12,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 19
+    },
+    {
+        "question": "If every Fermi Questions competitor at an average invitational ate a meal of butter chicken at an Indian restaurant once every day since the creation of the universe, how much money in rupees would they have spent?\n",
+        "answer": 18,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 20
+    },
+    {
+        "question": "Assuming I\u2019ve visited half of the restaurants in India on foot, how many steps have I made? (Assume optimal solution to traveling salesman problem.)\n",
+        "answer": 10,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 21
+    },
+    {
+        "question": "How many plates of butter chicken would I need to eat to travel that distance?\n",
+        "answer": 6,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 22
+    },
+    {
+        "question": "Assuming everyone from the US drove to every restaurant in India. If we make this a yearly tradition, how many gallons of gas will we use before the return of Halley\u2019s comet? (Assume everyone drives their own car.)\n",
+        "answer": 15,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 23
+    },
+    {
+        "question": "As The Proclaimers once said, \u201cI would walk 500 miles and I would roll 500 more.\u201d If I rolled inside a giant hamster wheel, how many servings of butter chicken would I need to have enough energy to travel those 500 miles?\n",
+        "answer": 2,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 24
+    },
+    {
+        "question": "If driving evenly deposited rubber over the street, how many tires would I have to drive through to deposit a 1-meter thick layer of rubber over 500 miles?\n",
+        "answer": 7,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 25
+    },
+    {
+        "question": "How much money, in USD, is spent at Michelin-star restaurants every year?\n",
+        "answer": 10,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 26
+    },
+    {
+        "question": "What proportion of restaurants are Michelin starred?\n",
+        "answer": -5,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 27
+    },
+    {
+        "question": "Assuming you were constantly eating, how many nanoseconds would it take you to eat everything the world eats in a year?\n",
+        "answer": 25,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 28
+    },
+    {
+        "question": "Assuming all people eat on plates, how many barns of plate surface is washed every year? Count only the top surface that touches food.\n",
+        "answer": 39,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 29
+    },
+    {
+        "question": "If every menu in the United States was stacked on top of each other, how many cows high would they reach?\n",
+        "answer": 5,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 30
+    },
+    {
+        "question": "What is 2023! * 20! * 23! (Very cliche question.)\n",
+        "answer": 5852,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 31
+    },
+    {
+        "question": "I, being a high school student, must study for the SAT. If I were to guess on every question in both math sections of the SAT, what is the probability that I\u2019ll get 90% or above? (Assume all questions are multiple-choice with 4 answers.)\n",
+        "answer": -27,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 32
+    },
+    {
+        "question": "Seeing that my chance here is dismal, what is the chance that I obtain an above-average math score on the SAT?\n",
+        "answer": -5,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 33
+    },
+    {
+        "question": "How many vertices are on every platonic solid, combined?\n",
+        "answer": 2,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 34
+    },
+    {
+        "question": "Another cliche question: what is the 2023rd Fibonacci number?\n",
+        "answer": 422,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 35
+    },
+    {
+        "question": "How many letters are in all Goosebumps books, combined?\n",
+        "answer": 7,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 36
+    },
+    {
+        "question": "How much energy, in terms of plates of butter chicken, would it take to press down the keys on a typewriter to write every book in the Library of Congress?\n",
+        "answer": 7,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 37
+    },
+    {
+        "question": "What fraction of the permutations of 6 arbitrary letters consist of a valid 6-letter word in English?\n",
+        "answer": -4,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 38
+    },
+    {
+        "question": "It is often said that \u201ca picture is worth a thousand words.\u201d If we converted all words in the English language into pictures, how many cartridges would it take to print them if each picture was on a piece of 5\u2019\u2019x11\u2019\u2019 paper?\n",
+        "answer": 2,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 39
+    },
+    {
+        "question": "If I wrote a book every day on paper made from a tree currently on Earth, how many nanoseconds would it take for me to use up every tree?\n",
+        "answer": 28,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 40
+    },
+    {
+        "question": "If I had an atom of Uranium-235 that formed at the birth of the Universe, what\u2019s the chance it\u2019s still an atom of Uranium-235 today?\n",
+        "answer": -6,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 41
+    },
+    {
+        "question": "If I created a baseball-sized lump of alpha particles and they traveled together at their normal speed, what would be their kinetic energy? Assume they are perfectly packed together.\n",
+        "answer": 30,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 42
+    },
+    {
+        "question": "If I liquified a mole of moles and shaped that mole into a sphere, how many barns would the surface area be? (Hail Randall Munroe)\n",
+        "answer": 42,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 43
+    },
+    {
+        "question": "How many nanograms of ATP will be produced if a cubic smoot of butter chicken was metabolized perfectly?\n",
+        "answer": 17,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 44
+    },
+    {
+        "question": "How much energy, in Joules, is needed to propel a cannonball at the edge of space to orbital velocity?\n",
+        "answer": 8,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 45
+    },
+    {
+        "question": "If Rockefeller\u2019s fortune accrued interest in a typical bank from the beginning of the universe, how many Chinese Yuan would it be worth now? (Note: The scoring for this question is different. The score is 5 if your estimate n if you calculate your answer as 10^n is within a factor of 10 of the true answer, 3 if within a factor of 100, and 1 if within a factor of )\n",
+        "answer": 20920074,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 46
+    },
+    {
+        "question": "How many red blood cells were shed by the soldiers killed in the Civil War?\n",
+        "answer": 19,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 47
+    },
+    {
+        "question": "Enrico Fermi, the scientist our event is named after, pioneered nuclear energy. How many grams of uranium would remain in a 1kg block of pure U-235 created when Fermi was born?\n",
+        "answer": 3,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 48
+    },
+    {
+        "question": "If we took every strand of hair from every human ever born and laid them end to end, how many lightyears would that mega-hair stretch?\n",
+        "answer": -1,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 49
+    },
+    {
+        "question": "In the bible, there was a cup described that had a perimeter of 30 cubits. Convert that to Smoots.\n",
+        "answer": 0,
+        "source": "FermiSweat, Fermi Questions, but butter (chicken)",
+        "number": 50
+    },
+    {
         "question": "How much volume would a mole (unit of measurement) of moles (the small furry critter) take up? [L]\n",
         "answer": 22,
         "source": "Camas Invitational 22-23",
@@ -1774,6 +2074,306 @@ data = [
         "answer": 5,
         "source": "Carolina Invitational 22-23",
         "number": 34
+    },
+    {
+        "question": "What is the flow rate of the Allegheny River (one of the three main rivers in Pittsburgh) in cubic feet per minute?\n",
+        "answer": 6,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 1
+    },
+    {
+        "question": "If you had a spherical shell of pennies 1 layer thick with the Earth\u2019s mass, what would this shell\u2019s radius be in meters?\n",
+        "answer": 11,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 2
+    },
+    {
+        "question": "How many years could all the electricity on Earth be supplied using the total light energy that hits the Earth in 1 second?\n",
+        "answer": -4,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 3
+    },
+    {
+        "question": "How many Olympic swimming pools could be filled with all the water that rains on Earth over the course of a year?\n",
+        "answer": 11,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 4
+    },
+    {
+        "question": "What is the mass of the Earth\u2019s atmosphere in kilograms?\n",
+        "answer": 19,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 5
+    },
+    {
+        "question": "If everyone on Earth submerged themselves in the ocean at the same time, how much would the sea levels rise, in meters?\n",
+        "answer": -6,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 6
+    },
+    {
+        "question": "If the Moon was made of swiss cheese, how many Calories would it be?\n",
+        "answer": 29,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 7
+    },
+    {
+        "question": "What is the surface area of Antarctica in acres?\n",
+        "answer": 9,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 8
+    },
+    {
+        "question": "Between the years of 2000 and 2020, how many people traveled through Pittsburgh International Airport?\n",
+        "answer": 8,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 9
+    },
+    {
+        "question": "How many miles are collectively driven by all Americans, per year?\n",
+        "answer": 12,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 10
+    },
+    {
+        "question": "What fraction of Americans are competing in Science Olympiad Division B or C this year?\n",
+        "answer": -4,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 11
+    },
+    {
+        "question": "How many breaths of air are taken by all competitors at this competition over the course of the competition?\n",
+        "answer": 6,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 12
+    },
+    {
+        "question": "What fraction of humans currently riding on a plane at this instant?\n",
+        "answer": -4,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 13
+    },
+    {
+        "question": "What fraction of humans that have ever lived are currently alive?\n",
+        "answer": -1,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 14
+    },
+    {
+        "question": "How many liters of water will the average person drink in their lifetime?\n",
+        "answer": 6,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 15
+    },
+    {
+        "question": "How many dollars worth of gold could a Boeing 747 cargo plane transport?\n",
+        "answer": 10,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 16
+    },
+    {
+        "question": "Over the course of the time you spend on this test, how much money will Jeff Bezos make from Amazon revenue, in dollars?\n",
+        "answer": 7,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 17
+    },
+    {
+        "question": "How much would a Sun-sized sphere made of pure silver cost in dollars?\n",
+        "answer": 34,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 18
+    },
+    {
+        "question": "How much money was spent on Halloween candy in the United States last year?\n",
+        "answer": 9,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 19
+    },
+    {
+        "question": "How many dollars worth of pennies are currently in circulation in the US?\n",
+        "answer": 9,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 20
+    },
+    {
+        "question": "What would be the value of a stack of dollar bills the height of the Statue of Liberty?\n",
+        "answer": 6,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 21
+    },
+    {
+        "question": "How many hours would an average American need to work in order to purchase a Boeing 787 Dreamliner?\n",
+        "answer": 7,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 22
+    },
+    {
+        "question": "What is the product of first ten positive perfect squares?\n",
+        "answer": 13,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 23
+    },
+    {
+        "question": "What is the number of digits in 1521315213?\n",
+        "answer": 5,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 24
+    },
+    {
+        "question": "What is the volume of an icosahedron with length 15?\n",
+        "answer": 4,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 25
+    },
+    {
+        "question": "What is the 2023th pentagonal number? (The first few pentagonal numbers are shown in Figure )\n",
+        "answer": 7,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 26
+    },
+    {
+        "question": "I have a group of 50 students, and I want to choose 15 of them to form our school\u2019s Science Olympiad A team (without choosing events yet). How many ways can I do this?\n",
+        "answer": 12,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 27
+    },
+    {
+        "question": "What is 1/(1 + 1/(2 + 1/(3 + . . . )))?\n",
+        "answer": 0,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 28
+    },
+    {
+        "question": "What is the 50th Fibonacci number (if the sequence starts with fib(0) = 0, fib(1) = 1)?\n",
+        "answer": 10,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 29
+    },
+    {
+        "question": "What is the furthest possible distance between Jupiter and Saturn (in m)?\n",
+        "answer": 12,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 30
+    },
+    {
+        "question": "What fraction of sunlight reaches earth?\n",
+        "answer": -10,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 31
+    },
+    {
+        "question": "What is the ratio of mass of Neptune to mass of Earth?\n",
+        "answer": 1,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 32
+    },
+    {
+        "question": "What is the escape velocity of an apple in a vacuum (in m/s)?\n",
+        "answer": -5,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 33
+    },
+    {
+        "question": "Assuming there was a hole that leads directly to the center of the Earth, how long would it take to fall to get there (in seconds)?\n",
+        "answer": 3,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 34
+    },
+    {
+        "question": "How many times faster is a commercial airplane (while cruising) than a normal walking pace?\n",
+        "answer": 2,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 35
+    },
+    {
+        "question": "How many times could you charge an iPhone 14 using the energy released during the Trinity nuclear test?\n",
+        "answer": 9,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 36
+    },
+    {
+        "question": "How many newtons of force are exerted on the Earth due to the gravitational attraction of the Sun?\n",
+        "answer": 22,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 37
+    },
+    {
+        "question": "What is the diameter of Sars-COV-2?\n",
+        "answer": -7,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 38
+    },
+    {
+        "question": "How many ants are on Earth?\n",
+        "answer": 16,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 39
+    },
+    {
+        "question": "Number of red blood cells produced every second in the human body?\n",
+        "answer": 6,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 40
+    },
+    {
+        "question": "Fraction of US population with Down Syndrome?\n",
+        "answer": -3,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 41
+    },
+    {
+        "question": "How much honey does a honeybee make in its lifetime in kg?\n",
+        "answer": -3,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 42
+    },
+    {
+        "question": "What is the average lifespan of a lanternfly (in days)?\n",
+        "answer": 2,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 43
+    },
+    {
+        "question": "How many twists does DNA make within a single human cell?\n",
+        "answer": 9,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 44
+    },
+    {
+        "question": "How many classrooms does CMU have in the Pittsburgh campus?\n",
+        "answer": 2,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 45
+    },
+    {
+        "question": "What is the number of courses offered on the CMU Pittsburgh campus in spring 2023?\n",
+        "answer": 3,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 46
+    },
+    {
+        "question": "How many active student organizations does CMU have?\n",
+        "answer": 2,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 47
+    },
+    {
+        "question": "How many applicants were there for the class of 2026?\n",
+        "answer": 4,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 48
+    },
+    {
+        "question": "What is the endowment of CMU per year?\n",
+        "answer": 9,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 49
+    },
+    {
+        "question": "What is the size of CMU\u2019s campus (in square meters)?\n",
+        "answer": 6,
+        "source": "Carnegie Mellon Invitational 22-23",
+        "number": 50
     },
     {
         "question": "In honor of me eating at Cracker Barrel for the first time in my life this year, what is the annual revenue (in USD) of Cracker Barrel in 2022?\n",
