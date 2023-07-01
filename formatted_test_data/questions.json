@@ -4446,6 +4446,366 @@
         "number": 45
     },
     {
+        "question": "What are you and your partner's combined heights, in mm?\n",
+        "answer": 3,
+        "source": "mit_2023.txt",
+        "number": 1
+    },
+    {
+        "question": "How many letters are in you and your partner's first and last name combined?\n",
+        "answer": 1,
+        "source": "mit_2023.txt",
+        "number": 2
+    },
+    {
+        "question": "What is your team number [Go with the highest MIT team number]?\n",
+        "answer": 2,
+        "source": "mit_2023.txt",
+        "number": 3
+    },
+    {
+        "question": "How old are you, in minutes?\n",
+        "answer": 7,
+        "source": "mit_2023.txt",
+        "number": 4
+    },
+    {
+        "question": "What year was your mother born in?\n",
+        "answer": 3,
+        "source": "mit_2023.txt",
+        "number": 5
+    },
+    {
+        "question": "How many hairs are on your head? (For this question we're gonna assume you\u2019re not bald)\n",
+        "answer": 5,
+        "source": "mit_2023.txt",
+        "number": 6
+    },
+    {
+        "question": "How many red blood cells are contained within your body?\n",
+        "answer": 13,
+        "source": "mit_2023.txt",
+        "number": 7
+    },
+    {
+        "question": "How many atoms are contained in your body?\n",
+        "answer": 28,
+        "source": "mit_2023.txt",
+        "number": 8
+    },
+    {
+        "question": "What is the surface area of your skin, in km2?\n",
+        "answer": -6,
+        "source": "mit_2023.txt",
+        "number": 9
+    },
+    {
+        "question": "How many digits do you have on your hand and feet?\n",
+        "answer": 1,
+        "source": "mit_2023.txt",
+        "number": 10
+    },
+    {
+        "question": "What is your SSN, excluding dashes? [Go with the highest US SSN]\n",
+        "answer": 9,
+        "source": "mit_2023.txt",
+        "number": 11
+    },
+    {
+        "question": "How many cases of fraud and identity theft are there per year in the United States, as reported by the US Federal Trade Commission?\n",
+        "answer": 7,
+        "source": "mit_2023.txt",
+        "number": 12
+    },
+    {
+        "question": "Rae wants to gain access to your bank, but she forgot to ask which Commercial bank system that you utilize. If you utilize a FDIC-insured commercial bank and she hacks into a random FDIC-insured commercial bank, what is the probability that she hits a bank that includes your account?\n",
+        "answer": -4,
+        "source": "mit_2023.txt",
+        "number": 13
+    },
+    {
+        "question": "Rae also attempts to redirect your income into her account using your SSN. Assuming you make the median income, how many cents can Rae expect to be deposited into her account per year before taxes (because obviously a scammer would evade taxes)?\n",
+        "answer": 7,
+        "source": "mit_2023.txt",
+        "number": 14
+    },
+    {
+        "question": "Andru and Rae buy a ton (unit) of average store brought pineapples. How many pineapples did they buy?\n",
+        "answer": 3,
+        "source": "mit_2023.txt",
+        "number": 15
+    },
+    {
+        "question": "Pine... Apples... How many times more would a 50 foot tall pine tree weigh compared to an apple?\n",
+        "answer": 4,
+        "source": "mit_2023.txt",
+        "number": 16
+    },
+    {
+        "question": "It's pretty dang hard to get caught for tax evasion. By IRS estimates, what percentage of people that evade taxes in some form get caught and convicted for doing so?\n",
+        "answer": -2,
+        "source": "mit_2023.txt",
+        "number": 17
+    },
+    {
+        "question": "How many individuals are incarcerated in prison at any given point in the US?\n",
+        "answer": 6,
+        "source": "mit_2023.txt",
+        "number": 18
+    },
+    {
+        "question": "What is the annual cost in USD of incarcerating one person for one year in NYC?\n",
+        "answer": 6,
+        "source": "mit_2023.txt",
+        "number": 19
+    },
+    {
+        "question": "For the crimes committed (fraud and tax evasion), how long could Rae and Andru be sentenced for, in decades? (assume sentences would be concurrent, and they are sentenced to the upper limit of federal guidelines).\n",
+        "answer": 1,
+        "source": "mit_2023.txt",
+        "number": 20
+    },
+    {
+        "question": "How much would a cubic meter of dirt weigh, in milligrams?\n",
+        "answer": 9,
+        "source": "mit_2023.txt",
+        "number": 21
+    },
+    {
+        "question": "Let's see how realistic it would be to break out. How many prisoners break out of State or Federal prisons each year?\n",
+        "answer": 3,
+        "source": "mit_2023.txt",
+        "number": 22
+    },
+    {
+        "question": "How many gallons of air are breathed in with one breath at rest?\n",
+        "answer": -1,
+        "source": "mit_2023.txt",
+        "number": 23
+    },
+    {
+        "question": "Ah yes, the duo finally touched grass for the first time in months... How many grass blades are in contact with one foot stepping on grass?\n",
+        "answer": 3,
+        "source": "mit_2023.txt",
+        "number": 24
+    },
+    {
+        "question": "Andru and Rae decide to leave and go make a new life for themselves. They decide on going to Paris, France. How far in gigameters would they need to travel from NYC to reach their final destination?\n",
+        "answer": -2,
+        "source": "mit_2023.txt",
+        "number": 25
+    },
+    {
+        "question": "How many ways are there to make change for a dollar (Quarters, dimes, nickels, pennies)?\n",
+        "answer": 2,
+        "source": "mit_2023.txt",
+        "number": 26
+    },
+    {
+        "question": "4329\n",
+        "answer": 47,
+        "source": "mit_2023.txt",
+        "number": 27
+    },
+    {
+        "question": "Given: log(e) = .4342944. Calculate 10,000!\n",
+        "answer": 35659,
+        "source": "mit_2023.txt",
+        "number": 28
+    },
+    {
+        "question": "What is the 250th fibonacci number divided by the 50th fibonacci number?\n",
+        "answer": 42,
+        "source": "mit_2023.txt",
+        "number": 29
+    },
+    {
+        "question": "10^(10^(10^(10^-100)))\n",
+        "answer": 10,
+        "source": "mit_2023.txt",
+        "number": 30
+    },
+    {
+        "question": "How many cans of SpaghettiOs does it take to have enough letters to rewrite the entire Lord of the Rings trilogy?\n",
+        "answer": 4,
+        "source": "mit_2023.txt",
+        "number": 31
+    },
+    {
+        "question": "If I can read a book a day, how many picoseconds would it take for me to read every book that has ever been published?\n",
+        "answer": 25,
+        "source": "mit_2023.txt",
+        "number": 32
+    },
+    {
+        "question": "How many languages are currently spoken in the world?\n",
+        "answer": 4,
+        "source": "mit_2023.txt",
+        "number": 33
+    },
+    {
+        "question": "If you guess the same valid Wordle word every single day (assuming all valid words occur in equal frequency and can repeat), how many centuries would it take until you have a >50% chance of getting a Wordle in one?\n",
+        "answer": -2,
+        "source": "mit_2023.txt",
+        "number": 34
+    },
+    {
+        "question": "How many letters are utilized by this very quirky sentence? History! Or uh kinda history related...\n",
+        "answer": 1,
+        "source": "mit_2023.txt",
+        "number": 35
+    },
+    {
+        "question": "How long, in light-feet, has the earth existed for?\n",
+        "answer": 26,
+        "source": "mit_2023.txt",
+        "number": 36
+    },
+    {
+        "question": "How large is the surface area of the United States in Barns (unit, not building)?\n",
+        "answer": 41,
+        "source": "mit_2023.txt",
+        "number": 37
+    },
+    {
+        "question": "In the duration of the Black Plague pandemic, how many humans died per year globally?\n",
+        "answer": 7,
+        "source": "mit_2023.txt",
+        "number": 38
+    },
+    {
+        "question": "The cubit is the first known unit of length used by ancient humans, while the Planck units were very recent, first originating in How many Planck lengths long is one typical cubit?\n",
+        "answer": 34,
+        "source": "mit_2023.txt",
+        "number": 39
+    },
+    {
+        "question": "How many years ago did Homo sapiens originate? And obviously the most important subject: Science!\n",
+        "answer": 5,
+        "source": "mit_2023.txt",
+        "number": 40
+    },
+    {
+        "question": "(Biology) How many molecules of ATP are used by an average adult over the period of a fortnight?\n",
+        "answer": 27,
+        "source": "mit_2023.txt",
+        "number": 41
+    },
+    {
+        "question": "(Chemistry): How many possible isomers are there of the molecule Tetracontane (molecular formula: C40H82)?\n",
+        "answer": 14,
+        "source": "mit_2023.txt",
+        "number": 42
+    },
+    {
+        "question": "(Physics): If earth is replaced by an equivalent mass of swiss cheese, what is the new acceleration due to gravity (g)?\n",
+        "answer": 0,
+        "source": "mit_2023.txt",
+        "number": 43
+    },
+    {
+        "question": "(Astronomy/Chemistry): If all of the energy from a type Ia supernova was pumped into the ice in Antarctica, what would be the final temperature of the ice in Kelvin?\n",
+        "answer": 21,
+        "source": "mit_2023.txt",
+        "number": 44
+    },
+    {
+        "question": "(Environmental Science): How many milligrams of nitrogen are biologically fixed every year?\n",
+        "answer": 17,
+        "source": "mit_2023.txt",
+        "number": 45
+    },
+    {
+        "question": "Pick a integer between 1- The answer to this question will be the product of all valid responses for this question from all teams.\n",
+        "answer": 101,
+        "source": "mit_2023.txt",
+        "number": 46
+    },
+    {
+        "question": "Pick another integer between 1- The answer to this question will be the sum of all valid responses for this question from all teams.\n",
+        "answer": 2,
+        "source": "mit_2023.txt",
+        "number": 47
+    },
+    {
+        "question": "Pick any non-negative integer. The answer to this question will be the median of all valid responses for this question from all teams.\n",
+        "answer": 0,
+        "source": "mit_2023.txt",
+        "number": 48
+    },
+    {
+        "question": " Between the last three questions, how many total teams received full points on at least one of the questions?\n",
+        "answer": 1,
+        "source": "mit_2023.txt",
+        "number": 49
+    },
+    {
+        "question": "DISCARDD DISCARD\n",
+        "answer": 0,
+        "source": "mit_2023.txt",
+        "number": 50
+    },
+    {
+        "question": "Let's start with some unit conversions. Not too bad right? An Henry (units) is a measurement of electrical inductance with SI units of (kg)(m)^2(s)^-2(A)^- Convert one Henry to units of (solar masses)(astronomical units)^2(years)^-2(nanoamperes)^-2\n",
+        "answer": -56,
+        "source": "mit_2023.txt",
+        "number": 51
+    },
+    {
+        "question": "At the time of writing this question, it's almost Christmas, which means gift wrapping! If I take a point and continue to wrap layers of .1 mm thick wrapping paper around, how many layers would be needed for the layered wrapping papers to collapse into a black hole? Presume perfect wrapping and that any resulting sphere has the density of wrapping paper.\n",
+        "answer": 15,
+        "source": "mit_2023.txt",
+        "number": 52
+    },
+    {
+        "question": "What is primorial(30)? A primorial is when for the nth prime number, the primorial is defined as the product of the first n primes.\n",
+        "answer": 46,
+        "source": "mit_2023.txt",
+        "number": 53
+    },
+    {
+        "question": "Peter Piper picked a peta-pound of palatable pineapples. If Peter Piper places a pair of pennies per pico-pineapple picked perfectly planar what percent of Peru (by surface area) can Peter Piper pack?\n",
+        "answer": 13,
+        "source": "mit_2023.txt",
+        "number": 54
+    },
+    {
+        "question": "Humans beings give off heat emitted as infrared radiation with a wavelength of around 1 mm. How many centuries would it take for all current humans (assume they are at rest) in the world to emit as many photons as there are atoms on earth?\n",
+        "answer": 7,
+        "source": "mit_2023.txt",
+        "number": 55
+    },
+    {
+        "question": "How fast does a point one femto-chain away expand in giga-fathom per nanocentury due to the expansion of the universe?\n",
+        "answer": -40,
+        "source": "mit_2023.txt",
+        "number": 56
+    },
+    {
+        "question": "The probability of winning the Powerball lotto is 1/292,201,338 per play. How many dollars would you have to spend to buy enough tickets so that you are more likely to have won the powerball 10 times in a row than to not have won 10 times in a row?\n",
+        "answer": 85,
+        "source": "mit_2023.txt",
+        "number": 57
+    },
+    {
+        "question": "Bitcoin mining can get quite energy intensive. In his quest to mine bitcoins, Aidan has come up with a brilliant idea: he develops the Potential Energy Collecting Setup (PECS) that can collect gravitational potential energy of a falling object and transform 100% of that energy into mining bitcoins. If Aidan places PECS in his room and jumps up and down, where PECS collects Aidan's gravitational potential energy at each peak of his jump, how many times must Aidan jump to mine one Bitcoin?\n",
+        "answer": 7,
+        "source": "mit_2023.txt",
+        "number": 58
+    },
+    {
+        "question": "You have a spherical mass of gold of the maximum size such that Aidan from the previous problem can jump into orbit (achieve escape velocity). If Aidan were to melt down this mass of gold and sell it, how much money in USD could Aidan theoretically make?\n",
+        "answer": 19,
+        "source": "mit_2023.txt",
+        "number": 59
+    },
+    {
+        "question": "They say to shoot for the moon and if you miss you'll land among the stars. If you randomly shoot a ray in any direction, how many times more likely are you to hit the moon as compared to hitting any star visible by the naked eye?\n",
+        "answer": 0,
+        "source": "mit_2023.txt",
+        "number": 60
+    },
+    {
         "question": "How many hydrogen atoms can fit inside of a gallon bottle?\n",
         "answer": 28,
         "source": "North Pocono Invitational 22-23",
@@ -7404,153 +7764,303 @@
         "number": 30
     },
     {
-        "question": "What was the cost (in 2018 USD) of all the energy UT Austin has used since 2010?\n",
-        "answer": 9,
+        "question": "If you had a stack of all the gold bars in Fort Knox, how high would it be, as a multiple of the distance that Voyager 1 has traveled?\n",
+        "answer": -5,
         "source": "UT Austin Invitational 17-18",
         "number": 1
     },
     {
-        "question": "If you had enough large 18-inch delicious pepperoni pizzas to cover Green- land completely, how much human bodies\u2019 worth of calcium would be in those pizzas?\n",
-        "answer": 10,
+        "question": "How many potassium atoms/ions are contained in the world\u2019s annual banana production?\n",
+        "answer": 33,
         "source": "UT Austin Invitational 17-18",
         "number": 2
     },
     {
-        "question": "How many astronomical units would a stack of pennies reach if its monetary value represented the value of all the gold in the US Federal Reserve Bank of New York?\n",
-        "answer": -2,
+        "question": "How many times would you have to flush the toilet in your average suburban American home, in order to flush enough water to fill Lake Baikal?\n",
+        "answer": 15,
         "source": "UT Austin Invitational 17-18",
         "number": 3
     },
     {
-        "question": "How long, in days, would it take a SR-71 Blackbird (traveling at constant top speed) to travel from Earth to the center of the Milky Way?\n",
-        "answer": 12,
+        "question": "A mole of moles weighs as much as how many grains of rice?\n",
+        "answer": 27,
         "source": "UT Austin Invitational 17-18",
         "number": 4
     },
     {
-        "question": "How many miles do Austin drivers collectively drive each day?\n",
-        "answer": 8,
+        "question": "How high (in furlongs) would a stack of a googol sheets of saran wrap be?\n",
+        "answer": 91,
         "source": "UT Austin Invitational 17-18",
         "number": 5
     },
     {
-        "question": "How many pieces of avocado toast could millenials buy with the money consumers have spent on Minecraft?\n",
-        "answer": 9,
+        "question": "Yo mamma so fat, she took all the Big Macs sold in the US last year and gobbled \u2019em right up! How many pounds of fat are in yo mamma now? Assume that yo mama ain\u2019t burning any o\u2019 those calories, cuz ain\u2019t nobody got time for that!\n",
+        "answer": 8,
         "source": "UT Austin Invitational 17-18",
         "number": 6
     },
     {
-        "question": "How many pollen grains would it take to build a scale model of Mount Everest? (assume the pollen grains are packed together as tightly as possible)\n",
-        "answer": 20,
+        "question": "Calculate the number of years of (in-state) tuition at UT that Equifax\u2019s annual revenue could pay for.\n",
+        "answer": 5,
         "source": "UT Austin Invitational 17-18",
         "number": 7
     },
     {
-        "question": "Calculate the escape velocity of the Sun, in miles per hour.\n",
-        "answer": 5,
+        "question": "What fraction of the photons in the observable universe are emitted by a 1 W light bulb in a minute?\n",
+        "answer": -69,
         "source": "UT Austin Invitational 17-18",
         "number": 8
     },
     {
-        "question": "If you drop this test onto the ground (assuming none of the pages are separated and the test is not crumbled up), how far in meters will the center of Earth move up towards it?\n",
-        "answer": -26,
+        "question": "How many dishwashers could be powered for a decade, by all the electricity the Three Gorges Dam generated last year?\n",
+        "answer": 7,
         "source": "UT Austin Invitational 17-18",
         "number": 9
     },
     {
-        "question": "What fraction of Earth\u2019s total recorded seismic energy release occurred in 1960?\n",
-        "answer": -1,
+        "question": "How intense is the air pressure in a car tire compared to the radiation pressure generated right after ignition of the primary stage in a hydrogen bomb?\n",
+        "answer": -9,
         "source": "UT Austin Invitational 17-18",
         "number": 10
     },
     {
-        "question": "How many Hot WheelsTMare sold in Austin every day?\n",
-        "answer": 2,
+        "question": "How many F-35 Lightning IIs could an average American worker buy with a minute\u2019s wage?\n",
+        "answer": -9,
         "source": "UT Austin Invitational 17-18",
         "number": 11
     },
     {
-        "question": "A mole of piano tuners will reasonably serve how big of a population (that is identical to Earth\u2019s current demographics and culture)?\n",
-        "answer": 29,
+        "question": "For how many planck times was the comic strip Calvin and Hobbes officially in newspapers (up until the last new strip\u2019s publication)?\n",
+        "answer": 52,
         "source": "UT Austin Invitational 17-18",
         "number": 12
     },
     {
-        "question": "How fast, in meters per second, would you have to fire one neutron at this test in order to singlehandedly(singleparticledly?) set it all on fire?\n",
-        "answer": 15,
+        "question": "Bill Gates could fully fund how many construction projects to renovate Speedway Mall at UT?\n",
+        "answer": 3,
         "source": "UT Austin Invitational 17-18",
         "number": 13
     },
     {
-        "question": "How many islands are in Scandinavia?\n",
-        "answer": 5,
+        "question": "If you stacked all the iPhones ever sold on top of each other (flat side up, duh), how tall would that stack be in terms of Burj Khalifas?\n",
+        "answer": 4,
         "source": "UT Austin Invitational 17-18",
         "number": 14
     },
     {
-        "question": "What is the value (2018 USD) of all the printer ink in the world?\n",
+        "question": "Give the number of hairs on the average Labrador retriever, as a multiple of the number of joules consumed by pressing a single key on a typical laptop keyboard.\n",
         "answer": 10,
         "source": "UT Austin Invitational 17-18",
         "number": 15
     },
     {
-        "question": "How many pounds of human hair grow each year?\n",
+        "question": "How many electrons are in a typical human body?\n",
+        "answer": 28,
+        "source": "UT Austin Invitational 17-18",
+        "number": 16
+    },
+    {
+        "question": "How many cubic yottameters of natural gas will an average American use in a lifetime?\n",
+        "answer": -67,
+        "source": "UT Austin Invitational 17-18",
+        "number": 17
+    },
+    {
+        "question": "How many blades of grass (yes, fake turf counts) are on your average football field? Exclude the end zones.\n",
         "answer": 9,
         "source": "UT Austin Invitational 17-18",
+        "number": 18
+    },
+    {
+        "question": "Yo mamma not only fat, she so fat that she is seriously concerned about her health and well-being. How many hours would she have to run in order to burn off all those delicious Big Macs from question 6?\n",
+        "answer": 9,
+        "source": "UT Austin Invitational 17-18",
+        "number": 19
+    },
+    {
+        "question": "If all the mobile phones ever sold were represented by grains of sand (one grain per phone), how many 1-gallon milk jugs would those grains fill?\n",
+        "answer": 2,
+        "source": "UT Austin Invitational 17-18",
+        "number": 20
+    },
+    {
+        "question": "How many teaspoons would it take to hold the water in all the world\u2019s oceans?\n",
+        "answer": 15,
+        "source": "UT Austin Invitational 17-18",
+        "number": 21
+    },
+    {
+        "question": "How many Olympic-sized swimming pools could you fill with the water from a shower lasting one galactic year?\n",
+        "answer": 9,
+        "source": "UT Austin Invitational 17-18",
+        "number": 22
+    },
+    {
+        "question": "How many National Merit semifinalists has Texas produced since 2000?\n",
+        "answer": 4,
+        "source": "UT Austin Invitational 17-18",
+        "number": 23
+    },
+    {
+        "question": "How many Svedbergs would it take you to memorize the definition of every word in the full Webster\u2019s Third New International dictionary, assuming that you\u2019re super dumb and took an average of a fortnight to memorize each word?\n",
+        "answer": 25,
+        "source": "UT Austin Invitational 17-18",
+        "number": 24
+    },
+    {
+        "question": "Perform the extremely complex mathematical operation 1 +  Calculate the answer in base .\n",
+        "answer": 17,
+        "source": "UT Austin Invitational 17-18",
+        "number": 25
+    },
+    {
+        "question": "What was the cost (in 2018 USD) of all the energy UT Austin has used since 2010?\n",
+        "answer": 9,
+        "source": "UT Austin Invitational 18-19",
+        "number": 1
+    },
+    {
+        "question": "If you had enough large 18-inch delicious pepperoni pizzas to cover Green- land completely, how much human bodies\u2019 worth of calcium would be in those pizzas?\n",
+        "answer": 10,
+        "source": "UT Austin Invitational 18-19",
+        "number": 2
+    },
+    {
+        "question": "How many astronomical units would a stack of pennies reach if its monetary value represented the value of all the gold in the US Federal Reserve Bank of New York?\n",
+        "answer": -2,
+        "source": "UT Austin Invitational 18-19",
+        "number": 3
+    },
+    {
+        "question": "How long, in days, would it take a SR-71 Blackbird (traveling at constant top speed) to travel from Earth to the center of the Milky Way?\n",
+        "answer": 12,
+        "source": "UT Austin Invitational 18-19",
+        "number": 4
+    },
+    {
+        "question": "How many miles do Austin drivers collectively drive each day?\n",
+        "answer": 8,
+        "source": "UT Austin Invitational 18-19",
+        "number": 5
+    },
+    {
+        "question": "How many pieces of avocado toast could millenials buy with the money consumers have spent on Minecraft?\n",
+        "answer": 9,
+        "source": "UT Austin Invitational 18-19",
+        "number": 6
+    },
+    {
+        "question": "How many pollen grains would it take to build a scale model of Mount Everest? (assume the pollen grains are packed together as tightly as possible)\n",
+        "answer": 20,
+        "source": "UT Austin Invitational 18-19",
+        "number": 7
+    },
+    {
+        "question": "Calculate the escape velocity of the Sun, in miles per hour.\n",
+        "answer": 5,
+        "source": "UT Austin Invitational 18-19",
+        "number": 8
+    },
+    {
+        "question": "If you drop this test onto the ground (assuming none of the pages are separated and the test is not crumbled up), how far in meters will the center of Earth move up towards it?\n",
+        "answer": -26,
+        "source": "UT Austin Invitational 18-19",
+        "number": 9
+    },
+    {
+        "question": "What fraction of Earth\u2019s total recorded seismic energy release occurred in 1960?\n",
+        "answer": -1,
+        "source": "UT Austin Invitational 18-19",
+        "number": 10
+    },
+    {
+        "question": "How many Hot WheelsTMare sold in Austin every day?\n",
+        "answer": 2,
+        "source": "UT Austin Invitational 18-19",
+        "number": 11
+    },
+    {
+        "question": "A mole of piano tuners will reasonably serve how big of a population (that is identical to Earth\u2019s current demographics and culture)?\n",
+        "answer": 29,
+        "source": "UT Austin Invitational 18-19",
+        "number": 12
+    },
+    {
+        "question": "How fast, in meters per second, would you have to fire one neutron at this test in order to singlehandedly(singleparticledly?) set it all on fire?\n",
+        "answer": 15,
+        "source": "UT Austin Invitational 18-19",
+        "number": 13
+    },
+    {
+        "question": "How many islands are in Scandinavia?\n",
+        "answer": 5,
+        "source": "UT Austin Invitational 18-19",
+        "number": 14
+    },
+    {
+        "question": "What is the value (2018 USD) of all the printer ink in the world?\n",
+        "answer": 10,
+        "source": "UT Austin Invitational 18-19",
+        "number": 15
+    },
+    {
+        "question": "How many pounds of human hair grow each year?\n",
+        "answer": 9,
+        "source": "UT Austin Invitational 18-19",
         "number": 16
     },
     {
         "question": "How many gluons are in Earth?\n",
         "answer": 52,
-        "source": "UT Austin Invitational 17-18",
+        "source": "UT Austin Invitational 18-19",
         "number": 17
     },
     {
         "question": "In an average year, how many neutrinos pass through UT students?\n",
         "answer": 26,
-        "source": "UT Austin Invitational 17-18",
+        "source": "UT Austin Invitational 18-19",
         "number": 18
     },
     {
         "question": "How many dryers could an ant power?\n",
         "answer": -9,
-        "source": "UT Austin Invitational 17-18",
+        "source": "UT Austin Invitational 18-19",
         "number": 19
     },
     {
         "question": "At the awards ceremony of this event, for how long (in minutes) would everyone need to continuously clap in order to collectively generate the energy output of the 2004 Indian Ocean earthquake? (M W = 3)\n",
         "answer": 12,
-        "source": "UT Austin Invitational 17-18",
+        "source": "UT Austin Invitational 18-19",
         "number": 20
     },
     {
         "question": "How many Lake Eries would it take to hold a pile of every credit and debit card in the world?\n",
         "answer": -5,
-        "source": "UT Austin Invitational 17-18",
+        "source": "UT Austin Invitational 18-19",
         "number": 21
     },
     {
         "question": "How many ATP molecules would you hydrolyze walking to the top of the Burj Khalifa?\n",
         "answer": 3,
-        "source": "UT Austin Invitational 17-18",
+        "source": "UT Austin Invitational 18-19",
         "number": 22
     },
     {
         "question": "How many years will it take for you to walk up to turn this test in? (Answer while sitting in your seats please I know what you\u2019re thinking)\n",
         "answer": -7,
-        "source": "UT Austin Invitational 17-18",
+        "source": "UT Austin Invitational 18-19",
         "number": 23
     },
     {
         "question": "What is the probability of winning an expert-difficulty game of minesweeper by randomly clicking?\n",
         "answer": -105,
-        "source": "UT Austin Invitational 17-18",
+        "source": "UT Austin Invitational 18-19",
         "number": 24
     },
     {
         "question": "Consider a hydrogen atom in this room, with a single electron permanently occupying its 1s shell. What is the probability of finding that electron on the moon?\n",
         "answer": -6343822165051000000,
-        "source": "UT Austin Invitational 17-18",
+        "source": "UT Austin Invitational 18-19",
         "number": 25
     },
     {

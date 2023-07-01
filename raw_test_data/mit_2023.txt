@@ -16,7 +16,7 @@ you’re not bald)
 9. What is the surface area of your skin, in km2?
 10. How many digits do you have on your hand and feet?
 
-11. DISCARD
+11. What is your SSN, excluding dashes? [Go with the highest US SSN]
 
 
 12. How many cases of fraud and identity theft are there per year in the
@@ -153,7 +153,7 @@ stars. If you randomly shoot a ray in any direction, how many times more
 likely are you to hit the moon as compared to hitting any star visible by the
 naked eye?
 
-1
+3
 1
 2
 7
@@ -169,12 +169,6 @@ naked eye?
 7
 -4
 7
-1
-
-6
-7
--4
--7
 3
 
 4

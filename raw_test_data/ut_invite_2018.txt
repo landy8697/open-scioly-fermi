@@ -1,96 +1,99 @@
 _QUESTIONFORMAT_ r'Question'
 _ANSWERFORMAT_ STYLE_QUESTION_NUMBER
 
-Question 1. What was the cost (in 2018 USD) of all the energy UT Austin has used
-since 2010?
+Question 1. If you had a stack of all the gold bars in Fort Knox, how high would it be, as a multiple
+of the distance that Voyager 1 has traveled?
 
-Question 2. If you had enough large 18-inch delicious pepperoni pizzas to cover Green-
-land completely, how much human bodies’ worth of calcium would be in those pizzas?
+Question 2. How many potassium atoms/ions are contained in the world’s annual banana production?
 
-Question 3. How many astronomical units would a stack of pennies reach if its monetary
-value represented the value of all the gold in the US Federal Reserve Bank of New York?
+Question 3. How many times would you have to flush the toilet in your average suburban American
+home, in order to flush enough water to fill Lake Baikal?
 
-Question 4. How long, in days, would it take a SR-71 Blackbird (traveling at constant
-top speed) to travel from Earth to the center of the Milky Way?
+Question 4. A mole of moles weighs as much as how many grains of rice?
 
-Question 5. How many miles do Austin drivers collectively drive each day?
+Question 5. How high (in furlongs) would a stack of a googol sheets of saran wrap be?
 
-Question 6. How many pieces of avocado toast could millenials buy with the money
-consumers have spent on Minecraft?
+Question 6. Yo mamma so fat, she took all the Big Macs sold in the US last year and gobbled ’em
+right up! How many pounds of fat are in yo mamma now? Assume that yo mama ain’t burning any o’ those
+calories, cuz ain’t nobody got time for that!
 
-Question 7. How many pollen grains would it take to build a scale model of Mount
-Everest? (assume the pollen grains are packed together as tightly as possible)
+Question 7. Calculate the number of years of (in-state) tuition at UT that Equifax’s annual revenue
+could pay for.
 
-Question 8. Calculate the escape velocity of the Sun, in miles per hour.
+Question 8. What fraction of the photons in the observable universe are emitted by a 1 W light bulb
+in a minute?
 
-Question 9. If you drop this test onto the ground (assuming none of the pages are
-separated and the test is not crumbled up), how far in meters will the center of Earth move
-up towards it?
+Question 9. How many dishwashers could be powered for a decade, by all the electricity the Three
+Gorges Dam generated last year?
 
-Question 10. What fraction of Earth’s total recorded seismic energy release occurred in
-1960?
+Question 10. How intense is the air pressure in a car tire compared to the radiation pressure generated
+right after ignition of the primary stage in a hydrogen bomb?
 
-Question 11. How many Hot WheelsTMare sold in Austin every day?
+Question 11. How many F-35 Lightning IIs could an average American worker buy with a minute’s
+wage?
 
-Question 12. A mole of piano tuners will reasonably serve how big of a population (that
-is identical to Earth’s current demographics and culture)?
+Question 12. For how many planck times was the comic strip Calvin and Hobbes officially in newspapers
+(up until the last new strip’s publication)?
 
-Question 13. How fast, in meters per second, would you have to fire one neutron at this
-test in order to singlehandedly(singleparticledly?) set it all on fire?
+Question 13. Bill Gates could fully fund how many construction projects to renovate Speedway Mall
+at UT?
 
-Question 14. How many islands are in Scandinavia?
+Question 14. If you stacked all the iPhones ever sold on top of each other (flat side up, duh), how tall
+would that stack be in terms of Burj Khalifas?
 
-Question 15. What is the value (2018 USD) of all the printer ink in the world?
+Question 15. Give the number of hairs on the average Labrador retriever, as a multiple of the number
+of joules consumed by pressing a single key on a typical laptop keyboard.
 
-Question 16. How many pounds of human hair grow each year?
+Question 16. How many electrons are in a typical human body?
 
-Question 17. How many gluons are in Earth?
+Question 17. How many cubic yottameters of natural gas will an average American use in a lifetime?
 
-Question 18. In an average year, how many neutrinos pass through UT students?
+Question 18. How many blades of grass (yes, fake turf counts) are on your average football field?
+Exclude the end zones.
 
-Question 19. How many dryers could an ant power?
+Question 19. Yo mamma not only fat, she so fat that she is seriously concerned about her health and
+well-being. How many hours would she have to run in order to burn off all those delicious Big Macs from
+question 6?
 
-Question 20. At the awards ceremony of this event, for how long (in minutes) would
-everyone need to continuously clap in order to collectively generate the energy output of the
-2004 Indian Ocean earthquake? (M W = 9.3)
+Question 20. If all the mobile phones ever sold were represented by grains of sand (one grain per
+phone), how many 1-gallon milk jugs would those grains fill?
 
-Question 21. How many Lake Eries would it take to hold a pile of every credit and
-debit card in the world?
+Question 21. How many teaspoons would it take to hold the water in all the world’s oceans?
 
-Question 22. How many ATP molecules would you hydrolyze walking to the top of the
-Burj Khalifa?
+Question 22. How many Olympic-sized swimming pools could you fill with the water from a shower
+lasting one galactic year?
 
-Question 23. How many years will it take for you to walk up to turn this test in?
-(Answer while sitting in your seats please I know what you’re thinking)
+Question 23. How many National Merit semifinalists has Texas produced since 2000?
 
-Question 24. What is the probability of winning an expert-difficulty game of minesweeper
-by randomly clicking?
+Question 24. How many Svedbergs would it take you to memorize the definition of every word in the
+full Webster’s Third New International dictionary, assuming that you’re super dumb and took an average of
+a fortnight to memorize each word?
 
-Question 25. Consider a hydrogen atom in this room, with a single electron permanently
-occupying its 1s shell. What is the probability of finding that electron on the moon?
+Question 25. Perform the extremely complex mathematical operation 1 + 1. Calculate the answer in
+base .00000000000000000879999999352322.
 
-1. 9
-2. 10
-3. -2
-4. 12
-5. 8
-6. 9
-7. 20
-8. 5
-9. -26
-10. -1
-11. 2
-12. 29
-13. 15
-14. 5
+1. -5
+2. 33
+3. 15
+4. 27
+5. 91
+6. 8
+7. 5
+8. -69
+9. 7
+10. -9
+11. -9
+12. 52
+13. 3
+14. 4
 15. 10
-16. 9
-17. 52
-18. 26
-19. -9
-20. 12
-21. -5
-22. 3
-23. -7
-24. -105
-25. -6343822165051000000
+16. 28
+17. -67
+18. 9
+19. 9
+20. 2
+21. 15
+22. 9
+23. 4
+24. 25
+25. 17

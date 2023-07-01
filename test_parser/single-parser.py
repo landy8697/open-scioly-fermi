@@ -6,6 +6,10 @@ filepath = "raw_test_data"
 filepath2 = "test_parser"
 new_filepath = "formatted_test_data"
 
+current_file = "ut_invite_2019.txt" #ONLY LINE THAT NEEDS TO BE CHANGED
+path = f".\\{new_filepath}\\{current_file}"
+title = open(path, "r", encoding="utf-8").readline().strip() if os.path.isfile(path) else current_file #Reading old title if file is already formatted
+filewrite = open(path, "w", encoding="utf-8")
 
 settings = []
 settings.extend([
@@ -102,12 +106,7 @@ def getAnswer(line):
     return -9999999
 
 
-def read_full_disjoint(current_file:str):
-    questions = []
-    answers = []
-    path = f".\\{new_filepath}\\{current_file}"
-    title = open(path, "r", encoding="utf-8").readline().strip() if os.path.isfile(path) else current_file #Reading old title if file is already formatted
-    filewrite = open(path, "w", encoding="utf-8")
+def read_full_disjoint():
     question_num = 0
     for line in fileinput.input(files=(f"{filepath}\\{current_file}"), encoding="utf-8"):
         if("_QUESTIONFORMAT_" in line or "_ANSWERFORMAT_" in line):
@@ -134,33 +133,26 @@ def read_full_disjoint(current_file:str):
                 questions.append("") 
             elif(question_num > 0):
                 questions[-1] += f" {token}"
-        #print(answers)
-    questions[-1] = questionsCleanup(questions[-1]).strip()
-    print(f"QUESTION LENGTH: {len(questions)}, ANSWER LENGTH: {len(answers)}")
-    filewrite.write(title+"\n")
-    filewrite.write(f"{len(questions)}\n")
-    for i in range(len(questions)):
-        filewrite.write(questions[i]+"\n")
-        filewrite.write(f"{answers[i]}\n")
-    fileinput.close()
-    filewrite.close()
 
 
-raw_files = os.listdir('raw_test_data')
-formatted_files = os.listdir('formatted_test_data')
-removed_list = ['temp.txt']
-NEW_ONLY = True
-for item in raw_files:
-    if item in removed_list:
-        continue
-    if item in formatted_files and NEW_ONLY:
-        continue
-    print(item)
-    read_full_disjoint(item)
+questions = []
+answers = []
+total_text = ""
 
+read_full_disjoint()
+questions[-1] = questionsCleanup(questions[-1]).strip()
 #print(f"QUESTION {len(questions)}: {questions[-1]}")
 #print(f"ANSWER: {answers[-1]}")
 
+print(answers)
+print(f"QUESTION LENGTH: {len(questions)}, ANSWER LENGTH: {len(answers)}")
+filewrite.write(title+"\n")
+filewrite.write(f"{len(questions)}\n")
+for i in range(len(questions)):
+    filewrite.write(questions[i]+"\n")
+    filewrite.write(f"{answers[i]}\n")
+fileinput.close()
+filewrite.close()
 
 
 '''
