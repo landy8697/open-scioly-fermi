@@ -1,4 +1,4 @@
-mit_2023.txt
+MIT Invitational 22-23
 60
 What are you and your partner's combined heights, in mm?
 3
