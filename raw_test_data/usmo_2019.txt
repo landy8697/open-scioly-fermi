@@ -1,0 +1,93 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. What is the area of a football field including end zones in square feet?
+2. How many cans of pop and beer are consumed each year in the world?
+3. On the social media platform Snapchat, on average, how many daily active
+users are there?
+4. On Valentine’s Day, how much money is spent on chocolate and candy
+worldwide in U.S. dollars?
+5. How much added sugar does the average American consume in a year in
+units of the weight of a proton?
+6. What is the capacity of the University of Michigan Big House in people?
+7. What is 8-24?
+8. If professional bowler stood on one end of The Great Wall of China and
+rolled a bowling ball down the stretch of the wall at the average speed, how
+long would it take for the bowling ball to reach the opposite end in minutes,
+assuming the Great Wall of China is flat and straight along the top and the
+ball rolls straight at a constant speed?
+9. How long is a Barilla spaghetti noodle in carbon molecules?
+10. How long would it take to grow a human fingernail that reaches from the
+Earth to the Sun in years if it didn’t bend?
+11. On average, how much iron is in the adult human bloodstream in grams?
+12. How many Costcos were there worldwide in 2017?
+13. What is the mass of Mars in terms of regular sized Mars Bars?
+14. On average, how many cookies are baked in the University of Michigan
+dining halls in one week?
+15. How tall is Elizabeth Tower (the Tower that holds Big Ben) in units of red
+light wavelengths?
+16. How long would it take in hours for the Japan Shinkansen bullet train to
+travel the distance between Earth and Earth’s closest star other than the Sun?
+17. How many word entries are found in in The Oxford English Dictionary,
+Second Edition?
+18. On average, how much time will an American spend in his/her lifetime
+sleeping in minutes?
+19. How long would it take a wolverine to run around the circumference of the
+Earth in seconds?
+20. What is the smallest spatial resolution able to be seen by a scanning electron
+microscope in meters?
+
+21. How much does the average cumulus cloud weigh in kips (K)?
+22. How many bones are in the human body?
+23. How much money did the movie Crazy Rich Asians earn from the box
+office worldwide during its opening weekend in Singapore dollars?
+24. What is the total number of electrons found in 64g of methane gas?
+25. It would take the calories from how many Starbucks’s Grande Pumpkin
+Spice Lattes as an energy source for you to have enough energy to raise the
+temperature of Lake Huron by 1 °C? (Assume the water is pure water)
+26. In 2017, what was Facebook’s total electricity use in its data centers and
+offices in megawatt hours (MWh)?
+27. How long in minutes would it take the average person to type out the entire
+script to The Bee Movie assuming they never mess up?
+28. If you were to type out the entire human genome onto paper, how many
+copies of the Harry Potter series would it take up?
+29. Not including advertisements, how many words are printed in the average
+print edition of The New York Times?
+30. How many Pyrex 1000 ml beakers would you need to stack on top of each
+other and side by side to create a bridge one beaker wide that extends from
+the bottom of the ocean to the ocean surface from Boston, Massachusetts to
+Lisbon, Portugal, in a straight line assuming the ocean floor is a constant
+depth?
+
+5
+11
+8
+9
+28
+5
+-22
+4
+9
+12
+
+0
+3
+25
+4
+8
+11
+5
+7
+6
+-7
+
+3
+2
+7
+25
+13
+6
+2
+2
+5
+12

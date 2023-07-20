@@ -1,0 +1,108 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. In the United States, how many swear words are spoken out loud in one average day?
+2. If you stood still outside in the city of Chicago, trying to catch snowflakes on your tongue during
+an average snowstorm for 1 hour, what fraction of the snowflakes that fall on the city would end
+up on your tongue?
+3. In the world, how many emails are sent in one minute on average?
+4. If I had a nickel for every time an American driver was pulled over for speeding, how many years
+would it take for me to become the richest person in the world?
+5. How many total baseballs were used during games in last year’s entire Major League Baseball
+season?
+6. How many languages are still actively spoken today around the world?
+7. How many prime numbers are there less than 1 septillion?
+8. In the world, how many minutes of Youtube videos are watched in one day?
+9. If you wanted to create a full-scale model of the orbits of all 8 planets in the solar system using
+paper clips, how many paper clips would you need?
+10. How many total Google searches were performed in the past year?
+11. In total, how many multiple-choice questions were bubbled in during all official SAT and ACT
+exams last year?
+12. Assume you read one novel (published in English) every day for the rest of your life. What
+fraction of the total number of English novels ever published (including those that will be
+published during your lifetime) would you have read?
+13. How many atoms compose the average human body?
+14. How many raindrops would it take to fill the Mediterranean Sea to its full depth and extent?
+15. How many human beings have ever been born?
+16. What fraction of the Earth’s mass is accounted for by bacteria?
+17. How many servings of New York-style cheesecake would be needed to balance the total number
+of calories collectively burned by all the runners of the New York City Marathon each year?
+18. How many gallons of saliva does the average person produce in a lifetime?
+19. How many space debris objects larger than 1 mm are currently in orbit around the Earth?
+20. Assuming perfectly dark clear skies, how many stars are visible to the unaided human eye?
+21. In your next breath, what is the probability that at least one of the molecules you breathe in was
+exhaled previously by Julius Caesar in his dying breath?
+22. In the history of the Summer Olympics (since 1896), what fraction of all the medals ever
+awarded were won by Greece?
+23. How many roses are sold for Valentine’s Day every year in the United States?
+24. How many DNA base pairs are there in the human genome?
+25. How many human beings will undergo surgery of some kind around the world this coming year?
+26. How many middle school and high school students will compete in Science Olympiad this year in
+the United States?
+27. How many acres of land in the United States are dedicated to growing Christmas trees?
+28. Based on the recommendations set forth by the National Education Association, what is the
+optimal total amount of time, in hours, that students should spend on homework between the
+start of first grade and the end of twelfth grade?
+29. How many distinct ways can a deck of 52 cards be arranged?
+30. How many musical notes did Beethoven commit to paper in the manuscript of his Ninth
+Symphony?
+
+10 
+
+-12
+
+8
+
+4
+
+5
+
+4
+
+22
+
+11
+
+15
+
+12
+
+9
+
+-3
+
+28
+
+23
+
+11
+
+-10
+
+5
+
+4
+
+8
+
+4
+
+0
+
+-2
+
+8
+
+9
+
+8
+
+5
+
+5
+
+3
+
+68
+
+5

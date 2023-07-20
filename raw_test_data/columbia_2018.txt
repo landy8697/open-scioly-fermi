@@ -1,0 +1,124 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. At one stroke per second with a common bicycle floor pump, how long in minutes would it take to fill the
+volume of the Goodyear blimp with air to atmospheric pressure? Assume no heating and no rest breaks.
+2. How many hours would Niagara Falls have to flow to empty fill the volume of Lakes Erie, Michigan, Huron
+and Superior if no water flowed into the lakes?
+3. How many hamsters would you need to run simultaneously on wheels to produce the power to run an
+electric oven?
+4. How many trailers (as in tractor trailers) are there in the United States?
+5. How many helium filled party balloons would you need to lift the Great Sphinx above the ground?
+6. How many dollar bills would it take to cover the land mass of the United States?
+7. How many grains of rice would have the same mass as 100 hippopotami?
+8. How many dogs are there in the United States?
+9. How many pounds of electrons would you need to levitate one pound of protons if they were one mile apart
+on Earth?
+10. How many squirrels are there in the US?
+11. If a major earthquake occurred in San Francisco, California, how many milliseconds would pass before the
+resulting shear wave reached Syracuse, New York?
+12. The zombie apocalypse might involve the invasion of the US from another country. Tightly packed, how
+many zombies could be transported on a 32 kilometer long freight train out of Canada?
+13. How many college students in the United States have blue eyes?
+14. Of the students in question fourteen, how many will major in science or engineering?
+15. How many feathers are removed from turkeys for one year’s Thanksgiving in the United States?
+16. Using just the letters in the alphabet, how many unique 26-letter sequences are possible?
+17. How many nucleons flow down the drain during an average shower?
+18. In nanoseconds, how long would it take light to travel the length of all the roads paved and unpaved, in the
+United States?
+19. How many acres of land in Texas, California, Alaska and Rhode Island combined?
+20. How many chlorine atoms in a properly chlorinated Olympic-size swimming pool?
+21. How many passenger cars are there in world?
+22. If in the interest of security, an observation tower were built every two thousand feet along the shores and
+borders of the continental United States, how many towers would be necessary?
+23. How fast in miles per hour would you need to be moving so that a red light you are approaching appears
+green?
+24. How many robins are there in North America?
+25. How many golf balls could be in a single layer in the country of Croatia?
+26. What is the mass in kilograms of the number of electrons necessary to provide an average US residence
+with electrical power for a day?
+27. How many 8-cut pizzas would it take to provide two slices to every 2016-2017 New York State Science
+Olympiad competitor?
+28. How many deuterium atoms can be expected to be encountered in a cubic mile of sea water?
+29. If the New York State Thruway, including the shoulders of the road, were paved with yellow bricks, how
+many would be necessary?
+30. How many electrons are on the negative plate of a 17 μF capacitor charged to 480 V?
+31. How many people in West Virginia are aged 65 and older?
+32. How many movie tickets are sold in a year in the United States?
+33. What is the mass in grams of the Empire State Building?
+34. How many square feet is the country of Argentina?
+35. How many bushels of apples does New York State harvest annually?
+36. How many oxygen molecules (O2) does the average human inhale in their lifetime?
+37. What would it cost in dollars to buy enough diesel fuel to transport the entire population of New York State
+to Miami Beach via coach bus?
+38. What is the mass in grams of a Nimitz-class US aircraft carrier?
+39. How many sugar cubes would you need to stack to build a tetrahedron 100’ high?
+40. How many Escherichia coli bacteria, arranged end to end, would you need to reach across upstate New
+York?
+41. What is the value in dollars of a $1,500 investment in 85 years at an annual return of 3.5%?
+42. How many cubic meters would the cargo hold of Santa’s sleigh have to be to carry a twelve-inch action
+figure for every girl and boy in the world?
+43. How many trees in the Adirondack Park?
+44. How many pieces of popcorn would it take to make a garland that wraps around the Rockefeller Center
+Christmas tree once every foot?
+45. How many inches of pencil would it take to draw a line around the equator of the Earth?
+46. How many visible light photons per second would you have to reflect off a solar sail to accelerate a school
+bus at one g?
+47. How many dump truck loads of dirt would it take to fill in the Grand Canyon?
+48. How many AA Batteries would it take to provide the electrical power to a town of 100,000 for a day?
+49. How many electrons in a mole of neutral water?
+50. How many rotations does the axel of a car make during a 2-mile commute?
+
+5
+13
+4
+7
+9
+15
+10
+8
+-23
+9
+9
+7
+7
+6
+11
+26
+28
+10
+9
+26
+
+9
+5
+8
+8
+13
+-5
+4
+34
+9
+17
+5
+9
+11
+13
+9
+30
+8
+10
+10
+15
+
+4
+6
+9
+5
+4
+31
+25
+9
+24
+3
+

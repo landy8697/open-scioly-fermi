@@ -1,0 +1,77 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. If ​you ​line ​up ​human ​rod ​cells ​(photoreceptors ​in ​your ​eye), ​how ​many ​can ​you ​fit ​if ​you
+start ​from ​sea ​level ​and ​travel ​down ​to ​the ​lowest ​point ​on ​earth?
+2. How ​many ​carbon ​atoms ​fit ​from ​the ​distance ​from ​sea ​level ​to ​the ​highest ​point ​on
+earth?
+3. Every ​time ​someone ​searches ​something ​on ​Google, ​Bob ​punches ​his ​friend ​Howard
+right ​smack ​in ​the ​gut! ​How ​much ​energy ​in ​joules ​has ​Howard's ​abdomen ​taken ​in ​over
+a ​century ​of ​searching? ​(Assume ​a ​constant ​searching ​rate)
+4. How ​many ​tons ​of ​potassium ​ions ​is ​excreted ​from ​the ​average ​adult ​through ​urine ​in ​a
+day?
+5. How ​many ​internet ​users ​are ​using ​a ​VPN ​to ​access ​content ​blocked ​by ​The ​Great
+Firewall ​in ​China?
+6. How ​many ​days ​would ​it ​take ​one ​person ​to ​shed ​enough ​skin ​cells ​(stacked ​on ​top ​of
+each ​other) ​to ​reach ​the ​height ​of ​the ​tallest ​building ​in ​the ​world?
+7. How ​many ​milligrams ​of ​glass ​would ​you ​need ​to ​cover ​the ​entire ​surface ​of ​the ​moon ​in
+a ​5 ​cm ​layer ​of ​glass?
+8. How ​many ​joules ​would ​you ​need ​to ​launch ​a ​one ​kilogram ​salamander ​into ​low ​Earth
+orbit?
+9. ​How ​many ​E. ​coli ​could ​grow ​from ​a ​single ​cell ​(assuming ​unlimited ​resources) ​in ​the
+time ​it ​takes ​for ​Mars ​to ​complete ​one ​orbit ​of ​the ​sun?
+10. How ​many ​bowls ​of ​instant ​noodles ​could ​you ​purchase ​with ​the ​total ​cost ​of ​attending
+UC ​Berkeley ​as ​an ​out ​of ​state ​student ​in ​2017?
+11. How ​many ​megabytes ​are ​used ​in ​a ​year ​long ​video ​call ​between ​two ​mobile ​devices ​on
+Skype?
+12. How ​many ​pounds ​of ​CO2 ​are ​created ​by ​a ​plane ​flying ​from ​Boston ​to ​Houston?
+13. How ​many ​calories ​do ​I ​burn ​if ​I ​climb ​the ​Great ​Wall ​one ​stair ​at ​a ​time? ​Two ​stairs ​at ​a
+time?
+14. How ​many ​seconds ​would ​it ​take ​to ​view ​all ​the ​snaps ​sent ​within ​the ​past ​hour?
+15. What ​is ​the ​pressure ​change ​when ​a ​plane ​descends ​measured ​in ​pumps ​in ​a ​bicycle
+pump?
+16. How ​long ​do ​three ​hamsters ​running ​on ​a ​wheel ​take ​to ​power ​a ​plane ​to ​successfully
+ascend?
+
+17. How ​many ​gallons ​of ​water ​is ​needed ​to ​produce ​all ​the ​cotton ​needed ​for ​clothing
+production ​each ​year ​in ​the ​US?
+18. Suppose ​my ​friend ​who ​really ​likes ​to ​shake ​her ​leg ​can ​convert ​the ​energy ​it ​takes ​to
+shake ​her ​leg ​passively ​into ​actual ​energy. ​How ​many ​hours ​would ​she ​have ​to ​shake ​her
+leg ​to ​produce ​the ​amount ​of ​energy ​needed ​to ​power ​a ​house ​for ​a ​year?
+19. Suppose ​you ​met ​a ​person ​on ​the ​subway ​to ​the ​airport. ​What ​are ​on ​the ​chances ​that
+you ​are ​on ​the ​same ​flight ​and ​end ​up ​sitting ​next ​to ​each ​other?
+20. How ​many ​people ​in ​the ​US ​have ​food ​allergies?
+21. How ​many ​dollars ​of ​medication ​is ​bought ​yearly ​to ​combat ​those ​allergies?
+22. Suppose ​you ​visit ​Boston ​for ​a ​few ​days. ​How ​many ​people ​would ​you ​have ​to ​talk ​to ​at
+Harvard ​to ​find ​someone ​who ​is ​from ​the ​Houston ​area?
+23. Glancing ​down ​at ​Iowa, ​how ​many ​ears ​of ​corn ​can ​you ​see ​from ​a ​plane ​hovering ​at ​the
+height ​of ​the ​clouds ​on ​a ​perfectly ​clear ​day?
+24. How ​many ​gallons ​of ​ethanol ​is ​produced ​from ​the ​corn ​produced ​by ​the ​US ​in ​a ​year?
+25. How ​many ​minutes ​would ​you ​have ​to ​run ​to ​burn ​off ​the ​splurge ​that ​you ​went ​on ​while
+you ​ate ​all ​the ​ice ​cream ​available ​at ​a ​grocery ​store?
+
+9
+17
+16
+-6
+8
+0
+18
+7
+14889
+6
+3
+5
+4
+8
+0
+12
+13
+9
+-4
+7
+10
+1
+9
+10
+8
