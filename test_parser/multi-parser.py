@@ -149,7 +149,7 @@ def read_full_disjoint(current_file:str):
 raw_files = os.listdir('raw_test_data')
 formatted_files = os.listdir('formatted_test_data')
 removed_list = ['temp.txt']
-NEW_ONLY = True
+NEW_ONLY = True #KEEP ON TRUE
 for item in raw_files:
     if item in removed_list:
         continue

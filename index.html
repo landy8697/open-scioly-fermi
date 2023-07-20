@@ -4,10 +4,11 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Fermi Tester</title>
+    <title>Science Olympiad Fermi Practice Questions</title>
     <script type="text/javascript" language="javascript" src="data.js"></script>
+    <script type="text/javascript" language="javascript" src="corrections.js"></script>
     <script type="text/javascript" language="javascript" src="fermi.js"></script>
-    
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <!-- Google tag (gtag.js) -->
@@ -25,17 +26,56 @@
         <div class="container-md text-center">
             <div class="row mt-3 d-none d-md-block"></div>
             <div class="mt-4 me-1 float-end">
-                <button id="dark-mode" class="btn btn-outline-dark border-0 btn-sm darkoff">
+                <button id="dark-mode" class="px-2 btn btn-outline-dark border-0 btn-sm darkoff btn-top">
                     <i class="bi bi-moon-stars-fill"></i>
                 </button>
             </div>
-            <div id="top-text" class="row ps-2 justify-content-center text-dark apply-bright-text">
-                <h1 class="display-4 mt-4 mb-1 text-center">SciOly Fermi Tester</h1>
+            <div class="mt-4 me-1 float-end">
+                <button id="stats-info" class="px-2 btn btn-outline-dark border-0 btn-sm darkoff btn-top "data-bs-toggle="tooltip" data-bs-placement="bottom" 
+                title="Visited: 0<br>
+                            Answered: 0<br>
+                            Points: 0<br>
+                            Accuracy: 0" data-bs-html="true">
+                    <i class="bi bi-bar-chart-fill"></i>
+                </button>
+            </div>
+            <div id="top-text" class="row me-0 ps-4 justify-content-center text-dark apply-bright-text">
+                <h1 class="display-4 mt-4 mb-1 ms-4 text-center">SciOly Fermi Practice</h1>
             </div>
             <div class="row justify-content-center text-dark apply-bright-text">
-                <p class="lead fw-light text-center mt-2 mb-0"> 2000+ updated question set</p>
-                <p class="lead fw-light text-center py-0 mb-4 d-none d-md-block">Contact(discord): randomeclipse</p>
-                <p class="lead fw-light text-center py-0 mb-4 d-block d-md-none">Contact(discord): randomeclipse</p>
+                <p class="lead fw-light text-center mt-2 mb-0"> 2300+ updated fermi problem set</p>
+                <p class="lead fw-light text-center py-0 mb-0"> <a class="text-decoration-none" data-bs-toggle="collapse" href="#collapseExample" role="button">
+                    More info <small><i class="bi bi-chevron-down"></i></small>
+                  </a></p>
+                  <div class="collapse mb-1 " id="collapseExample">
+                    <div class="card card-body border-0 p-0 m-1 text-start" >
+                      <p>
+                        This website is an open source practice test for the Science Olympiad event Fermi Questions. The question bank will be constantly updated throughout the 2023-2024 season.  <br>
+                        <br>
+                        <i>How does this practice website (and fermi estimation in general) work?</i><br>
+                        A <b>Fermi question</b> is one where a seemingly impossible-to-calculate answer is estimated. A famous example of a Fermi question is 
+                        "How many licks does it take to get to the center of a tootsie roll pop?", where there is very little data to use and assumptions must be made. 
+                         (Scioly Wiki)<br>
+                        <br>
+                        This website uses the same answer and points format as outlined in the Science Olympiad rules manual. 
+                        All answers are written as the closest power of 10. For example, an estimate of 2000 would be written as 3, since 2000 = 2 x 10^3. An estimate of 5000 would be written as 4, since 5000 = 5 x 10^3 with rounding up. Scoring is based on how close your fermi answer is to the actual answer. <br>
+                        5 points for the correct power of ten (Blue) <br>
+                        3 points for difference of 1 (Green) <br>
+                        1 point for difference of 2 (Yellow) <br> 
+                        0 points for difference of 3 or more (Red) <br>
+                        <br> 
+
+                        <i>What are some helpful resources for starting out?</i><br>
+                        <a href="https://scioly.org/wiki/index.php/Fermi_Questions">Scioly Wiki</a> is the best place to start<br>
+                        <a href="https://drive.google.com/file/d/1bNZ-b92JcsdF21AEX-XSyURvzVcV1JS2/view">A Brief Introduction to Fermi Questions</a> by Caleb Chiang<br>
+                        <br>
+                        For information about the dataset or contributions, visit the GitHub repository <a href="https://github.com/landy8697/open-scioly-fermi">here</a>.<br>
+                        For general questions/concerns/issues or for contributing questions contact me on Discord(Username: randomeclipse) or on the SciOly community server #fermi-questions channel <br>
+                    </p>
+                    </div>
+                  </div>
+                
+                
             </div>
            <div class="row justify-content-center my-3">
                 <div class="col-md">
@@ -52,45 +92,20 @@
             
             <div class="row justify-content-center my-2">
                 <div class="col-md">
-                    <div id="answer-alert" >
-                        <div class="alert alert-info" style="white-space: pre-line" role="alert"> Press button or click enter to submit
+                    <div id="answer-alert" class="my-0 py-0">
+                        <div class="alert alert-info my-2" style="white-space: pre-line" role="alert"> Press button or click enter to submit
                             Use arrow buttons or left/right keys for navigation (only submitted questions)
                         </div>
                     </div>
+                    <div id="change-alert" class="my-0 py-0 d-none" >
+                        <div class="alert alert-info my-2" role="alert"> 
+                            <i class="bi bi-info-circle"></i> The original answer was ___
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
-            
-            <div class="row align-items-center justify-content-center mt-2 mb-2 d-none">
-                <div class="col-auto d-none d-md-inline">
-                    
-					<button class="bg-transparent border-0 fs-6 ">New Question</button>	
-					
-            
-                </div> 
-                <div class="col-auto">
-                    <div class="btn-group" role="group">
-                        <button id="NOT ADDED YET" type="button" class="btn btn-primary">Test</button>
-                        <button id="NOT ADDED YET" type="button" class="btn btn-primary">Math</button>
-                        
-                    </div>
-                </div>
-                
-                
-                <div class="col-auto">
-                    
-                    <div class="btn-group" role="group">
-                        
-                        <button id="NOT ADDED YET" type="button" class="btn btn-outline-primary" >						
-                            <i class="bi bi-chevron-left"></i>
-                        </button>
-                        
-                        <button id="NOT ADDED YET" type="button" class="btn btn-outline-primary" >						
-                            <i class="bi bi-chevron-right"></i>
-                        </button>
-                    
-                    </div>
-                </div> 
-            </div>
+
             <div class="row align-items-center justify-content-center my-1">
                 <div class="col-auto">
                     <div class="input-group mb-3">
@@ -111,7 +126,7 @@
                             </button>
                             <ul class="dropdown-menu">
                                 <li><button id="change-new" class="dropdown-item" type="button">New Question</button></li>
-                                <li><button id="change-math" class="dropdown-item" type="button">Math Question</button></li>
+                                <li><button id="change-math" class="dropdown-item" type="button" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Work in progress">Math Question</button></li>
                             </ul>
                         </div>
 
@@ -128,11 +143,25 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-auto px-0">
+                <div>
                     
                 </div>
                 
-              </div>
+            </div>
+            <div class="row justify-content-center mb-3">
+                <div class="col-auto">
+                    <button id="toggleform" type="button" class="btn btn-outline-danger" >						
+                        Change/Correct this problem
+                        
+                    </button>
+                </div>
+                
+
+            </div>
+            <div id= "form-div" class="d-none row">
+                <iframe allowtransparency="true"  src="https://docs.google.com/forms/d/e/1FAIpQLScFDhEvsuNndv-dBOCi_y-N7y1h_lsP0KbZvBJeMXq7KQPVTg/viewform?embedded=true" width="640" height="1274" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+            </div>
             
               
               
