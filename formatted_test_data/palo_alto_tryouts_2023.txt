@@ -1,0 +1,102 @@
+Palo Alto Tryouts 22-23
+50
+3
+0
+2^42
+12
+20!
+18
+Product of all primes under 50
+18
+e^50
+22
+23 * 2361 * 6932 * 1025 * 260192 * 79623
+22
+40th Fibonacci number (where the first two are 1, 1)
+8
+Watts in one horsepower
+3
+The speed of sound in glass, in m/s
+3
+Distance between Boston and Miami by car, in km
+3
+Median number of words in a book
+5
+Number of paper clips needed to span the distance between the Earth and the Sun
+12
+The ratio of the speed of a plane to that of a snail
+4
+The ratio of the weight of a penny on the Earth to its weight on the Sun
+-2
+Number of worker ants it takes to equal the weight of an average adult male Asian elephant
+9
+Number of electrons used to charge an iPhone for a minute
+20
+Tons of plastic are produced globally every year
+8
+Number of daily active Snapchat users
+8
+Gallons of water in the ocean
+20
+Annual revenue of global fashion industry, in dollars
+12
+Number of atoms in the average adult Asian elephant
+29
+Breaths taken by the average human in a lifetime
+9
+Tons of carbon (in any form) on Earth
+14
+Proportion of atoms in Earth’s crust that are gold
+-8
+Total height of all humans in the world, in rods
+9
+Deepest point in the ocean, in light years
+-12
+Total iron ore produced in the world annually, in tons
+9
+Distance of Voyager 1 spacecraft from Earth, in km
+10
+Deepest hole dug by humans, in km
+1
+Average lifespan of a US dollar bill, in days
+4
+Total number of books in the world
+8
+Number of full-time employees of Google
+5
+Average ticket price at Super Bowl 2022, in dollars
+4
+Total prize money pool for FIFA World Cup, in dollars
+9
+Total number of elementary school teachers in America
+6
+Mass of the atmosphere, in grams
+22
+Number of deaths by drowning in the world per year
+5
+Maximum takeoff weight of Boeing 747, in pounds
+6
+Number of $20 bills in circulation
+10
+Total number of emails sent per day
+11
+Total number of colleges in the US
+3
+Number of views per day for music video of “Despacito”
+6
+Number of followers of BTS on Twitter
+7
+Total number of iPhones sold worldwide
+9
+Number of words in the Constitution (including amendments)
+4
+Number of Christmas trees sold annually in the US
+7
+Number of trees in the Amazon rainforest
+11
+Number of people named Matthew in the US
+6
+Number of base pairs in the human genome
+9
+Average number of flights per day
+5

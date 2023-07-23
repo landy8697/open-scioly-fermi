@@ -3006,6 +3006,492 @@
         "number": 30
     },
     {
+        "question": "How many drops of water are in Lake Ontario?\n",
+        "answer": 19,
+        "source": "Cornell Invitational 18-19",
+        "number": 1
+    },
+    {
+        "question": "How many steps do I need to climb to burn off the calories in a slice of pizza?\n",
+        "answer": 3,
+        "source": "Cornell Invitational 18-19",
+        "number": 2
+    },
+    {
+        "question": "How many boba balls are scooped in New York City every day?\n",
+        "answer": 7,
+        "source": "Cornell Invitational 18-19",
+        "number": 3
+    },
+    {
+        "question": "How much electricity in watt-hours is used in NYC each day?\n",
+        "answer": 10,
+        "source": "Cornell Invitational 18-19",
+        "number": 4
+    },
+    {
+        "question": "How many fish are in the ocean?\n",
+        "answer": 12,
+        "source": "Cornell Invitational 18-19",
+        "number": 5
+    },
+    {
+        "question": "How many beans can you fit in a stretched stomach?\n",
+        "answer": 3,
+        "source": "Cornell Invitational 18-19",
+        "number": 6
+    },
+    {
+        "question": "How many nature valley granola bars can fit over New York City?\n",
+        "answer": 11,
+        "source": "Cornell Invitational 18-19",
+        "number": 7
+    },
+    {
+        "question": "How many carbon molecules are in a white cotton t-shirt?\n",
+        "answer": 24,
+        "source": "Cornell Invitational 18-19",
+        "number": 8
+    },
+    {
+        "question": "How many skin cells are in your ear lobe?\n",
+        "answer": 6,
+        "source": "Cornell Invitational 18-19",
+        "number": 9
+    },
+    {
+        "question": "If the Sun\u2019s volume were to increase by the volume of the Earth, what percent would its volume increase?\n",
+        "answer": -4,
+        "source": "Cornell Invitational 18-19",
+        "number": 10
+    },
+    {
+        "question": "How many milliliters of milk can a cow produce in its lifetime?\n",
+        "answer": 7,
+        "source": "Cornell Invitational 18-19",
+        "number": 11
+    },
+    {
+        "question": "How many pennies are needed to cover the human body?\n",
+        "answer": 3,
+        "source": "Cornell Invitational 18-19",
+        "number": 12
+    },
+    {
+        "question": "How long in meters can you draw a line with 5 wooden pencils?\n",
+        "answer": 5,
+        "source": "Cornell Invitational 18-19",
+        "number": 13
+    },
+    {
+        "question": "If you melt down the Statue of Liberty, how many molecules of copper would you have?\n",
+        "answer": 29,
+        "source": "Cornell Invitational 18-19",
+        "number": 14
+    },
+    {
+        "question": "How many milliliters of sweat are produced in the United States every year?\n",
+        "answer": 14,
+        "source": "Cornell Invitational 18-19",
+        "number": 15
+    },
+    {
+        "question": "How long in seconds does it take for light to travel from the ceiling of this room to your eye?\n",
+        "answer": -8,
+        "source": "Cornell Invitational 18-19",
+        "number": 16
+    },
+    {
+        "question": "How many water molecules are used in a typical 10 minute shower?\n",
+        "answer": 27,
+        "source": "Cornell Invitational 18-19",
+        "number": 17
+    },
+    {
+        "question": "How many grams of nitrogen are in the DNA of one human cell?\n",
+        "answer": -12,
+        "source": "Cornell Invitational 18-19",
+        "number": 18
+    },
+    {
+        "question": "What fraction of the energy that the Sun produces each year does an atomic bomb produce?\n",
+        "answer": -19,
+        "source": "Cornell Invitational 18-19",
+        "number": 19
+    },
+    {
+        "question": "How many sprays does a bottle of perfume hold?\n",
+        "answer": 2,
+        "source": "Cornell Invitational 18-19",
+        "number": 20
+    },
+    {
+        "question": "How many CO2 molecules does a car emit each year?\n",
+        "answer": 28,
+        "source": "Cornell Invitational 18-19",
+        "number": 21
+    },
+    {
+        "question": "How many times does the motor of a car rotate a crankshaft each year?\n",
+        "answer": 8,
+        "source": "Cornell Invitational 18-19",
+        "number": 22
+    },
+    {
+        "question": "If you were to melt down all the recycled glass in the US each year, what would the final volume be in cubic meters?\n",
+        "answer": 5,
+        "source": "Cornell Invitational 18-19",
+        "number": 23
+    },
+    {
+        "question": "How many ice cubes would you need to melt to raise the ocean level enough to melt New York City?\n",
+        "answer": 13,
+        "source": "Cornell Invitational 18-19",
+        "number": 24
+    },
+    {
+        "question": "How many feathers would it take to snap an elevator cable?\n",
+        "answer": 7,
+        "source": "Cornell Invitational 18-19",
+        "number": 25
+    },
+    {
+        "question": "If you took all the oxygen in this room and put it on Mars, how much would it weigh in millinewtons?\n",
+        "answer": 3,
+        "source": "Cornell Invitational 18-19",
+        "number": 26
+    },
+    {
+        "question": "How many mosquito bites are required to collect one million liters of blood?\n",
+        "answer": 11,
+        "source": "Cornell Invitational 18-19",
+        "number": 27
+    },
+    {
+        "question": "If you were to convert the energy in bananas to fuel, how many bananas would it take to fuel a car to drive from New York City to Los Angeles?\n",
+        "answer": 4,
+        "source": "Cornell Invitational 18-19",
+        "number": 28
+    },
+    {
+        "question": "How many liters of helium would it take to lift the average house?\n",
+        "answer": 7,
+        "source": "Cornell Invitational 18-19",
+        "number": 29
+    },
+    {
+        "question": "How many sheets of graphene stacked vertically are as tall as the empire state building?\n",
+        "answer": 12,
+        "source": "Cornell Invitational 18-19",
+        "number": 30
+    },
+    {
+        "question": "How many grams of salt are in the Pacific Ocean?\n",
+        "answer": 22,
+        "source": "Cornell Invitational 18-19",
+        "number": 31
+    },
+    {
+        "question": "How many people were involved in organizing and volunteering for this event?\n",
+        "answer": 2,
+        "source": "Cornell Invitational 22-23",
+        "number": 1
+    },
+    {
+        "question": "How many schools participated in Science Olympiad in 2021-2022?\n",
+        "answer": 4,
+        "source": "Cornell Invitational 22-23",
+        "number": 2
+    },
+    {
+        "question": "How many text messages were sent in 2021?\n",
+        "answer": 13,
+        "source": "Cornell Invitational 22-23",
+        "number": 3
+    },
+    {
+        "question": "2^500\n",
+        "answer": 150,
+        "source": "Cornell Invitational 22-23",
+        "number": 4
+    },
+    {
+        "question": "3^81\n",
+        "answer": 38,
+        "source": "Cornell Invitational 22-23",
+        "number": 5
+    },
+    {
+        "question": "42!\n",
+        "answer": 51,
+        "source": "Cornell Invitational 22-23",
+        "number": 6
+    },
+    {
+        "question": "How many Rubik's cubes can the world record cuber solve in the duration of this test?\n",
+        "answer": 3,
+        "source": "Cornell Invitational 22-23",
+        "number": 7
+    },
+    {
+        "question": "How many of those cubes would it take to fill the room that this test was written in?\n",
+        "answer": 4,
+        "source": "Cornell Invitational 22-23",
+        "number": 8
+    },
+    {
+        "question": "How many water molecules would there be in an 11 x 11 x 11 cm ice cube?\n",
+        "answer": 25,
+        "source": "Cornell Invitational 22-23",
+        "number": 9
+    },
+    {
+        "question": "How many light bulbs are sold in a year?\n",
+        "answer": 10,
+        "source": "Cornell Invitational 22-23",
+        "number": 10
+    },
+    {
+        "question": "How many meters tall would stacking all of these light bulbs be?\n",
+        "answer": 9,
+        "source": "Cornell Invitational 22-23",
+        "number": 11
+    },
+    {
+        "question": "How many of the world's tallest building stacked on top of each other would reach this height?\n",
+        "answer": 6,
+        "source": "Cornell Invitational 22-23",
+        "number": 12
+    },
+    {
+        "question": "What fraction of the distance from the Earth to the Moon is this height?\n",
+        "answer": 0,
+        "source": "Cornell Invitational 22-23",
+        "number": 13
+    },
+    {
+        "question": "How many students at Cornell will eat instant ramen in a month?\n",
+        "answer": 3,
+        "source": "Cornell Invitational 22-23",
+        "number": 14
+    },
+    {
+        "question": "The answer if we had asked 123456789^987654321\n",
+        "answer": 10,
+        "source": "Cornell Invitational 22-23",
+        "number": 15
+    },
+    {
+        "question": "How many votes were cast in the 2020 election?\n",
+        "answer": 8,
+        "source": "Cornell Invitational 22-23",
+        "number": 16
+    },
+    {
+        "question": "How many likes does the most viewed video on Youtube now have?\n",
+        "answer": 7,
+        "source": "Cornell Invitational 22-23",
+        "number": 17
+    },
+    {
+        "question": "How many dislikes does this same video have?\n",
+        "answer": 7,
+        "source": "Cornell Invitational 22-23",
+        "number": 18
+    },
+    {
+        "question": "How much more likely are you to win the Powerball lottery on the next drawing than to be struck by lightning in your whole life?\n",
+        "answer": -5,
+        "source": "Cornell Invitational 22-23",
+        "number": 19
+    },
+    {
+        "question": "How many pages are in all textbooks used by a physics student in all 4 years of university?\n",
+        "answer": 5,
+        "source": "Cornell Invitational 22-23",
+        "number": 20
+    },
+    {
+        "question": "How many liters of oxygen will you breathe during the duration of the exam?\n",
+        "answer": 2,
+        "source": "Cornell Invitational 22-23",
+        "number": 21
+    },
+    {
+        "question": "How many molecules of oxygen are in this amount?\n",
+        "answer": 25,
+        "source": "Cornell Invitational 22-23",
+        "number": 22
+    },
+    {
+        "question": "How many 40 meter trees would be needed to produce this much oxygen in this time?\n",
+        "answer": 1,
+        "source": "Cornell Invitational 22-23",
+        "number": 23
+    },
+    {
+        "question": "76!\n",
+        "answer": 111,
+        "source": "Cornell Invitational 22-23",
+        "number": 24
+    },
+    {
+        "question": "How much of Earth's water-bodies by volume does Lake Cayuga cover?\n",
+        "answer": -8,
+        "source": "Cornell Invitational 22-23",
+        "number": 25
+    },
+    {
+        "question": "f(20) for f(1) = 1, f(2) = 2, f(n) = f(n-1) * f(n-2)\n",
+        "answer": 1258,
+        "source": "Cornell Invitational 22-23",
+        "number": 26
+    },
+    {
+        "question": "How much money is traded a day in the stock market?\n",
+        "answer": 10,
+        "source": "Cornell Invitational 22-23",
+        "number": 27
+    },
+    {
+        "question": "How many acres were burned in wildfires in California in 2021?\n",
+        "answer": 6,
+        "source": "Cornell Invitational 22-23",
+        "number": 28
+    },
+    {
+        "question": "How many neurons does your brain have?\n",
+        "answer": 10,
+        "source": "Cornell Invitational 22-23",
+        "number": 29
+    },
+    {
+        "question": "How much current in Amperes goes through one neuron?\n",
+        "answer": -9,
+        "source": "Cornell Invitational 22-23",
+        "number": 30
+    },
+    {
+        "question": "How many classes does Cornell offer?\n",
+        "answer": 3,
+        "source": "Cornell Invitational 22-23",
+        "number": 31
+    },
+    {
+        "question": "What fraction of the lifespan of the universe has Cornell University existed?\n",
+        "answer": -8,
+        "source": "Cornell Invitational 22-23",
+        "number": 32
+    },
+    {
+        "question": "What fraction of New York State does the main campus of Cornell University cover?\n",
+        "answer": -3,
+        "source": "Cornell Invitational 22-23",
+        "number": 33
+    },
+    {
+        "question": "How many galaxies are in the Milky Way?\n",
+        "answer": 0,
+        "source": "Cornell Invitational 22-23",
+        "number": 34
+    },
+    {
+        "question": "How many stars are in all those galaxies?\n",
+        "answer": 11,
+        "source": "Cornell Invitational 22-23",
+        "number": 35
+    },
+    {
+        "question": "How many hours non-stop would it take to drive from Cornell to San Francisco?\n",
+        "answer": 2,
+        "source": "Cornell Invitational 22-23",
+        "number": 36
+    },
+    {
+        "question": "How many avocados were consumed during the last Super Bowl?\n",
+        "answer": 8,
+        "source": "Cornell Invitational 22-23",
+        "number": 37
+    },
+    {
+        "question": "How many people watched the League of Legends World Championships online and in-person?\n",
+        "answer": 8,
+        "source": "Cornell Invitational 22-23",
+        "number": 38
+    },
+    {
+        "question": "How many Super Bowl stadiums would be required to fit this amount of people?\n",
+        "answer": 4,
+        "source": "Cornell Invitational 22-23",
+        "number": 39
+    },
+    {
+        "question": "How many seconds would it take for light to travel the length of all pages of this test if all the pages were put back to back lengthwise?\n",
+        "answer": -9,
+        "source": "Cornell Invitational 22-23",
+        "number": 40
+    },
+    {
+        "question": "How many minutes would it take for you to say the entirety of the Bee Movie script?\n",
+        "answer": 2,
+        "source": "Cornell Invitational 22-23",
+        "number": 41
+    },
+    {
+        "question": "How many times would you have to watch Rick Astley's \"Never Gonna Give You Up\" in order to match the length of all videos uploaded to Youtube in a minute?\n",
+        "answer": 7,
+        "source": "Cornell Invitational 22-23",
+        "number": 42
+    },
+    {
+        "question": "How many images are generated by the AI image generator DALLE daily?\n",
+        "answer": 6,
+        "source": "Cornell Invitational 22-23",
+        "number": 43
+    },
+    {
+        "question": "How many Wikipedia pages are there?\n",
+        "answer": 8,
+        "source": "Cornell Invitational 22-23",
+        "number": 44
+    },
+    {
+        "question": "How many Ping-pong balls can fit in a Boeing 737?\n",
+        "answer": 7,
+        "source": "Cornell Invitational 22-23",
+        "number": 45
+    },
+    {
+        "question": "How many Boeing 737s exist out there?\n",
+        "answer": 4,
+        "source": "Cornell Invitational 22-23",
+        "number": 46
+    },
+    {
+        "question": "How many of the world's first computer would it take to store the world's largest game in terms of file size?\n",
+        "answer": 9,
+        "source": "Cornell Invitational 22-23",
+        "number": 47
+    },
+    {
+        "question": "How many hours did it take to write this test?\n",
+        "answer": 2,
+        "source": "Cornell Invitational 22-23",
+        "number": 48
+    },
+    {
+        "question": "How many people in this room will pick the most popular answer to this question?\n",
+        "answer": 1,
+        "source": "Cornell Invitational 22-23",
+        "number": 49
+    },
+    {
+        "question": "In the time it took us to procrastinate writing this test, how many people were born?\n",
+        "answer": 7,
+        "source": "Cornell Invitational 22-23",
+        "number": 50
+    },
+    {
         "question": "How far away is the star Sirius from the Earth in meters?\n",
         "answer": 16,
         "source": "Duke Invitational 22-23",
@@ -5976,6 +6462,306 @@
         "number": 40
     },
     {
+        "question": "3\n",
+        "answer": 0,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 1
+    },
+    {
+        "question": "2^42\n",
+        "answer": 12,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 2
+    },
+    {
+        "question": "20!\n",
+        "answer": 18,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 3
+    },
+    {
+        "question": "Product of all primes under 50\n",
+        "answer": 18,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 4
+    },
+    {
+        "question": "e^50\n",
+        "answer": 22,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 5
+    },
+    {
+        "question": "23 * 2361 * 6932 * 1025 * 260192 * 79623\n",
+        "answer": 22,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 6
+    },
+    {
+        "question": "40th Fibonacci number (where the first two are 1, 1)\n",
+        "answer": 8,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 7
+    },
+    {
+        "question": "Watts in one horsepower\n",
+        "answer": 3,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 8
+    },
+    {
+        "question": "The speed of sound in glass, in m/s\n",
+        "answer": 3,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 9
+    },
+    {
+        "question": "Distance between Boston and Miami by car, in km\n",
+        "answer": 3,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 10
+    },
+    {
+        "question": "Median number of words in a book\n",
+        "answer": 5,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 11
+    },
+    {
+        "question": "Number of paper clips needed to span the distance between the Earth and the Sun\n",
+        "answer": 12,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 12
+    },
+    {
+        "question": "The ratio of the speed of a plane to that of a snail\n",
+        "answer": 4,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 13
+    },
+    {
+        "question": "The ratio of the weight of a penny on the Earth to its weight on the Sun\n",
+        "answer": -2,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 14
+    },
+    {
+        "question": "Number of worker ants it takes to equal the weight of an average adult male Asian elephant\n",
+        "answer": 9,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 15
+    },
+    {
+        "question": "Number of electrons used to charge an iPhone for a minute\n",
+        "answer": 20,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 16
+    },
+    {
+        "question": "Tons of plastic are produced globally every year\n",
+        "answer": 8,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 17
+    },
+    {
+        "question": "Number of daily active Snapchat users\n",
+        "answer": 8,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 18
+    },
+    {
+        "question": "Gallons of water in the ocean\n",
+        "answer": 20,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 19
+    },
+    {
+        "question": "Annual revenue of global fashion industry, in dollars\n",
+        "answer": 12,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 20
+    },
+    {
+        "question": "Number of atoms in the average adult Asian elephant\n",
+        "answer": 29,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 21
+    },
+    {
+        "question": "Breaths taken by the average human in a lifetime\n",
+        "answer": 9,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 22
+    },
+    {
+        "question": "Tons of carbon (in any form) on Earth\n",
+        "answer": 14,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 23
+    },
+    {
+        "question": "Proportion of atoms in Earth\u2019s crust that are gold\n",
+        "answer": -8,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 24
+    },
+    {
+        "question": "Total height of all humans in the world, in rods\n",
+        "answer": 9,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 25
+    },
+    {
+        "question": "Deepest point in the ocean, in light years\n",
+        "answer": -12,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 26
+    },
+    {
+        "question": "Total iron ore produced in the world annually, in tons\n",
+        "answer": 9,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 27
+    },
+    {
+        "question": "Distance of Voyager 1 spacecraft from Earth, in km\n",
+        "answer": 10,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 28
+    },
+    {
+        "question": "Deepest hole dug by humans, in km\n",
+        "answer": 1,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 29
+    },
+    {
+        "question": "Average lifespan of a US dollar bill, in days\n",
+        "answer": 4,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 30
+    },
+    {
+        "question": "Total number of books in the world\n",
+        "answer": 8,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 31
+    },
+    {
+        "question": "Number of full-time employees of Google\n",
+        "answer": 5,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 32
+    },
+    {
+        "question": "Average ticket price at Super Bowl 2022, in dollars\n",
+        "answer": 4,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 33
+    },
+    {
+        "question": "Total prize money pool for FIFA World Cup, in dollars\n",
+        "answer": 9,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 34
+    },
+    {
+        "question": "Total number of elementary school teachers in America\n",
+        "answer": 6,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 35
+    },
+    {
+        "question": "Mass of the atmosphere, in grams\n",
+        "answer": 22,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 36
+    },
+    {
+        "question": "Number of deaths by drowning in the world per year\n",
+        "answer": 5,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 37
+    },
+    {
+        "question": "Maximum takeoff weight of Boeing 747, in pounds\n",
+        "answer": 6,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 38
+    },
+    {
+        "question": "Number of $20 bills in circulation\n",
+        "answer": 10,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 39
+    },
+    {
+        "question": "Total number of emails sent per day\n",
+        "answer": 11,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 40
+    },
+    {
+        "question": "Total number of colleges in the US\n",
+        "answer": 3,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 41
+    },
+    {
+        "question": "Number of views per day for music video of \u201cDespacito\u201d\n",
+        "answer": 6,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 42
+    },
+    {
+        "question": "Number of followers of BTS on Twitter\n",
+        "answer": 7,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 43
+    },
+    {
+        "question": "Total number of iPhones sold worldwide\n",
+        "answer": 9,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 44
+    },
+    {
+        "question": "Number of words in the Constitution (including amendments)\n",
+        "answer": 4,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 45
+    },
+    {
+        "question": "Number of Christmas trees sold annually in the US\n",
+        "answer": 7,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 46
+    },
+    {
+        "question": "Number of trees in the Amazon rainforest\n",
+        "answer": 11,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 47
+    },
+    {
+        "question": "Number of people named Matthew in the US\n",
+        "answer": 6,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 48
+    },
+    {
+        "question": "Number of base pairs in the human genome\n",
+        "answer": 9,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 49
+    },
+    {
+        "question": "Average number of flights per day\n",
+        "answer": 5,
+        "source": "Palo Alto Tryouts 22-23",
+        "number": 50
+    },
+    {
         "question": "What is Princeton\u2019s endowment [$]??\n",
         "answer": 10,
         "source": "Princeton Invitational 18-19",
@@ -7096,6 +7882,246 @@
         "answer": 1,
         "source": "Seven Lakes Invitational 17-18",
         "number": 29
+    },
+    {
+        "question": "In the poem \u201cDover Beach\u201d, British poet Matthew Arnold observes the French coast from Dover, Kent in the United Kingdom. If there is a single light source on the French coast across the English Channel, what is the time, in seconds it takes for the light to reach Arnold\u2019s eyes? Assume the distance between the poet and the light source is the shortest distance across the Strait of Dover.\n",
+        "answer": -4,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 1
+    },
+    {
+        "question": "How many total words are in Adam Smith\u2019s The Wealth of Nations (1776)?\n",
+        "answer": 5,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 2
+    },
+    {
+        "question": "How many electrons would it take to equal the mass of the moon?\n",
+        "answer": 53,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 3
+    },
+    {
+        "question": "Jeffrey P. Bezos is the founder, chairman, and CEO of Amazon. If his net worth were to be equally divided among every person in Mozambique, how many nickels, in USD, would each individual receive?\n",
+        "answer": 5,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 4
+    },
+    {
+        "question": "As many people as all the cells in an average human brain applied to Harvard University. How many of them would be admitted, using the admittance rate for the Harvard class of 2021?\n",
+        "answer": 10,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 5
+    },
+    {
+        "question": "How many chess grandmasters are alive today?\n",
+        "answer": 3,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 6
+    },
+    {
+        "question": "What is the combined area of Massachusetts, a state in the United States, and the State of Mexico, a Mexican federal entity located in South-Central Mexico (not to be confused with the country of Mexico)? Express your answer in square inches.\n",
+        "answer": 14,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 7
+    },
+    {
+        "question": "Karl the robot types at a constant rate of 133 words per minute. Karl is powered by solar panels. How many words can Karl type before the Sun is projected to run out of fuel?\n",
+        "answer": 4,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 8
+    },
+    {
+        "question": "What is the total number of human protein-coding genes in the human genome?\n",
+        "answer": 10,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 9
+    },
+    {
+        "question": "How many bushels of corn did Iowa farmers grow grow in 2016?\n",
+        "answer": 8,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 10
+    },
+    {
+        "question": "Find 54!\n",
+        "answer": 12,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 11
+    },
+    {
+        "question": "Find 3^\n",
+        "answer": 10,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 12
+    },
+    {
+        "question": "Find 1*3*5*7*...*31*\n",
+        "answer": 10,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 13
+    },
+    {
+        "question": "In a 400 gram bag of Sour Patch Kids, what is the mass of the sodium content, in picograms?\n",
+        "answer": 9,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 14
+    },
+    {
+        "question": "What is the ionization energy of Beryllium (Be), in J/mol?\n",
+        "answer": 9995,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 15
+    },
+    {
+        "question": "Find the distance between Sydney and Perth, in parsecs.\n",
+        "answer": 17,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 16
+    },
+    {
+        "question": "In 2017, what was the total mass of the chocolate consumed by the Swiss, in petagrams?\n",
+        "answer": 4,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 17
+    },
+    {
+        "question": "What is the mass of all the water on Earth, in metric tons (tonnes)?\n",
+        "answer": 9,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 18
+    },
+    {
+        "question": "Find log(4)ln(4)log(5)ln(5)log(6)ln(6).....log(15)ln(15).\n",
+        "answer": 71,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 19
+    },
+    {
+        "question": "The Leshan Giant Buddha, located in Sichuan, China, is the tallest stone Buddha statue in the world. It was carved out of a cliff face during the Tang Dynasty. How tall is the Leshan Giant Buddha, in Astronomical Units (AUs)?\n",
+        "answer": 16,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 20
+    },
+    {
+        "question": "How many bacteria are in a normal, 70 kg man?\n",
+        "answer": 19,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 21
+    },
+    {
+        "question": "How many acres of pizza do Americans eat each day?\n",
+        "answer": 13,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 22
+    },
+    {
+        "question": "\u201cMontag\u201d is German for Monday. How many Mondays have passed since Die Zugspitze, the highest peak in Germany, was first climbed by Josef Naus (a surveying technician), his survey assistant, Maier, and a mountain guide, J. Georg Tauschl?\n",
+        "answer": 6,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 23
+    },
+    {
+        "question": "What was the 2015 annual GDP (in pounds sterling) of the Isle of Man, a British Crown dependency?\n",
+        "answer": 4,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 24
+    },
+    {
+        "question": "How many calories does an average human consume in a lifetime?\n",
+        "answer": 25,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 25
+    },
+    {
+        "question": "How many seconds of schooltime will all the students in the United States have this year?\n",
+        "answer": -29,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 26
+    },
+    {
+        "question": "What is the average distance between Mercury and Saturn in units of the height of the Taj Mahal?\n",
+        "answer": 60,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 27
+    },
+    {
+        "question": "If all the Yugioh cards that have ever been printed are collected and placed in a grid, how many Alabamas could they cover?\n",
+        "answer": 18,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 28
+    },
+    {
+        "question": "How long, in seconds, would it take to burn every existing copy of Fahrenheit 451 one at a time, assuming no new books are printed?\n",
+        "answer": 11,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 29
+    },
+    {
+        "question": "What is the number of primes between 10^10 and 10^10000?\n",
+        "answer": -10,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 30
+    },
+    {
+        "question": "If you connected the ends of every strand of hair on your proctor\u2019s head, how many flutes could they string up?\n",
+        "answer": -4,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 31
+    },
+    {
+        "question": "If every insect alive at this time played \u201cFlight of the Bumblebee\u201d on a tiny tuba, how many notes could they play in a day?\n",
+        "answer": 18,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 32
+    },
+    {
+        "question": "What is the ratio of the pressure at the center of a proton to the pressure of a human bite?\n",
+        "answer": 3,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 33
+    },
+    {
+        "question": "How many possible organic compounds with molecular weight less than 500 Da are theorized to exist?\n",
+        "answer": -10,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 34
+    },
+    {
+        "question": "How many leaves are there on all the trees in the world?\n",
+        "answer": 13,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 35
+    },
+    {
+        "question": "Bob ate all the burgers McDonald has ever sold. How many miles would he have to swim at an average pace to be able to burn off all those calories?\n",
+        "answer": 2,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 36
+    },
+    {
+        "question": "How many watt-seconds does it take to melt Antarctica?\n",
+        "answer": 24,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 37
+    },
+    {
+        "question": "How many meters of stacked punch cards would it take to hold all of the data in the NSA\u2019s data storage warehouses?\n",
+        "answer": 13,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 38
+    },
+    {
+        "question": "How many alkaline AA batteries would it take to power an average American home?\n",
+        "answer": 6,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 39
+    },
+    {
+        "question": "How many chemical compounds have been discovered?\n",
+        "answer": 8,
+        "source": "Seven Lakes Invitational 22-23",
+        "number": 40
     },
     {
         "question": "Levin and Kitty just had their first child! Congratulations to the parents. They plan to entertain their newborn with Teletubbies, at a rate of one episode per day. How many years will the television series last them?\n",
@@ -9928,6 +10954,234 @@
         "answer": 3,
         "source": "UT Austin Regionals 22-23",
         "number": 44
+    },
+    {
+        "question": "We\u2019d like to get to know you better. What is the combined age of you and your partner in Minecraft days (day here is defined as a day cycle, meaning a full day and night)?\n",
+        "answer": 6,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 1
+    },
+    {
+        "question": "What\u2019s your phone number?\n",
+        "answer": 10,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 2
+    },
+    {
+        "question": "How many tetrominoes (Tetris pieces) would it take to complete an ideal 40-line sprint?\n",
+        "answer": 2,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 3
+    },
+    {
+        "question": "What is the sum of every ACT score from 2022?\n",
+        "answer": 7,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 4
+    },
+    {
+        "question": "How many species of beetles exist on Earth?\n",
+        "answer": 5,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 5
+    },
+    {
+        "question": "How many sticky notes would it take to cover up the Pyramid of Giza?\n",
+        "answer": 7,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 6
+    },
+    {
+        "question": "What is the ratio between the Hawking Index scores of Catching Fire and Fifty Shades of Gray?\n",
+        "answer": 0,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 7
+    },
+    {
+        "question": "Take a breath. You\u2019re doing great! How many molecules did you just inhale?\n",
+        "answer": 22,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 8
+    },
+    {
+        "question": "How long would it take a Hippocampus Zosterae seahorse, the slowest fish, to swim the length of the observable universe in hours?\n",
+        "answer": 27,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 9
+    },
+    {
+        "question": "A Helen is a unit indicating a woman with the beauty to launch 1000 ships from port, originating from the idea that Helen of Troy from the Iliad had such a face - supposedly the most beautiful in the world at the time. If the amount of ships a woman can launch is directly proportional to the amount of women the woman in question is more beautiful than, how many ships could the \u201cmost beautiful woman in the world\u201d launch today?\n",
+        "answer": 5,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 10
+    },
+    {
+        "question": "Assume that right after the tea dumping part of the Boston Tea Party, the Boston Harbor was stirred to homogeneity. If a Son of Liberty suddenly got thirsty and took a sip out of the water right from the port, what ratio of dumped tea to water would the revolutionary taste?\n",
+        "answer": -5,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 11
+    },
+    {
+        "question": "Jonas has been enslaved by giants and is to carry harvested mushrooms up Jack\u2019s Beanstalk to the Castle of the Giant King nestled up in the Cirrus clouds. Marilyn wishes to free Jonas, but the giants expect her to pay them in the amount of mushrooms Jonas would transport to them over the entirety of his life, assuming no rest. Given that Jonas can carry 589 mushrooms at a time and his climb rate is 10 m/min both directions vertically, how many mushrooms must Marilyn provide the giants to free Jonas?\n",
+        "answer": 7,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 12
+    },
+    {
+        "question": "A single bacteria is growing in an infinite pool of resources. Assuming each bacteria doubles every 20 minutes, what would the fermi number of the total mass of the colony in kg be after the sun has depleted its hydrogen fuel?\n",
+        "answer": 13,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 13
+    },
+    {
+        "question": "Peru is a major producer of blueberries. How many tons of blueberries did Peru produce in 2020?\n",
+        "answer": 5,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 14
+    },
+    {
+        "question": "Blueberries do not grow on trees; rather, they grow on bushes. However, Peru still does have a whole lot of trees. How many hectares within Peru are forested?\n",
+        "answer": 8,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 15
+    },
+    {
+        "question": "The common juniper possesses seed cones that are similar to blueberries in appearance; these juniper \u201cberries\u201d are very bitter but still used in traditional medicine by cultures like the Navajo. The Navajo is the largest Native American tribe in America. How many members were enrolled in the tribe in 2021?\n",
+        "answer": 5,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 16
+    },
+    {
+        "question": "Plants vs. Zombies 2 includes a wide assortment of floral weapons, including an Electric Blueberry choice (though its unlock requires a microtransaction sadly). How many different plants are playable in PvZ2?\n",
+        "answer": 2,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 17
+    },
+    {
+        "question": "Blueberries are Canada\u2019s most exported fruit. How many gallon cans of paint would it take to cover all of Canada?\n",
+        "answer": 11,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 18
+    },
+    {
+        "question": "Billy is on his first day of elementary school and meets Fernando, who he knows is Hispanic. He doesn\u2019t know the specific country that Fernando\u2019s origins lie in, however. How many Spanish-speaking countries are there?\n",
+        "answer": 1,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 19
+    },
+    {
+        "question": "Billy was stunned by the amount of Spanish-speaking countries. He also meets Abby, who is Filipino. She says her parents hail from the same island, but he figures it\u2019d be hard to guess which one exactly. He\u2019d be right! How many islands comprise the Philippines?\n",
+        "answer": 3,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 20
+    },
+    {
+        "question": "During lunch, Billy snuck his dad\u2019s gaming PC to school and booted up Minecraft. Because he\u2019s only just started playing, he doesn\u2019t really know how the inventory works. Abby shows him that his inventory space could store how many individual wood blocks because of the stacking feature?\n",
+        "answer": 3,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 21
+    },
+    {
+        "question": "At recess, Billy is playing with Fernando and they stumble across a large beehive. Since they are not very intelligent, they hit it with a stick and get stung many times by the angry bees. How many bees are supported by a typical large beehive?\n",
+        "answer": 5,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 22
+    },
+    {
+        "question": "While recovering in the hospital, Billy thinks about his family\u2019s trip to the Grand Canyon last summer, and the fact that there is a whole Native American tribe, the Havasupai, living inside of the enormous rend in the earth. He thinks about how they have probably never eaten any Starburst, his favorite candy. How many Starburst would it take to fill up the Grand Canyon?\n",
+        "answer": 18,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 23
+    },
+    {
+        "question": "Fernando unfortunately got stung a bit too much and passed away from the injuries that he sustained. His devastated family must now arrange for a funeral. In America, how much does an average funeral cost in Argentine pesos?\n",
+        "answer": 6,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 24
+    },
+    {
+        "question": "Billy too has been devastated by this occurrence, and is grieving for the first time in his very short life. How many stages of grief are there in the standard model?\n",
+        "answer": 1,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 25
+    },
+    {
+        "question": "Abby has turned to depressive slow cinema as a means of coping with the loss. Filipino filmmaker Lav Diaz is well regarded for his extremely long films. Considering his feature filmography, how many minutes will his collective work last Abby?\n",
+        "answer": 4,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 26
+    },
+    {
+        "question": "Unfortunately, such films are probably not meant for elementary schoolers. Abby watches Norte, The End of History with Billy, who promptly goes insane and is committed to a mental asylum at the young age of How many patients reside within mental asylums in America as of 2017?\n",
+        "answer": 5,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 27
+    },
+    {
+        "question": "19 years later, Billy is a long-time escapee and on the loose. It appears he\u2019s been attempting to achieve some type of futile vengeance for Fernando\u2019s sake. He was most recently spotted burning down a honey farm in North Carolina, and is likely to end up permanently locked up at this rate. What is the longest non-life-imprisonment prison sentence ever given in centi-centuries?\n",
+        "answer": 5,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 28
+    },
+    {
+        "question": "What is the length of Belgium\u2019s border in beard-seconds?\n",
+        "answer": 14,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 29
+    },
+    {
+        "question": "How many bytes does the Wikipedia page \u201cHypothetical partition of Belgium\u201d take up in its revision stage as of February 2023?\n",
+        "answer": 5,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 30
+    },
+    {
+        "question": "Did you know that french fries are actually from Belgium? Hopefully! How many deep-fried french fries would it take to equal the yearly caloric intake of an elephant?\n",
+        "answer": 5,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 31
+    },
+    {
+        "question": "Belgium is known for its chocolate exports. How many cocoa beans would it take to make all the exported chocolate for an entire year?\n",
+        "answer": 11,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 32
+    },
+    {
+        "question": "The Smurfs franchise originated in Belgian cartoons; according to the lore, a Smurf is supposed to be 3 apples tall. How many apples tall is Mt. Kilimanjaro?\n",
+        "answer": 5,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 33
+    },
+    {
+        "question": "How many people are online on r/askreddit as of the moment this question is being written?\n",
+        "answer": 4,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 34
+    },
+    {
+        "question": "What is the ratio between the RAM in the first spaceship and an average PC according to the 2023 Steam hardware survey?\n",
+        "answer": -4,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 35
+    },
+    {
+        "question": "What is the ratio between the amount of transistors in a NVIDIA GeForce RTX 4090 and a 1971 Intel 4004 graphics card?\n",
+        "answer": 4,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 36
+    },
+    {
+        "question": "What is the ratio between the amount of memory space taken up by Red Dead Redemption 2 and Brawl Stars?\n",
+        "answer": -4,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 37
+    },
+    {
+        "question": "How many trees would it take to build Noah\u2019s Ark?\n",
+        "answer": 4,
+        "source": "Sahil Gandhi, WSO Regionals 22-23",
+        "number": 38
     },
     {
         "question": "What is the weight in grams of the water in an Olympic sized swimming pool?",

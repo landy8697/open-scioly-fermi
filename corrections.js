@@ -11,6 +11,6 @@ corrections = {
         "question": "What is 2^12?",
         "answer": "",
         "explanation": "",
-        "credit": "randomeclipse"
+        "credit": "None"
     }
 }

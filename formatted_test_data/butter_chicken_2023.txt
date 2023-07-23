@@ -64,7 +64,7 @@ What is 2023! * 20! * 23! (Very cliche question.)
 5852
 I, being a high school student, must study for the SAT. If I were to guess on every question in both math sections of the SAT, what is the probability that I’ll get 90% or above? (Assume all questions are multiple-choice with 4 answers.)
 -27
-Seeing that my chance here is dismal, what is the chance that I obtain an above-average math score on the SAT?
+Seeing that my chance here is dismal, what is the chance that I obtain an above-average math score on the SAT? (If I were to guess on every question in both math sections of the SAT, what is the probability that I’ll get 90% or above? (Assume all questions are multiple-choice with 4 answers.))
 -5
 How many vertices are on every platonic solid, combined?
 2

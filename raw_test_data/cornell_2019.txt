@@ -1,0 +1,77 @@
+_QUESTIONFORMAT_ r'\d+\)'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1) How many drops of water are in Lake Ontario?
+2) How many steps do I need to climb to burn off the calories in a slice of pizza?
+3) How many boba balls are scooped in New York City every day?
+4) How much electricity in watt-hours is used in NYC each day?
+5) How many fish are in the ocean?
+6) How many beans can you fit in a stretched stomach?
+7) How many nature valley granola bars can fit over New York City?
+8) How many carbon molecules are in a white cotton t-shirt?
+9) How many skin cells are in your ear lobe?
+10) If the Sun’s volume were to increase by the volume of the Earth, what percent
+would its volume increase?
+11) How many milliliters of milk can a cow produce in its lifetime?
+12) How many pennies are needed to cover the human body?
+13) How long in meters can you draw a line with 5 wooden pencils?
+14) If you melt down the Statue of Liberty, how many molecules of copper would you
+have?
+15) How many milliliters of sweat are produced in the United States every year?
+16) How long in seconds does it take for light to travel from the ceiling of this room to
+your eye?
+17) How many water molecules are used in a typical 10 minute shower?
+18) How many grams of nitrogen are in the DNA of one human cell?
+19) What fraction of the energy that the Sun produces each year does an atomic bomb
+produce?
+20) How many sprays does a bottle of perfume hold?
+21) How many CO2 molecules does a car emit each year?
+22) How many times does the motor of a car rotate a crankshaft each year?
+23) If you were to melt down all the recycled glass in the US each year, what would the
+final volume be in cubic meters?
+
+24) How many ice cubes would you need to melt to raise the ocean level enough to
+melt New York City?
+25) How many feathers would it take to snap an elevator cable?
+26) If you took all the oxygen in this room and put it on Mars, how much would it weigh
+in millinewtons?
+27) How many mosquito bites are required to collect one million liters of blood?
+28) If you were to convert the energy in bananas to fuel, how many bananas would it
+take to fuel a car to drive from New York City to Los Angeles?
+29) How many liters of helium would it take to lift the average house?
+30) How many sheets of graphene stacked vertically are as tall as the empire state
+building?
+31) How many grams of salt are in the Pacific Ocean?
+
+19
+3
+7
+10
+12
+3
+11
+24
+6
+-4
+7
+3
+5
+29
+14
+-8
+27
+-12
+-19
+2
+
+28
+8
+5
+13
+7
+3
+11
+4
+7
+12
+22

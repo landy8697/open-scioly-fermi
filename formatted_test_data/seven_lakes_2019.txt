@@ -1,0 +1,82 @@
+Seven Lakes Invitational 22-23
+40
+In the poem “Dover Beach”, British poet Matthew Arnold observes the French coast from Dover, Kent in the United Kingdom. If there is a single light source on the French coast across the English Channel, what is the time, in seconds it takes for the light to reach Arnold’s eyes? Assume the distance between the poet and the light source is the shortest distance across the Strait of Dover.
+-4
+How many total words are in Adam Smith’s The Wealth of Nations (1776)?
+5
+How many electrons would it take to equal the mass of the moon?
+53
+Jeffrey P. Bezos is the founder, chairman, and CEO of Amazon. If his net worth were to be equally divided among every person in Mozambique, how many nickels, in USD, would each individual receive?
+5
+As many people as all the cells in an average human brain applied to Harvard University. How many of them would be admitted, using the admittance rate for the Harvard class of 2021?
+10
+How many chess grandmasters are alive today?
+3
+What is the combined area of Massachusetts, a state in the United States, and the State of Mexico, a Mexican federal entity located in South-Central Mexico (not to be confused with the country of Mexico)? Express your answer in square inches.
+14
+Karl the robot types at a constant rate of 133 words per minute. Karl is powered by solar panels. How many words can Karl type before the Sun is projected to run out of fuel?
+4
+What is the total number of human protein-coding genes in the human genome?
+10
+How many bushels of corn did Iowa farmers grow grow in 2016?
+8
+Find 54!
+12
+Find 3^
+10
+Find 1*3*5*7*...*31*
+10
+In a 400 gram bag of Sour Patch Kids, what is the mass of the sodium content, in picograms?
+9
+What is the ionization energy of Beryllium (Be), in J/mol?
+9995
+Find the distance between Sydney and Perth, in parsecs.
+17
+In 2017, what was the total mass of the chocolate consumed by the Swiss, in petagrams?
+4
+What is the mass of all the water on Earth, in metric tons (tonnes)?
+9
+Find log(4)ln(4)log(5)ln(5)log(6)ln(6).....log(15)ln(15).
+71
+The Leshan Giant Buddha, located in Sichuan, China, is the tallest stone Buddha statue in the world. It was carved out of a cliff face during the Tang Dynasty. How tall is the Leshan Giant Buddha, in Astronomical Units (AUs)?
+16
+How many bacteria are in a normal, 70 kg man?
+19
+How many acres of pizza do Americans eat each day?
+13
+“Montag” is German for Monday. How many Mondays have passed since Die Zugspitze, the highest peak in Germany, was first climbed by Josef Naus (a surveying technician), his survey assistant, Maier, and a mountain guide, J. Georg Tauschl?
+6
+What was the 2015 annual GDP (in pounds sterling) of the Isle of Man, a British Crown dependency?
+4
+How many calories does an average human consume in a lifetime?
+25
+How many seconds of schooltime will all the students in the United States have this year?
+-29
+What is the average distance between Mercury and Saturn in units of the height of the Taj Mahal?
+60
+If all the Yugioh cards that have ever been printed are collected and placed in a grid, how many Alabamas could they cover?
+18
+How long, in seconds, would it take to burn every existing copy of Fahrenheit 451 one at a time, assuming no new books are printed?
+11
+What is the number of primes between 10^10 and 10^10000?
+-10
+If you connected the ends of every strand of hair on your proctor’s head, how many flutes could they string up?
+-4
+If every insect alive at this time played “Flight of the Bumblebee” on a tiny tuba, how many notes could they play in a day?
+18
+What is the ratio of the pressure at the center of a proton to the pressure of a human bite?
+3
+How many possible organic compounds with molecular weight less than 500 Da are theorized to exist?
+-10
+How many leaves are there on all the trees in the world?
+13
+Bob ate all the burgers McDonald has ever sold. How many miles would he have to swim at an average pace to be able to burn off all those calories?
+2
+How many watt-seconds does it take to melt Antarctica?
+24
+How many meters of stacked punch cards would it take to hold all of the data in the NSA’s data storage warehouses?
+13
+How many alkaline AA batteries would it take to power an average American home?
+6
+How many chemical compounds have been discovered?
+8

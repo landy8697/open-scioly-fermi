@@ -78,7 +78,7 @@ function getCurData(curID){
 function placeRandomQuestion(){
     curID = parseInt(Math.random() * data.length);
     curData = getCurData(curID); 
-    console.log(curData);
+    //console.log(curData);
     
     //Recursive loop to not display questions with DISCARD in question
     if (curData.question.includes("DISCARD")){
@@ -99,7 +99,8 @@ function placeQuestion(curData, source){
     }
     //FOR BOTH CASES CORRECTION AND NO CORRECTION
     curData["originalAnswer"] = curData["answer"]; 
-    
+    curData["originalQuestion"] = curData["question"];
+    curData["id"] = curID;
     //Check and apply correction if it exists
     if(source in corrections){
         console.log("CORRECTION FOUND");
@@ -111,13 +112,18 @@ function placeQuestion(curData, source){
         curData["explanation"] = (questionCorrected["explanation"] != "") ? questionCorrected["explanation"] : curData["explanation"];
         curData["credit"] = (questionCorrected["credit"] != "") ? questionCorrected["credit"] : curData["credit"];
     }
-
+    console.log(curData);
     //QUESTION AND CREDIT DISPLAY
     //Only display credit if answer change, none for question formatting stuff
     if(curData.answer != curData.originalAnswer){
         document.getElementById("question-box").innerHTML = 
         `<p>${curData.question}</p>
-        <small><i>${source}<br>Modified by ${curData.credit}
+        <small><i>${source}<br>Answer corrected by ${curData.credit}
+        </i></small>`;
+    }else if(curData.question != curData.originalQuestion && curData.credit.toUpperCase() != "NONE"){
+        document.getElementById("question-box").innerHTML = 
+        `<p>${curData.question}</p>
+        <small><i>${source}<br>Question text corrected by ${curData.credit}
         </i></small>`;
     }else{
         document.getElementById("question-box").innerHTML = 

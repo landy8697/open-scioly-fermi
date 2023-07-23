@@ -1,0 +1,108 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SANDWICHED_NUMBER
+
+1. 3
+2. 2^42
+3. 20!
+4. Product of all primes under 50
+5. e^50
+6. 23 * 2361 * 6932 * 1025 * 260192 * 79623
+7. 40th Fibonacci number (where the first two are 1, 1)
+8. Watts in one horsepower
+9. The speed of sound in glass, in m/s
+10. Distance between Boston and Miami by car, in km
+11. Median number of words in a book
+12. Number of paper clips needed to span the distance between the Earth and the Sun
+13. The ratio of the speed of a plane to that of a snail
+14. The ratio of the weight of a penny on the Earth to its weight on the Sun
+15. Number of worker ants it takes to equal the weight of an average adult male Asian
+elephant
+16. Number of electrons used to charge an iPhone for a minute
+17. Tons of plastic are produced globally every year
+18. Number of daily active Snapchat users
+19. Gallons of water in the ocean
+20. Annual revenue of global fashion industry, in dollars
+21. Number of atoms in the average adult Asian elephant
+22. Breaths taken by the average human in a lifetime
+23. Tons of carbon (in any form) on Earth
+24. Proportion of atoms in Earth’s crust that are gold
+25. Total height of all humans in the world, in rods
+26. Deepest point in the ocean, in light years
+
+27. Total iron ore produced in the world annually, in tons
+28. Distance of Voyager 1 spacecraft from Earth, in km
+29. Deepest hole dug by humans, in km
+30. Average lifespan of a US dollar bill, in days
+31. Total number of books in the world
+32. Number of full-time employees of Google
+33. Average ticket price at Super Bowl 2022, in dollars
+34. Total prize money pool for FIFA World Cup, in dollars
+35. Total number of elementary school teachers in America
+36. Mass of the atmosphere, in grams
+37. Number of deaths by drowning in the world per year
+38. Maximum takeoff weight of Boeing 747, in pounds
+39. Number of $20 bills in circulation
+40. Total number of emails sent per day
+41. Total number of colleges in the US
+42. Number of views per day for music video of “Despacito”
+43. Number of followers of BTS on Twitter
+44. Total number of iPhones sold worldwide
+45. Number of words in the Constitution (including amendments)
+46. Number of Christmas trees sold annually in the US
+47. Number of trees in the Amazon rainforest
+48. Number of people named Matthew in the US
+49. Number of base pairs in the human genome
+50. Average number of flights per day
+
+1. ___0___
+2. ___12___
+3. ___18___
+4. ___18___
+5. ___22___
+6. ___22___
+7. ___8___
+8. ___3___
+9. ___3___
+10. ___3___
+11. ___5___
+12. ___12___
+13. ___4___
+14. ___-2___
+15. ___9___
+16. ___20___
+17. ___8___
+
+18. ___8___
+19. ___20___
+20. ___12___
+21. ___29___
+22. ___9___
+23. ___14___
+24. ___-8___
+25. ___9___
+26. ___-12___
+27. ___9___
+28. ___10___
+29. ___1___
+30. ___4___
+31. ___8___
+32. ___5___
+33. ___4___
+34. ___9___
+
+35. ___6___
+36. ___22___
+37. ___5___
+38. ___6___
+39. ___10___
+40. ___11___
+41. ___3___
+42. ___6___
+43. ___7___
+44. ___9___
+45. ___4___
+46. ___7___
+47. ___11___
+48. ___6___
+49. ___9___
+50. ___5___
