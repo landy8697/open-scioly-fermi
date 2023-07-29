@@ -1,0 +1,10 @@
+Timestamp,Full problem attribution (Copy the full italicized problem crediting),Revised Question Text (Optional),"Revised Fermi Answer, (Optional) ->  Must be an integer","Explanation (If changing answer, provide a brief explanation for how the new answer was reached, nothing insanely long or fancy needed)","Credits (Optional, but we want to thank whoever fixed the problem :D, preferred discord or forums name) "
+7/19/2023 1:56:14,"UT Austin Invitational 18-19, #22",,25,"Takes abt 1 hour to climb ->  ~500 kcal burned, 1 mol ATP = 7.3 kcal
+500/7.3 * 6E23 = 4e25 molecules",randomeclipse
+7/19/2023 22:43:21,"BirdSO In-Person Invitational 22-23, #5",What is 2^12?,,,randomeclipse
+7/20/2023 17:17:15,"BullSO Invitational 22-23, #25",What is the probability of a randomly selected person on Earth having an IQ of above 200?,-11,normCdf with mean as 100 and SD as 15 gives 1.32e-11,randomeclipse
+7/20/2023 17:25:07,"UT Austin Invitational 17-18, #19","[Question #6: Yo mamma so fat, she took all the Big Macs sold in the US last year and gobbled ’em right up! How many pounds of fat are in yo mamma now? Assume that yo mama ain’t burning any o’ those calories, cuz ain’t nobody got time for that!]
+
+Yo mamma not only fat, she so fat that she is seriously concerned about her health and well-being. How many hours would she have to run in order to burn off all those delicious Big Macs from question 6?",,,randomeclipse
+7/20/2023 22:03:53,"Seven Lakes Invitational 17-18, #25",How many seconds would it take the average nuclear plant to generate the amount of energy found in the question above? (Question above: How much energy has been used through the consumption of gasoline by all the cars in the world since the invention of the automobile?),,,randomeclipse
+7/22/2023 14:43:29,"Princeton Invitational 18-19, #19",What is 10 ^ (3log(5) + log(20) + 2log(2)) ? Here log denotes the base 10 logarithm.,,,None

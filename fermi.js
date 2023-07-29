@@ -120,7 +120,8 @@ function placeQuestion(curData, source){
         `<p>${curData.question}</p>
         <small><i>${source}<br>Answer corrected by ${curData.credit}
         </i></small>`;
-    }else if(curData.question != curData.originalQuestion && curData.credit.toUpperCase() != "NONE"){
+    }else if(curData.question != curData.originalQuestion && curData.credit.toUpperCase() != "NONE" 
+    && curData.credit != ""){
         document.getElementById("question-box").innerHTML = 
         `<p>${curData.question}</p>
         <small><i>${source}<br>Question text corrected by ${curData.credit}
@@ -270,6 +271,10 @@ function darkMode(){
         document.querySelectorAll('.apply-bright-text').forEach(function(element) {
             element.classList.replace("text-dark", "text-light");
         });
+        document.querySelectorAll('.github-button').forEach(function(element) {
+            console.log("GITHUB BUTTON");
+            element.setAttribute("data-color-scheme", "dark");
+        });
     }else{
         darkmode = false;
         console.log("Light Mode");
@@ -286,6 +291,9 @@ function darkMode(){
     //    });
         document.querySelectorAll('.apply-bright-text').forEach(function(element) {
             element.classList.replace("text-light", "text-dark");
+        });
+        document.querySelectorAll('.github-button').forEach(function(element) {
+            element.setAttribute("data-color-scheme", "light");
         });
     }
     

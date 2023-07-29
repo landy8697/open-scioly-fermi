@@ -22,5 +22,11 @@ data = [
         "answer": 3,
         "source": "BirdSO In-Person Invitational 22-23",
         "number": 5
+    },
+    {
+        "question": "What is ? Here log denotes the base 10 logarithm.\n",
+        "answer": 4,
+        "source": "SOAPS Invitational 22-23",
+        "number": 6
     }
 ]
