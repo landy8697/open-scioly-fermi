@@ -29,6 +29,9 @@ document.addEventListener("DOMContentLoaded", function() {
     document.getElementById("toggleform").addEventListener('click', () => {
         toggleForm();
     });
+    document.getElementById("update-form-fill").addEventListener('click', () => {
+        updateFormFill();
+    });
     sessionData = new SessionData();
     newQuestion();
     changeStatsDisplay();
@@ -91,13 +94,20 @@ function placeRandomQuestion(){
     placeQuestion(curData, fullSource);
 }
 //Checks for corrections, places question/source/credit in box
+//Sets curData original question/answer and corrections and fullSource
 function placeQuestion(curData, source){
     
     if(root==null){
         root = new LinkedNode(curID);
         curNode = root;
     }
+    /*
+    if(formDisplayed){
+        toggleForm();
+    }
+    */
     //FOR BOTH CASES CORRECTION AND NO CORRECTION
+    curData['fullSource'] = source;
     curData["originalAnswer"] = curData["answer"]; 
     curData["originalQuestion"] = curData["question"];
     curData["id"] = curID;
@@ -300,20 +310,45 @@ function darkMode(){
 
 }
 
+var formDisplayed = false;
 function toggleForm(){
     console.log("Toggle Form");
     form = document.getElementById("form-div");
     btn = document.getElementById("toggleform");
     if(form.classList.contains("d-none")){
+        formDisplayed = true;
+        //embed = document.querySelector("iframe");
+        updateFormFill();
+        
+        /*
+        https://docs.google.com/forms/d/e/1FAIpQLScFDhEvsuNndv-dBOCi_y-N7y1h_lsP0KbZvBJeMXq7KQPVTg/viewform?
+        usp=pp_url&entry.968995989=RobertYL,+daily+fermi+questions+day+%2354+%5B2018+Eastside+Q10%5D
+        &embedded=true
+        */
         form.classList.remove("d-none");
         form.classList.add("d-block");
+        
+        
         btn.innerText = "Hide Form";
     }else{
+        formDisplayed = false;
         form.classList.remove("d-block");
         form.classList.add("d-none");
         btn.innerText = "Change/Correct this problem";
     }
 }
+function updateFormFill(){
+    form = document.getElementById("form-div");
+    src = `https://docs.google.com/forms/d/e/1FAIpQLScFDhEvsuNndv-dBOCi_y-N7y1h_lsP0KbZvBJeMXq7KQPVTg/viewform?
+        usp=pp_url&entry.968995989=${encodeURIComponent(curData.fullSource)}
+        &embedded=true`;
+    form.innerHTML = `<iframe allowtransparency="true"  style="background-color: transparent;"
+        src="${src}" 
+        width="640" height="1274" frameborder="0" marginheight="0" marginwidth="0" 
+        >Loading…</iframe>`
+}
+
+
 
 let root = null;
 let curNode = null;
@@ -441,7 +476,7 @@ class SessionData{
     generateReport(){
         return `Visited: ${this.visited}<br>
                 Answered: ${this.answered}<br>
-                Points: ${this.points}<br>
+                Points: ${this.points}/${this.answered*5}<br>
                 Accuracy: ${(this.getAccuracy()*100).toFixed(1)}%<br>`
     }
 }

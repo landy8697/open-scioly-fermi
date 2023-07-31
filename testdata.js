@@ -28,5 +28,9 @@ data = [
         "answer": 4,
         "source": "SOAPS Invitational 22-23",
         "number": 6
+    },{
+        "question": "How many dogs were owned as pets in the United States last year?",
+        "answer": 7,
+        "source": "RobertYL, daily fermi questions day #75 [2019 Polytechnic Q19]"
     }
 ]

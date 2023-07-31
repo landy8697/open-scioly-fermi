@@ -1476,7 +1476,7 @@
         "number": 32
     },
     {
-        "question": "Seeing that my chance here is dismal, what is the chance that I obtain an above-average math score on the SAT?\n",
+        "question": "Seeing that my chance here is dismal, what is the chance that I obtain an above-average math score on the SAT? (If I were to guess on every question in both math sections of the SAT, what is the probability that I\u2019ll get 90% or above? (Assume all questions are multiple-choice with 4 answers.))\n",
         "answer": -5,
         "source": "FermiSweat, Fermi Questions, but butter (chicken)",
         "number": 33
@@ -2076,151 +2076,151 @@
         "number": 34
     },
     {
-        "question": "If \u200byou \u200bline \u200bup \u200bhuman \u200brod \u200bcells \u200b(photoreceptors \u200bin \u200byour \u200beye), \u200bhow \u200bmany \u200bcan \u200byou \u200bfit \u200bif \u200byou start \u200bfrom \u200bsea \u200blevel \u200band \u200btravel \u200bdown \u200bto \u200bthe \u200blowest \u200bpoint \u200bon \u200bearth?\n",
+        "question": "If you line up human rod cells (photoreceptors in your eye), how many can you fit if you start from sea level and travel down to the lowest point on earth?\n",
         "answer": 9,
         "source": "Clements Invitational 17-18",
         "number": 1
     },
     {
-        "question": "How \u200bmany \u200bcarbon \u200batoms \u200bfit \u200bfrom \u200bthe \u200bdistance \u200bfrom \u200bsea \u200blevel \u200bto \u200bthe \u200bhighest \u200bpoint \u200bon earth?\n",
+        "question": "How many carbon atoms fit from the distance from sea level to the highest point on earth?\n",
         "answer": 17,
         "source": "Clements Invitational 17-18",
         "number": 2
     },
     {
-        "question": "Every \u200btime \u200bsomeone \u200bsearches \u200bsomething \u200bon \u200bGoogle, \u200bBob \u200bpunches \u200bhis \u200bfriend \u200bHoward right \u200bsmack \u200bin \u200bthe \u200bgut! \u200bHow \u200bmuch \u200benergy \u200bin \u200bjoules \u200bhas \u200bHoward's \u200babdomen \u200btaken \u200bin \u200bover a \u200bcentury \u200bof \u200bsearching? \u200b(Assume \u200ba \u200bconstant \u200bsearching \u200brate)\n",
+        "question": "Every time someone searches something on Google, Bob punches his friend Howard right smack in the gut! How much energy in joules has Howard's abdomen taken in over a century of searching? (Assume a constant searching rate)\n",
         "answer": 16,
         "source": "Clements Invitational 17-18",
         "number": 3
     },
     {
-        "question": "How \u200bmany \u200btons \u200bof \u200bpotassium \u200bions \u200bis \u200bexcreted \u200bfrom \u200bthe \u200baverage \u200badult \u200bthrough \u200burine \u200bin \u200ba day?\n",
+        "question": "How many tons of potassium ions is excreted from the average adult through urine in a day?\n",
         "answer": -6,
         "source": "Clements Invitational 17-18",
         "number": 4
     },
     {
-        "question": "How \u200bmany \u200binternet \u200busers \u200bare \u200busing \u200ba \u200bVPN \u200bto \u200baccess \u200bcontent \u200bblocked \u200bby \u200bThe \u200bGreat Firewall \u200bin \u200bChina?\n",
+        "question": "How many internet users are using a VPN to access content blocked by The Great Firewall in China?\n",
         "answer": 8,
         "source": "Clements Invitational 17-18",
         "number": 5
     },
     {
-        "question": "How \u200bmany \u200bdays \u200bwould \u200bit \u200btake \u200bone \u200bperson \u200bto \u200bshed \u200benough \u200bskin \u200bcells \u200b(stacked \u200bon \u200btop \u200bof each \u200bother) \u200bto \u200breach \u200bthe \u200bheight \u200bof \u200bthe \u200btallest \u200bbuilding \u200bin \u200bthe \u200bworld?\n",
+        "question": "How many days would it take one person to shed enough skin cells (stacked on top of each other) to reach the height of the tallest building in the world?\n",
         "answer": 0,
         "source": "Clements Invitational 17-18",
         "number": 6
     },
     {
-        "question": "How \u200bmany \u200bmilligrams \u200bof \u200bglass \u200bwould \u200byou \u200bneed \u200bto \u200bcover \u200bthe \u200bentire \u200bsurface \u200bof \u200bthe \u200bmoon \u200bin a \u200b5 \u200bcm \u200blayer \u200bof \u200bglass?\n",
+        "question": "How many milligrams of glass would you need to cover the entire surface of the moon in a 5 cm layer of glass?\n",
         "answer": 18,
         "source": "Clements Invitational 17-18",
         "number": 7
     },
     {
-        "question": "How \u200bmany \u200bjoules \u200bwould \u200byou \u200bneed \u200bto \u200blaunch \u200ba \u200bone \u200bkilogram \u200bsalamander \u200binto \u200blow \u200bEarth orbit?\n",
+        "question": "How many joules would you need to launch a one kilogram salamander into low Earth orbit?\n",
         "answer": 7,
         "source": "Clements Invitational 17-18",
         "number": 8
     },
     {
-        "question": "\u200bHow \u200bmany \u200bE. \u200bcoli \u200bcould \u200bgrow \u200bfrom \u200ba \u200bsingle \u200bcell \u200b(assuming \u200bunlimited \u200bresources) \u200bin \u200bthe time \u200bit \u200btakes \u200bfor \u200bMars \u200bto \u200bcomplete \u200bone \u200borbit \u200bof \u200bthe \u200bsun?\n",
+        "question": "How many E. coli could grow from a single cell (assuming unlimited resources) in the time it takes for Mars to complete one orbit of the sun?\n",
         "answer": 14889,
         "source": "Clements Invitational 17-18",
         "number": 9
     },
     {
-        "question": "How \u200bmany \u200bbowls \u200bof \u200binstant \u200bnoodles \u200bcould \u200byou \u200bpurchase \u200bwith \u200bthe \u200btotal \u200bcost \u200bof \u200battending UC \u200bBerkeley \u200bas \u200ban \u200bout \u200bof \u200bstate \u200bstudent \u200bin \u200b2017?\n",
+        "question": "How many bowls of instant noodles could you purchase with the total cost of attending UC Berkeley as an out of state student in 2017?\n",
         "answer": 6,
         "source": "Clements Invitational 17-18",
         "number": 10
     },
     {
-        "question": "How \u200bmany \u200bmegabytes \u200bare \u200bused \u200bin \u200ba \u200byear \u200blong \u200bvideo \u200bcall \u200bbetween \u200btwo \u200bmobile \u200bdevices \u200bon Skype?\n",
+        "question": "How many megabytes are used in a year long video call between two mobile devices on Skype?\n",
         "answer": 3,
         "source": "Clements Invitational 17-18",
         "number": 11
     },
     {
-        "question": "How \u200bmany \u200bpounds \u200bof \u200bCO2 \u200bare \u200bcreated \u200bby \u200ba \u200bplane \u200bflying \u200bfrom \u200bBoston \u200bto \u200bHouston?\n",
+        "question": "How many pounds of CO2 are created by a plane flying from Boston to Houston?\n",
         "answer": 5,
         "source": "Clements Invitational 17-18",
         "number": 12
     },
     {
-        "question": "How \u200bmany \u200bcalories \u200bdo \u200bI \u200bburn \u200bif \u200bI \u200bclimb \u200bthe \u200bGreat \u200bWall \u200bone \u200bstair \u200bat \u200ba \u200btime? \u200bTwo \u200bstairs \u200bat \u200ba time?\n",
+        "question": "How many calories do I burn if I climb the Great Wall one stair at a time? Two stairs at a time?\n",
         "answer": 4,
         "source": "Clements Invitational 17-18",
         "number": 13
     },
     {
-        "question": "How \u200bmany \u200bseconds \u200bwould \u200bit \u200btake \u200bto \u200bview \u200ball \u200bthe \u200bsnaps \u200bsent \u200bwithin \u200bthe \u200bpast \u200bhour?\n",
+        "question": "How many seconds would it take to view all the snaps sent within the past hour?\n",
         "answer": 8,
         "source": "Clements Invitational 17-18",
         "number": 14
     },
     {
-        "question": "What \u200bis \u200bthe \u200bpressure \u200bchange \u200bwhen \u200ba \u200bplane \u200bdescends \u200bmeasured \u200bin \u200bpumps \u200bin \u200ba \u200bbicycle pump?\n",
+        "question": "What is the pressure change when a plane descends measured in pumps in a bicycle pump?\n",
         "answer": 0,
         "source": "Clements Invitational 17-18",
         "number": 15
     },
     {
-        "question": "How \u200blong \u200bdo \u200bthree \u200bhamsters \u200brunning \u200bon \u200ba \u200bwheel \u200btake \u200bto \u200bpower \u200ba \u200bplane \u200bto \u200bsuccessfully ascend?\n",
+        "question": "How long do three hamsters running on a wheel take to power a plane to successfully ascend?\n",
         "answer": 12,
         "source": "Clements Invitational 17-18",
         "number": 16
     },
     {
-        "question": "How \u200bmany \u200bgallons \u200bof \u200bwater \u200bis \u200bneeded \u200bto \u200bproduce \u200ball \u200bthe \u200bcotton \u200bneeded \u200bfor \u200bclothing production \u200beach \u200byear \u200bin \u200bthe \u200bUS?\n",
+        "question": "How many gallons of water is needed to produce all the cotton needed for clothing production each year in the US?\n",
         "answer": 13,
         "source": "Clements Invitational 17-18",
         "number": 17
     },
     {
-        "question": "Suppose \u200bmy \u200bfriend \u200bwho \u200breally \u200blikes \u200bto \u200bshake \u200bher \u200bleg \u200bcan \u200bconvert \u200bthe \u200benergy \u200bit \u200btakes \u200bto shake \u200bher \u200bleg \u200bpassively \u200binto \u200bactual \u200benergy. \u200bHow \u200bmany \u200bhours \u200bwould \u200bshe \u200bhave \u200bto \u200bshake \u200bher leg \u200bto \u200bproduce \u200bthe \u200bamount \u200bof \u200benergy \u200bneeded \u200bto \u200bpower \u200ba \u200bhouse \u200bfor \u200ba \u200byear?\n",
+        "question": "Suppose my friend who really likes to shake her leg can convert the energy it takes to shake her leg passively into actual energy. How many hours would she have to shake her leg to produce the amount of energy needed to power a house for a year?\n",
         "answer": 9,
         "source": "Clements Invitational 17-18",
         "number": 18
     },
     {
-        "question": "Suppose \u200byou \u200bmet \u200ba \u200bperson \u200bon \u200bthe \u200bsubway \u200bto \u200bthe \u200bairport. \u200bWhat \u200bare \u200bon \u200bthe \u200bchances \u200bthat you \u200bare \u200bon \u200bthe \u200bsame \u200bflight \u200band \u200bend \u200bup \u200bsitting \u200bnext \u200bto \u200beach \u200bother?\n",
+        "question": "Suppose you met a person on the subway to the airport. What are on the chances that you are on the same flight and end up sitting next to each other?\n",
         "answer": -4,
         "source": "Clements Invitational 17-18",
         "number": 19
     },
     {
-        "question": "How \u200bmany \u200bpeople \u200bin \u200bthe \u200bUS \u200bhave \u200bfood \u200ballergies?\n",
+        "question": "How many people in the US have food allergies?\n",
         "answer": 7,
         "source": "Clements Invitational 17-18",
         "number": 20
     },
     {
-        "question": "How \u200bmany \u200bdollars \u200bof \u200bmedication \u200bis \u200bbought \u200byearly \u200bto \u200bcombat \u200bthose \u200ballergies?\n",
+        "question": "How many dollars of medication is bought yearly to combat those allergies?\n",
         "answer": 10,
         "source": "Clements Invitational 17-18",
         "number": 21
     },
     {
-        "question": "Suppose \u200byou \u200bvisit \u200bBoston \u200bfor \u200ba \u200bfew \u200bdays. \u200bHow \u200bmany \u200bpeople \u200bwould \u200byou \u200bhave \u200bto \u200btalk \u200bto \u200bat Harvard \u200bto \u200bfind \u200bsomeone \u200bwho \u200bis \u200bfrom \u200bthe \u200bHouston \u200barea?\n",
+        "question": "Suppose you visit Boston for a few days. How many people would you have to talk to at Harvard to find someone who is from the Houston area?\n",
         "answer": 1,
         "source": "Clements Invitational 17-18",
         "number": 22
     },
     {
-        "question": "Glancing \u200bdown \u200bat \u200bIowa, \u200bhow \u200bmany \u200bears \u200bof \u200bcorn \u200bcan \u200byou \u200bsee \u200bfrom \u200ba \u200bplane \u200bhovering \u200bat \u200bthe height \u200bof \u200bthe \u200bclouds \u200bon \u200ba \u200bperfectly \u200bclear \u200bday?\n",
+        "question": "Glancing down at Iowa, how many ears of corn can you see from a plane hovering at the height of the clouds on a perfectly clear day?\n",
         "answer": 9,
         "source": "Clements Invitational 17-18",
         "number": 23
     },
     {
-        "question": "How \u200bmany \u200bgallons \u200bof \u200bethanol \u200bis \u200bproduced \u200bfrom \u200bthe \u200bcorn \u200bproduced \u200bby \u200bthe \u200bUS \u200bin \u200ba \u200byear?\n",
+        "question": "How many gallons of ethanol is produced from the corn produced by the US in a year?\n",
         "answer": 10,
         "source": "Clements Invitational 17-18",
         "number": 24
     },
     {
-        "question": "How \u200bmany \u200bminutes \u200bwould \u200byou \u200bhave \u200bto \u200brun \u200bto \u200bburn \u200boff \u200bthe \u200bsplurge \u200bthat \u200byou \u200bwent \u200bon \u200bwhile you \u200bate \u200ball \u200bthe \u200bice \u200bcream \u200bavailable \u200bat \u200ba \u200bgrocery \u200bstore?\n",
+        "question": "How many minutes would you have to run to burn off the splurge that you went on while you ate all the ice cream available at a grocery store?\n",
         "answer": 8,
         "source": "Clements Invitational 17-18",
         "number": 25

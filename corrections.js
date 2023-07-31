@@ -9,7 +9,7 @@ corrections = {
         "question": "What is 2^12?",
         "answer": "",
         "explanation": "",
-        "credit": "randomeclipse"
+        "credit": "None"
     },
     "BullSO Invitational 22-23, #25": {
         "question": "What is the probability of a randomly selected person on Earth having an IQ of above 200?",
@@ -29,8 +29,50 @@ corrections = {
         "explanation": "",
         "credit": "randomeclipse"
     },
-    "Princeton Invitational 18-19, #19": {
+    "SOAPS Invitational 22-23, #6": {
         "question": "What is 10 ^ (3log(5) + log(20) + 2log(2)) ? Here log denotes the base 10 logarithm.",
+        "answer": "",
+        "explanation": "",
+        "credit": "None"
+    },
+    "Carnegie Mellon Invitational 22-23, #15": {
+        "question": "",
+        "answer": "5",
+        "explanation": "Average person drinks about 2 liters of water a day. 2 liters/day * 365 days/year * 80 years = 58400 liters. ",
+        "credit": "IOnlyShoot3s"
+    },
+    "North Pocono Invitational 22-23, #43": {
+        "question": "",
+        "answer": "7",
+        "explanation": "Pew Research Center says it is 22 million people in 2023. Census.gov says that it was 27.6\nmillion people in 2021. It will likely not be 50+ million in 2023",
+        "credit": "IOnlyShoot3s"
+    },
+    "Clements Invitational 17-18, #13": {
+        "question": "How many calories do I burn if I climb the Great Wall one stair at a time?",
+        "answer": "3",
+        "explanation": "3100 stairs on the Great Wall of China. 1 stair burns 0.17 calories. 3100 *.17 = 527 calories",
+        "credit": "IOnlyShoot3s"
+    },
+    "Duke Invitational 22-23, #6": {
+        "question": "",
+        "answer": "19",
+        "explanation": "63 games with 2 possible winners each. 63 * log(2) = 18.96",
+        "credit": "IOnlyShoot3s"
+    },
+    "RobertYL, daily fermi questions day #18 [2018 Brown Q19]": {
+        "question": "",
+        "answer": "0",
+        "explanation": "Height of Washington Monument is 169.29 m. Thickness of a quarter is 1.75 mm and its mass is 6 g. 169.29 m * 1 quarter / .00175 m * 6 grams / 1 quarter * 1 metric ton / E6 grams = .58 metric tons or about 1 metric ton.",
+        "credit": "IOnlyShoot3s"
+    },
+    "RobertYL, daily fermi questions day #75 [2019 Polytechnic Q19]": {
+        "question": "",
+        "answer": "8",
+        "explanation": "According to avma.org in 2018, there were 76,811,305 dogs as pets.",
+        "credit": "IOnlyShoot3s"
+    },
+    "Seven Lakes Invitational 17-18, #1": {
+        "question": "What is 2^2017?",
         "answer": "",
         "explanation": "",
         "credit": "None"

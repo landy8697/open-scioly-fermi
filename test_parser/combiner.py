@@ -14,7 +14,7 @@ def searchFile(curpath: str):
     for i in range(num_questions):
         questions.append(
             {
-                "question":fs.readline(),
+                "question":fs.readline().replace("\u200b", ""),
                 "answer": int(fs.readline()),
                 "source":test_source,
                 "number": (i+1)
