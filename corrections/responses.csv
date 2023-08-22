@@ -1,4 +1,4 @@
-Timestamp,Full problem credits (Only copy the full italicized portion at the bottom),Revised Question Text (Optional),"Revised Fermi Answer, (Optional) ->  Must be an integer","Explanation (If changing answer, provide a brief explanation for how the new answer was reached, nothing insanely long or fancy needed)","Credits (Optional, but we want to thank whoever fixed the problem :D, preferred discord or forums name) "
+Timestamp,Full problem credits (Only copy the full italicized portion at the bottom),"Revised Question Text (Optional, don't include italicized credits part)","Revised Fermi Answer, (Optional) ->  Must be an integer","Explanation (If changing answer, provide a brief explanation for how the new answer was reached, nothing insanely long or fancy needed)","Credits (Optional, but we want to thank whoever fixed the problem :D, preferred discord or forums name) "
 7/19/2023 1:56:14,"UT Austin Invitational 18-19, #22",,25,"Takes abt 1 hour to climb ->  ~500 kcal burned, 1 mol ATP = 7.3 kcal
 500/7.3 * 6E23 = 4e25 molecules",randomeclipse
 7/19/2023 22:43:21,"BirdSO In-Person Invitational 22-23, #5",What is 2^12?,,,None
@@ -11,10 +11,29 @@ Yo mamma not only fat, she so fat that she is seriously concerned about her heal
 7/27/2023 23:59:45,"Carnegie Mellon Invitational 22-23, #15",,5,Average person drinks about 2 liters of water a day. 2 liters/day * 365 days/year * 80 years = 58400 liters. ,IOnlyShoot3s
 7/31/2023 1:25:15,"North Pocono Invitational 22-23, #43",,7,"Pew Research Center says it is 22 million people in 2023. Census.gov says that it was 27.6
 million people in 2021. It will likely not be 50+ million in 2023",IOnlyShoot3s
-7/31/2023 1:31:40,"Clements Invitational 17-18, #13","How ​many ​calories ​do ​I ​burn ​if ​I ​climb ​the ​Great ​Wall ​one ​stair ​at ​a ​time? ​
-
-Clements Invitational 17-18, #13",3,3100 stairs on the Great Wall of China. 1 stair burns 0.17 calories. 3100 *.17 = 527 calories,IOnlyShoot3s
+7/31/2023 1:31:40,"Clements Invitational 17-18, #13",How many calories do I burn if I climb the Great Wall one stair at a time?,3,3100 stairs on the Great Wall of China. 1 stair burns 0.17 calories. 3100 *.17 = 527 calories,IOnlyShoot3s
 7/31/2023 1:40:07,"Duke Invitational 22-23, #6",,19,63 games with 2 possible winners each. 63 * log(2) = 18.96,IOnlyShoot3s
 7/31/2023 2:00:12,"RobertYL, daily fermi questions day #18 [2018 Brown Q19]",,0,Height of Washington Monument is 169.29 m. Thickness of a quarter is 1.75 mm and its mass is 6 g. 169.29 m * 1 quarter / .00175 m * 6 grams / 1 quarter * 1 metric ton / E6 grams = .58 metric tons or about 1 metric ton.,IOnlyShoot3s
 7/31/2023 2:03:35,"RobertYL, daily fermi questions day #75 [2019 Polytechnic Q19]",,8,"According to avma.org in 2018, there were 76,811,305 dogs as pets.",IOnlyShoot3s
 7/31/2023 15:17:58,"Seven Lakes Invitational 17-18, #1",What is 2^2017?,,,None
+7/31/2023 22:53:29,"RobertYL, daily fermi questions day #11 [2019 Eastside / Haslett Q14]",,13,Lots of sources saying 30-40 trillion or around 37 trillion,IOnlyShoot3s
+8/1/2023 14:27:10,"Highlands Virtual Invitational 22-23, #11        ",What is (1/7)^35?,,,None
+8/12/2023 14:48:17,"RobertYL, daily fermi questions day #120 [2019 LISO Q14]        ","Your airplane masses 8 grams. How many fully loaded Airbus A380s is that?
+
+",-8,"fully loaded airbus is ~1e6 lbs or ~5e8 lbs, answer is 8/(5e8) or approx -8",Ryan park
+8/13/2023 14:01:47,"Seven Lakes Invitational 22-23, #15        ",,6,"https://en.m.wikipedia.org/wiki/Molar_ionization_energies_of_the_elements
+
+not specified which ionization energy but definitely not 9995",
+8/13/2023 19:26:29,"RobertYL, daily fermi questions day #66 [2019 Northmont Q5]        ",,-32,jupiter is more massive than a housefly,
+8/14/2023 9:28:22,"High Desert Satellite Invitational 22-23, #24        ",,11,"earth to moon: 3.8e8 meters
+penny thickness: 1.52e-3 meters
+answer: 2.5e11 pennies",
+8/14/2023 11:02:03,"UT Austin Regionals 22-23, #7        ",,,idk what the answer is but 11 doesn't seem right,
+8/14/2023 11:14:38,"Princeton Invitational 22-23, #33        ",,8,"sun to earth = 1.5e11 m
+SR 71 blackbird top speed = 9.8e2 m/s
+= e8 seconds",
+8/14/2023 14:44:39,"Duke Invitational 22-23, #22        ",,13,"US debt is 32.7 trillion, US GDP is around 25 trillion. 32.7 - 25 trillion = 7.7 trillion",IOnlyShoot3s
+8/14/2023 14:46:44,"Duke Invitational 22-23, #34        ",,1930,2023 * log(9) = 1930,IOnlyShoot3s
+8/14/2023 15:39:51,"Seven Lakes Invitational 22-23, #16        ",,-10,3934km = e-10 parsecs,
+8/14/2023 22:30:36,"Seven Lakes Invitational 22-23, #26        ",,,not sure what the right answer is but it's definitely not -29,
+8/17/2023 15:41:56,"UT Austin Invitational 18-19, #13        ",,8,"10^15 m/s is superluminal, answer should be 8 since c is 3x10^8 m/s, neutron would have to be moving very close to that",errorfunction

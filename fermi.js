@@ -130,12 +130,14 @@ function placeQuestion(curData, source){
         `<p>${curData.question}</p>
         <small><i>${source}<br>Answer corrected by ${curData.credit}
         </i></small>`;
+        alert("hi");
     }else if(curData.question != curData.originalQuestion && curData.credit.toUpperCase() != "NONE" 
     && curData.credit != ""){
         document.getElementById("question-box").innerHTML = 
         `<p>${curData.question}</p>
         <small><i>${source}<br>Question text corrected by ${curData.credit}
         </i></small>`;
+        alert("hi");
     }else{
         document.getElementById("question-box").innerHTML = 
         `<p>${curData.question}</p>
@@ -145,7 +147,7 @@ function placeQuestion(curData, source){
 
     //Makes sure initial page has the helpful info alert
     //Allows the no answer provided for the navigated questions
-    if (sessionData.visited != 1){
+    if (sessionData.visited != 0){
         document.getElementById("answer-alert").innerHTML = 
         `
         <div class="alert alert-secondary my-2" role="alert">
@@ -250,12 +252,14 @@ function newQuestion(){
     
     //Runs after question is placed, returning ui elements to default
     sessionData.addVisited();
+    /*
     document.getElementById("answer-alert").innerHTML = 
         `
         <div class="alert alert-secondary my-2" role="alert">
                     No answer provided
                   </div>
        `
+    */
     document.getElementById("answer-box").value = "";
     document.getElementById("change-alert").classList.add("d-none");
 }
