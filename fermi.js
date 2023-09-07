@@ -86,7 +86,7 @@ function changeNew(){
 function changeSearch(){
     btn = document.getElementById("new-question");
     btn.innerText = "Question Search";
-    document.getElementById("answer-box").setAttribute("placeholder", "Enter Question Credits");
+    document.getElementById("answer-box").setAttribute("placeholder", "Enter Question Attribution");
     document.getElementById("answer-box").setAttribute("type", "text");
     document.getElementById("text-entry-help").innerText = "Search";
     //btn.classList.replace("btn-success", "btn-danger"); 
@@ -308,7 +308,7 @@ function submitSearch(){
         document.getElementById("answer-alert").innerHTML = 
         `
         <div class="alert alert-secondary my-2" role="alert">
-                    Nothing found for question credits: "${user}"
+                    Nothing found for question attribution: "${user}"
                   </div>
        `
        return;
