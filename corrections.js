@@ -38,7 +38,7 @@ corrections = {
     "Carnegie Mellon Invitational 22-23, #15": {
         "question": "",
         "answer": "5",
-        "explanation": "Average person drinks about 2 liters of water a day. 2 liters/day * 365 days/year * 80 years = 58400 liters. ",
+        "explanation": "Average person drinks about 2 liters of water a day. 2 liters/day * 365 days/year * 80 years = 58400 liters.",
         "credit": "IOnlyShoot3s"
     },
     "North Pocono Invitational 22-23, #43": {
@@ -83,76 +83,94 @@ corrections = {
         "explanation": "Lots of sources saying 30-40 trillion or around 37 trillion",
         "credit": "IOnlyShoot3s"
     },
-    "Highlands Virtual Invitational 22-23, #11        ": {
+    "Highlands Virtual Invitational 22-23, #11": {
         "question": "What is (1/7)^35?",
         "answer": "",
         "explanation": "",
         "credit": "None"
     },
-    "RobertYL, daily fermi questions day #120 [2019 LISO Q14]        ": {
-        "question": "Your airplane masses 8 grams. How many fully loaded Airbus A380s is that?\n\n",
+    "RobertYL, daily fermi questions day #120 [2019 LISO Q14]": {
+        "question": "Your airplane masses 8 grams. How many fully loaded Airbus A380s is that?",
         "answer": "-8",
         "explanation": "fully loaded airbus is ~1e6 lbs or ~5e8 lbs, answer is 8/(5e8) or approx -8",
         "credit": "Ryan park"
     },
-    "Seven Lakes Invitational 22-23, #15        ": {
+    "Seven Lakes Invitational 18-19, #15": {
         "question": "",
         "answer": "6",
         "explanation": "https://en.m.wikipedia.org/wiki/Molar_ionization_energies_of_the_elements\n\nnot specified which ionization energy but definitely not 9995",
         "credit": ""
     },
-    "RobertYL, daily fermi questions day #66 [2019 Northmont Q5]        ": {
+    "RobertYL, daily fermi questions day #66 [2019 Northmont Q5]": {
         "question": "",
         "answer": "-32",
         "explanation": "jupiter is more massive than a housefly",
         "credit": ""
     },
-    "High Desert Satellite Invitational 22-23, #24        ": {
+    "High Desert Satellite Invitational 22-23, #24": {
         "question": "",
         "answer": "11",
         "explanation": "earth to moon: 3.8e8 meters\npenny thickness: 1.52e-3 meters\nanswer: 2.5e11 pennies",
         "credit": ""
     },
-    "UT Austin Regionals 22-23, #7        ": {
+    "UT Austin Regionals 22-23, #7": {
         "question": "",
         "answer": "",
         "explanation": "idk what the answer is but 11 doesn't seem right",
         "credit": ""
     },
-    "Princeton Invitational 22-23, #33        ": {
+    "Princeton Invitational 22-23, #33": {
         "question": "",
         "answer": "8",
         "explanation": "sun to earth = 1.5e11 m\nSR 71 blackbird top speed = 9.8e2 m/s\n= e8 seconds",
         "credit": ""
     },
-    "Duke Invitational 22-23, #22        ": {
+    "Duke Invitational 22-23, #22": {
         "question": "",
         "answer": "13",
         "explanation": "US debt is 32.7 trillion, US GDP is around 25 trillion. 32.7 - 25 trillion = 7.7 trillion",
         "credit": "IOnlyShoot3s"
     },
-    "Duke Invitational 22-23, #34        ": {
+    "Duke Invitational 22-23, #34": {
         "question": "",
         "answer": "1930",
         "explanation": "2023 * log(9) = 1930",
         "credit": "IOnlyShoot3s"
     },
-    "Seven Lakes Invitational 22-23, #16        ": {
+    "Seven Lakes Invitational 18-19, #16": {
         "question": "",
         "answer": "-10",
         "explanation": "3934km = e-10 parsecs",
         "credit": ""
     },
-    "Seven Lakes Invitational 22-23, #26        ": {
+    "Seven Lakes Invitational 18-19, #26": {
         "question": "",
         "answer": "",
         "explanation": "not sure what the right answer is but it's definitely not -29",
         "credit": ""
     },
-    "UT Austin Invitational 18-19, #13        ": {
+    "UT Austin Invitational 18-19, #13": {
         "question": "",
         "answer": "8",
         "explanation": "10^15 m/s is superluminal, answer should be 8 since c is 3x10^8 m/s, neutron would have to be moving very close to that",
         "credit": "errorfunction"
+    },
+    "UChicago Invitational 22-23, #24": {
+        "question": "",
+        "answer": "-4",
+        "explanation": "A fermi test is 50 minutes; 50 min/test * hr/60 min * day/24 hrs * year / 365 days = .0001 years/test or 10E-4",
+        "credit": "Elytraflight, Milpitas Scioly"
+    },
+    "Seven Lakes Invitational 22-23, #1": {
+        "question": "",
+        "answer": "0",
+        "explanation": "There are 365 episodes of Teletubbies according to Google, hence 1 episode per day should last 1 year (10^0)",
+        "credit": "Elytraflight, MHS Scioly"
+    },
+    "Golden Gate Invitational 22-23, #16": {
+        "question": "",
+        "answer": "",
+        "explanation": "what is such a computer",
+        "credit": ""
     }
 }

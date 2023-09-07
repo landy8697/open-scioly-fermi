@@ -16,11 +16,11 @@ heading = next(file_object)
 csv_reader = csv.reader(file_object, delimiter=',')
 corrections = {}
 for row in csv_reader:
-    corrections[row[1]] = {
-        "question":row[2],
+    corrections[row[1].rstrip()] = {
+        "question":row[2].rstrip(),
         "answer":row[3],
-        "explanation":row[4],
-        "credit":row[5]
+        "explanation":row[4].rstrip(),
+        "credit":row[5].rstrip()
     }
 
 json_object = json.dumps(corrections, indent=4)

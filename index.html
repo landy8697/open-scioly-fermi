@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Science Olympiad Fermi Practice Questions</title>
     <script type="text/javascript" language="javascript" src="data.js"></script>
+    <script type="text/javascript" language="javascript" src="creditMap.js"></script>
     <script type="text/javascript" language="javascript" src="corrections.js"></script>
     <script type="text/javascript" language="javascript" src="fermi.js"></script>
 
@@ -57,6 +58,8 @@
                         "How many licks does it take to get to the center of a tootsie roll pop?", where there is very little data to use and assumptions must be made. 
                          (Scioly Wiki)<br>
                         <br>
+                        
+
                         This website uses the same answer and points format as outlined in the Science Olympiad rules manual. 
                         All answers are written as the closest power of 10. For example, an estimate of 2000 would be written as 3, since 2000 = 2 x 10^3. An estimate of 5000 would be written as 4, since 5000 = 5 x 10^3 with rounding up. Scoring is based on how close your fermi answer is to the actual answer. <br>
                         5 points for the correct power of ten (Blue) <br>
@@ -65,6 +68,15 @@
                         0 points for difference of 3 or more (Red) <br>
                         <br> 
 
+                        <i>How does Question Search option change the UI controls?</i><br>
+                        
+                        <b>Submit</b> - Submits your answer to the question if you put in a number. Initiates question search otherwise.</li> <br>
+                        <b>Question Search</b> - Finds the question based on the attribution (italicized problem credits) you put in the search bar. 
+                            Right now, the attribution search crieterion must be exact, so copy-pasting is recommended.
+                            All invitational attributions follow the same format: TOURNAMENT_NAME YEAR1-YEAR2, #QUESTION_NUMBER</li> <br>
+                        <b>Back/Forward</b> - Go to the previous/next question in the dataset, normal mode is based on order of questions you answered</li> <br>
+                        These changes also apply to key commands (Enter, Left Arrow, Right Arrow) <br>
+                        <br>
                         <i>What are some helpful resources for starting out?</i><br>
                         <a href="https://scioly.org/wiki/index.php/Fermi_Questions">Scioly Wiki</a> is the best place to start<br>
                         <a href="https://drive.google.com/file/d/1bNZ-b92JcsdF21AEX-XSyURvzVcV1JS2/view">A Brief Introduction to Fermi Questions</a> by Caleb Chiang<br>
@@ -109,8 +121,8 @@
             <div class="row align-items-center justify-content-center my-1">
                 <div class="col-auto">
                     <div class="input-group mb-3">
-                        <span class="input-group-text text-dark apply-bright-text">Answer</span>
-                        <input type="number" id="answer-box" class="form-control text-dark apply-bright-text" value="" />
+                        <span id="text-entry-help" class="input-group-text text-dark apply-bright-text">Answer</span>
+                        <input type="number" id="answer-box" placeholder="Your Fermi Answer" class="form-control text-dark apply-bright-text" value="" />
                         
                        
                     </div>
@@ -125,8 +137,8 @@
                                 <span class="visually-hidden">Toggle Dropdown</span>
                             </button>
                             <ul class="dropdown-menu">
-                                <li><button id="change-new" class="dropdown-item" type="button">New Question</button></li>
-                                <li><button id="change-math" class="dropdown-item" type="button" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-title="Work in progress">Math Question</button></li>
+                                <li><button id="change-new" class="dropdown-item" type="button" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Get random questions">New Question</button></li>
+                                <li><button id="change-search" class="dropdown-item" type="button" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-title="Find specific questions">Search Question</button></li>
                             </ul>
                         </div>
 

@@ -6,7 +6,7 @@ filepath = "raw_test_data"
 filepath2 = "test_parser"
 new_filepath = "formatted_test_data"
 
-current_file = "usmo_2019.txt" #ONLY LINE THAT NEEDS TO BE CHANGED
+current_file = "seven_lakes_2019.txt" #ONLY LINE THAT NEEDS TO BE CHANGED
 path = f".\\{new_filepath}\\{current_file}"
 title = open(path, "r", encoding="utf-8").readline().strip() if os.path.isfile(path) else current_file #Reading old title if file is already formatted
 filewrite = open(path, "w", encoding="utf-8")

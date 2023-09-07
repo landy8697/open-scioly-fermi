@@ -7886,241 +7886,241 @@
     {
         "question": "In the poem \u201cDover Beach\u201d, British poet Matthew Arnold observes the French coast from Dover, Kent in the United Kingdom. If there is a single light source on the French coast across the English Channel, what is the time, in seconds it takes for the light to reach Arnold\u2019s eyes? Assume the distance between the poet and the light source is the shortest distance across the Strait of Dover.\n",
         "answer": -4,
-        "source": "Seven Lakes Invitational 22-23",
+        "source": "Seven Lakes Invitational 18-19",
         "number": 1
     },
     {
         "question": "How many total words are in Adam Smith\u2019s The Wealth of Nations (1776)?\n",
         "answer": 5,
-        "source": "Seven Lakes Invitational 22-23",
+        "source": "Seven Lakes Invitational 18-19",
         "number": 2
     },
     {
         "question": "How many electrons would it take to equal the mass of the moon?\n",
         "answer": 53,
-        "source": "Seven Lakes Invitational 22-23",
+        "source": "Seven Lakes Invitational 18-19",
         "number": 3
     },
     {
         "question": "Jeffrey P. Bezos is the founder, chairman, and CEO of Amazon. If his net worth were to be equally divided among every person in Mozambique, how many nickels, in USD, would each individual receive?\n",
         "answer": 5,
-        "source": "Seven Lakes Invitational 22-23",
+        "source": "Seven Lakes Invitational 18-19",
         "number": 4
     },
     {
         "question": "As many people as all the cells in an average human brain applied to Harvard University. How many of them would be admitted, using the admittance rate for the Harvard class of 2021?\n",
         "answer": 10,
-        "source": "Seven Lakes Invitational 22-23",
+        "source": "Seven Lakes Invitational 18-19",
         "number": 5
     },
     {
         "question": "How many chess grandmasters are alive today?\n",
         "answer": 3,
-        "source": "Seven Lakes Invitational 22-23",
+        "source": "Seven Lakes Invitational 18-19",
         "number": 6
     },
     {
         "question": "What is the combined area of Massachusetts, a state in the United States, and the State of Mexico, a Mexican federal entity located in South-Central Mexico (not to be confused with the country of Mexico)? Express your answer in square inches.\n",
         "answer": 14,
-        "source": "Seven Lakes Invitational 22-23",
+        "source": "Seven Lakes Invitational 18-19",
         "number": 7
     },
     {
         "question": "Karl the robot types at a constant rate of 133 words per minute. Karl is powered by solar panels. How many words can Karl type before the Sun is projected to run out of fuel?\n",
-        "answer": 4,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 17,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 8
     },
     {
         "question": "What is the total number of human protein-coding genes in the human genome?\n",
-        "answer": 10,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 4,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 9
     },
     {
         "question": "How many bushels of corn did Iowa farmers grow grow in 2016?\n",
-        "answer": 8,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 9,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 10
     },
     {
         "question": "Find 54!\n",
-        "answer": 12,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 71,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 11
     },
     {
         "question": "Find 3^\n",
-        "answer": 10,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 16,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 12
     },
     {
         "question": "Find 1*3*5*7*...*31*\n",
-        "answer": 10,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 19,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 13
     },
     {
         "question": "In a 400 gram bag of Sour Patch Kids, what is the mass of the sodium content, in picograms?\n",
-        "answer": 9,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 13,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 14
     },
     {
         "question": "What is the ionization energy of Beryllium (Be), in J/mol?\n",
-        "answer": 9995,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 6,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 15
     },
     {
         "question": "Find the distance between Sydney and Perth, in parsecs.\n",
-        "answer": 17,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": -10,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 16
     },
     {
         "question": "In 2017, what was the total mass of the chocolate consumed by the Swiss, in petagrams?\n",
-        "answer": 4,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": -4,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 17
     },
     {
         "question": "What is the mass of all the water on Earth, in metric tons (tonnes)?\n",
-        "answer": 9,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 18,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 18
     },
     {
         "question": "Find log(4)ln(4)log(5)ln(5)log(6)ln(6).....log(15)ln(15).\n",
-        "answer": 71,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 3,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 19
     },
     {
         "question": "The Leshan Giant Buddha, located in Sichuan, China, is the tallest stone Buddha statue in the world. It was carved out of a cliff face during the Tang Dynasty. How tall is the Leshan Giant Buddha, in Astronomical Units (AUs)?\n",
-        "answer": 16,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": -10,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 20
     },
     {
         "question": "How many bacteria are in a normal, 70 kg man?\n",
-        "answer": 19,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 13,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 21
     },
     {
         "question": "How many acres of pizza do Americans eat each day?\n",
-        "answer": 13,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 2,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 22
     },
     {
         "question": "\u201cMontag\u201d is German for Monday. How many Mondays have passed since Die Zugspitze, the highest peak in Germany, was first climbed by Josef Naus (a surveying technician), his survey assistant, Maier, and a mountain guide, J. Georg Tauschl?\n",
-        "answer": 6,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 4,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 23
     },
     {
         "question": "What was the 2015 annual GDP (in pounds sterling) of the Isle of Man, a British Crown dependency?\n",
-        "answer": 4,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 10,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 24
     },
     {
         "question": "How many calories does an average human consume in a lifetime?\n",
-        "answer": 25,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 8,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 25
     },
     {
         "question": "How many seconds of schooltime will all the students in the United States have this year?\n",
-        "answer": -29,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 12,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 26
     },
     {
         "question": "What is the average distance between Mercury and Saturn in units of the height of the Taj Mahal?\n",
-        "answer": 60,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 10,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 27
     },
     {
         "question": "If all the Yugioh cards that have ever been printed are collected and placed in a grid, how many Alabamas could they cover?\n",
-        "answer": 18,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 10,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 28
     },
     {
         "question": "How long, in seconds, would it take to burn every existing copy of Fahrenheit 451 one at a time, assuming no new books are printed?\n",
-        "answer": 11,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 9,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 29
     },
     {
         "question": "What is the number of primes between 10^10 and 10^10000?\n",
-        "answer": -10,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 9995,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 30
     },
     {
         "question": "If you connected the ends of every strand of hair on your proctor\u2019s head, how many flutes could they string up?\n",
-        "answer": -4,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 4,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 31
     },
     {
         "question": "If every insect alive at this time played \u201cFlight of the Bumblebee\u201d on a tiny tuba, how many notes could they play in a day?\n",
-        "answer": 18,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 25,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 32
     },
     {
         "question": "What is the ratio of the pressure at the center of a proton to the pressure of a human bite?\n",
-        "answer": 3,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": -29,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 33
     },
     {
         "question": "How many possible organic compounds with molecular weight less than 500 Da are theorized to exist?\n",
-        "answer": -10,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 60,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 34
     },
     {
         "question": "How many leaves are there on all the trees in the world?\n",
-        "answer": 13,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 18,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 35
     },
     {
         "question": "Bob ate all the burgers McDonald has ever sold. How many miles would he have to swim at an average pace to be able to burn off all those calories?\n",
-        "answer": 2,
-        "source": "Seven Lakes Invitational 22-23",
+        "answer": 11,
+        "source": "Seven Lakes Invitational 18-19",
         "number": 36
     },
     {
         "question": "How many watt-seconds does it take to melt Antarctica?\n",
         "answer": 24,
-        "source": "Seven Lakes Invitational 22-23",
+        "source": "Seven Lakes Invitational 18-19",
         "number": 37
     },
     {
         "question": "How many meters of stacked punch cards would it take to hold all of the data in the NSA\u2019s data storage warehouses?\n",
         "answer": 13,
-        "source": "Seven Lakes Invitational 22-23",
+        "source": "Seven Lakes Invitational 18-19",
         "number": 38
     },
     {
         "question": "How many alkaline AA batteries would it take to power an average American home?\n",
         "answer": 6,
-        "source": "Seven Lakes Invitational 22-23",
+        "source": "Seven Lakes Invitational 18-19",
         "number": 39
     },
     {
         "question": "How many chemical compounds have been discovered?\n",
         "answer": 8,
-        "source": "Seven Lakes Invitational 22-23",
+        "source": "Seven Lakes Invitational 18-19",
         "number": 40
     },
     {

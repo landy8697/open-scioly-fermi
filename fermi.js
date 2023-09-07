@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     document.getElementById('submit').addEventListener('click', () => {
-        submitAnswer();
+        handleSubmit();
         changeStatsDisplay();
     });
     document.getElementById("new-question").addEventListener('click', () => {
@@ -16,8 +16,8 @@ document.addEventListener("DOMContentLoaded", function() {
     document.getElementById("change-new").addEventListener('click', () => {
         changeNew();
     });
-    document.getElementById("change-math").addEventListener('click', () => {
-        changeMath();
+    document.getElementById("change-search").addEventListener('click', () => {
+        changeSearch();
     });
     document.getElementById("forward").addEventListener('click', () => {
         forward();
@@ -45,9 +45,15 @@ var numModes = 2;
 var darkmode = false;
 var curID = 0;
 var curData;
+
+function resetUI(){
+    document.getElementById("answer-box").value = "";
+    document.getElementById("change-alert").classList.add("d-none");
+}
 function keyPressed(event){
     if (event.key === "Enter") {
-        submitAnswer();
+        
+        handleSubmit();
         changeStatsDisplay();
     }else if (event.key=="ArrowRight"){
         forward();
@@ -58,17 +64,31 @@ function keyPressed(event){
     }  
 }
 
+function handleSubmit(){
+    user = document.getElementById("answer-box").value;
+    if(mode==0 || (mode==1&&!isNaN(user))){
+        submitAnswer();
+    }else{
+        submitSearch();
+    }
+}
 function changeNew(){
     btn = document.getElementById("new-question");
     btn.innerText = "New Question";
+    document.getElementById("answer-box").setAttribute("placeholder", "Your Fermi Answer");
+    document.getElementById("answer-box").setAttribute("type", "numeric");
+    document.getElementById("text-entry-help").innerText = "Answer";
     //btn.classList.replace("btn-danger", "btn-success");
     //document.getElementById("dropdown").classList.replace("btn-danger", "btn-success");
-    mode = 0
+    mode = 0;
 }
 
-function changeMath(){
+function changeSearch(){
     btn = document.getElementById("new-question");
-    btn.innerText = "Math Question";
+    btn.innerText = "Question Search";
+    document.getElementById("answer-box").setAttribute("placeholder", "Enter Question Credits");
+    document.getElementById("answer-box").setAttribute("type", "text");
+    document.getElementById("text-entry-help").innerText = "Search";
     //btn.classList.replace("btn-success", "btn-danger"); 
     //document.getElementById("dropdown").classList.replace("btn-success", "btn-danger");
     mode = 1;
@@ -77,7 +97,20 @@ function changeMath(){
 function getCurData(curID){ 
     return {...data[curID]} //PREVENTS CHANGING DATA DICTIONARY
 }
-//Changes curData to a random question and calls placeQuestion
+
+//Calls placeRandomQuestion, resets ui elements, adds visited to sessionData
+function newQuestion(){
+    console.log("Question Generation");
+    
+    if(mode == 0){
+        placeRandomQuestion();
+    }else if(mode == 1){
+        submitSearch();
+        //placeMathQuestion();
+    }
+}
+
+//Changes curData to a random question and calls placeQuestionWithID
 function placeRandomQuestion(){
     curID = parseInt(Math.random() * data.length);
     curData = getCurData(curID); 
@@ -89,23 +122,19 @@ function placeRandomQuestion(){
         placeRandomQuestion();
         return;
     }
-
-    let fullSource = `${curData.source}${curData.hasOwnProperty("number") ? ", #"+curData.number:''}`
-    placeQuestion(curData, fullSource);
+    placeQuestionWithID();
 }
-//Checks for corrections, places question/source/credit in box
-//Sets curData original question/answer and corrections and fullSource
-function placeQuestion(curData, source){
-    
-    if(root==null){
-        root = new LinkedNode(curID);
-        curNode = root;
-    }
-    /*
-    if(formDisplayed){
-        toggleForm();
-    }
-    */
+
+//Used for non-random curID placement (search mode/navigation)
+//Calls placeQuestionHTML()
+function placeQuestionWithID(){
+    curData = getCurData(curID);
+    let fullSource = `${curData.source}${curData.hasOwnProperty("number") ? ", #"+curData.number:''}`
+    placeQuestionHTML(curData, fullSource);
+}
+
+//Checks corrections dictionary and applies corrections if they exist
+function applyCorrections(curData, source){
     //FOR BOTH CASES CORRECTION AND NO CORRECTION
     curData['fullSource'] = source;
     curData["originalAnswer"] = curData["answer"]; 
@@ -122,6 +151,22 @@ function placeQuestion(curData, source){
         curData["explanation"] = (questionCorrected["explanation"] != "") ? questionCorrected["explanation"] : curData["explanation"];
         curData["credit"] = (questionCorrected["credit"] != "") ? questionCorrected["credit"] : curData["credit"];
     }
+}
+
+//Checks for corrections, places question/source/credit in box
+//Sets curData original question/answer and corrections and fullSource
+function placeQuestionHTML(curData, source){
+    
+    if(root==null){
+        root = new LinkedNode(curID);
+        curNode = root;
+    }
+    /*
+    if(formDisplayed){
+        toggleForm();
+    }
+    */
+    applyCorrections(curData, source);
     console.log(curData);
     //QUESTION AND CREDIT DISPLAY
     //Only display credit if answer change, none for question formatting stuff
@@ -130,14 +175,14 @@ function placeQuestion(curData, source){
         `<p>${curData.question}</p>
         <small><i>${source}<br>Answer corrected by ${curData.credit}
         </i></small>`;
-        alert("hi");
+        //alert("hi");
     }else if(curData.question != curData.originalQuestion && curData.credit.toUpperCase() != "NONE" 
     && curData.credit != ""){
         document.getElementById("question-box").innerHTML = 
         `<p>${curData.question}</p>
         <small><i>${source}<br>Question text corrected by ${curData.credit}
         </i></small>`;
-        alert("hi");
+        //alert("hi");
     }else{
         document.getElementById("question-box").innerHTML = 
         `<p>${curData.question}</p>
@@ -155,6 +200,10 @@ function placeQuestion(curData, source){
                   </div>
        `
     }
+
+    //Runs after question is placed, returning ui elements to default
+    sessionData.addVisited();
+    resetUI();
 }
 /* placeMathQuestion() is currently unused
 function placeMathQuestion(){
@@ -239,31 +288,35 @@ function submitAnswer(){
     }
 }
 
-//Calls placeRandomQuestion, resets ui elements, adds visited to sessionData
-function newQuestion(){
-    console.log("Question Generation");
-    
-    if(mode == 0){
-        placeRandomQuestion();
-    }else if(mode == 1){
-        placeRandomQuestion();
-        //placeMathQuestion();
-    }
-    
-    //Runs after question is placed, returning ui elements to default
-    sessionData.addVisited();
-    /*
-    document.getElementById("answer-alert").innerHTML = 
+//
+function submitSearch(){
+    console.log("Search Submission");
+    user = document.getElementById("answer-box").value.trim();
+
+    if (user==""){
+        document.getElementById("answer-alert").innerHTML = 
         `
         <div class="alert alert-secondary my-2" role="alert">
-                    No answer provided
+                    No search crieteria provided
                   </div>
        `
-    */
-    document.getElementById("answer-box").value = "";
-    document.getElementById("change-alert").classList.add("d-none");
-}
+       return;
+    }
 
+    //Searches for question with matching credit
+    if(!(user in creditMap)){
+        document.getElementById("answer-alert").innerHTML = 
+        `
+        <div class="alert alert-secondary my-2" role="alert">
+                    Nothing found for question credits: "${user}"
+                  </div>
+       `
+       return;
+    }else{
+        curID = creditMap[user];
+        placeQuestionWithID();
+    }
+}
 //Make function for customization of webpage dark mode
 function darkMode(){
     btn = document.getElementById("dark-mode");
@@ -358,6 +411,12 @@ let root = null;
 let curNode = null;
 function forward(){
     console.log("Forward");
+    //Navigate forward one curID if on search mode
+    if(mode==1){
+        if(curID < data.length)curID++;
+        placeQuestionWithID();
+        return;
+    }
     if(curNode.next == null){ //New question if at end of forward navigation
         newQuestion(); 
         return;
@@ -368,6 +427,12 @@ function forward(){
 }
 function back(){
     console.log("Back");
+    //Navigate forward one curID ifon search mode
+    if(mode==1){
+        if(curID > 0)curID--;
+        placeQuestionWithID();
+        return;
+    }
     if(curNode==root){ 
         console.log("At root");
     }
@@ -382,10 +447,7 @@ function back(){
 //Places question for existing navigation (forward and back)
 function navigationPlace(){
     curID = curNode.ID;
-    curData = getCurData(curID);
-
-    let fullSource = `${curData.source}${curData.hasOwnProperty("number") ? ", #"+curData.number:''}`
-    placeQuestion(curData, fullSource);
+    placeQuestionWithID();
 }
 function addNode(){
     let newNode = new LinkedNode(curID);
