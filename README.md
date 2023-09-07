@@ -19,3 +19,7 @@ Hey everyone, I'm Andy, a graduating senior from Seven Lakes. Earlier in the yea
 - Increased dataset to 2500 questions
 - Embedded google form for submitting question and/or answer corrections
 
+### Minor Update (September 7, 2023)
+- Replaced incomplete "Math Question" dropdown menu listing with "Search Question"
+- In search mode, inputting question attribution will display the question
+- Navigation goes forward and backward through dataset, so from #17 to #18 in the same test for example
