@@ -168,9 +168,9 @@ corrections = {
         "credit": "Elytraflight, MHS Scioly"
     },
     "Golden Gate Invitational 22-23, #16": {
-        "question": "",
+        "question": "The price in dollars of such a computer (ignore the breadboard price). Such a computer: (An Intel i7 chip if all CMOS transistors were replaced with BJTs on an infinite breadboard, assuming that all holes on the breadboard are filled and used solely for the BJT pins.)",
         "answer": "",
-        "explanation": "what is such a computer",
-        "credit": ""
+        "explanation": "",
+        "credit": "randomeclipse"
     }
 }
