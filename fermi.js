@@ -161,6 +161,11 @@ function placeQuestionHTML(curData, source){
         root = new LinkedNode(curID);
         curNode = root;
     }
+    //New navigation (10/14/2023) based on question placement
+    //EVAL: Turned out to be worse, reverting
+    // if (curNode.next == null){
+    //     addNode(curID);
+    // }
     /*
     if(formDisplayed){
         toggleForm();
@@ -229,6 +234,7 @@ function submitAnswer(){
     
     user = document.getElementById("answer-box").value;
     console.log("USER EMPTY", user == "");
+
     if (curNode.next == null){
         addNode(curID);
     }
@@ -279,9 +285,11 @@ function submitAnswer(){
     console.log("Original Answer", curData.originalAnswer);
     console.log("Current Answer", curData.answer);
     if(curData.answer != curData.originalAnswer){
+        let explanation = "Explanation: " + (curData.explanation != "" ? curData.explanation : "None");
+        console.log(curData.explanation);
         document.getElementById("change-alert").classList.remove("d-none");
         document.getElementById("change-alert").innerHTML = `<div class="alert alert-info my-2" role="alert"> 
-        <i class="bi bi-info-circle"></i> The original answer was ${curData.originalAnswer}
+        <i class="bi bi-info-circle"></i> The original answer was ${curData.originalAnswer} <br> ${explanation}
         </div>`
     }else{
         document.getElementById("change-alert").classList.add("d-none");

@@ -1,0 +1,116 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_QUESTION_NUMBER
+
+1. How long is the word “Fermi”?
+2. What page number is Fermi Questions on the rules manual?
+3. How many characters are there in the Fermi Questions rules manual page?
+4. Sum up all the years that Fermi Questions has been run, what is the result?
+5. How many times has the fermi SciOly wiki page been accessed?
+6. For this question, only count everything inside and not including the curly brackets:
+{# of characters this intentionally sized question?}
+7. I want to make sure fermi is my #1 priority. How many copies of the fermi wiki html page
+would I need to fill up 512 GB of storage space?
+8. How long in ms would it take to download that amount of data (512 GB)? Assume
+internet speed is the average WiFi download speed in the US.
+
+9. Population of the US (#)?
+10. Radius of the Earth (inches)?
+11. Planck time (s)
+12. Cost of the most expensive man-made item ever (1923 German Marks).
+13. Power required to move a mass of a furkin up a distance of a furlong against an uniform
+gravitational field (10 m/s^2) during the timespan of a fortnight. (Horsepower)
+14. Mass of Sagittarius A* (lunar masses)
+15. Number of times a hare would lap a tortoise on a standard track in 24 hours. Assume
+sprinting speed and no fatigue. (#)
+16. Volume of every possible (52 card) card deck shuffles in one place (Olympic swimming
+pools)
+
+17. How many marbles could you fit in a bowling ball?
+18. How many footsteps does it take to run a marathon?
+19. How many #2 pencils would you need to trace a line across the Great Wall of China?
+20. Equivalent volume of Lake Superior in teaspoons.
+21. The moon is a giant rock, but rocks are boring. How many gallons of milk to make a
+sphere of cheese (Parmigiano-Reggiano) with equivalent mass as the moon?
+22. How many protons would you need to stack side by side to reach the Andromeda
+Galaxy?
+23. How many moles of water are in a mol of moles?
+24. Amount of a household's yearly energy consumption that can be covered by 1 photon of
+1240 nm wavelength.
+
+25. 34 * 9911 * 432 + 321 * 798 + 632
+26. 19876th fibonacci number / 19875th fibonacci number
+27. 6 ^ 100
+28. 83 ^ 125
+29. 42!
+30. 600000 th prime number (Try the formula [n ln n] :D)
+31. Sum of the pascal triangle from rows 0 to 999
+32. All answers on this fermi test are between -500 and 500. If you were to randomly guess
+all 40 questions, what is the probability of scoring a 200?
+
+33. If you unwound all the DNA in all your cells and used them as data storage, how many
+times could you store the entire data of the internet?
+34. If you took all the railroad ties off the transcontinental railroad to make a wooden
+fencepost enclosure with ties being 1 meter apart, what is the maximum size area you
+could create in m^2?
+35. The highest fps camera ever produced can shoot at 70 trillion fps! If a standard
+two-bladed helicopter looks stationary when recorded, what would be the linear speed at
+the tip of each blade in m/s?
+36. If the entire earth was replaced with neutron star core material, how many periods of a
+standard pendulum clock would be needed to record the entire Cenozoic era?
+37. How many Earths would you need to throw into a rapidly rotating black hole to reach the
+yearly energy output of the Sun. (Minutephysics reference -> 2.5 cats to power Norway)
+38. If all 32 chess pieces were arranged randomly on the board, what is the likelihood that
+they have the correct initial setup? You place the pieces one at a time and cannot place
+multiple on the same square.
+39. If every pixel of an 8k monitor independently has its own RGB value, how many different
+possible screen colorings are there? Answer with the Fermi Number of the Fermi
+Number of the count.
+40. Assume the Earth’s orbit is a perfect circle. If the period of revolution suddenly became
+the same as the Sun’s period of revolution around the center of the Milky Way, what is
+the difference in distance in inches between the arc length covered by one second of
+earth’s new orbit and the average sea level rise in one month?
+
+1. 1
+2. 1
+3. 3
+4. 4
+5. 5
+6. 2
+7. 6
+8. 7
+
+9. 8
+10. 8
+11. -44
+12. 25
+13. -4
+14. 14
+15. 3
+16. 60
+
+17. 4
+18. 4
+19. 2
+20. 18
+21. 23
+22. 37
+23. 48
+24. -30
+
+25. 8
+26. 0
+27. 77
+28. 240
+29. 51
+30. 8
+31. 301
+32. -120
+
+33. -2
+34. 12
+35. 15
+36. 22
+37. -7
+38. -45
+39. 8
+40. -2

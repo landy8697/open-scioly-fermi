@@ -1,0 +1,108 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_QUESTION_NUMBER
+
+1. How much value was erased from the stock market during the 2008 recession, measured in US dollars?
+
+2. How many people in the US are named Katherine?
+
+
+3. How many donuts are sold by Krispy Kreme in a year?
+
+
+4. How many points did Kareem Abdul-Jabbar score during his entire NBA career?
+
+5. What was Nike’s total revenue during the 2022 fiscal year, measured in US dollars?
+
+
+6. What is the area of the Amazon rainforest, measured in square miles?
+
+7. What is the total number of wins that the Patriots franchise has?
+
+8. What was Pokemon Go’s active user count in 2021?
+
+9. What was the peak value attributed to FTX prior to its bankruptcy, measured in Zimbabwean dollars?
+
+10. How many Google searches were made in the past year?
+
+11. What is the distance between Jupiter and Earth, measured in meters?
+
+12. What is the diameter of a proton, measured in Planck lengths?
+
+
+13. How many hairs are there on the heads of people living in the city of Providence, RI?
+
+14. How many red blood cells are there in the average adult human?
+
+15. What is the combined length of all fingernail growth of an average human in their lifetime, measured in miles?
+
+16. What is the distance traveled by the cereal you had for breakfast from the point of consumption to the point of excretion, measured in angstroms?
+
+17. What is the length of a typical mitochondria, measured in light-years?
+
+18. How much does a mole of the protein Titin weigh, measured in grams? 
+
+19. How much area would all of the pages of the books in the Library of Congress cover, measured in square feet?
+
+20. What is the distance that the average human walks in their lifetime, measured in femtometers?
+
+21. How much water is there on Earth, measured in cups?
+
+22. How many lawyers are there in the state of California?
+
+23. How many billiard balls would it take to fill up the water tanks of the Georgia aquarium?
+
+24. How much data is used in the process of streaming a 2-hour long movie in HD on Netflix, measured in bits?
+
+25. What is the cost of a Big Mac, measured in Brown University endowments?
+
+26. How far does a sloth travel in a day, measured in marathons?
+
+27. How long ago was the sinking of the Titanic, measured in the age of the universe?
+
+28. How many Olympic-sized swimming pools would fit inside a coffee mug?
+29. How many unique ordered arrangements of a standard deck of 52 playing cards are there?
+
+30. How many permutations are there of the letters in “BrownUniversityScienceOlympiadInvitational”?
+
+31. What is the natural log of 12345 raised to the power of the natural log of 54321?
+
+
+
+
+32. What is 17 raised to the power of 71?
+
+1. 13
+2. 5
+3. 9
+4. 4
+5. 10
+6. 6
+7. 3
+8. 8
+9. 13
+10. 12
+
+11. 12
+12. 20
+13. 10
+14. 13
+15. -2
+16. 11
+17. -22
+18. 6
+
+19. 10
+20. 23
+21. 22
+22. 5
+23. 8
+24. 10
+25. -9
+26. -3
+27. -8
+28. -7
+
+29. 68
+30. 40
+31. 10
+32. 87

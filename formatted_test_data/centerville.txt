@@ -1,0 +1,62 @@
+centerville.txt
+30
+How much coal, in kg, needs to be burned in a coal-fired power plant to provide enough electrical energy for a typical 100 Watt light bulb for one year?
+2
+How many light years are there in 30 kiloparsecs?
+5
+What is the total length in cm (placed end to end) of all of the blood vessels in the human body?
+10
+How many quills does an average porcupine have?
+4
+What is the total distance for a round trip visit from Venus to Mars in km?
+9
+How many km in 165 nm?
+-10
+How many crayons can be produced with one acre of soybeans?
+5
+What fraction of a mile is a cm?
+-5
+How many km are there in a light-year?
+13
+Estimate the volume of Lake Superior in cubic km.
+4
+How many seconds are there in 15 chronon?
+-43
+What is the wavelength in miles of red light?
+-10
+What is the probability of winning the MegaMillions Jackpot 2 consecutive weeks by buying only one ticket per week?
+-16
+How much energy per einstein is emitted from the radio station “Hits 5 FM”? Answer in kilojoules per Einstein.
+-5
+As of November of 2004, how many non-trivial zeroes of the Riemann Zeta Function have been calculated?
+13
+What is the value of 1 googol times one centillion?
+403
+What is the gravitational force (in newtons) between a standard shot-put and a standard baseball placed on opposite goal lines of a football field?
+-14
+How many milligrams of tea (not including water) are there in China?
+15
+If you counted all of the stars in the Milky Way at a rate of one star per second, how many years would it take you to finish?
+3
+How many cubic centimeters of diesel fuel are consumed by a cruise liner the size of Queen Elizabeth II on a voyage of 100 nautical miles?
+9
+How many cups of water at room conditions would it take to equal the mass of the world’s largest rubber band ball?
+4
+If you rolled a pair of dice a million times, how many times would probability suggest that you would roll a combined roll of 2?
+4
+What is the sum of all of the odd numbers between 1 and 1,000,000?
+11
+How many milligrams are in a carat?
+2
+How much is the average number of inches of precipitation in a century for the world’s rainiest city, Kaurai, HI?
+4
+How many drops of water are needed to fill a swimming pool (20 x 12 x 2 meters)?
+8
+Estimate the number of molecules in each liter of air in the Earth’s atmosphere.
+22
+An atomic clock is driven by so many radiation cycles of cesium-133 per second. How many radiation cycles would occur in one year?
+17
+How many yards of duct tape would it take to cover the world in duct tape?
+16
+How many electrons would there be in 15 amperes of electrical current running through a wire?
+19

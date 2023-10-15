@@ -32,5 +32,14 @@ data = [
         "question": "How many dogs were owned as pets in the United States last year?",
         "answer": 7,
         "source": "RobertYL, daily fermi questions day #75 [2019 Polytechnic Q19]"
+    },{
+        "question": "United States contains how many square kilometers?",
+        "answer": 6,
+        "source": "RobertYL, daily fermi questions day #98 [2019 ATX Regionals Q41]"
+    },{
+        "question": "How many dislikes does this same video have?\n",
+        "answer": 7,
+        "source": "Cornell Invitational 22-23",
+        "number": 18
     }
 ]

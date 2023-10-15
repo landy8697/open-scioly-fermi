@@ -1,0 +1,82 @@
+ssss_fermi_randomsci_2023.txt
+40
+How long is the word “Fermi”?
+1
+What page number is Fermi Questions on the rules manual?
+1
+How many characters are there in the Fermi Questions rules manual page?
+3
+Sum up all the years that Fermi Questions has been run, what is the result?
+4
+How many times has the fermi SciOly wiki page been accessed?
+5
+For this question, only count everything inside and not including the curly brackets: {# of characters this intentionally sized question?}
+2
+I want to make sure fermi is my #1 priority. How many copies of the fermi wiki html page would I need to fill up 512 GB of storage space?
+6
+How long in ms would it take to download that amount of data (512 GB)? Assume internet speed is the average WiFi download speed in the US.
+7
+Population of the US (#)?
+8
+Radius of the Earth (inches)?
+8
+Planck time (s)
+-44
+Cost of the most expensive man-made item ever (1923 German Marks).
+25
+Power required to move a mass of a furkin up a distance of a furlong against an uniform gravitational field (10 m/s^2) during the timespan of a fortnight. (Horsepower)
+-4
+Mass of Sagittarius A* (lunar masses)
+14
+Number of times a hare would lap a tortoise on a standard track in 24 hours. Assume sprinting speed and no fatigue. (#)
+3
+Volume of every possible (52 card) card deck shuffles in one place (Olympic swimming pools)
+60
+How many marbles could you fit in a bowling ball?
+4
+How many footsteps does it take to run a marathon?
+4
+How many #2 pencils would you need to trace a line across the Great Wall of China?
+2
+Equivalent volume of Lake Superior in teaspoons.
+18
+The moon is a giant rock, but rocks are boring. How many gallons of milk to make a sphere of cheese (Parmigiano-Reggiano) with equivalent mass as the moon?
+23
+How many protons would you need to stack side by side to reach the Andromeda Galaxy?
+37
+How many moles of water are in a mol of moles?
+48
+Amount of a household's yearly energy consumption that can be covered by 1 photon of 1240 nm wavelength.
+-30
+34 * 9911 * 432 + 321 * 798 + 632
+8
+19876th fibonacci number / 19875th fibonacci number
+0
+6 ^ 100
+77
+83 ^ 125
+240
+42!
+51
+600000 th prime number (Try the formula [n ln n] :D)
+8
+Sum of the pascal triangle from rows 0 to 999
+301
+All answers on this fermi test are between -500 and If you were to randomly guess all 40 questions, what is the probability of scoring a 200?
+-120
+If you unwound all the DNA in all your cells and used them as data storage, how many times could you store the entire data of the internet?
+-2
+If you took all the railroad ties off the transcontinental railroad to make a wooden fencepost enclosure with ties being 1 meter apart, what is the maximum size area you could create in m^2?
+12
+The highest fps camera ever produced can shoot at 70 trillion fps! If a standard two-bladed helicopter looks stationary when recorded, what would be the linear speed at the tip of each blade in m/s?
+15
+If the entire earth was replaced with neutron star core material, how many periods of a standard pendulum clock would be needed to record the entire Cenozoic era?
+22
+How many Earths would you need to throw into a rapidly rotating black hole to reach the yearly energy output of the Sun. (Minutephysics reference -> 5 cats to power Norway)
+-7
+If all 32 chess pieces were arranged randomly on the board, what is the likelihood that they have the correct initial setup? You place the pieces one at a time and cannot place multiple on the same square.
+-45
+If every pixel of an 8k monitor independently has its own RGB value, how many different possible screen colorings are there? Answer with the Fermi Number of the Fermi Number of the count.
+8
+Assume the Earth’s orbit is a perfect circle. If the period of revolution suddenly became the same as the Sun’s period of revolution around the center of the Milky Way, what is the difference in distance in inches between the arc length covered by one second of earth’s new orbit and the average sea level rise in one month?
+-2

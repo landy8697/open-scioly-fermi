@@ -1,0 +1,66 @@
+brown_2023.txt
+32
+How much value was erased from the stock market during the 2008 recession, measured in US dollars?
+13
+How many people in the US are named Katherine?
+5
+How many donuts are sold by Krispy Kreme in a year?
+9
+How many points did Kareem Abdul-Jabbar score during his entire NBA career?
+4
+What was Nike’s total revenue during the 2022 fiscal year, measured in US dollars?
+10
+What is the area of the Amazon rainforest, measured in square miles?
+6
+What is the total number of wins that the Patriots franchise has?
+3
+What was Pokemon Go’s active user count in 2021?
+8
+What was the peak value attributed to FTX prior to its bankruptcy, measured in Zimbabwean dollars?
+13
+How many Google searches were made in the past year?
+12
+What is the distance between Jupiter and Earth, measured in meters?
+12
+What is the diameter of a proton, measured in Planck lengths?
+20
+How many hairs are there on the heads of people living in the city of Providence, RI?
+10
+How many red blood cells are there in the average adult human?
+13
+What is the combined length of all fingernail growth of an average human in their lifetime, measured in miles?
+-2
+What is the distance traveled by the cereal you had for breakfast from the point of consumption to the point of excretion, measured in angstroms?
+11
+What is the length of a typical mitochondria, measured in light-years?
+-22
+How much does a mole of the protein Titin weigh, measured in grams?
+6
+How much area would all of the pages of the books in the Library of Congress cover, measured in square feet?
+10
+What is the distance that the average human walks in their lifetime, measured in femtometers?
+23
+How much water is there on Earth, measured in cups?
+22
+How many lawyers are there in the state of California?
+5
+How many billiard balls would it take to fill up the water tanks of the Georgia aquarium?
+8
+How much data is used in the process of streaming a 2-hour long movie in HD on Netflix, measured in bits?
+10
+What is the cost of a Big Mac, measured in Brown University endowments?
+-9
+How far does a sloth travel in a day, measured in marathons?
+-3
+How long ago was the sinking of the Titanic, measured in the age of the universe?
+-8
+How many Olympic-sized swimming pools would fit inside a coffee mug?
+-7
+How many unique ordered arrangements of a standard deck of 52 playing cards are there?
+68
+How many permutations are there of the letters in “BrownUniversityScienceOlympiadInvitational”?
+40
+What is the natural log of 12345 raised to the power of the natural log of 54321?
+10
+What is 17 raised to the power of 71?
+87

@@ -115,9 +115,9 @@ corrections = {
     },
     "UT Austin Regionals 22-23, #7": {
         "question": "",
-        "answer": "",
-        "explanation": "idk what the answer is but 11 doesn't seem right",
-        "credit": ""
+        "answer": "-1",
+        "explanation": "Speed of a bullet is 180-1500 m/s. It does not take 10^11 seconds for a bullet to travel 100 meters.",
+        "credit": "Hudson Tien (hsin_tn)"
     },
     "Princeton Invitational 22-23, #33": {
         "question": "",
@@ -168,9 +168,129 @@ corrections = {
         "credit": "Elytraflight, MHS Scioly"
     },
     "Golden Gate Invitational 22-23, #16": {
-        "question": "The price in dollars of such a computer (ignore the breadboard price). Such a computer: (An Intel i7 chip if all CMOS transistors were replaced with BJTs on an infinite breadboard, assuming that all holes on the breadboard are filled and used solely for the BJT pins.)",
+        "question": "Such a computer: (An Intel i7 chip if all CMOS transistors were replaced with BJTs on an infinite breadboard, assuming that all holes on the breadboard are filled and used solely for the BJT pins.)",
         "answer": "",
         "explanation": "",
         "credit": "randomeclipse"
+    },
+    "Seven Lakes Invitational 17-18, #11": {
+        "question": "Suppose that Feliks Zemdegs (a speedcuber from Australia) takes 10 seconds to solve every Rubik\u00e2\u20ac\u2122s cube. How long would it take him, in years, to solve the number of cubes [total number of cube arrangements] found in the question above?",
+        "answer": "",
+        "explanation": "",
+        "credit": "None"
+    },
+    "Cornell Invitational 22-23, #18": {
+        "question": "How many dislikes does this same video (the most viewed video) have?",
+        "answer": "",
+        "explanation": "",
+        "credit": "None"
+    },
+    "": {
+        "question": "",
+        "answer": "",
+        "explanation": "",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #16 [2018 Harvard Q4]": {
+        "question": "",
+        "answer": "8",
+        "explanation": "Google how many red blood cells are in the human body? and the answer is 2.4 million cells per second times by 60 to change it to minute and you get 144 million cells per minute.",
+        "credit": "Staplers"
+    },
+    "Duke Invitational 22-23, #21": {
+        "question": "",
+        "answer": "5",
+        "explanation": "the current debt per person in the US is 96 thousand so 10 to the 5th should be the correct answer",
+        "credit": "Paresh"
+    },
+    "SOUP Invitational 22-23, #37": {
+        "question": "",
+        "answer": "-8",
+        "explanation": "Red light wavelength is about 650nm (6.5E-7 m). Length of a football field (including endzones) is about 110m. 6.5E-7 / 110 = 5.9E-9. Thus, Fermi answer is (-8)",
+        "credit": ""
+    },
+    "Duke Invitational 22-23, #45": {
+        "question": "",
+        "answer": "-6",
+        "explanation": "Red light wavelength is about 650 nm = 6.5E-7m = Fermi answer (-6)",
+        "credit": ""
+    },
+    "UChicago Invitational 22-23, #39": {
+        "question": "",
+        "answer": "13",
+        "explanation": "35 trillion red blood cells in human body, see source: https://www.texasheart.org/heart-health/heart-information-center/topics/blood-cells/#:~:text=Red%20blood%20cells%20carry%20oxygen,span%20of%20about%20120%20days.",
+        "credit": "errorfunction"
+    },
+    "UT Austin Invitational 22-23, #17": {
+        "question": "Total hours of television watched in the US every day.",
+        "answer": "9",
+        "explanation": "The average person in the us could watch 1.5 hours (500,000,000/331,900,000) to 15 hours (4,999,999,999/331,900,000) and it would fall under 10^9 (1,000,000,000) hours total.",
+        "credit": "sharp59#6969"
+    },
+    "Golden Gate Invitational 22-23, #31": {
+        "question": "They say that it took Thomas Jefferson 1,000 tries to successfully create the first lightbulb. How many Navajo Indians died in that amount of time?",
+        "answer": "",
+        "explanation": "jefferson died 50 years before the lightbulb. edison is credited with inventing it",
+        "credit": ""
+    },
+    "BullSO Invitational 22-23, #10": {
+        "question": "",
+        "answer": "0",
+        "explanation": "an estimated 117 billion people have ever lived, 8 billion are alive right now. that makes for 6.3% of people who have ever lived being alive today. that falls under 10^0",
+        "credit": "sharp59#6969"
+    },
+    "Duke Invitational 22-23, #12": {
+        "question": "",
+        "answer": "13",
+        "explanation": "The height of mount Everest is 8849.9 meters which when converted to nanometers is 10^13.",
+        "credit": "BossCrusher667"
+    },
+    "RobertYL, daily fermi questions day #98 [2019 ATX Regionals Q41]": {
+        "question": "",
+        "answer": "7",
+        "explanation": "The area of the USA is around 10 million km^2 which is 10^7",
+        "credit": "BossCrusher667"
+    },
+    "University of Michigan Invitational 22-23, #11": {
+        "question": "",
+        "answer": "4",
+        "explanation": "avocados grow at 2.5 ft/year, takes 100 years to grow 300 ft. so 10^4 days",
+        "credit": ""
+    },
+    "SOUP Invitational 22-23, #32": {
+        "question": "Suppose you play a game with the following rules: you roll a fair 20 sided die five times and flip a fair coin. If you roll a twenty every time and get heads, then you win $1,000,000,000. You must pay $20 to play the game. How much money do you expect to win from playing the game 1,000,000 times?",
+        "answer": "",
+        "explanation": "",
+        "credit": "randomeclipse"
+    },
+    "RobertYL, daily fermi questions day #120 [2019 WWPN Q3]": {
+        "question": "If I had a nickel for every time an American driver was pulled over for speeding, how many years would it take for me to become the richest person in the world?",
+        "answer": "",
+        "explanation": "The richest person has 280 billion net worth. That means you need 56 billion nickels and the average is 41 million people an year. I think this question might be old",
+        "credit": "lordofthesnowleopards (discord)"
+    },
+    "High Desert Satellite Invitational 22-23, #32": {
+        "question": "",
+        "answer": "2",
+        "explanation": "in nanometers, 380 nanometers becomes 2 for fermi",
+        "credit": ""
+    },
+    "Rice Invitational 17-18, #1": {
+        "question": "",
+        "answer": "10",
+        "explanation": "2^32 is about 9.6, so it would round up to 10.",
+        "credit": "discord: emptiespace"
+    },
+    "Camas Invitational 22-23, #25": {
+        "question": "",
+        "answer": "4",
+        "explanation": "The ISS has an orbital velocity of ~7000 m/s",
+        "credit": "trainboi01"
+    },
+    "Camas Invitational 22-23, #15": {
+        "question": "Determine the number of barns [Barn = 1.00 * 10 -28 m2 ] covered by Washington state\u00e2\u20ac\u2122s apple orchards.",
+        "answer": "if you dont change it then the answer is technically 0 since 00*10^-28 is 0",
+        "explanation": "",
+        "credit": ""
     }
 }

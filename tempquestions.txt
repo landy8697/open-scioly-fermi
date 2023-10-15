@@ -172,6 +172,38 @@ Convert 1 (tons4 × nanograms3 × parsecs2 × years) / (attoseconds2 × light ye
 If I randomly shot a bullet horizontally at a 1 cm wide target 10 meters away every minute with my mouth wide open and pointed to the sky, and everytime I hit the target, a flying bird would poop somewhere on earth, and everytime I had bird poop land into my mouth, I would run a one mile loop, how many food calories would I burn purely from running in a galactic year?
 If all of the energy from a type Ia supernova was pumped into the ice in Antarctica, what would be the final temperature of the ice?
 If a photon with a wavelength of Planck’s length were to collapse its mass-energy equivalent to a black hole, how long in seconds would it take for this black hole to evaporate due to Hawking radiation, given that the lifetime of a black hole with the mass of the sun is around 2E67 years, and that time taken to evaporate is inversely proportional to the mass3 ?
+How much value was erased from the stock market during the 2008 recession, measured in US dollars?
+How many people in the US are named Katherine?
+How many donuts are sold by Krispy Kreme in a year?
+How many points did Kareem Abdul-Jabbar score during his entire NBA career?
+What was Nike’s total revenue during the 2022 fiscal year, measured in US dollars?
+What is the area of the Amazon rainforest, measured in square miles?
+What is the total number of wins that the Patriots franchise has?
+What was Pokemon Go’s active user count in 2021?
+What was the peak value attributed to FTX prior to its bankruptcy, measured in Zimbabwean dollars?
+How many Google searches were made in the past year?
+What is the distance between Jupiter and Earth, measured in meters?
+What is the diameter of a proton, measured in Planck lengths?
+How many hairs are there on the heads of people living in the city of Providence, RI?
+How many red blood cells are there in the average adult human?
+What is the combined length of all fingernail growth of an average human in their lifetime, measured in miles?
+What is the distance traveled by the cereal you had for breakfast from the point of consumption to the point of excretion, measured in angstroms?
+What is the length of a typical mitochondria, measured in light-years?
+How much does a mole of the protein Titin weigh, measured in grams?
+How much area would all of the pages of the books in the Library of Congress cover, measured in square feet?
+What is the distance that the average human walks in their lifetime, measured in femtometers?
+How much water is there on Earth, measured in cups?
+How many lawyers are there in the state of California?
+How many billiard balls would it take to fill up the water tanks of the Georgia aquarium?
+How much data is used in the process of streaming a 2-hour long movie in HD on Netflix, measured in bits?
+What is the cost of a Big Mac, measured in Brown University endowments?
+How far does a sloth travel in a day, measured in marathons?
+How long ago was the sinking of the Titanic, measured in the age of the universe?
+How many Olympic-sized swimming pools would fit inside a coffee mug?
+How many unique ordered arrangements of a standard deck of 52 playing cards are there?
+How many permutations are there of the letters in “BrownUniversityScienceOlympiadInvitational”?
+What is the natural log of 12345 raised to the power of the natural log of 54321?
+What is 17 raised to the power of 71?
 How many moles of water are found on Earth?
 The mass of the Sun is equivalent to the mass of how many school buses?
 The wavelength of visible green light is equivalent to how many toothpick diameters?
@@ -344,6 +376,36 @@ How many toothpicks are needed to completely cover the body of a blue whale?
 How many pounds of chicken are used every year by Chipotle?
 How much power in watts was needed to power UNC’s campus for the year 2021?
 How many unique types of bacteria exist in the small intestine of the average person?
+How much coal, in kg, needs to be burned in a coal-fired power plant to provide enough electrical energy for a typical 100 Watt light bulb for one year?
+How many light years are there in 30 kiloparsecs?
+What is the total length in cm (placed end to end) of all of the blood vessels in the human body?
+How many quills does an average porcupine have?
+What is the total distance for a round trip visit from Venus to Mars in km?
+How many km in 165 nm?
+How many crayons can be produced with one acre of soybeans?
+What fraction of a mile is a cm?
+How many km are there in a light-year?
+Estimate the volume of Lake Superior in cubic km.
+How many seconds are there in 15 chronon?
+What is the wavelength in miles of red light?
+What is the probability of winning the MegaMillions Jackpot 2 consecutive weeks by buying only one ticket per week?
+How much energy per einstein is emitted from the radio station “Hits 5 FM”? Answer in kilojoules per Einstein.
+As of November of 2004, how many non-trivial zeroes of the Riemann Zeta Function have been calculated?
+What is the value of 1 googol times one centillion?
+What is the gravitational force (in newtons) between a standard shot-put and a standard baseball placed on opposite goal lines of a football field?
+How many milligrams of tea (not including water) are there in China?
+If you counted all of the stars in the Milky Way at a rate of one star per second, how many years would it take you to finish?
+How many cubic centimeters of diesel fuel are consumed by a cruise liner the size of Queen Elizabeth II on a voyage of 100 nautical miles?
+How many cups of water at room conditions would it take to equal the mass of the world’s largest rubber band ball?
+If you rolled a pair of dice a million times, how many times would probability suggest that you would roll a combined roll of 2?
+What is the sum of all of the odd numbers between 1 and 1,000,000?
+How many milligrams are in a carat?
+How much is the average number of inches of precipitation in a century for the world’s rainiest city, Kaurai, HI?
+How many drops of water are needed to fill a swimming pool (20 x 12 x 2 meters)?
+Estimate the number of molecules in each liter of air in the Earth’s atmosphere.
+An atomic clock is driven by so many radiation cycles of cesium-133 per second. How many radiation cycles would occur in one year?
+How many yards of duct tape would it take to cover the world in duct tape?
+How many electrons would there be in 15 amperes of electrical current running through a wire?
 If you line up human rod cells (photoreceptors in your eye), how many can you fit if you start from sea level and travel down to the lowest point on earth?
 How many carbon atoms fit from the distance from sea level to the highest point on earth?
 Every time someone searches something on Google, Bob punches his friend Howard right smack in the gut! How much energy in joules has Howard's abdomen taken in over a century of searching? (Assume a constant searching rate)
@@ -1520,6 +1582,46 @@ How many streetlights are there in seattle?
 How many people visit Times Square every year?
 Suppose that I randomly pick a city that has over 100,000 residents. What is the probability that it is in Pennsylvania?
 How many 10-digit numbers are prime?
+How long is the word “Fermi”?
+What page number is Fermi Questions on the rules manual?
+How many characters are there in the Fermi Questions rules manual page?
+Sum up all the years that Fermi Questions has been run, what is the result?
+How many times has the fermi SciOly wiki page been accessed?
+For this question, only count everything inside and not including the curly brackets: {# of characters this intentionally sized question?}
+I want to make sure fermi is my #1 priority. How many copies of the fermi wiki html page would I need to fill up 512 GB of storage space?
+How long in ms would it take to download that amount of data (512 GB)? Assume internet speed is the average WiFi download speed in the US.
+Population of the US (#)?
+Radius of the Earth (inches)?
+Planck time (s)
+Cost of the most expensive man-made item ever (1923 German Marks).
+Power required to move a mass of a furkin up a distance of a furlong against an uniform gravitational field (10 m/s^2) during the timespan of a fortnight. (Horsepower)
+Mass of Sagittarius A* (lunar masses)
+Number of times a hare would lap a tortoise on a standard track in 24 hours. Assume sprinting speed and no fatigue. (#)
+Volume of every possible (52 card) card deck shuffles in one place (Olympic swimming pools)
+How many marbles could you fit in a bowling ball?
+How many footsteps does it take to run a marathon?
+How many #2 pencils would you need to trace a line across the Great Wall of China?
+Equivalent volume of Lake Superior in teaspoons.
+The moon is a giant rock, but rocks are boring. How many gallons of milk to make a sphere of cheese (Parmigiano-Reggiano) with equivalent mass as the moon?
+How many protons would you need to stack side by side to reach the Andromeda Galaxy?
+How many moles of water are in a mol of moles?
+Amount of a household's yearly energy consumption that can be covered by 1 photon of 1240 nm wavelength.
+34 * 9911 * 432 + 321 * 798 + 632
+19876th fibonacci number / 19875th fibonacci number
+6 ^ 100
+83 ^ 125
+42!
+600000 th prime number (Try the formula [n ln n] :D)
+Sum of the pascal triangle from rows 0 to 999
+All answers on this fermi test are between -500 and If you were to randomly guess all 40 questions, what is the probability of scoring a 200?
+If you unwound all the DNA in all your cells and used them as data storage, how many times could you store the entire data of the internet?
+If you took all the railroad ties off the transcontinental railroad to make a wooden fencepost enclosure with ties being 1 meter apart, what is the maximum size area you could create in m^2?
+The highest fps camera ever produced can shoot at 70 trillion fps! If a standard two-bladed helicopter looks stationary when recorded, what would be the linear speed at the tip of each blade in m/s?
+If the entire earth was replaced with neutron star core material, how many periods of a standard pendulum clock would be needed to record the entire Cenozoic era?
+How many Earths would you need to throw into a rapidly rotating black hole to reach the yearly energy output of the Sun. (Minutephysics reference -> 5 cats to power Norway)
+If all 32 chess pieces were arranged randomly on the board, what is the likelihood that they have the correct initial setup? You place the pieces one at a time and cannot place multiple on the same square.
+If every pixel of an 8k monitor independently has its own RGB value, how many different possible screen colorings are there? Answer with the Fermi Number of the Fermi Number of the count.
+Assume the Earth’s orbit is a perfect circle. If the period of revolution suddenly became the same as the Sun’s period of revolution around the center of the Milky Way, what is the difference in distance in inches between the arc length covered by one second of earth’s new orbit and the average sea level rise in one month?
 How many grains of sand are on Earth?
 How many leaves do all of the trees in the amazon rainforest have?
 What is the circumference of the Earth in centimeters?
@@ -1862,3 +1964,33 @@ What is the ratio between the RAM in the first spaceship and an average PC accor
 What is the ratio between the amount of transistors in a NVIDIA GeForce RTX 4090 and a 1971 Intel 4004 graphics card?
 What is the ratio between the amount of memory space taken up by Red Dead Redemption 2 and Brawl Stars?
 How many trees would it take to build Noah’s Ark?
+What is the mass of an apple? (kg)
+What is the mass of the Earth? (kg)
+What is the magnitude of the acceleration of an apple near Earth's surface due to Earth's gravity? (m/s2)
+What is the magnitude of the acceleration of the Earth due to the gravity of an apple near Earth's surface? (m/s2)
+What is the mass of an iPhone X? (kg)
+How many iPhones did Apple sell last year?
+How much energy does an iPhone use per year? (kWh)
+How many water bottles in the United States were used last year that were not recycled?
+How many water bottles would it take to contain the volume of the Pacific Ocean?
+What is the ratio of the mass of the moon to that of the sun?
+What is the ratio of the moon's distance to Earth and the sun's distance to Earth?
+The difference between the force of the moon on a particle at the Earth's surface and between the force of the moon on a particle at the Earth's center generates a tidal force. What is the ratio of the magnitude of the lunar tide force to that of the solar tide force?
+How many pencils would it take to reach the sun at perihelion?
+How many more pencils would it take to reach the sun at aphelion?
+The Wikipedia article on California Proposition 218 (1996) contains just over 50,000 words. How many letter e's does it contain?
+How long does it take a shark to swim from Brazil to Liberia across the Atlantic Ocean? (s)
+The bee hummingbird is the world's smallest bird. How many bee hummingbird wingspans fit into the wingspan of an airplane?
+A lot happens in a year. If a woodpecker pecks continuously throughout the year without stopping or getting tired, how many times does the woodpecker peck?
+It's Chris's birthday! How many times should he roll a fair 1010000-sided die before expecting to see a number twice (not necessarily consecutively) ?
+How many possible configurations of a 2x2 Rubik's cube are there?
+How many primes are less than 10100?
+Evaluate (Tre)we
+Jeffrey compares the time it takes sound to travel through a glass window against the time it would take if there were no window at all (but still travels through the same thickness). What is the difference in the times? (s)
+Muons have a half life of 56 x 10-6 seconds. I stand at rest and observe a million muon particles travel from one end of a 104 meter tunnel to another end, at velocity v = 8c, where c is the speed of light. How many muons reach the end?
+How many times does a typical human breathe per day?
+What is the volume of two breaths? (mL)
+Every day, people breathe in and breathe out air. In doing so, they convert some oxygen to carbon dioxide. How much carbon dioxide does the student population at Yale University exhale in one breath (undergraduate and graduate) ? (mL)
+How many sodium ions does a typical human consume in a day?
+How many grams of gold can fit in the Empire State Building?
+How many human blood cells are there in New York City?

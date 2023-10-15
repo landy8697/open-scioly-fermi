@@ -1,0 +1,62 @@
+yale_2018.txt
+30
+What is the mass of an apple? (kg)
+-1
+What is the mass of the Earth? (kg)
+25
+What is the magnitude of the acceleration of an apple near Earth's surface due to Earth's gravity? (m/s2)
+1
+What is the magnitude of the acceleration of the Earth due to the gravity of an apple near Earth's surface? (m/s2)
+-25
+What is the mass of an iPhone X? (kg)
+1
+How many iPhones did Apple sell last year?
+8
+How much energy does an iPhone use per year? (kWh)
+0
+How many water bottles in the United States were used last year that were not recycled?
+9
+How many water bottles would it take to contain the volume of the Pacific Ocean?
+21
+What is the ratio of the mass of the moon to that of the sun?
+-7
+What is the ratio of the moon's distance to Earth and the sun's distance to Earth?
+-3
+The difference between the force of the moon on a particle at the Earth's surface and between the force of the moon on a particle at the Earth's center generates a tidal force. What is the ratio of the magnitude of the lunar tide force to that of the solar tide force?
+0
+How many pencils would it take to reach the sun at perihelion?
+12
+How many more pencils would it take to reach the sun at aphelion?
+10
+The Wikipedia article on California Proposition 218 (1996) contains just over 50,000 words. How many letter e's does it contain?
+4
+How long does it take a shark to swim from Brazil to Liberia across the Atlantic Ocean? (s)
+5
+The bee hummingbird is the world's smallest bird. How many bee hummingbird wingspans fit into the wingspan of an airplane?
+3
+A lot happens in a year. If a woodpecker pecks continuously throughout the year without stopping or getting tired, how many times does the woodpecker peck?
+9
+It's Chris's birthday! How many times should he roll a fair 1010000-sided die before expecting to see a number twice (not necessarily consecutively) ?
+5000
+How many possible configurations of a 2x2 Rubik's cube are there?
+6
+How many primes are less than 10100?
+97
+Evaluate (Tre)we
+8
+Jeffrey compares the time it takes sound to travel through a glass window against the time it would take if there were no window at all (but still travels through the same thickness). What is the difference in the times? (s)
+-6
+Muons have a half life of 56 x 10-6 seconds. I stand at rest and observe a million muon particles travel from one end of a 104 meter tunnel to another end, at velocity v = 8c, where c is the speed of light. How many muons reach the end?
+1
+How many times does a typical human breathe per day?
+4
+What is the volume of two breaths? (mL)
+3
+Every day, people breathe in and breathe out air. In doing so, they convert some oxygen to carbon dioxide. How much carbon dioxide does the student population at Yale University exhale in one breath (undergraduate and graduate) ? (mL)
+5
+How many sodium ions does a typical human consume in a day?
+22
+How many grams of gold can fit in the Empire State Building?
+13
+How many human blood cells are there in New York City?
+20

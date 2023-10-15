@@ -1044,6 +1044,198 @@
         "number": 60
     },
     {
+        "question": "How much value was erased from the stock market during the 2008 recession, measured in US dollars?\n",
+        "answer": 13,
+        "source": "brown_2023.txt",
+        "number": 1
+    },
+    {
+        "question": "How many people in the US are named Katherine?\n",
+        "answer": 5,
+        "source": "brown_2023.txt",
+        "number": 2
+    },
+    {
+        "question": "How many donuts are sold by Krispy Kreme in a year?\n",
+        "answer": 9,
+        "source": "brown_2023.txt",
+        "number": 3
+    },
+    {
+        "question": "How many points did Kareem Abdul-Jabbar score during his entire NBA career?\n",
+        "answer": 4,
+        "source": "brown_2023.txt",
+        "number": 4
+    },
+    {
+        "question": "What was Nike\u2019s total revenue during the 2022 fiscal year, measured in US dollars?\n",
+        "answer": 10,
+        "source": "brown_2023.txt",
+        "number": 5
+    },
+    {
+        "question": "What is the area of the Amazon rainforest, measured in square miles?\n",
+        "answer": 6,
+        "source": "brown_2023.txt",
+        "number": 6
+    },
+    {
+        "question": "What is the total number of wins that the Patriots franchise has?\n",
+        "answer": 3,
+        "source": "brown_2023.txt",
+        "number": 7
+    },
+    {
+        "question": "What was Pokemon Go\u2019s active user count in 2021?\n",
+        "answer": 8,
+        "source": "brown_2023.txt",
+        "number": 8
+    },
+    {
+        "question": "What was the peak value attributed to FTX prior to its bankruptcy, measured in Zimbabwean dollars?\n",
+        "answer": 13,
+        "source": "brown_2023.txt",
+        "number": 9
+    },
+    {
+        "question": "How many Google searches were made in the past year?\n",
+        "answer": 12,
+        "source": "brown_2023.txt",
+        "number": 10
+    },
+    {
+        "question": "What is the distance between Jupiter and Earth, measured in meters?\n",
+        "answer": 12,
+        "source": "brown_2023.txt",
+        "number": 11
+    },
+    {
+        "question": "What is the diameter of a proton, measured in Planck lengths?\n",
+        "answer": 20,
+        "source": "brown_2023.txt",
+        "number": 12
+    },
+    {
+        "question": "How many hairs are there on the heads of people living in the city of Providence, RI?\n",
+        "answer": 10,
+        "source": "brown_2023.txt",
+        "number": 13
+    },
+    {
+        "question": "How many red blood cells are there in the average adult human?\n",
+        "answer": 13,
+        "source": "brown_2023.txt",
+        "number": 14
+    },
+    {
+        "question": "What is the combined length of all fingernail growth of an average human in their lifetime, measured in miles?\n",
+        "answer": -2,
+        "source": "brown_2023.txt",
+        "number": 15
+    },
+    {
+        "question": "What is the distance traveled by the cereal you had for breakfast from the point of consumption to the point of excretion, measured in angstroms?\n",
+        "answer": 11,
+        "source": "brown_2023.txt",
+        "number": 16
+    },
+    {
+        "question": "What is the length of a typical mitochondria, measured in light-years?\n",
+        "answer": -22,
+        "source": "brown_2023.txt",
+        "number": 17
+    },
+    {
+        "question": "How much does a mole of the protein Titin weigh, measured in grams?\n",
+        "answer": 6,
+        "source": "brown_2023.txt",
+        "number": 18
+    },
+    {
+        "question": "How much area would all of the pages of the books in the Library of Congress cover, measured in square feet?\n",
+        "answer": 10,
+        "source": "brown_2023.txt",
+        "number": 19
+    },
+    {
+        "question": "What is the distance that the average human walks in their lifetime, measured in femtometers?\n",
+        "answer": 23,
+        "source": "brown_2023.txt",
+        "number": 20
+    },
+    {
+        "question": "How much water is there on Earth, measured in cups?\n",
+        "answer": 22,
+        "source": "brown_2023.txt",
+        "number": 21
+    },
+    {
+        "question": "How many lawyers are there in the state of California?\n",
+        "answer": 5,
+        "source": "brown_2023.txt",
+        "number": 22
+    },
+    {
+        "question": "How many billiard balls would it take to fill up the water tanks of the Georgia aquarium?\n",
+        "answer": 8,
+        "source": "brown_2023.txt",
+        "number": 23
+    },
+    {
+        "question": "How much data is used in the process of streaming a 2-hour long movie in HD on Netflix, measured in bits?\n",
+        "answer": 10,
+        "source": "brown_2023.txt",
+        "number": 24
+    },
+    {
+        "question": "What is the cost of a Big Mac, measured in Brown University endowments?\n",
+        "answer": -9,
+        "source": "brown_2023.txt",
+        "number": 25
+    },
+    {
+        "question": "How far does a sloth travel in a day, measured in marathons?\n",
+        "answer": -3,
+        "source": "brown_2023.txt",
+        "number": 26
+    },
+    {
+        "question": "How long ago was the sinking of the Titanic, measured in the age of the universe?\n",
+        "answer": -8,
+        "source": "brown_2023.txt",
+        "number": 27
+    },
+    {
+        "question": "How many Olympic-sized swimming pools would fit inside a coffee mug?\n",
+        "answer": -7,
+        "source": "brown_2023.txt",
+        "number": 28
+    },
+    {
+        "question": "How many unique ordered arrangements of a standard deck of 52 playing cards are there?\n",
+        "answer": 68,
+        "source": "brown_2023.txt",
+        "number": 29
+    },
+    {
+        "question": "How many permutations are there of the letters in \u201cBrownUniversityScienceOlympiadInvitational\u201d?\n",
+        "answer": 40,
+        "source": "brown_2023.txt",
+        "number": 30
+    },
+    {
+        "question": "What is the natural log of 12345 raised to the power of the natural log of 54321?\n",
+        "answer": 10,
+        "source": "brown_2023.txt",
+        "number": 31
+    },
+    {
+        "question": "What is 17 raised to the power of 71?\n",
+        "answer": 87,
+        "source": "brown_2023.txt",
+        "number": 32
+    },
+    {
         "question": "How many moles of water are found on Earth?\n",
         "answer": 23,
         "source": "BullSO Invitational 22-23",
@@ -2074,6 +2266,186 @@
         "answer": 5,
         "source": "Carolina Invitational 22-23",
         "number": 34
+    },
+    {
+        "question": "How much coal, in kg, needs to be burned in a coal-fired power plant to provide enough electrical energy for a typical 100 Watt light bulb for one year?\n",
+        "answer": 2,
+        "source": "centerville.txt",
+        "number": 1
+    },
+    {
+        "question": "How many light years are there in 30 kiloparsecs?\n",
+        "answer": 5,
+        "source": "centerville.txt",
+        "number": 2
+    },
+    {
+        "question": "What is the total length in cm (placed end to end) of all of the blood vessels in the human body?\n",
+        "answer": 10,
+        "source": "centerville.txt",
+        "number": 3
+    },
+    {
+        "question": "How many quills does an average porcupine have?\n",
+        "answer": 4,
+        "source": "centerville.txt",
+        "number": 4
+    },
+    {
+        "question": "What is the total distance for a round trip visit from Venus to Mars in km?\n",
+        "answer": 9,
+        "source": "centerville.txt",
+        "number": 5
+    },
+    {
+        "question": "How many km in 165 nm?\n",
+        "answer": -10,
+        "source": "centerville.txt",
+        "number": 6
+    },
+    {
+        "question": "How many crayons can be produced with one acre of soybeans?\n",
+        "answer": 5,
+        "source": "centerville.txt",
+        "number": 7
+    },
+    {
+        "question": "What fraction of a mile is a cm?\n",
+        "answer": -5,
+        "source": "centerville.txt",
+        "number": 8
+    },
+    {
+        "question": "How many km are there in a light-year?\n",
+        "answer": 13,
+        "source": "centerville.txt",
+        "number": 9
+    },
+    {
+        "question": "Estimate the volume of Lake Superior in cubic km.\n",
+        "answer": 4,
+        "source": "centerville.txt",
+        "number": 10
+    },
+    {
+        "question": "How many seconds are there in 15 chronon?\n",
+        "answer": -43,
+        "source": "centerville.txt",
+        "number": 11
+    },
+    {
+        "question": "What is the wavelength in miles of red light?\n",
+        "answer": -10,
+        "source": "centerville.txt",
+        "number": 12
+    },
+    {
+        "question": "What is the probability of winning the MegaMillions Jackpot 2 consecutive weeks by buying only one ticket per week?\n",
+        "answer": -16,
+        "source": "centerville.txt",
+        "number": 13
+    },
+    {
+        "question": "How much energy per einstein is emitted from the radio station \u201cHits 5 FM\u201d? Answer in kilojoules per Einstein.\n",
+        "answer": -5,
+        "source": "centerville.txt",
+        "number": 14
+    },
+    {
+        "question": "As of November of 2004, how many non-trivial zeroes of the Riemann Zeta Function have been calculated?\n",
+        "answer": 13,
+        "source": "centerville.txt",
+        "number": 15
+    },
+    {
+        "question": "What is the value of 1 googol times one centillion?\n",
+        "answer": 403,
+        "source": "centerville.txt",
+        "number": 16
+    },
+    {
+        "question": "What is the gravitational force (in newtons) between a standard shot-put and a standard baseball placed on opposite goal lines of a football field?\n",
+        "answer": -14,
+        "source": "centerville.txt",
+        "number": 17
+    },
+    {
+        "question": "How many milligrams of tea (not including water) are there in China?\n",
+        "answer": 15,
+        "source": "centerville.txt",
+        "number": 18
+    },
+    {
+        "question": "If you counted all of the stars in the Milky Way at a rate of one star per second, how many years would it take you to finish?\n",
+        "answer": 3,
+        "source": "centerville.txt",
+        "number": 19
+    },
+    {
+        "question": "How many cubic centimeters of diesel fuel are consumed by a cruise liner the size of Queen Elizabeth II on a voyage of 100 nautical miles?\n",
+        "answer": 9,
+        "source": "centerville.txt",
+        "number": 20
+    },
+    {
+        "question": "How many cups of water at room conditions would it take to equal the mass of the world\u2019s largest rubber band ball?\n",
+        "answer": 4,
+        "source": "centerville.txt",
+        "number": 21
+    },
+    {
+        "question": "If you rolled a pair of dice a million times, how many times would probability suggest that you would roll a combined roll of 2?\n",
+        "answer": 4,
+        "source": "centerville.txt",
+        "number": 22
+    },
+    {
+        "question": "What is the sum of all of the odd numbers between 1 and 1,000,000?\n",
+        "answer": 11,
+        "source": "centerville.txt",
+        "number": 23
+    },
+    {
+        "question": "How many milligrams are in a carat?\n",
+        "answer": 2,
+        "source": "centerville.txt",
+        "number": 24
+    },
+    {
+        "question": "How much is the average number of inches of precipitation in a century for the world\u2019s rainiest city, Kaurai, HI?\n",
+        "answer": 4,
+        "source": "centerville.txt",
+        "number": 25
+    },
+    {
+        "question": "How many drops of water are needed to fill a swimming pool (20 x 12 x 2 meters)?\n",
+        "answer": 8,
+        "source": "centerville.txt",
+        "number": 26
+    },
+    {
+        "question": "Estimate the number of molecules in each liter of air in the Earth\u2019s atmosphere.\n",
+        "answer": 22,
+        "source": "centerville.txt",
+        "number": 27
+    },
+    {
+        "question": "An atomic clock is driven by so many radiation cycles of cesium-133 per second. How many radiation cycles would occur in one year?\n",
+        "answer": 17,
+        "source": "centerville.txt",
+        "number": 28
+    },
+    {
+        "question": "How many yards of duct tape would it take to cover the world in duct tape?\n",
+        "answer": 16,
+        "source": "centerville.txt",
+        "number": 29
+    },
+    {
+        "question": "How many electrons would there be in 15 amperes of electrical current running through a wire?\n",
+        "answer": 19,
+        "source": "centerville.txt",
+        "number": 30
     },
     {
         "question": "If you line up human rod cells (photoreceptors in your eye), how many can you fit if you start from sea level and travel down to the lowest point on earth?\n",
@@ -9132,6 +9504,246 @@
         "number": 50
     },
     {
+        "question": "How long is the word \u201cFermi\u201d?\n",
+        "answer": 1,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 1
+    },
+    {
+        "question": "What page number is Fermi Questions on the rules manual?\n",
+        "answer": 1,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 2
+    },
+    {
+        "question": "How many characters are there in the Fermi Questions rules manual page?\n",
+        "answer": 3,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 3
+    },
+    {
+        "question": "Sum up all the years that Fermi Questions has been run, what is the result?\n",
+        "answer": 4,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 4
+    },
+    {
+        "question": "How many times has the fermi SciOly wiki page been accessed?\n",
+        "answer": 5,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 5
+    },
+    {
+        "question": "For this question, only count everything inside and not including the curly brackets: {# of characters this intentionally sized question?}\n",
+        "answer": 2,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 6
+    },
+    {
+        "question": "I want to make sure fermi is my #1 priority. How many copies of the fermi wiki html page would I need to fill up 512 GB of storage space?\n",
+        "answer": 6,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 7
+    },
+    {
+        "question": "How long in ms would it take to download that amount of data (512 GB)? Assume internet speed is the average WiFi download speed in the US.\n",
+        "answer": 7,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 8
+    },
+    {
+        "question": "Population of the US (#)?\n",
+        "answer": 8,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 9
+    },
+    {
+        "question": "Radius of the Earth (inches)?\n",
+        "answer": 8,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 10
+    },
+    {
+        "question": "Planck time (s)\n",
+        "answer": -44,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 11
+    },
+    {
+        "question": "Cost of the most expensive man-made item ever (1923 German Marks).\n",
+        "answer": 25,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 12
+    },
+    {
+        "question": "Power required to move a mass of a furkin up a distance of a furlong against an uniform gravitational field (10 m/s^2) during the timespan of a fortnight. (Horsepower)\n",
+        "answer": -4,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 13
+    },
+    {
+        "question": "Mass of Sagittarius A* (lunar masses)\n",
+        "answer": 14,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 14
+    },
+    {
+        "question": "Number of times a hare would lap a tortoise on a standard track in 24 hours. Assume sprinting speed and no fatigue. (#)\n",
+        "answer": 3,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 15
+    },
+    {
+        "question": "Volume of every possible (52 card) card deck shuffles in one place (Olympic swimming pools)\n",
+        "answer": 60,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 16
+    },
+    {
+        "question": "How many marbles could you fit in a bowling ball?\n",
+        "answer": 4,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 17
+    },
+    {
+        "question": "How many footsteps does it take to run a marathon?\n",
+        "answer": 4,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 18
+    },
+    {
+        "question": "How many #2 pencils would you need to trace a line across the Great Wall of China?\n",
+        "answer": 2,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 19
+    },
+    {
+        "question": "Equivalent volume of Lake Superior in teaspoons.\n",
+        "answer": 18,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 20
+    },
+    {
+        "question": "The moon is a giant rock, but rocks are boring. How many gallons of milk to make a sphere of cheese (Parmigiano-Reggiano) with equivalent mass as the moon?\n",
+        "answer": 23,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 21
+    },
+    {
+        "question": "How many protons would you need to stack side by side to reach the Andromeda Galaxy?\n",
+        "answer": 37,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 22
+    },
+    {
+        "question": "How many moles of water are in a mol of moles?\n",
+        "answer": 48,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 23
+    },
+    {
+        "question": "Amount of a household's yearly energy consumption that can be covered by 1 photon of 1240 nm wavelength.\n",
+        "answer": -30,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 24
+    },
+    {
+        "question": "34 * 9911 * 432 + 321 * 798 + 632\n",
+        "answer": 8,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 25
+    },
+    {
+        "question": "19876th fibonacci number / 19875th fibonacci number\n",
+        "answer": 0,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 26
+    },
+    {
+        "question": "6 ^ 100\n",
+        "answer": 77,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 27
+    },
+    {
+        "question": "83 ^ 125\n",
+        "answer": 240,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 28
+    },
+    {
+        "question": "42!\n",
+        "answer": 51,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 29
+    },
+    {
+        "question": "600000 th prime number (Try the formula [n ln n] :D)\n",
+        "answer": 8,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 30
+    },
+    {
+        "question": "Sum of the pascal triangle from rows 0 to 999\n",
+        "answer": 301,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 31
+    },
+    {
+        "question": "All answers on this fermi test are between -500 and If you were to randomly guess all 40 questions, what is the probability of scoring a 200?\n",
+        "answer": -120,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 32
+    },
+    {
+        "question": "If you unwound all the DNA in all your cells and used them as data storage, how many times could you store the entire data of the internet?\n",
+        "answer": -2,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 33
+    },
+    {
+        "question": "If you took all the railroad ties off the transcontinental railroad to make a wooden fencepost enclosure with ties being 1 meter apart, what is the maximum size area you could create in m^2?\n",
+        "answer": 12,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 34
+    },
+    {
+        "question": "The highest fps camera ever produced can shoot at 70 trillion fps! If a standard two-bladed helicopter looks stationary when recorded, what would be the linear speed at the tip of each blade in m/s?\n",
+        "answer": 15,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 35
+    },
+    {
+        "question": "If the entire earth was replaced with neutron star core material, how many periods of a standard pendulum clock would be needed to record the entire Cenozoic era?\n",
+        "answer": 22,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 36
+    },
+    {
+        "question": "How many Earths would you need to throw into a rapidly rotating black hole to reach the yearly energy output of the Sun. (Minutephysics reference -> 5 cats to power Norway)\n",
+        "answer": -7,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 37
+    },
+    {
+        "question": "If all 32 chess pieces were arranged randomly on the board, what is the likelihood that they have the correct initial setup? You place the pieces one at a time and cannot place multiple on the same square.\n",
+        "answer": -45,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 38
+    },
+    {
+        "question": "If every pixel of an 8k monitor independently has its own RGB value, how many different possible screen colorings are there? Answer with the Fermi Number of the Fermi Number of the count.\n",
+        "answer": 8,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 39
+    },
+    {
+        "question": "Assume the Earth\u2019s orbit is a perfect circle. If the period of revolution suddenly became the same as the Sun\u2019s period of revolution around the center of the Milky Way, what is the difference in distance in inches between the arc length covered by one second of earth\u2019s new orbit and the average sea level rise in one month?\n",
+        "answer": -2,
+        "source": "ssss_fermi_randomsci_2023.txt",
+        "number": 40
+    },
+    {
         "question": "How many grains of sand are on Earth?\n",
         "answer": 22,
         "source": "UChicago Invitational 22-23",
@@ -11182,6 +11794,186 @@
         "answer": 4,
         "source": "Sahil Gandhi, WSO Regionals 22-23",
         "number": 38
+    },
+    {
+        "question": "What is the mass of an apple? (kg)\n",
+        "answer": -1,
+        "source": "yale_2018.txt",
+        "number": 1
+    },
+    {
+        "question": "What is the mass of the Earth? (kg)\n",
+        "answer": 25,
+        "source": "yale_2018.txt",
+        "number": 2
+    },
+    {
+        "question": "What is the magnitude of the acceleration of an apple near Earth's surface due to Earth's gravity? (m/s2)\n",
+        "answer": 1,
+        "source": "yale_2018.txt",
+        "number": 3
+    },
+    {
+        "question": "What is the magnitude of the acceleration of the Earth due to the gravity of an apple near Earth's surface? (m/s2)\n",
+        "answer": -25,
+        "source": "yale_2018.txt",
+        "number": 4
+    },
+    {
+        "question": "What is the mass of an iPhone X? (kg)\n",
+        "answer": 1,
+        "source": "yale_2018.txt",
+        "number": 5
+    },
+    {
+        "question": "How many iPhones did Apple sell last year?\n",
+        "answer": 8,
+        "source": "yale_2018.txt",
+        "number": 6
+    },
+    {
+        "question": "How much energy does an iPhone use per year? (kWh)\n",
+        "answer": 0,
+        "source": "yale_2018.txt",
+        "number": 7
+    },
+    {
+        "question": "How many water bottles in the United States were used last year that were not recycled?\n",
+        "answer": 9,
+        "source": "yale_2018.txt",
+        "number": 8
+    },
+    {
+        "question": "How many water bottles would it take to contain the volume of the Pacific Ocean?\n",
+        "answer": 21,
+        "source": "yale_2018.txt",
+        "number": 9
+    },
+    {
+        "question": "What is the ratio of the mass of the moon to that of the sun?\n",
+        "answer": -7,
+        "source": "yale_2018.txt",
+        "number": 10
+    },
+    {
+        "question": "What is the ratio of the moon's distance to Earth and the sun's distance to Earth?\n",
+        "answer": -3,
+        "source": "yale_2018.txt",
+        "number": 11
+    },
+    {
+        "question": "The difference between the force of the moon on a particle at the Earth's surface and between the force of the moon on a particle at the Earth's center generates a tidal force. What is the ratio of the magnitude of the lunar tide force to that of the solar tide force?\n",
+        "answer": 0,
+        "source": "yale_2018.txt",
+        "number": 12
+    },
+    {
+        "question": "How many pencils would it take to reach the sun at perihelion?\n",
+        "answer": 12,
+        "source": "yale_2018.txt",
+        "number": 13
+    },
+    {
+        "question": "How many more pencils would it take to reach the sun at aphelion?\n",
+        "answer": 10,
+        "source": "yale_2018.txt",
+        "number": 14
+    },
+    {
+        "question": "The Wikipedia article on California Proposition 218 (1996) contains just over 50,000 words. How many letter e's does it contain?\n",
+        "answer": 4,
+        "source": "yale_2018.txt",
+        "number": 15
+    },
+    {
+        "question": "How long does it take a shark to swim from Brazil to Liberia across the Atlantic Ocean? (s)\n",
+        "answer": 5,
+        "source": "yale_2018.txt",
+        "number": 16
+    },
+    {
+        "question": "The bee hummingbird is the world's smallest bird. How many bee hummingbird wingspans fit into the wingspan of an airplane?\n",
+        "answer": 3,
+        "source": "yale_2018.txt",
+        "number": 17
+    },
+    {
+        "question": "A lot happens in a year. If a woodpecker pecks continuously throughout the year without stopping or getting tired, how many times does the woodpecker peck?\n",
+        "answer": 9,
+        "source": "yale_2018.txt",
+        "number": 18
+    },
+    {
+        "question": "It's Chris's birthday! How many times should he roll a fair 1010000-sided die before expecting to see a number twice (not necessarily consecutively) ?\n",
+        "answer": 5000,
+        "source": "yale_2018.txt",
+        "number": 19
+    },
+    {
+        "question": "How many possible configurations of a 2x2 Rubik's cube are there?\n",
+        "answer": 6,
+        "source": "yale_2018.txt",
+        "number": 20
+    },
+    {
+        "question": "How many primes are less than 10100?\n",
+        "answer": 97,
+        "source": "yale_2018.txt",
+        "number": 21
+    },
+    {
+        "question": "Evaluate (Tre)we\n",
+        "answer": 8,
+        "source": "yale_2018.txt",
+        "number": 22
+    },
+    {
+        "question": "Jeffrey compares the time it takes sound to travel through a glass window against the time it would take if there were no window at all (but still travels through the same thickness). What is the difference in the times? (s)\n",
+        "answer": -6,
+        "source": "yale_2018.txt",
+        "number": 23
+    },
+    {
+        "question": "Muons have a half life of 56 x 10-6 seconds. I stand at rest and observe a million muon particles travel from one end of a 104 meter tunnel to another end, at velocity v = 8c, where c is the speed of light. How many muons reach the end?\n",
+        "answer": 1,
+        "source": "yale_2018.txt",
+        "number": 24
+    },
+    {
+        "question": "How many times does a typical human breathe per day?\n",
+        "answer": 4,
+        "source": "yale_2018.txt",
+        "number": 25
+    },
+    {
+        "question": "What is the volume of two breaths? (mL)\n",
+        "answer": 3,
+        "source": "yale_2018.txt",
+        "number": 26
+    },
+    {
+        "question": "Every day, people breathe in and breathe out air. In doing so, they convert some oxygen to carbon dioxide. How much carbon dioxide does the student population at Yale University exhale in one breath (undergraduate and graduate) ? (mL)\n",
+        "answer": 5,
+        "source": "yale_2018.txt",
+        "number": 27
+    },
+    {
+        "question": "How many sodium ions does a typical human consume in a day?\n",
+        "answer": 22,
+        "source": "yale_2018.txt",
+        "number": 28
+    },
+    {
+        "question": "How many grams of gold can fit in the Empire State Building?\n",
+        "answer": 13,
+        "source": "yale_2018.txt",
+        "number": 29
+    },
+    {
+        "question": "How many human blood cells are there in New York City?\n",
+        "answer": 20,
+        "source": "yale_2018.txt",
+        "number": 30
     },
     {
         "question": "What is the weight in grams of the water in an Olympic sized swimming pool?",
