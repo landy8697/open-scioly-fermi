@@ -1,4 +1,4 @@
-centerville.txt
+Centerville Invitational 17-18
 30
 How much coal, in kg, needs to be burned in a coal-fired power plant to provide enough electrical energy for a typical 100 Watt light bulb for one year?
 2

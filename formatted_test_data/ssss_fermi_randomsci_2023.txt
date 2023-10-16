@@ -1,4 +1,4 @@
-ssss_fermi_randomsci_2023.txt
+SSSS Fermi (randomsci) 22-23
 40
 How long is the word “Fermi”?
 1

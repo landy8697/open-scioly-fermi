@@ -1,4 +1,4 @@
-yale_2018.txt
+Yale Invitational 17-18
 30
 What is the mass of an apple? (kg)
 -1

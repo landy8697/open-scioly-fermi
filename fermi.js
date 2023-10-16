@@ -32,6 +32,9 @@ document.addEventListener("DOMContentLoaded", function() {
     document.getElementById("update-form-fill").addEventListener('click', () => {
         updateFormFill();
     });
+    document.getElementById("change-corrections").addEventListener('click', () => {
+        changeCorrections();
+    });
     sessionData = new SessionData();
     newQuestion();
     changeStatsDisplay();
@@ -92,6 +95,16 @@ function changeSearch(){
     //btn.classList.replace("btn-success", "btn-danger"); 
     //document.getElementById("dropdown").classList.replace("btn-success", "btn-danger");
     mode = 1;
+}
+
+function changeCorrections(){
+    btn = document.getElementById("new-question");
+    btn.innerText = "Show Corrections Only";
+    document.getElementById("answer-box").setAttribute("placeholder", "Your Fermi Answer");
+    document.getElementById("answer-box").setAttribute("type", "numeric");
+    document.getElementById("text-entry-help").innerText = "Search";
+
+    mode = 2;
 }
 //Standardized data retrival function
 function getCurData(curID){ 
@@ -173,19 +186,18 @@ function placeQuestionHTML(curData, source){
     */
     applyCorrections(curData, source);
     console.log(curData);
+    let curCredit = (curData.credit != null) ? curData.credit : "______"
     //QUESTION AND CREDIT DISPLAY
-    //Only display credit if answer change, none for question formatting stuff
-    if(curData.answer != curData.originalAnswer){
+    if(curData.answer != curData.originalAnswer && curCredit.toUpperCase() != "NONE"){
         document.getElementById("question-box").innerHTML = 
         `<p>${curData.question}</p>
-        <small><i>${source}<br>Answer corrected by ${curData.credit}
+        <small><i>${source}<br>Answer corrected by ${curCredit}
         </i></small>`;
         //alert("hi");
-    }else if(curData.question != curData.originalQuestion && curData.credit.toUpperCase() != "NONE" 
-    && curData.credit != ""){
+    }else if(curData.question != curData.originalQuestion && curCredit.toUpperCase() != "NONE" ){
         document.getElementById("question-box").innerHTML = 
         `<p>${curData.question}</p>
-        <small><i>${source}<br>Question text corrected by ${curData.credit}
+        <small><i>${source}<br>Question text corrected by ${curCredit}
         </i></small>`;
         //alert("hi");
     }else{
@@ -253,7 +265,7 @@ function submitAnswer(){
         document.getElementById("answer-alert").innerHTML = 
         `
         <div class="alert alert-primary my-2" role="alert">
-            Correct, 5 points!
+            Correct! (5 points), answer was ${ans}
         </div>
         `;
         sessionData.addPoints(5);

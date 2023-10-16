@@ -15,15 +15,21 @@ file_object = open('corrections\\responses.csv', 'r')
 heading = next(file_object)
 csv_reader = csv.reader(file_object, delimiter=',')
 corrections = {}
+corrections_list = []
 for row in csv_reader:
-    corrections[row[1].rstrip()] = {
-        "question":row[2].rstrip(),
-        "answer":row[3],
-        "explanation":row[4].rstrip(),
-        "credit":row[5].rstrip()
-    }
+    if(row[1].rstrip()!=""):
+        corrections[row[1].rstrip()] = {
+            "question":row[2].rstrip(),
+            "answer":row[3],
+            "explanation":row[4].rstrip(),
+            "credit":row[5].rstrip()
+        }
+        corrections_list.append(row[1].rstrip())
 
 json_object = json.dumps(corrections, indent=4)
 with open(".\\corrections.js", "w") as outfile:
     outfile.write("corrections = ")
     outfile.write(json_object)
+    outfile.write("\n")
+    outfile.write("corrections_list = ")
+    outfile.write(json.dumps(corrections_list, indent=4))
