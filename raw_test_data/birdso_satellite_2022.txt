@@ -173,7 +173,11 @@ could he fire his coconut gun before running out of coconuts?
 
 45. (5 points) How many fish are there, on average, per meter cubed of water in the earths ocean?
 -6
-46. (5 points) DISCARD
+46. (5 points) The James Webb Space Telescope was recently deployed to L2, a point of equilibrium (one of five) in
+space relative to the Sun and the Earth. The equation to calculate L2 is [M1/(R+r)^2] + [M2/r^2] = [(M1*R/(M1+M2)) + r]*[M1+M2/ r^3]
+where M1 is the mass of the larger object, M2 is the mass of the smaller object, R is the distance between the
+two objects, and r is the distance to L2 from the smaller object. Calculate the distance, in meters, to L2 for a
+system with a 2.0 × 1030 firkin and a 1.5 × 1022 firkin object that are 2.2 × 10^10 furlongs apart.
 10
 47. (5 points) How many 2 liters bottles of Coke would you need to bottle such that the amount of CO2 in the Coke
 is equivalent to the amount of CO2 released from streaming everything on Netflix?

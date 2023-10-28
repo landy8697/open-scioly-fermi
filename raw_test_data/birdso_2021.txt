@@ -1,0 +1,185 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_QUESTION_NUMBER
+
+1. How many nanoseconds did it take you to read this sentence?
+2. Compute (Larry Bird’s Jersey #)^100.
+
+3. How many years would it take to walk from the SF Bay in California . . . to New York Island?
+4. How many Sonic Chili Dogs (Chili Cheese Coney) would Klebb have to eat in order to replenish all the
+calories he burned while walking to New York?
+5. How many words are on the Wikipedia page for “Bird”?
+6. What is the population of China minus the population of the United States?
+7. What is the average number of windows in a house?
+8. How many ways can 15 unique books be arranged on a three-shelf bookcase? Assume 5 books can fit on
+each shelf.
+9. How many atoms of gold are in one carat of 24-karat gold?
+10. On average, how many packages did Amazon deliver everyday in 2019?
+11. What is the distance to the sun in meters?
+12. How many kilograms of gold can you buy with Elon Musk’s net worth?
+13. How many helium balloons do you need to lift a human being?
+14. How many πgeons are there worldwide?
+15. How many questions are there on this test?
+16. Klebb generates a string of 10 letters, with each letter having a probability of being generated equal
+to that letter’s relative frequency in English. What is the probability of Klebb generating the string
+meadowlark?
+17. How many feathers weigh a slug?
+18. How many KFC buckets filled with 12 pieces of chicken would fit inside the Earth?
+19. How long is a footlong in furlongs?
+20. How many fortnights of Fortnite have been played, ever?
+21. What is the probability of having a negative IQ, assuming IQ’s distribution is indeed normal centered
+at 100?
+22. How loud, in W/m2
+
+, would the Sun be to you if all of the Sun’s total power output were converted
+completely to sound energy and you decided to stand on Mercury? Assume that empty space suddenly
+got filled with air . . . somehow.
+23. On a perfect scale, one side is occupied by a blue whale. How many blue jays would have to sit on the
+other side to make the scale balanced?
+24. Tall Vincent stands on top of Mount Everest, and he is confused about where he is. Is he dreaming? Or
+is the air just so thin that he’s getting lightheaded? He screams, for he does not know. His scream can
+be abstracted as a point source emitting sound. Assuming the Earth is completely flat aside from the
+mountain and he can scream loud enough, how many seconds would it take for his scream to reach the
+ears of his friends in New York City?
+25. How many 500-mL bottles of water would be needed to fill a tub the size of Bangladesh up to 1 cm?
+26. How many grams of potassium permanganate can be produced from the potassium in one apple? Assume
+there is infinite permanganate.
+27. How many Universe superyachts are needed to span the observable universe?
+28. How many atoms of gold are on the James Webb Space Telescope?
+29. A 1 cm cube of Jell-O is smacked by a typical spoon. What is the frequency at which it vibrates, in
+hertz?
+30. How many vegetable slices are in one serving of ratatouille in the movie Ratatouille?
+31. How many pinheads can you glue on the surface of a pinball?
+32. What is π^19?
+
+33. If an AA battery is collected from every person in California, how many milligrams of aluminum can be
+electrolyzed from molten aluminum oxide with the total charge?
+34. What is the number of shirts on the shelves of a typical Walmart?
+35. How many practicing orthodontists are in Iowa?
+36. How many Sverdrups is the entire global input of fresh water from rivers to the oceans?
+37. Shuckle is a weak pokemon . . . or is it? Under optimal conditions in a triple battle, how much damage
+could shuckle theoretically do in one attack?
+38. How many molecules are there in Earth’s atmosphere
+39. How many miles of interstate highways are there in the US?
+40. My friend Aidan and I decide to play rock-paper-scissors. Assuming the results are truly random, find
+the probability that I do not lose a single game to Aidan after 100 games.
+41. Find Hubble’s constant in units of hertz.
+42. By what factor is the electrostatic force between a proton and electron greater than the gravitational
+force between the proton and electron?
+43. How many barns (units) would it take to cover the floor of a barn (building)?
+44. What is 10^10^10^10^-100?
+
+45. The Richter scale measures the strength of an earthquake, where the magnitude scales logarithmically
+with energy. The equation is log E = 11.8 + 1.5M where E is in ergs and M is the magnitude. How
+many tons of TNT would it take to release the same amount of energy as a 100 magnitude earthquake?
+46. How many prime numbers p are there less than 102020 such that p + 2 and p + 4 are also prime?
+47. Compute (10!)!
+48. How many possible teams of six Pokémon are possible made up of only Smogon’s Red/Blue/Yellow OU
+Pokémon, considering species and four-move movesets?
+49. How many trees would you have to chop in order to create enough sheets of paper folded into paper
+airplanes that equal the mass of the US Air Force’s personnel?
+50. An unfair coin lands on heads a third of the time. What is the probability to flip it 50 times and get 15
+tails and 35 heads, in percent?
+51. How many Straits of Gibraltar are needed to equal their net flow to the volumetric production rate of
+Coca-Cola drinks?
+52. Your friend George has come up with an ingenious plan to create sustainable energy. He develops the
+Gravitational Energy Collector (GEC) which collects 100% of the potential energy of a falling object.
+Since he wants this to be sustainable, he decides to use the GEC in a mango orchard. How many mango
+trees are needed to power the entire Western Interconnection?
+53. Cellulose is an extremely strong polymer. A rod of pure cellulose is fabricated with a length of 2 m and
+a diameter of 5 cm. If a compressive force of 7 kN is applied to its ends, how much does it contract by,
+in meters?
+54. In a different universe, the speed of light is ten thousand times greater than the speed of light. With
+everything else staying the same, what is the Planck length of the other universe, in meters (from this
+universe)?
+55. 1, 3, 3, 9, 27, 243, 6561 . . . Find the 20th number in this sequence.
+56. According to the holographic principle, the maximum amount of information (in bits) that can be
+stored in a system is proportional to the surface area. Hawking found that the maximum entropy (or
+information) can be found by S = kA/4, where k is the Boltzmann’s constant (1.3 × 10−23 JK) and A is
+the surface area in Planck areas. Using this equation, how many times more information can a human
+body theoretically hold than the human body already holds through the storage of DNA? Assume there
+are 40 trillion human cells that contain DNA.
+57. If human beings give off infrared light with a wavelength of 1 mm, how many photons will the entire
+current population of the earth give off in 1 galactic year?
+
+58. Given: Schwarzschild radius, r = 2GM/c^2 where G is the gravitational constant, M is the mass of the black
+hole, c is the speed of light, and r is the radius of the black hole. Calculate the volume in liters of a
+perfect sphere of water so that there is just enough water to form a black hole. Assume that the density
+stays constant.
+59. A dumb hole (or a sonic black hole) is a type of black hole where phonons rather than photons are
+unable to escape. After expanding/compressing the universe’s radius to create a dumb hole, what is
+the radius of the new universe (in meters)? Take into account baryonic matter, dark matter, and dark
+energy. Assume the dumb hole to be surrounded by dry air at 20 degrees Celcius.
+60. Pick an integer from 1 to 300 inclusive. The answer will be the product of the answers to this question
+from all teams that answer this question.
+
+1. 9 
+2. 152 
+3. -1 
+4. 3 
+5. 4
+
+6. 9 
+7. 1 
+8. 12 
+9. 21 
+10. 7
+
+11. 11 
+12. 6 
+13. 4 
+14. 8 
+15. 2
+
+16. -14 
+17. 6 
+18. 23 
+19. -3 
+20. 8
+
+21. -11 
+22. 4 
+23. 6 
+24. 4 
+25. 12
+
+26. 0 
+27. 25 
+28. 23 
+29. 1 
+30. 1
+
+31. 3 
+32. 9 
+33. 10 
+34. 3 
+35. 2
+
+36. 0 
+37. 9 
+38. 44 
+39. 4 
+40. -18
+
+41. -18 
+42. 39 
+43. 30 
+44. 10 
+45. 145
+
+46. 0 
+47. 22228104 
+48. 8 
+49. 6 
+50. -5
+
+51. -4 
+52. 15 
+53. -4 
+54. -41 
+55. 1994
+
+56. 22 
+57. 49 
+58. 38 
+59. 39 
+60. 83

@@ -1,5 +1,365 @@
 data = [
     {
+        "question": "How many nanoseconds did it take you to read this sentence?\n",
+        "answer": 9,
+        "source": "BirdSO Invitational 20-21",
+        "number": 1
+    },
+    {
+        "question": "Compute (Larry Bird\u2019s Jersey #)^\n",
+        "answer": 152,
+        "source": "BirdSO Invitational 20-21",
+        "number": 2
+    },
+    {
+        "question": "How many years would it take to walk from the SF Bay in California . . . to New York Island?\n",
+        "answer": -1,
+        "source": "BirdSO Invitational 20-21",
+        "number": 3
+    },
+    {
+        "question": "How many Sonic Chili Dogs (Chili Cheese Coney) would Klebb have to eat in order to replenish all the calories he burned while walking to New York?\n",
+        "answer": 3,
+        "source": "BirdSO Invitational 20-21",
+        "number": 4
+    },
+    {
+        "question": "How many words are on the Wikipedia page for \u201cBird\u201d?\n",
+        "answer": 4,
+        "source": "BirdSO Invitational 20-21",
+        "number": 5
+    },
+    {
+        "question": "What is the population of China minus the population of the United States?\n",
+        "answer": 9,
+        "source": "BirdSO Invitational 20-21",
+        "number": 6
+    },
+    {
+        "question": "What is the average number of windows in a house?\n",
+        "answer": 1,
+        "source": "BirdSO Invitational 20-21",
+        "number": 7
+    },
+    {
+        "question": "How many ways can 15 unique books be arranged on a three-shelf bookcase? Assume 5 books can fit on each shelf.\n",
+        "answer": 12,
+        "source": "BirdSO Invitational 20-21",
+        "number": 8
+    },
+    {
+        "question": "How many atoms of gold are in one carat of 24-karat gold?\n",
+        "answer": 21,
+        "source": "BirdSO Invitational 20-21",
+        "number": 9
+    },
+    {
+        "question": "On average, how many packages did Amazon deliver everyday in 2019?\n",
+        "answer": 7,
+        "source": "BirdSO Invitational 20-21",
+        "number": 10
+    },
+    {
+        "question": "What is the distance to the sun in meters?\n",
+        "answer": 11,
+        "source": "BirdSO Invitational 20-21",
+        "number": 11
+    },
+    {
+        "question": "How many kilograms of gold can you buy with Elon Musk\u2019s net worth?\n",
+        "answer": 6,
+        "source": "BirdSO Invitational 20-21",
+        "number": 12
+    },
+    {
+        "question": "How many helium balloons do you need to lift a human being?\n",
+        "answer": 4,
+        "source": "BirdSO Invitational 20-21",
+        "number": 13
+    },
+    {
+        "question": "How many \u03c0geons are there worldwide?\n",
+        "answer": 8,
+        "source": "BirdSO Invitational 20-21",
+        "number": 14
+    },
+    {
+        "question": "How many questions are there on this test?\n",
+        "answer": 2,
+        "source": "BirdSO Invitational 20-21",
+        "number": 15
+    },
+    {
+        "question": "Klebb generates a string of 10 letters, with each letter having a probability of being generated equal to that letter\u2019s relative frequency in English. What is the probability of Klebb generating the string meadowlark?\n",
+        "answer": -14,
+        "source": "BirdSO Invitational 20-21",
+        "number": 16
+    },
+    {
+        "question": "How many feathers weigh a slug?\n",
+        "answer": 6,
+        "source": "BirdSO Invitational 20-21",
+        "number": 17
+    },
+    {
+        "question": "How many KFC buckets filled with 12 pieces of chicken would fit inside the Earth?\n",
+        "answer": 23,
+        "source": "BirdSO Invitational 20-21",
+        "number": 18
+    },
+    {
+        "question": "How long is a footlong in furlongs?\n",
+        "answer": -3,
+        "source": "BirdSO Invitational 20-21",
+        "number": 19
+    },
+    {
+        "question": "How many fortnights of Fortnite have been played, ever?\n",
+        "answer": 8,
+        "source": "BirdSO Invitational 20-21",
+        "number": 20
+    },
+    {
+        "question": "What is the probability of having a negative IQ, assuming IQ\u2019s distribution is indeed normal centered at 100?\n",
+        "answer": -11,
+        "source": "BirdSO Invitational 20-21",
+        "number": 21
+    },
+    {
+        "question": "How loud, in W/m2 , would the Sun be to you if all of the Sun\u2019s total power output were converted completely to sound energy and you decided to stand on Mercury? Assume that empty space suddenly got filled with air . . . somehow.\n",
+        "answer": 4,
+        "source": "BirdSO Invitational 20-21",
+        "number": 22
+    },
+    {
+        "question": "On a perfect scale, one side is occupied by a blue whale. How many blue jays would have to sit on the other side to make the scale balanced?\n",
+        "answer": 6,
+        "source": "BirdSO Invitational 20-21",
+        "number": 23
+    },
+    {
+        "question": "Tall Vincent stands on top of Mount Everest, and he is confused about where he is. Is he dreaming? Or is the air just so thin that he\u2019s getting lightheaded? He screams, for he does not know. His scream can be abstracted as a point source emitting sound. Assuming the Earth is completely flat aside from the mountain and he can scream loud enough, how many seconds would it take for his scream to reach the ears of his friends in New York City?\n",
+        "answer": 4,
+        "source": "BirdSO Invitational 20-21",
+        "number": 24
+    },
+    {
+        "question": "How many 500-mL bottles of water would be needed to fill a tub the size of Bangladesh up to 1 cm?\n",
+        "answer": 12,
+        "source": "BirdSO Invitational 20-21",
+        "number": 25
+    },
+    {
+        "question": "How many grams of potassium permanganate can be produced from the potassium in one apple? Assume there is infinite permanganate.\n",
+        "answer": 0,
+        "source": "BirdSO Invitational 20-21",
+        "number": 26
+    },
+    {
+        "question": "How many Universe superyachts are needed to span the observable universe?\n",
+        "answer": 25,
+        "source": "BirdSO Invitational 20-21",
+        "number": 27
+    },
+    {
+        "question": "How many atoms of gold are on the James Webb Space Telescope?\n",
+        "answer": 23,
+        "source": "BirdSO Invitational 20-21",
+        "number": 28
+    },
+    {
+        "question": "A 1 cm cube of Jell-O is smacked by a typical spoon. What is the frequency at which it vibrates, in hertz?\n",
+        "answer": 1,
+        "source": "BirdSO Invitational 20-21",
+        "number": 29
+    },
+    {
+        "question": "How many vegetable slices are in one serving of ratatouille in the movie Ratatouille?\n",
+        "answer": 1,
+        "source": "BirdSO Invitational 20-21",
+        "number": 30
+    },
+    {
+        "question": "How many pinheads can you glue on the surface of a pinball?\n",
+        "answer": 3,
+        "source": "BirdSO Invitational 20-21",
+        "number": 31
+    },
+    {
+        "question": "What is \u03c0^19?\n",
+        "answer": 9,
+        "source": "BirdSO Invitational 20-21",
+        "number": 32
+    },
+    {
+        "question": "If an AA battery is collected from every person in California, how many milligrams of aluminum can be electrolyzed from molten aluminum oxide with the total charge?\n",
+        "answer": 10,
+        "source": "BirdSO Invitational 20-21",
+        "number": 33
+    },
+    {
+        "question": "What is the number of shirts on the shelves of a typical Walmart?\n",
+        "answer": 3,
+        "source": "BirdSO Invitational 20-21",
+        "number": 34
+    },
+    {
+        "question": "How many practicing orthodontists are in Iowa?\n",
+        "answer": 2,
+        "source": "BirdSO Invitational 20-21",
+        "number": 35
+    },
+    {
+        "question": "How many Sverdrups is the entire global input of fresh water from rivers to the oceans?\n",
+        "answer": 0,
+        "source": "BirdSO Invitational 20-21",
+        "number": 36
+    },
+    {
+        "question": "Shuckle is a weak pokemon . . . or is it? Under optimal conditions in a triple battle, how much damage could shuckle theoretically do in one attack?\n",
+        "answer": 9,
+        "source": "BirdSO Invitational 20-21",
+        "number": 37
+    },
+    {
+        "question": "How many molecules are there in Earth\u2019s atmosphere\n",
+        "answer": 44,
+        "source": "BirdSO Invitational 20-21",
+        "number": 38
+    },
+    {
+        "question": "How many miles of interstate highways are there in the US?\n",
+        "answer": 4,
+        "source": "BirdSO Invitational 20-21",
+        "number": 39
+    },
+    {
+        "question": "My friend Aidan and I decide to play rock-paper-scissors. Assuming the results are truly random, find the probability that I do not lose a single game to Aidan after 100 games.\n",
+        "answer": -18,
+        "source": "BirdSO Invitational 20-21",
+        "number": 40
+    },
+    {
+        "question": "Find Hubble\u2019s constant in units of hertz.\n",
+        "answer": -18,
+        "source": "BirdSO Invitational 20-21",
+        "number": 41
+    },
+    {
+        "question": "By what factor is the electrostatic force between a proton and electron greater than the gravitational force between the proton and electron?\n",
+        "answer": 39,
+        "source": "BirdSO Invitational 20-21",
+        "number": 42
+    },
+    {
+        "question": "How many barns (units) would it take to cover the floor of a barn (building)?\n",
+        "answer": 30,
+        "source": "BirdSO Invitational 20-21",
+        "number": 43
+    },
+    {
+        "question": "What is 10^10^10^10^-100?\n",
+        "answer": 10,
+        "source": "BirdSO Invitational 20-21",
+        "number": 44
+    },
+    {
+        "question": "The Richter scale measures the strength of an earthquake, where the magnitude scales logarithmically with energy. The equation is log E = 8 + 5M where E is in ergs and M is the magnitude. How many tons of TNT would it take to release the same amount of energy as a 100 magnitude earthquake?\n",
+        "answer": 145,
+        "source": "BirdSO Invitational 20-21",
+        "number": 45
+    },
+    {
+        "question": "How many prime numbers p are there less than 102020 such that p + 2 and p + 4 are also prime?\n",
+        "answer": 0,
+        "source": "BirdSO Invitational 20-21",
+        "number": 46
+    },
+    {
+        "question": "Compute (10!)!\n",
+        "answer": 22228104,
+        "source": "BirdSO Invitational 20-21",
+        "number": 47
+    },
+    {
+        "question": "How many possible teams of six Pok\u00e9mon are possible made up of only Smogon\u2019s Red/Blue/Yellow OU Pok\u00e9mon, considering species and four-move movesets?\n",
+        "answer": 8,
+        "source": "BirdSO Invitational 20-21",
+        "number": 48
+    },
+    {
+        "question": "How many trees would you have to chop in order to create enough sheets of paper folded into paper airplanes that equal the mass of the US Air Force\u2019s personnel?\n",
+        "answer": 6,
+        "source": "BirdSO Invitational 20-21",
+        "number": 49
+    },
+    {
+        "question": "An unfair coin lands on heads a third of the time. What is the probability to flip it 50 times and get 15 tails and 35 heads, in percent?\n",
+        "answer": -5,
+        "source": "BirdSO Invitational 20-21",
+        "number": 50
+    },
+    {
+        "question": "How many Straits of Gibraltar are needed to equal their net flow to the volumetric production rate of Coca-Cola drinks?\n",
+        "answer": -4,
+        "source": "BirdSO Invitational 20-21",
+        "number": 51
+    },
+    {
+        "question": "Your friend George has come up with an ingenious plan to create sustainable energy. He develops the Gravitational Energy Collector (GEC) which collects 100% of the potential energy of a falling object. Since he wants this to be sustainable, he decides to use the GEC in a mango orchard. How many mango trees are needed to power the entire Western Interconnection?\n",
+        "answer": 15,
+        "source": "BirdSO Invitational 20-21",
+        "number": 52
+    },
+    {
+        "question": "Cellulose is an extremely strong polymer. A rod of pure cellulose is fabricated with a length of 2 m and a diameter of 5 cm. If a compressive force of 7 kN is applied to its ends, how much does it contract by, in meters?\n",
+        "answer": -4,
+        "source": "BirdSO Invitational 20-21",
+        "number": 53
+    },
+    {
+        "question": "In a different universe, the speed of light is ten thousand times greater than the speed of light. With everything else staying the same, what is the Planck length of the other universe, in meters (from this universe)?\n",
+        "answer": -41,
+        "source": "BirdSO Invitational 20-21",
+        "number": 54
+    },
+    {
+        "question": "1, 3, 3, 9, 27, 243, 6561 . . . Find the 20th number in this sequence.\n",
+        "answer": 1994,
+        "source": "BirdSO Invitational 20-21",
+        "number": 55
+    },
+    {
+        "question": "According to the holographic principle, the maximum amount of information (in bits) that can be stored in a system is proportional to the surface area. Hawking found that the maximum entropy (or information) can be found by S = kA/4, where k is the Boltzmann\u2019s constant (3 \u00d7 10\u221223 JK) and A is the surface area in Planck areas. Using this equation, how many times more information can a human body theoretically hold than the human body already holds through the storage of DNA? Assume there are 40 trillion human cells that contain DNA.\n",
+        "answer": 22,
+        "source": "BirdSO Invitational 20-21",
+        "number": 56
+    },
+    {
+        "question": "If human beings give off infrared light with a wavelength of 1 mm, how many photons will the entire current population of the earth give off in 1 galactic year?\n",
+        "answer": 49,
+        "source": "BirdSO Invitational 20-21",
+        "number": 57
+    },
+    {
+        "question": "Given: Schwarzschild radius, r = 2GM/c^2 where G is the gravitational constant, M is the mass of the black hole, c is the speed of light, and r is the radius of the black hole. Calculate the volume in liters of a perfect sphere of water so that there is just enough water to form a black hole. Assume that the density stays constant.\n",
+        "answer": 38,
+        "source": "BirdSO Invitational 20-21",
+        "number": 58
+    },
+    {
+        "question": "A dumb hole (or a sonic black hole) is a type of black hole where phonons rather than photons are unable to escape. After expanding/compressing the universe\u2019s radius to create a dumb hole, what is the radius of the new universe (in meters)? Take into account baryonic matter, dark matter, and dark energy. Assume the dumb hole to be surrounded by dry air at 20 degrees Celcius.\n",
+        "answer": 39,
+        "source": "BirdSO Invitational 20-21",
+        "number": 59
+    },
+    {
+        "question": "Pick an integer from 1 to 300 inclusive. The answer will be the product of the answers to this question from all teams that answer this question.\n",
+        "answer": 83,
+        "source": "BirdSO Invitational 20-21",
+        "number": 60
+    },
+    {
         "question": "What is the mass of the sun, in solar masses?\n",
         "answer": 6,
         "source": "BirdSO In-Person Invitational 22-23",
@@ -954,7 +1314,7 @@ data = [
         "number": 45
     },
     {
-        "question": "DISCARD\n",
+        "question": "The James Webb Space Telescope was recently deployed to L2, a point of equilibrium (one of five) in space relative to the Sun and the Earth. The equation to calculate L2 is [M1/(R+r)^2] + [M2/r^2] = [(M1*R/(M1+M2)) + r]*[M1+M2/ r^3] where M1 is the mass of the larger object, M2 is the mass of the smaller object, R is the distance between the two objects, and r is the distance to L2 from the smaller object. Calculate the distance, in meters, to L2 for a system with a 0 \u00d7 1030 firkin and a 5 \u00d7 1022 firkin object that are 2 \u00d7 10^10 furlongs apart.\n",
         "answer": 10,
         "source": "BirdSO Satellite Invitational 21-22",
         "number": 46
@@ -5664,6 +6024,246 @@ data = [
         "number": 40
     },
     {
+        "question": "It\u2019s winter time and the MIT Invitational is today! You wake up (hopefully) and get your clothes out of your suitcase to change. How many Earths can fit inside the volume of a typical carry-on-sized suitcase?\n",
+        "answer": -23,
+        "source": "MIT Invitational 18-19",
+        "number": 1
+    },
+    {
+        "question": "It\u2019s really really cold so you put on your leather jacket. How many cow\u2019s hide were used for that one jacket?\n",
+        "answer": 0,
+        "source": "MIT Invitational 18-19",
+        "number": 2
+    },
+    {
+        "question": "Unfortunately, now you have a cold too. You sneeze really hard! What\u2019s the ratio of the maximum distance that a sneeze can travel to the distance from Austin, TX to Anchorage, AK?\n",
+        "answer": -5,
+        "source": "MIT Invitational 18-19",
+        "number": 3
+    },
+    {
+        "question": "You head down to eat breakfast that the hotel provided for you, buttering up a nice few pieces of toast. How many calories are in a cubic light year of butter?\n",
+        "answer": 55,
+        "source": "MIT Invitational 18-19",
+        "number": 4
+    },
+    {
+        "question": "One of your teammates forgot to print their note sheets last night. Oh no! They\u2019re trying to figure out the hotel\u2019s printer right now. How many HP 564 Original ink cartridges would you need to print 1 billion pages of yellow text?\n",
+        "answer": 6,
+        "source": "MIT Invitational 18-19",
+        "number": 5
+    },
+    {
+        "question": "You finish breakfast and board your school\u2019s vans to campus. How much gasoline is used in the entire United States in one day in gallons?\n",
+        "answer": 8,
+        "source": "MIT Invitational 18-19",
+        "number": 6
+    },
+    {
+        "question": "You go to the room for the Fermi Questions event and the supervisor says you may begin. The first question on the test reads \u201cHow many picoyears of the sun\u2019s energy would it take to emit as much energy as a passive (not active or moving) lion does in 5 seconds?\u201d How many petayears of the sun\u2019s energy would it take to emit as much energy as a passive (not active or moving) lion does in 5 seconds, assuming a lion is a perfect blackbody?\n",
+        "answer": -45,
+        "source": "MIT Invitational 18-19",
+        "number": 7
+    },
+    {
+        "question": "You\u2019re halfway through the test and you think \u201cThis test is so dumb. Where are the questions that are like \u2018What\u2019s 7 raised to the 34th power?\u2019\u201d What\u2019s 7\u221234?\n",
+        "answer": -29,
+        "source": "MIT Invitational 18-19",
+        "number": 8
+    },
+    {
+        "question": "You finish the test and feel decently confident, probably not a top 4 finish, but somewhere above average, maybe even placing 5th or 6th! What place are you getting today, assuming you place how you feel you will?\n",
+        "answer": 1,
+        "source": "MIT Invitational 18-19",
+        "number": 9
+    },
+    {
+        "question": "Because you are a competitor of culture, you only compete in Inquiry & Nature of Science events. Let X be the set of letters contained in the combined names of all 2018 Inquiry & Nature of Science events. How many English words only contain letters in X?\n",
+        "answer": 5,
+        "source": "MIT Invitational 18-19",
+        "number": 10
+    },
+    {
+        "question": "You\u2019re now finished with your events, so you decide to explore MIT a bit. Somehow, you get a bit lost and stumble across MIT Men\u2019s Volleyball practice. What is the ratio of the spiking speed of an Olympic Volleyball player to the orbital speed of our solar system around the galactic center?\n",
+        "answer": -4,
+        "source": "MIT Invitational 18-19",
+        "number": 11
+    },
+    {
+        "question": "MIT staff screams at you and kicks you out because you\u2019re not allowed in there. How many times more powerful is a person\u2019s scream than a bat\u2019s echolocation?\n",
+        "answer": -5,
+        "source": "MIT Invitational 18-19",
+        "number": 12
+    },
+    {
+        "question": "You use Google\u2019s \u201cGoogle Maps\u201d application to find your way back to the homeroom. If Google decided to hire all current undergraduate MIT students for full-time positions (and they all accepted), what percent would their number of employees increase?\n",
+        "answer": 1,
+        "source": "MIT Invitational 18-19",
+        "number": 13
+    },
+    {
+        "question": "You\u2019re finally on the way back to the hotel to chill for a bit before the awards ceremony and dinner. Assuming all competitors and coaches are staying in hotel rooms, what percent of US hotel rooms are MIT Invitational competitors and coaches occupying?\n",
+        "answer": -2,
+        "source": "MIT Invitational 18-19",
+        "number": 14
+    },
+    {
+        "question": "You and your roommates turn on the TV to find that \u201cSpongebob Squarepants\u201d is on. In February of 2002, what was the viewership of \u201cSpongebob Squarepants\u201d?\n",
+        "answer": 8,
+        "source": "MIT Invitational 18-19",
+        "number": 15
+    },
+    {
+        "question": "Although a great show, you decide to spend your time on Reddit. If Reddit\u2019s monthly population (the number of unique visitors to Reddit each month) all stood side-by-side, tightly packed, how many Asia\u2019s would be needed to fit all of them?\n",
+        "answer": -5,
+        "source": "MIT Invitational 18-19",
+        "number": 16
+    },
+    {
+        "question": "Because Reddit only contains content of the highest quality, you come across the script for the Bee Movie. How many characters are in the Bee Movie script?\n",
+        "answer": 5,
+        "source": "MIT Invitational 18-19",
+        "number": 17
+    },
+    {
+        "question": "You go back to campus and its time for the award ceremony! You see Kresge Auditorium and, amazed at the engineering, you are reminded of MIT\u2019s mascot, the beaver. How many aspen trees could a beaver gnaw down in the gestation period of a beaver, assuming it never stops and always works at peak performance?\n",
+        "answer": 4,
+        "source": "MIT Invitational 18-19",
+        "number": 18
+    },
+    {
+        "question": "You remember last year\u2019s award ceremony and how Admissions Officer Chris Peterson stalled for quite some time for Game On to be finished grading. You really hope that doesn\u2019t happen again. In the amount of time the entire 2017 MIT Invitational award ceremony took (from introduction by the co-directors to passing out team packets, this includes the keynote speech), how many times could you have flown nonstop from Honolulu, HI to Beijing, China?\n",
+        "answer": -1,
+        "source": "MIT Invitational 18-19",
+        "number": 19
+    },
+    {
+        "question": "Unfortunately, the awards ceremony has been going on, you haven\u2019t placed and your last event, Write It Do It, is coming up. You really want that medal and at this point you\u2019d even pay for it. How much Ethereum would it cost to purchase a 2016 Rio Summer Olympics gold medal?\n",
+        "answer": 1,
+        "source": "MIT Invitational 18-19",
+        "number": 20
+    },
+    {
+        "question": "You\u2019re upset because you and your school didn\u2019t place as well as you expected and you start to bawl. Every day, you cry as many times as the average adult male cries in a month. Every time you cry, you drink a liter of Diet Coke. In the time span of a month, how many grams of caffeine would you have consumed from this Diet Coke?\n",
+        "answer": 1,
+        "source": "MIT Invitational 18-19",
+        "number": 21
+    },
+    {
+        "question": "You feel like you\u2019ve just been rejected by MIT Suppose you had as many mitochondria of the largest size possible as the number of first-year applicants rejected by MIT Admissions for the Class of If you lined all these mitochondria up, how many times could they fit around the moon?\n",
+        "answer": -8,
+        "source": "MIT Invitational 18-19",
+        "number": 22
+    },
+    {
+        "question": "You\u2019re kinda mad and the only one to blame is 1st place. Somehow this Troy school won without even being at the competition??? Who are they anyways??? If barbell weight sets equal to the number of Google search results when you search \u201cTroy High School\u201d are packed into a sphere the size of Earth, how dense would this sphere be in grams per cubic centimeter?\n",
+        "answer": -14,
+        "source": "MIT Invitational 18-19",
+        "number": 23
+    },
+    {
+        "question": "Whatever. It\u2019s time to go out to dinner. Y\u2019all decide to go out to hot pot at the Happy Lamb. If the amount of sheep killed for food in Australia each year were used for wool instead, how many pounds of wool could you get that year (assuming each sheep does produce wool and it produces the most wool it possibly can)?\n",
+        "answer": 9,
+        "source": "MIT Invitational 18-19",
+        "number": 24
+    },
+    {
+        "question": "You\u2019re having a great time at hot pot because it\u2019s, ya know, hot pot. There\u2019s also a few vegetarians on the team who have fun pointing out things like \u201cbeef tongue\u201d and such. Unfortunately, there\u2019s only so much variety for them. Napa cabbage prefer a certain soil pH in order to obtain sufficient calcium, magnesium, and other nutrients. How much more concentrated are hydrogen ions in this perfect soil than in a 1 M solution of acetic acid?\n",
+        "answer": -4,
+        "source": "MIT Invitational 18-19",
+        "number": 25
+    },
+    {
+        "question": "For some reason the restaurant can\u2019t split the bill between you and your 14 teammates, so you\u2019re going to pay it all yourself first. You\u2019re not even surprised when you see the bill because wow this stuff is pretty expensive. With the amount of money spent by all of China on eating out in 2016, how many Yu-Gi-Oh trading cards can you buy, assuming you only buy booster packs?\n",
+        "answer": 3,
+        "source": "MIT Invitational 18-19",
+        "number": 26
+    },
+    {
+        "question": "Your team is going out to eat ice cream after this too. Yay! How many more ice cream flavors does Baskin Robbins have than Blue Bell?\n",
+        "answer": 2,
+        "source": "MIT Invitational 18-19",
+        "number": 27
+    },
+    {
+        "question": "Unfortunately, one of your other teammates is lactose-intolerant. How many grams of lactose are in 1 gallon of unprocessed cow\u2019s milk?\n",
+        "answer": 9,
+        "source": "MIT Invitational 18-19",
+        "number": 28
+    },
+    {
+        "question": "To end the night, you and many of your teammates decide to pirate some movies to watch. With the estimated amount of money the film industry has lost to piracy, how many Echo Dots could you have bought on Black Friday 2018?\n",
+        "answer": 5,
+        "source": "MIT Invitational 18-19",
+        "number": 29
+    },
+    {
+        "question": "For some reason, y\u2019all first decide to pirate \u201cMoana\u201d which happens to be on Netflix too, so y\u2019all didn\u2019t even have to pirate it! How many seconds would it take to play all the movies owned by Disney that were released in 2016 back to back?\n",
+        "answer": 2,
+        "source": "MIT Invitational 18-19",
+        "number": 30
+    },
+    {
+        "question": "You end up staying up pretty late and your flight home is decently early. You end up getting 32 hours of sleep. How many times can you fit the record amount of time gone without blinking in the record amount of time someone has lasted without sleep?\n",
+        "answer": 2,
+        "source": "MIT Invitational 18-19",
+        "number": 31
+    },
+    {
+        "question": "So you wake up extremely early only to find that your flight home has been delayed by a massive amount due to some random big thunderstorm. How many thunderstorms occur on Earth every week?\n",
+        "answer": 5,
+        "source": "MIT Invitational 18-19",
+        "number": 32
+    },
+    {
+        "question": "You hate waiting. This long wait reminds you of the time you went to the 2010 World Expo in Shanghai, China. Based solely on admissions percentage (assuming no acceptance limit), how many of the people attending the 2010 Shanghai World Expo on its peak day would be accepted into the 2019 MIT Research Science Institute (RSI) if they all applied?\n",
+        "answer": 4,
+        "source": "MIT Invitational 18-19",
+        "number": 33
+    },
+    {
+        "question": "After a while you finally get on the plane and are given some complimentary peanuts to make up for the incredible delay. How many peanut butter sandwiches could you make with all the peanuts growing on an average peanut farm?\n",
+        "answer": 7,
+        "source": "MIT Invitational 18-19",
+        "number": 34
+    },
+    {
+        "question": "You\u2019re thankful for the excellent service your flight attendants are giving you and you realize how privileged you are. You also feel kinda sad that these people aren\u2019t even making that good money yet they are serving you. How many MIT students could you pay one-year tuition (not including room and board) for if you worked for 100 years, with a 40 hour work-week, at minimum wage (not along the US-Mexico border) in Mexico, assuming they have no scholarships or financial aid?\n",
+        "answer": 1,
+        "source": "MIT Invitational 18-19",
+        "number": 35
+    },
+    {
+        "question": "Motivated by this, you go home and back to school in a few days with thoughts of changing the world. You want to start a Habitat for Humanity club at your school. How many communities in the US does Habitat for Humanity operate in?\n",
+        "answer": 3,
+        "source": "MIT Invitational 18-19",
+        "number": 36
+    },
+    {
+        "question": "Turns out your school already has a Habitat for Humanity club, wow! So you decide to join and over time you go volunteer a lot and help out the community in many ways \u2013 building houses, connecting water supplies, etc. How many seconds could you continuously shower if you had all the rain that fell over the US during Hurricane Harvey?\n",
+        "answer": 15,
+        "source": "MIT Invitational 18-19",
+        "number": 37
+    },
+    {
+        "question": "This in turn leads you to a new passion for the engineering events in Science Olympiad. You decide to try and pick up the \u201cBoomilever\u201d event. How much load can a boomilever with a mass of a TI-84 graphing calculator and the efficiency of the 2014 Division C national champion boomilever hold in ounces, assuming the national champion boomilever did in fact break?\n",
+        "answer": 4,
+        "source": "MIT Invitational 18-19",
+        "number": 38
+    },
+    {
+        "question": "With some advice from one of the main builders on your team, your first boomilever scores pretty well in efficiency. If your boomilever efficiency was 1140, how many high school seniors taking the SAT in 2017 with intended engineering majors scored higher than that?\n",
+        "answer": 5,
+        "source": "MIT Invitational 18-19",
+        "number": 39
+    },
+    {
+        "question": "So excited, you even decide to stop doing Inquiry & Nature of Science events to pursue your true passion in engineering. Eventually, you decide to major in engineering in college. In your introductory engineering class, they emphasize the importance of being able to give good estimates of reasonable values. Here is the first test question they ask you: How many golf balls can fit in this room?\n",
+        "answer": 6,
+        "source": "MIT Invitational 18-19",
+        "number": 40
+    },
+    {
         "question": "If you\u2019re taking this test as part SciOly, you should know that you\u2019re part of one of the greatest communities in high school. This section will try to serve as a testament to this fact. How many secondary school students compete in Science Olympiad across the US?\n",
         "answer": 5,
         "source": "MIT Invitational 21-22",
@@ -7132,6 +7732,366 @@ data = [
         "answer": 5,
         "source": "Palo Alto Tryouts 22-23",
         "number": 50
+    },
+    {
+        "question": "What was Princeton\u2019s acceptance rate for the class of 2021? [SI/2017 USD]\n",
+        "answer": -1,
+        "source": "Princeton Invitational 17-18",
+        "number": 1
+    },
+    {
+        "question": "How many undergraduates are currently attending Princeton? [SI/2017 USD]\n",
+        "answer": -4,
+        "source": "Princeton Invitational 17-18",
+        "number": 2
+    },
+    {
+        "question": "How large is Princeton\u2019s endownment? [SI/2017 USD]\n",
+        "answer": 10,
+        "source": "Princeton Invitational 17-18",
+        "number": 3
+    },
+    {
+        "question": "What is the net worth of Princeton\u2019s richest alumni? [SI/2017 USD]\n",
+        "answer": 11,
+        "source": "Princeton Invitational 17-18",
+        "number": 4
+    },
+    {
+        "question": "What is the population of the world? [SI/2017 USD]\n",
+        "answer": 10,
+        "source": "Princeton Invitational 17-18",
+        "number": 5
+    },
+    {
+        "question": "What is the population of Tanzania? [SI/2017 USD]\n",
+        "answer": 8,
+        "source": "Princeton Invitational 17-18",
+        "number": 6
+    },
+    {
+        "question": "What is the population of American Samoa? [SI/2017 USD]\n",
+        "answer": 5,
+        "source": "Princeton Invitational 17-18",
+        "number": 7
+    },
+    {
+        "question": "How many cities have a population of over 1 million people? [SI/2017 USD]\n",
+        "answer": 2,
+        "source": "Princeton Invitational 17-18",
+        "number": 8
+    },
+    {
+        "question": "How many motor vehicle fatalities have there been in the United States in 2017? [SI/2017 USD]\n",
+        "answer": 4,
+        "source": "Princeton Invitational 17-18",
+        "number": 9
+    },
+    {
+        "question": "How many motor vehicle fatalities have there been in the United States in total? [SI/2017 USD]\n",
+        "answer": 7,
+        "source": "Princeton Invitational 17-18",
+        "number": 10
+    },
+    {
+        "question": "How many passengers have there been on domestic flights in the United States in 2017? [SI/2017 USD]\n",
+        "answer": 9,
+        "source": "Princeton Invitational 17-18",
+        "number": 11
+    },
+    {
+        "question": "How much does a Boeing 787 cost? [SI/2017 USD]\n",
+        "answer": 8,
+        "source": "Princeton Invitational 17-18",
+        "number": 12
+    },
+    {
+        "question": "How much does the most expensive aircraft carrier cost? [SI/2017 USD]\n",
+        "answer": 10,
+        "source": "Princeton Invitational 17-18",
+        "number": 13
+    },
+    {
+        "question": "What was the United States\u2019s GDP in 2017? [SI/2017 USD]\n",
+        "answer": 13,
+        "source": "Princeton Invitational 17-18",
+        "number": 14
+    },
+    {
+        "question": "What was the United States\u2019s GDP per capita in 1900? [SI/2017 USD]\n",
+        "answer": 3,
+        "source": "Princeton Invitational 17-18",
+        "number": 15
+    },
+    {
+        "question": "What was North Korea\u2019s GDP in 2017? [SI/2017 USD]\n",
+        "answer": 10,
+        "source": "Princeton Invitational 17-18",
+        "number": 16
+    },
+    {
+        "question": "What is the market cap of Alphabet? [SI/2017 USD]\n",
+        "answer": 12,
+        "source": "Princeton Invitational 17-18",
+        "number": 17
+    },
+    {
+        "question": "What was the 2017 income of Alphabet? [SI/2017 USD]\n",
+        "answer": 10,
+        "source": "Princeton Invitational 17-18",
+        "number": 18
+    },
+    {
+        "question": "How many bankruptcies were filed in the United States since the crash of 2008? [SI/2017 USD]\n",
+        "answer": 7,
+        "source": "Princeton Invitational 17-18",
+        "number": 19
+    },
+    {
+        "question": "How long is the longest bridge? [SI/2017 USD]\n",
+        "answer": 5,
+        "source": "Princeton Invitational 17-18",
+        "number": 20
+    },
+    {
+        "question": "How many restaurants have earned a Michelin star? [SI/2017 USD]\n",
+        "answer": 3,
+        "source": "Princeton Invitational 17-18",
+        "number": 21
+    },
+    {
+        "question": "How many wild-caught Atlantic salmon were there in 2017? [SI/2017 USD]\n",
+        "answer": 6,
+        "source": "Princeton Invitational 17-18",
+        "number": 22
+    },
+    {
+        "question": "How many apples were grown in the United States in 2017? [SI/2017 USD]\n",
+        "answer": 10,
+        "source": "Princeton Invitational 17-18",
+        "number": 23
+    },
+    {
+        "question": "How much is the Mona Lisa worth? [SI/2017 USD]\n",
+        "answer": 9,
+        "source": "Princeton Invitational 17-18",
+        "number": 24
+    },
+    {
+        "question": "How much is the most expensive cut diamond worth? [SI/2017 USD]\n",
+        "answer": 9,
+        "source": "Princeton Invitational 17-18",
+        "number": 25
+    },
+    {
+        "question": "What was the video game industry revenue, in 2017? [SI/2017 USD]\n",
+        "answer": 11,
+        "source": "Princeton Invitational 17-18",
+        "number": 26
+    },
+    {
+        "question": "How large (area) is Legend of Zelda: Breath of the Wild\u2019s map? [SI/2017 USD]\n",
+        "answer": 8,
+        "source": "Princeton Invitational 17-18",
+        "number": 27
+    },
+    {
+        "question": "How many hours, in total, have people spent playing DotA 2? [SI/2017 USD]\n",
+        "answer": 10,
+        "source": "Princeton Invitational 17-18",
+        "number": 28
+    },
+    {
+        "question": "How much did the anime film Kimi no Na wa make in its opening weekend in the United States? [SI/2017 USD]\n",
+        "answer": 6,
+        "source": "Princeton Invitational 17-18",
+        "number": 29
+    },
+    {
+        "question": "How many words are in the longest novel (according to Guinness World Records), A la recherche du temps perdu ` ? [SI/2017 USD]\n",
+        "answer": 6,
+        "source": "Princeton Invitational 17-18",
+        "number": 30
+    },
+    {
+        "question": "How many Google searches were there in 2017? [SI/2017 USD]\n",
+        "answer": 12,
+        "source": "Princeton Invitational 17-18",
+        "number": 31
+    },
+    {
+        "question": "How many likes have there been on Facebook? [SI/2017 USD]\n",
+        "answer": 13,
+        "source": "Princeton Invitational 17-18",
+        "number": 32
+    },
+    {
+        "question": "How many likes does the most-viewed Youtube video in 2009, The Evolution of Dance, currently have? [SI/2017 USD]\n",
+        "answer": 6,
+        "source": "Princeton Invitational 17-18",
+        "number": 33
+    },
+    {
+        "question": "How many flops (floating-point operations per second) can the fastest supercomputer achieve? [SI/2017 USD]\n",
+        "answer": 17,
+        "source": "Princeton Invitational 17-18",
+        "number": 34
+    },
+    {
+        "question": "How many chemical substances, indexed in the CAS (Chemical Abstracts Service) registry, are known? [SI/2017 USD] [SI/2017 USD]\n",
+        "answer": 8,
+        "source": "Princeton Invitational 17-18",
+        "number": 35
+    },
+    {
+        "question": "What is the mass of an electron? [SI/2017 USD]\n",
+        "answer": -30,
+        "source": "Princeton Invitational 17-18",
+        "number": 36
+    },
+    {
+        "question": "How fast does an electron in a single Hydrogen atom move? [SI/2017 USD]\n",
+        "answer": 6,
+        "source": "Princeton Invitational 17-18",
+        "number": 37
+    },
+    {
+        "question": "What is the mass of the Sun? [SI/2017 USD]\n",
+        "answer": 30,
+        "source": "Princeton Invitational 17-18",
+        "number": 38
+    },
+    {
+        "question": "What is the density at the center of the Sun? [SI/2017 USD]\n",
+        "answer": 5,
+        "source": "Princeton Invitational 17-18",
+        "number": 39
+    },
+    {
+        "question": "What is the temperature at the center of the Sun? [SI/2017 USD]\n",
+        "answer": 7,
+        "source": "Princeton Invitational 17-18",
+        "number": 40
+    },
+    {
+        "question": "What is the mass of the supermassive black hole at the center of the Milky Way? [SI/2017 USD]\n",
+        "answer": 38,
+        "source": "Princeton Invitational 17-18",
+        "number": 41
+    },
+    {
+        "question": "How much saliva (mass) does a human produce over a lifetime? [SI/2017 USD]\n",
+        "answer": 4,
+        "source": "Princeton Invitational 17-18",
+        "number": 42
+    },
+    {
+        "question": "How many bacteria are in the average human? [SI/2017 USD]\n",
+        "answer": 13,
+        "source": "Princeton Invitational 17-18",
+        "number": 43
+    },
+    {
+        "question": "How many endangered species are there? [SI/2017 USD]\n",
+        "answer": 4,
+        "source": "Princeton Invitational 17-18",
+        "number": 44
+    },
+    {
+        "question": "How many bald eagles are there? [SI/2017 USD]\n",
+        "answer": 4,
+        "source": "Princeton Invitational 17-18",
+        "number": 45
+    },
+    {
+        "question": "What is the half-life of Carbon-14? [SI/2017 USD]\n",
+        "answer": 11,
+        "source": "Princeton Invitational 17-18",
+        "number": 46
+    },
+    {
+        "question": "What is 42!? [SI/2017 USD] 51 5 3 1\n",
+        "answer": 51,
+        "source": "Princeton Invitational 17-18",
+        "number": 47
+    },
+    {
+        "question": "What is C(69, 42)? [SI/2017 USD]\n",
+        "answer": 19,
+        "source": "Princeton Invitational 17-18",
+        "number": 48
+    },
+    {
+        "question": "What is 1001001^1001^1? [SI/2017 USD]\n",
+        "answer": 6006,
+        "source": "Princeton Invitational 17-18",
+        "number": 49
+    },
+    {
+        "question": "What is the probability of getting a royal flush in a standard 5-card poker hand? [SI/2017 USD]\n",
+        "answer": -6,
+        "source": "Princeton Invitational 17-18",
+        "number": 50
+    },
+    {
+        "question": "How many grains of sand are there on Earth? [SI/2017 USD]\n",
+        "answer": 19,
+        "source": "Princeton Invitational 17-18",
+        "number": 51
+    },
+    {
+        "question": "Over the past 100 years, the sea level in New York has risen approximately 1 foot, while the land underneath has remained level. Assuming this is an accurate indicator of ice melt and that the rate of ice melt is constant, how long will it take for all the ice on Earth to melt? [SI/2017 USD]\n",
+        "answer": 12,
+        "source": "Princeton Invitational 17-18",
+        "number": 52
+    },
+    {
+        "question": "What is cubeRoot(2017 ^ 2017)? [SI/2017 USD]\n",
+        "answer": 2222,
+        "source": "Princeton Invitational 17-18",
+        "number": 53
+    },
+    {
+        "question": "How much time have people spent watching Youtube videos? [SI/2017 USD] Note that this includes videos embedded on other sies.\n",
+        "answer": 16,
+        "source": "Princeton Invitational 17-18",
+        "number": 54
+    },
+    {
+        "question": "How much money was traded in the FX (currency exchange) market in 2017? [SI/2017 USD]\n",
+        "answer": 15,
+        "source": "Princeton Invitational 17-18",
+        "number": 55
+    },
+    {
+        "question": "What is the mass of all the neutrons in the DNA of a single human cell (you may assume the cell is in G0)? [SI/2017 USD]\n",
+        "answer": -15,
+        "source": "Princeton Invitational 17-18",
+        "number": 56
+    },
+    {
+        "question": "2017 integers from the set {1, 2, ..2017} are picked at random, with replacement. What is the probability that their product is not divisible by 6? [SI/2017 USD] Note that log2(3) \u2248 1:\n",
+        "answer": -355,
+        "source": "Princeton Invitational 17-18",
+        "number": 57
+    },
+    {
+        "question": "A typical neutron star has mass approximately 4 times that of the Sun and surface area approximately the area of London. Due to neutron degeneracy pressure, the density of a neutron star is approximately the density of an atomic nucleus. What is the diameter of an Uranium atomic nucleus? [SI/2017 USD]\n",
+        "answer": -14,
+        "source": "Princeton Invitational 17-18",
+        "number": 58
+    },
+    {
+        "question": "A sverdrup is a unit of volumetric flow (m^3/s) roughly equivalent to the total rate of water flowing from rivers into oceans. The Antarctic Circumpolar current flows from Eastward (in the same direction as the Earth\u2019s rotation), carrying water a rate of 150 sverdrups. If the current were to spontaneously stop, by how long would the length of day be shortened? [SI/2017 USD]\n",
+        "answer": -11,
+        "source": "Princeton Invitational 17-18",
+        "number": 59
+    },
+    {
+        "question": "The Ackermann function is defined by \u2022 A(0; n) = n + 1 \u2022 A(m; 0) = A(m \u2212 1; 1) \u2022 A(m; n) = A(m \u2212 1; A(m; n \u2212 1)) Some values include: A(2; 3) = 9 and A(4; 1) = What is A(4; 2)? [SI/2017 USD]\n",
+        "answer": 19728,
+        "source": "Princeton Invitational 17-18",
+        "number": 60
     },
     {
         "question": "What is Princeton\u2019s endowment [$]??\n",

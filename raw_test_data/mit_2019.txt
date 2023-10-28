@@ -1,0 +1,245 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. It’s winter time and the MIT Invitational is today! You wake up (hopefully) and get
+your clothes out of your suitcase to change.
+How many Earths can fit inside the volume of a typical carry-on-sized suitcase?
+
+2. It’s really really cold so you put on your leather jacket.
+How many cow’s hide were used for that one jacket?
+
+3. Unfortunately, now you have a cold too. You sneeze really hard!
+What’s the ratio of the maximum distance that a sneeze can travel to the distance from
+Austin, TX to Anchorage, AK?
+
+4. You head down to eat breakfast that the hotel provided for you, buttering up a nice few
+pieces of toast.
+How many calories are in a cubic light year of butter?
+
+5. One of your teammates forgot to print their note sheets last night. Oh no! They’re trying
+to figure out the hotel’s printer right now.
+How many HP 564 Original ink cartridges would you need to print 1 billion pages of
+yellow text?
+
+6. You finish breakfast and board your school’s vans to campus.
+How much gasoline is used in the entire United States in one day in gallons?
+
+7. You go to the room for the Fermi Questions event and the supervisor says you may begin.
+The first question on the test reads “How many picoyears of the sun’s energy would it
+take to emit as much energy as a passive (not active or moving) lion does in 5 seconds?”
+How many petayears of the sun’s energy would it take to emit as much energy as a passive
+(not active or moving) lion does in 5 seconds, assuming a lion is a perfect blackbody?
+
+8. You’re halfway through the test and you think “This test is so dumb. Where are the
+questions that are like ‘What’s 7 raised to the 34th power?’”
+What’s 7−34?
+
+9. You finish the test and feel decently confident, probably not a top 4 finish, but somewhere
+above average, maybe even placing 5th or 6th!
+What place are you getting today, assuming you place how you feel you will?
+
+10. Because you are a competitor of culture, you only compete in Inquiry & Nature of Science
+events.
+Let X be the set of letters contained in the combined names of all 2018 Inquiry & Nature
+of Science events. How many English words only contain letters in X?
+
+11. You’re now finished with your events, so you decide to explore MIT a bit. Somehow, you
+get a bit lost and stumble across MIT Men’s Volleyball practice.
+What is the ratio of the spiking speed of an Olympic Volleyball player to the orbital
+speed of our solar system around the galactic center?
+
+12. MIT staff screams at you and kicks you out because you’re not allowed in there.
+How many times more powerful is a person’s scream than a bat’s echolocation?
+
+13. You use Google’s “Google Maps” application to find your way back to the homeroom.
+If Google decided to hire all current undergraduate MIT students for full-time positions
+(and they all accepted), what percent would their number of employees increase?
+
+14. You’re finally on the way back to the hotel to chill for a bit before the awards ceremony
+and dinner.
+Assuming all competitors and coaches are staying in hotel rooms, what percent of US
+hotel rooms are MIT Invitational competitors and coaches occupying?
+
+15. You and your roommates turn on the TV to find that “Spongebob Squarepants” is on.
+In February of 2002, what was the viewership of “Spongebob Squarepants”?
+
+16. Although a great show, you decide to spend your time on Reddit.
+If Reddit’s monthly population (the number of unique visitors to Reddit each month) all
+stood side-by-side, tightly packed, how many Asia’s would be needed to fit all of them?
+
+17. Because Reddit only contains content of the highest quality, you come across the script
+for the Bee Movie.
+How many characters are in the Bee Movie script?
+
+18. You go back to campus and its time for the award ceremony! You see Kresge Auditorium
+and, amazed at the engineering, you are reminded of MIT’s mascot, the beaver.
+How many aspen trees could a beaver gnaw down in the gestation period of a beaver,
+assuming it never stops and always works at peak performance?
+
+19. You remember last year’s award ceremony and how Admissions Officer Chris Peterson
+stalled for quite some time for Game On to be finished grading. You really hope that
+doesn’t happen again.
+In the amount of time the entire 2017 MIT Invitational award ceremony took (from
+introduction by the co-directors to passing out team packets, this includes the keynote
+speech), how many times could you have flown nonstop from Honolulu, HI to Beijing,
+China?
+
+20. Unfortunately, the awards ceremony has been going on, you haven’t placed and your last
+event, Write It Do It, is coming up. You really want that medal and at this point you’d
+even pay for it.
+How much Ethereum would it cost to purchase a 2016 Rio Summer Olympics gold medal?
+
+21. You’re upset because you and your school didn’t place as well as you expected and you
+start to bawl.
+Every day, you cry as many times as the average adult male cries in a month. Every
+time you cry, you drink a liter of Diet Coke. In the time span of a month, how many
+grams of caffeine would you have consumed from this Diet Coke?
+
+22. You feel like you’ve just been rejected by MIT
+Suppose you had as many mitochondria of the largest size possible as the number of
+first-year applicants rejected by MIT Admissions for the Class of 2022. If you lined all
+these mitochondria up, how many times could they fit around the moon?
+
+23. You’re kinda mad and the only one to blame is 1st place. Somehow this Troy school won
+without even being at the competition??? Who are they anyways???
+If barbell weight sets equal to the number of Google search results when you search
+“Troy High School” are packed into a sphere the size of Earth, how dense would this
+sphere be in grams per cubic centimeter?
+
+24. Whatever. It’s time to go out to dinner. Y’all decide to go out to hot pot at the Happy
+Lamb.
+If the amount of sheep killed for food in Australia each year were used for wool instead,
+how many pounds of wool could you get that year (assuming each sheep does produce
+wool and it produces the most wool it possibly can)?
+
+25. You’re having a great time at hot pot because it’s, ya know, hot pot. There’s also a few
+vegetarians on the team who have fun pointing out things like “beef tongue” and such.
+Unfortunately, there’s only so much variety for them.
+Napa cabbage prefer a certain soil pH in order to obtain sufficient calcium, magnesium,
+and other nutrients. How much more concentrated are hydrogen ions in this perfect soil
+than in a 1 M solution of acetic acid?
+
+26. For some reason the restaurant can’t split the bill between you and your 14 teammates,
+so you’re going to pay it all yourself first. You’re not even surprised when you see the
+bill because wow this stuff is pretty expensive.
+With the amount of money spent by all of China on eating out in 2016, how many
+Yu-Gi-Oh trading cards can you buy, assuming you only buy booster packs?
+
+27. Your team is going out to eat ice cream after this too. Yay!
+How many more ice cream flavors does Baskin Robbins have than Blue Bell?
+
+28. Unfortunately, one of your other teammates is lactose-intolerant.
+How many grams of lactose are in 1 gallon of unprocessed cow’s milk?
+
+29. To end the night, you and many of your teammates decide to pirate some movies to
+watch.
+With the estimated amount of money the film industry has lost to piracy, how many
+Echo Dots could you have bought on Black Friday 2018?
+
+30. For some reason, y’all first decide to pirate “Moana” which happens to be on Netflix too,
+so y’all didn’t even have to pirate it!
+How many seconds would it take to play all the movies owned by Disney that were
+released in 2016 back to back?
+
+31. You end up staying up pretty late and your flight home is decently early. You end up
+getting 1.32 hours of sleep.
+How many times can you fit the record amount of time gone without blinking in the
+record amount of time someone has lasted without sleep?
+
+32. So you wake up extremely early only to find that your flight home has been delayed by a
+massive amount due to some random big thunderstorm.
+How many thunderstorms occur on Earth every week?
+
+33. You hate waiting. This long wait reminds you of the time you went to the 2010 World
+Expo in Shanghai, China.
+Based solely on admissions percentage (assuming no acceptance limit), how many of the
+people attending the 2010 Shanghai World Expo on its peak day would be accepted into
+the 2019 MIT Research Science Institute (RSI) if they all applied?
+
+34. After a while you finally get on the plane and are given some complimentary peanuts to
+make up for the incredible delay.
+How many peanut butter sandwiches could you make with all the peanuts growing on
+an average peanut farm?
+
+35. You’re thankful for the excellent service your flight attendants are giving you and you
+realize how privileged you are. You also feel kinda sad that these people aren’t even
+making that good money yet they are serving you.
+How many MIT students could you pay one-year tuition (not including room and board)
+for if you worked for 100 years, with a 40 hour work-week, at minimum wage (not along
+the US-Mexico border) in Mexico, assuming they have no scholarships or financial aid?
+
+36. Motivated by this, you go home and back to school in a few days with thoughts of changing
+the world. You want to start a Habitat for Humanity club at your school.
+How many communities in the US does Habitat for Humanity operate in?
+
+37. Turns out your school already has a Habitat for Humanity club, wow! So you decide to
+join and over time you go volunteer a lot and help out the community in many ways –
+building houses, connecting water supplies, etc.
+How many seconds could you continuously shower if you had all the rain that fell over
+the US during Hurricane Harvey?
+
+38. This in turn leads you to a new passion for the engineering events in Science Olympiad.
+You decide to try and pick up the “Boomilever” event.
+How much load can a boomilever with a mass of a TI-84 graphing calculator and the
+efficiency of the 2014 Division C national champion boomilever hold in ounces, assuming
+the national champion boomilever did in fact break?
+
+39. With some advice from one of the main builders on your team, your first boomilever
+scores pretty well in efficiency.
+If your boomilever efficiency was 1140, how many high school seniors taking the SAT in
+2017 with intended engineering majors scored higher than that?
+
+40. So excited, you even decide to stop doing Inquiry & Nature of Science events to pursue
+your true passion in engineering. Eventually, you decide to major in engineering in
+college. In your introductory engineering class, they emphasize the importance of being
+able to give good estimates of reasonable values. Here is the first test question they ask
+you:
+How many golf balls can fit in this room?
+
+-23
+0
+-5
+55
+6
+
+8
+-45
+-29
+1
+5
+
+-4
+-5
+1
+-2
+8
+
+-5
+5
+4
+-1
+1
+
+1
+-8
+-14
+9
+-4
+
+3
+2
+9
+5
+2
+
+2
+5
+4
+7
+1
+
+3
+15
+4
+5
+6

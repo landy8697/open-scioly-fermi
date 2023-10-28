@@ -1,3 +1,63 @@
+How many nanoseconds did it take you to read this sentence?
+Compute (Larry Bird’s Jersey #)^
+How many years would it take to walk from the SF Bay in California . . . to New York Island?
+How many Sonic Chili Dogs (Chili Cheese Coney) would Klebb have to eat in order to replenish all the calories he burned while walking to New York?
+How many words are on the Wikipedia page for “Bird”?
+What is the population of China minus the population of the United States?
+What is the average number of windows in a house?
+How many ways can 15 unique books be arranged on a three-shelf bookcase? Assume 5 books can fit on each shelf.
+How many atoms of gold are in one carat of 24-karat gold?
+On average, how many packages did Amazon deliver everyday in 2019?
+What is the distance to the sun in meters?
+How many kilograms of gold can you buy with Elon Musk’s net worth?
+How many helium balloons do you need to lift a human being?
+How many πgeons are there worldwide?
+How many questions are there on this test?
+Klebb generates a string of 10 letters, with each letter having a probability of being generated equal to that letter’s relative frequency in English. What is the probability of Klebb generating the string meadowlark?
+How many feathers weigh a slug?
+How many KFC buckets filled with 12 pieces of chicken would fit inside the Earth?
+How long is a footlong in furlongs?
+How many fortnights of Fortnite have been played, ever?
+What is the probability of having a negative IQ, assuming IQ’s distribution is indeed normal centered at 100?
+How loud, in W/m2 , would the Sun be to you if all of the Sun’s total power output were converted completely to sound energy and you decided to stand on Mercury? Assume that empty space suddenly got filled with air . . . somehow.
+On a perfect scale, one side is occupied by a blue whale. How many blue jays would have to sit on the other side to make the scale balanced?
+Tall Vincent stands on top of Mount Everest, and he is confused about where he is. Is he dreaming? Or is the air just so thin that he’s getting lightheaded? He screams, for he does not know. His scream can be abstracted as a point source emitting sound. Assuming the Earth is completely flat aside from the mountain and he can scream loud enough, how many seconds would it take for his scream to reach the ears of his friends in New York City?
+How many 500-mL bottles of water would be needed to fill a tub the size of Bangladesh up to 1 cm?
+How many grams of potassium permanganate can be produced from the potassium in one apple? Assume there is infinite permanganate.
+How many Universe superyachts are needed to span the observable universe?
+How many atoms of gold are on the James Webb Space Telescope?
+A 1 cm cube of Jell-O is smacked by a typical spoon. What is the frequency at which it vibrates, in hertz?
+How many vegetable slices are in one serving of ratatouille in the movie Ratatouille?
+How many pinheads can you glue on the surface of a pinball?
+What is π^19?
+If an AA battery is collected from every person in California, how many milligrams of aluminum can be electrolyzed from molten aluminum oxide with the total charge?
+What is the number of shirts on the shelves of a typical Walmart?
+How many practicing orthodontists are in Iowa?
+How many Sverdrups is the entire global input of fresh water from rivers to the oceans?
+Shuckle is a weak pokemon . . . or is it? Under optimal conditions in a triple battle, how much damage could shuckle theoretically do in one attack?
+How many molecules are there in Earth’s atmosphere
+How many miles of interstate highways are there in the US?
+My friend Aidan and I decide to play rock-paper-scissors. Assuming the results are truly random, find the probability that I do not lose a single game to Aidan after 100 games.
+Find Hubble’s constant in units of hertz.
+By what factor is the electrostatic force between a proton and electron greater than the gravitational force between the proton and electron?
+How many barns (units) would it take to cover the floor of a barn (building)?
+What is 10^10^10^10^-100?
+The Richter scale measures the strength of an earthquake, where the magnitude scales logarithmically with energy. The equation is log E = 8 + 5M where E is in ergs and M is the magnitude. How many tons of TNT would it take to release the same amount of energy as a 100 magnitude earthquake?
+How many prime numbers p are there less than 102020 such that p + 2 and p + 4 are also prime?
+Compute (10!)!
+How many possible teams of six Pokémon are possible made up of only Smogon’s Red/Blue/Yellow OU Pokémon, considering species and four-move movesets?
+How many trees would you have to chop in order to create enough sheets of paper folded into paper airplanes that equal the mass of the US Air Force’s personnel?
+An unfair coin lands on heads a third of the time. What is the probability to flip it 50 times and get 15 tails and 35 heads, in percent?
+How many Straits of Gibraltar are needed to equal their net flow to the volumetric production rate of Coca-Cola drinks?
+Your friend George has come up with an ingenious plan to create sustainable energy. He develops the Gravitational Energy Collector (GEC) which collects 100% of the potential energy of a falling object. Since he wants this to be sustainable, he decides to use the GEC in a mango orchard. How many mango trees are needed to power the entire Western Interconnection?
+Cellulose is an extremely strong polymer. A rod of pure cellulose is fabricated with a length of 2 m and a diameter of 5 cm. If a compressive force of 7 kN is applied to its ends, how much does it contract by, in meters?
+In a different universe, the speed of light is ten thousand times greater than the speed of light. With everything else staying the same, what is the Planck length of the other universe, in meters (from this universe)?
+1, 3, 3, 9, 27, 243, 6561 . . . Find the 20th number in this sequence.
+According to the holographic principle, the maximum amount of information (in bits) that can be stored in a system is proportional to the surface area. Hawking found that the maximum entropy (or information) can be found by S = kA/4, where k is the Boltzmann’s constant (3 × 10−23 JK) and A is the surface area in Planck areas. Using this equation, how many times more information can a human body theoretically hold than the human body already holds through the storage of DNA? Assume there are 40 trillion human cells that contain DNA.
+If human beings give off infrared light with a wavelength of 1 mm, how many photons will the entire current population of the earth give off in 1 galactic year?
+Given: Schwarzschild radius, r = 2GM/c^2 where G is the gravitational constant, M is the mass of the black hole, c is the speed of light, and r is the radius of the black hole. Calculate the volume in liters of a perfect sphere of water so that there is just enough water to form a black hole. Assume that the density stays constant.
+A dumb hole (or a sonic black hole) is a type of black hole where phonons rather than photons are unable to escape. After expanding/compressing the universe’s radius to create a dumb hole, what is the radius of the new universe (in meters)? Take into account baryonic matter, dark matter, and dark energy. Assume the dumb hole to be surrounded by dry air at 20 degrees Celcius.
+Pick an integer from 1 to 300 inclusive. The answer will be the product of the answers to this question from all teams that answer this question.
 What is the mass of the sun, in solar masses?
 How many millimeters are in a kilometer?
 How many seconds are in a decade?
@@ -157,7 +217,7 @@ In case you weren’t aware, Donkey Kong’s Coconut Gun can fire in spurts. Wha
 How many attoparsecs are in a foot?
 Norway is the 118th most populous country in the world. What is the population of Norway?
 How many fish are there, on average, per meter cubed of water in the earths ocean?
-DISCARD
+The James Webb Space Telescope was recently deployed to L2, a point of equilibrium (one of five) in space relative to the Sun and the Earth. The equation to calculate L2 is [M1/(R+r)^2] + [M2/r^2] = [(M1*R/(M1+M2)) + r]*[M1+M2/ r^3] where M1 is the mass of the larger object, M2 is the mass of the smaller object, R is the distance between the two objects, and r is the distance to L2 from the smaller object. Calculate the distance, in meters, to L2 for a system with a 0 × 1030 firkin and a 5 × 1022 firkin object that are 2 × 10^10 furlongs apart.
 How many 2 liters bottles of Coke would you need to bottle such that the amount of CO2 in the Coke is equivalent to the amount of CO2 released from streaming everything on Netflix?
 Express Hubble’s constant (taken as 68 km/s/Mpc) in Planck units, given: 1 Planck Length = 616255 × 10−35 m, 1 Planck Mass = 176434 × 10−8 kg, 1 Planck Time = 391247 × 10−44 s
 How many prime numbers are there that are less than the number of kilometers that equal the diameter of the observable universe?
@@ -942,6 +1002,46 @@ The Paradise Papers have revealed that many companies actively attempt to avoid 
 The Wanna Cry exploit was the biggest ransomware attack in history, affecting as many as 150 countries, and was based on a Windows exploit. Assuming there is a possible exploit per 100 lines of code in Windows, how many exploits are possible?
 On a much lighter note, Pokemon released its 27th and 28th games in its core series, Ultra Sun and Ultra Moon. Not including these two, how many total copies of the core games have been sold so far?
 Now that you’ve finished taking it, on a scale of 5-49, how difficult did you think this test was?
+It’s winter time and the MIT Invitational is today! You wake up (hopefully) and get your clothes out of your suitcase to change. How many Earths can fit inside the volume of a typical carry-on-sized suitcase?
+It’s really really cold so you put on your leather jacket. How many cow’s hide were used for that one jacket?
+Unfortunately, now you have a cold too. You sneeze really hard! What’s the ratio of the maximum distance that a sneeze can travel to the distance from Austin, TX to Anchorage, AK?
+You head down to eat breakfast that the hotel provided for you, buttering up a nice few pieces of toast. How many calories are in a cubic light year of butter?
+One of your teammates forgot to print their note sheets last night. Oh no! They’re trying to figure out the hotel’s printer right now. How many HP 564 Original ink cartridges would you need to print 1 billion pages of yellow text?
+You finish breakfast and board your school’s vans to campus. How much gasoline is used in the entire United States in one day in gallons?
+You go to the room for the Fermi Questions event and the supervisor says you may begin. The first question on the test reads “How many picoyears of the sun’s energy would it take to emit as much energy as a passive (not active or moving) lion does in 5 seconds?” How many petayears of the sun’s energy would it take to emit as much energy as a passive (not active or moving) lion does in 5 seconds, assuming a lion is a perfect blackbody?
+You’re halfway through the test and you think “This test is so dumb. Where are the questions that are like ‘What’s 7 raised to the 34th power?’” What’s 7−34?
+You finish the test and feel decently confident, probably not a top 4 finish, but somewhere above average, maybe even placing 5th or 6th! What place are you getting today, assuming you place how you feel you will?
+Because you are a competitor of culture, you only compete in Inquiry & Nature of Science events. Let X be the set of letters contained in the combined names of all 2018 Inquiry & Nature of Science events. How many English words only contain letters in X?
+You’re now finished with your events, so you decide to explore MIT a bit. Somehow, you get a bit lost and stumble across MIT Men’s Volleyball practice. What is the ratio of the spiking speed of an Olympic Volleyball player to the orbital speed of our solar system around the galactic center?
+MIT staff screams at you and kicks you out because you’re not allowed in there. How many times more powerful is a person’s scream than a bat’s echolocation?
+You use Google’s “Google Maps” application to find your way back to the homeroom. If Google decided to hire all current undergraduate MIT students for full-time positions (and they all accepted), what percent would their number of employees increase?
+You’re finally on the way back to the hotel to chill for a bit before the awards ceremony and dinner. Assuming all competitors and coaches are staying in hotel rooms, what percent of US hotel rooms are MIT Invitational competitors and coaches occupying?
+You and your roommates turn on the TV to find that “Spongebob Squarepants” is on. In February of 2002, what was the viewership of “Spongebob Squarepants”?
+Although a great show, you decide to spend your time on Reddit. If Reddit’s monthly population (the number of unique visitors to Reddit each month) all stood side-by-side, tightly packed, how many Asia’s would be needed to fit all of them?
+Because Reddit only contains content of the highest quality, you come across the script for the Bee Movie. How many characters are in the Bee Movie script?
+You go back to campus and its time for the award ceremony! You see Kresge Auditorium and, amazed at the engineering, you are reminded of MIT’s mascot, the beaver. How many aspen trees could a beaver gnaw down in the gestation period of a beaver, assuming it never stops and always works at peak performance?
+You remember last year’s award ceremony and how Admissions Officer Chris Peterson stalled for quite some time for Game On to be finished grading. You really hope that doesn’t happen again. In the amount of time the entire 2017 MIT Invitational award ceremony took (from introduction by the co-directors to passing out team packets, this includes the keynote speech), how many times could you have flown nonstop from Honolulu, HI to Beijing, China?
+Unfortunately, the awards ceremony has been going on, you haven’t placed and your last event, Write It Do It, is coming up. You really want that medal and at this point you’d even pay for it. How much Ethereum would it cost to purchase a 2016 Rio Summer Olympics gold medal?
+You’re upset because you and your school didn’t place as well as you expected and you start to bawl. Every day, you cry as many times as the average adult male cries in a month. Every time you cry, you drink a liter of Diet Coke. In the time span of a month, how many grams of caffeine would you have consumed from this Diet Coke?
+You feel like you’ve just been rejected by MIT Suppose you had as many mitochondria of the largest size possible as the number of first-year applicants rejected by MIT Admissions for the Class of If you lined all these mitochondria up, how many times could they fit around the moon?
+You’re kinda mad and the only one to blame is 1st place. Somehow this Troy school won without even being at the competition??? Who are they anyways??? If barbell weight sets equal to the number of Google search results when you search “Troy High School” are packed into a sphere the size of Earth, how dense would this sphere be in grams per cubic centimeter?
+Whatever. It’s time to go out to dinner. Y’all decide to go out to hot pot at the Happy Lamb. If the amount of sheep killed for food in Australia each year were used for wool instead, how many pounds of wool could you get that year (assuming each sheep does produce wool and it produces the most wool it possibly can)?
+You’re having a great time at hot pot because it’s, ya know, hot pot. There’s also a few vegetarians on the team who have fun pointing out things like “beef tongue” and such. Unfortunately, there’s only so much variety for them. Napa cabbage prefer a certain soil pH in order to obtain sufficient calcium, magnesium, and other nutrients. How much more concentrated are hydrogen ions in this perfect soil than in a 1 M solution of acetic acid?
+For some reason the restaurant can’t split the bill between you and your 14 teammates, so you’re going to pay it all yourself first. You’re not even surprised when you see the bill because wow this stuff is pretty expensive. With the amount of money spent by all of China on eating out in 2016, how many Yu-Gi-Oh trading cards can you buy, assuming you only buy booster packs?
+Your team is going out to eat ice cream after this too. Yay! How many more ice cream flavors does Baskin Robbins have than Blue Bell?
+Unfortunately, one of your other teammates is lactose-intolerant. How many grams of lactose are in 1 gallon of unprocessed cow’s milk?
+To end the night, you and many of your teammates decide to pirate some movies to watch. With the estimated amount of money the film industry has lost to piracy, how many Echo Dots could you have bought on Black Friday 2018?
+For some reason, y’all first decide to pirate “Moana” which happens to be on Netflix too, so y’all didn’t even have to pirate it! How many seconds would it take to play all the movies owned by Disney that were released in 2016 back to back?
+You end up staying up pretty late and your flight home is decently early. You end up getting 32 hours of sleep. How many times can you fit the record amount of time gone without blinking in the record amount of time someone has lasted without sleep?
+So you wake up extremely early only to find that your flight home has been delayed by a massive amount due to some random big thunderstorm. How many thunderstorms occur on Earth every week?
+You hate waiting. This long wait reminds you of the time you went to the 2010 World Expo in Shanghai, China. Based solely on admissions percentage (assuming no acceptance limit), how many of the people attending the 2010 Shanghai World Expo on its peak day would be accepted into the 2019 MIT Research Science Institute (RSI) if they all applied?
+After a while you finally get on the plane and are given some complimentary peanuts to make up for the incredible delay. How many peanut butter sandwiches could you make with all the peanuts growing on an average peanut farm?
+You’re thankful for the excellent service your flight attendants are giving you and you realize how privileged you are. You also feel kinda sad that these people aren’t even making that good money yet they are serving you. How many MIT students could you pay one-year tuition (not including room and board) for if you worked for 100 years, with a 40 hour work-week, at minimum wage (not along the US-Mexico border) in Mexico, assuming they have no scholarships or financial aid?
+Motivated by this, you go home and back to school in a few days with thoughts of changing the world. You want to start a Habitat for Humanity club at your school. How many communities in the US does Habitat for Humanity operate in?
+Turns out your school already has a Habitat for Humanity club, wow! So you decide to join and over time you go volunteer a lot and help out the community in many ways – building houses, connecting water supplies, etc. How many seconds could you continuously shower if you had all the rain that fell over the US during Hurricane Harvey?
+This in turn leads you to a new passion for the engineering events in Science Olympiad. You decide to try and pick up the “Boomilever” event. How much load can a boomilever with a mass of a TI-84 graphing calculator and the efficiency of the 2014 Division C national champion boomilever hold in ounces, assuming the national champion boomilever did in fact break?
+With some advice from one of the main builders on your team, your first boomilever scores pretty well in efficiency. If your boomilever efficiency was 1140, how many high school seniors taking the SAT in 2017 with intended engineering majors scored higher than that?
+So excited, you even decide to stop doing Inquiry & Nature of Science events to pursue your true passion in engineering. Eventually, you decide to major in engineering in college. In your introductory engineering class, they emphasize the importance of being able to give good estimates of reasonable values. Here is the first test question they ask you: How many golf balls can fit in this room?
 If you’re taking this test as part SciOly, you should know that you’re part of one of the greatest communities in high school. This section will try to serve as a testament to this fact. How many secondary school students compete in Science Olympiad across the US?
 If you haven’t checked it out already, the SciOly.org forum is a pretty cool place to go and meet people. How many total posts are there on the SciOly.org forum?
 One of the most exciting prospects of competing is being able to go to Nationals. How many total miles were travelled by Div C teams to the 2015 National Tournament in Lincoln, NE?
@@ -1187,6 +1287,66 @@ Number of trees in the Amazon rainforest
 Number of people named Matthew in the US
 Number of base pairs in the human genome
 Average number of flights per day
+What was Princeton’s acceptance rate for the class of 2021? [SI/2017 USD]
+How many undergraduates are currently attending Princeton? [SI/2017 USD]
+How large is Princeton’s endownment? [SI/2017 USD]
+What is the net worth of Princeton’s richest alumni? [SI/2017 USD]
+What is the population of the world? [SI/2017 USD]
+What is the population of Tanzania? [SI/2017 USD]
+What is the population of American Samoa? [SI/2017 USD]
+How many cities have a population of over 1 million people? [SI/2017 USD]
+How many motor vehicle fatalities have there been in the United States in 2017? [SI/2017 USD]
+How many motor vehicle fatalities have there been in the United States in total? [SI/2017 USD]
+How many passengers have there been on domestic flights in the United States in 2017? [SI/2017 USD]
+How much does a Boeing 787 cost? [SI/2017 USD]
+How much does the most expensive aircraft carrier cost? [SI/2017 USD]
+What was the United States’s GDP in 2017? [SI/2017 USD]
+What was the United States’s GDP per capita in 1900? [SI/2017 USD]
+What was North Korea’s GDP in 2017? [SI/2017 USD]
+What is the market cap of Alphabet? [SI/2017 USD]
+What was the 2017 income of Alphabet? [SI/2017 USD]
+How many bankruptcies were filed in the United States since the crash of 2008? [SI/2017 USD]
+How long is the longest bridge? [SI/2017 USD]
+How many restaurants have earned a Michelin star? [SI/2017 USD]
+How many wild-caught Atlantic salmon were there in 2017? [SI/2017 USD]
+How many apples were grown in the United States in 2017? [SI/2017 USD]
+How much is the Mona Lisa worth? [SI/2017 USD]
+How much is the most expensive cut diamond worth? [SI/2017 USD]
+What was the video game industry revenue, in 2017? [SI/2017 USD]
+How large (area) is Legend of Zelda: Breath of the Wild’s map? [SI/2017 USD]
+How many hours, in total, have people spent playing DotA 2? [SI/2017 USD]
+How much did the anime film Kimi no Na wa make in its opening weekend in the United States? [SI/2017 USD]
+How many words are in the longest novel (according to Guinness World Records), A la recherche du temps perdu ` ? [SI/2017 USD]
+How many Google searches were there in 2017? [SI/2017 USD]
+How many likes have there been on Facebook? [SI/2017 USD]
+How many likes does the most-viewed Youtube video in 2009, The Evolution of Dance, currently have? [SI/2017 USD]
+How many flops (floating-point operations per second) can the fastest supercomputer achieve? [SI/2017 USD]
+How many chemical substances, indexed in the CAS (Chemical Abstracts Service) registry, are known? [SI/2017 USD] [SI/2017 USD]
+What is the mass of an electron? [SI/2017 USD]
+How fast does an electron in a single Hydrogen atom move? [SI/2017 USD]
+What is the mass of the Sun? [SI/2017 USD]
+What is the density at the center of the Sun? [SI/2017 USD]
+What is the temperature at the center of the Sun? [SI/2017 USD]
+What is the mass of the supermassive black hole at the center of the Milky Way? [SI/2017 USD]
+How much saliva (mass) does a human produce over a lifetime? [SI/2017 USD]
+How many bacteria are in the average human? [SI/2017 USD]
+How many endangered species are there? [SI/2017 USD]
+How many bald eagles are there? [SI/2017 USD]
+What is the half-life of Carbon-14? [SI/2017 USD]
+What is 42!? [SI/2017 USD] 51 5 3 1
+What is C(69, 42)? [SI/2017 USD]
+What is 1001001^1001^1? [SI/2017 USD]
+What is the probability of getting a royal flush in a standard 5-card poker hand? [SI/2017 USD]
+How many grains of sand are there on Earth? [SI/2017 USD]
+Over the past 100 years, the sea level in New York has risen approximately 1 foot, while the land underneath has remained level. Assuming this is an accurate indicator of ice melt and that the rate of ice melt is constant, how long will it take for all the ice on Earth to melt? [SI/2017 USD]
+What is cubeRoot(2017 ^ 2017)? [SI/2017 USD]
+How much time have people spent watching Youtube videos? [SI/2017 USD] Note that this includes videos embedded on other sies.
+How much money was traded in the FX (currency exchange) market in 2017? [SI/2017 USD]
+What is the mass of all the neutrons in the DNA of a single human cell (you may assume the cell is in G0)? [SI/2017 USD]
+2017 integers from the set {1, 2, ..2017} are picked at random, with replacement. What is the probability that their product is not divisible by 6? [SI/2017 USD] Note that log2(3) ≈ 1:
+A typical neutron star has mass approximately 4 times that of the Sun and surface area approximately the area of London. Due to neutron degeneracy pressure, the density of a neutron star is approximately the density of an atomic nucleus. What is the diameter of an Uranium atomic nucleus? [SI/2017 USD]
+A sverdrup is a unit of volumetric flow (m^3/s) roughly equivalent to the total rate of water flowing from rivers into oceans. The Antarctic Circumpolar current flows from Eastward (in the same direction as the Earth’s rotation), carrying water a rate of 150 sverdrups. If the current were to spontaneously stop, by how long would the length of day be shortened? [SI/2017 USD]
+The Ackermann function is defined by • A(0; n) = n + 1 • A(m; 0) = A(m − 1; 1) • A(m; n) = A(m − 1; A(m; n − 1)) Some values include: A(2; 3) = 9 and A(4; 1) = What is A(4; 2)? [SI/2017 USD]
 What is Princeton’s endowment [$]??
 How many trees are in Princeton University [#]?
 How much current is generated by PPPL’s NSTX tokamak fusion reactor [A]?

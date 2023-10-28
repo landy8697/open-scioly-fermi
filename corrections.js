@@ -193,9 +193,9 @@ corrections = {
     },
     "Duke Invitational 22-23, #21": {
         "question": "",
-        "answer": "5",
-        "explanation": "the current debt per person in the US is 96 thousand so 10 to the 5th should be the correct answer",
-        "credit": "Paresh"
+        "answer": "4",
+        "explanation": "the 100k is per household, it is likely much lower when accounting every single citizen",
+        "credit": ""
     },
     "SOUP Invitational 22-23, #37": {
         "question": "",
@@ -229,9 +229,9 @@ corrections = {
     },
     "BullSO Invitational 22-23, #10": {
         "question": "",
-        "answer": "0",
-        "explanation": "an estimated 117 billion people have ever lived, 8 billion are alive right now. that makes for 6.3% of people who have ever lived being alive today. that falls under 10^0",
-        "credit": "sharp59#6969"
+        "answer": "1",
+        "explanation": "6.3% is above 5, which means the Fermi answer should be 1",
+        "credit": ""
     },
     "Duke Invitational 22-23, #12": {
         "question": "",
@@ -286,6 +286,72 @@ corrections = {
         "answer": "if you dont change it then the answer is technically 0 since 00*10^-28 is 0",
         "explanation": "",
         "credit": ""
+    },
+    "SSSS Fermi (randomsci) 22-23, #23": {
+        "question": "",
+        "answer": "24",
+        "explanation": "It's asking for the moles of the water in the mol of moles, a mol of moles has 6.02x10^23 moles in it, so thats how many moles of water are in it. For the answer to be 48 it would have to be asking for the molecules of water.",
+        "credit": ""
+    },
+    "Rice Invitational 17-18, #3": {
+        "question": "0.1^89",
+        "answer": "",
+        "explanation": "1^89 is 1... which happens to be a fermi answer of 0.",
+        "credit": ""
+    },
+    "Duke Invitational 22-23, #40": {
+        "question": "",
+        "answer": "8",
+        "explanation": "molar mass of benzene is 78.11g which is 7.8e7 micrograms, making the answer 8 not 7 since you round up.",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #67 [2018 WWPN Tryouts Q1]": {
+        "question": "",
+        "answer": "25",
+        "explanation": "24 in each mol, i doubt you have over 100 mols in a cup of water cause that would be a kilogram",
+        "credit": ""
+    },
+    "UT Austin Invitational 17-18, #21": {
+        "question": "",
+        "answer": "23",
+        "explanation": "There are 1.335x10^21 liters of water in the oceans, and since there are about 200 teaspoons in a liter, the answer should be 2x10^23->23.",
+        "credit": "emptiespace on disc"
+    },
+    "RobertYL, daily fermi questions day #85 [2018 U Georgia Q2]": {
+        "question": "",
+        "answer": "3",
+        "explanation": "Google (i think the first result is right)",
+        "credit": "emptiespace"
+    },
+    "Columbia Invitational 17-18, #16": {
+        "question": "Using just the letters in the alphabet, how many unique 26-letter sequences are possible?",
+        "answer": "37",
+        "explanation": "Gm...\n\nit is 26 to power 26... equal 6156119580207157310796674288400203776..\n\nmethinks answer thus 37..\n\nRB",
+        "credit": "Craig buszka"
+    },
+    "RobertYL, daily fermi questions day #131 [2019 New Trier Q10]": {
+        "question": "How many licks to the center of a tootsie pop?",
+        "answer": "2",
+        "explanation": "Google and nigahiga",
+        "credit": ""
+    },
+    "Yale Invitational 17-18, #5": {
+        "question": "",
+        "answer": "-1",
+        "explanation": "The answer is requested in kg. The weight is 174g and is about 10^-1 in kg.",
+        "credit": "uknow4546"
+    },
+    "UT Austin Regionals 22-23, #14": {
+        "question": "",
+        "answer": "15",
+        "explanation": "6.7*10^14 is the exact answer and would be 15 in Fermi.",
+        "credit": "uknow4546"
+    },
+    "Duke Invitational 22-23, #36": {
+        "question": "What percentage is that volume compared to mL of water on Earth? [That volume: mL of blood does our heart pumps each day]",
+        "answer": "",
+        "explanation": "",
+        "credit": "None"
     }
 }
 corrections_list = [
@@ -339,5 +405,19 @@ corrections_list = [
     "High Desert Satellite Invitational 22-23, #32",
     "Rice Invitational 17-18, #1",
     "Camas Invitational 22-23, #25",
-    "Camas Invitational 22-23, #15"
+    "Camas Invitational 22-23, #15",
+    "SSSS Fermi (randomsci) 22-23, #23",
+    "Rice Invitational 17-18, #3",
+    "Duke Invitational 22-23, #21",
+    "Duke Invitational 22-23, #40",
+    "RobertYL, daily fermi questions day #67 [2018 WWPN Tryouts Q1]",
+    "BullSO Invitational 22-23, #10",
+    "UT Austin Invitational 17-18, #21",
+    "RobertYL, daily fermi questions day #85 [2018 U Georgia Q2]",
+    "Columbia Invitational 17-18, #16",
+    "RobertYL, daily fermi questions day #131 [2019 New Trier Q10]",
+    "Yale Invitational 17-18, #5",
+    "UT Austin Regionals 22-23, #14",
+    "Rice Invitational 17-18, #3",
+    "Duke Invitational 22-23, #36"
 ]
