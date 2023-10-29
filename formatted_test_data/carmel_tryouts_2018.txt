@@ -1,0 +1,102 @@
+Captains Tryouts Carmel 17-18 
+50
+How many hot dogs are eaten at a Boston Red Sox game?
+4
+How many liters of water are there in Earth’s oceans?
+21
+How many electrons in a mole of neutral oxygen gas?
+25
+How many rotations does a school bus tire make during a twenty-five-mile trip?
+4
+How many pennies are in $56,45
+7
+On Earth, how many millimeters long would the string on a simple pendulum have to be to have a period of one minute?
+6
+What is the mass of the moon in grams?
+26
+On average, how many hours of television commercials does a school student see during four years of high school?
+3
+If the entire human population could fit on one scale, what would it read in ounces?
+13
+How long in days does it take a quarter to fall 100 meters?
+-5
+How many blades of grass are there on the playing area of a football field?
+8
+How many tick marks are there on a meter stick (including both metric and empirical sides)
+3
+How many Taco Bell burritos would it take to equal the price of an average college textbook?
+2
+How many electrons would you need to balance the weight of J.J. Thompson?
+32
+What is the wavelength of violet light in miles?
+-10
+How many seconds is the average lifetime?
+9
+How many Oxygen molecules are there in a cup of water?
+26
+How many Joules of kinetic energy does a proton moving at 50% the speed of light have?
+13
+What would be the mass in grams of an ice cube the size of a tractor trailer?
+8
+How many words are in the Oxford English dictionary?
+5
+How many times would your heart beat during a sixmonth trip to Mars?
+5
+How many bits of information can be stored on a standard CD-ROM?
+10
+64!
+89
+How many M&M candies would fit in a Prius
+9
+What is the voltage necessary to move a single electron through a 670 Ω resistor?
+-16
+How many electrons move through a 60W bulb in one hour?
+22
+What would the weight in pounds be of a fifty-foottall woman?
+5
+How many books are there in the library of congress?
+7
+How many possible combinations are there for a standard 3x3 Rubik’s cube?
+19
+How many square millimeters are in a square mile?
+12
+What number of US dollar coins would you have to lay on the surface area of the Earth in order to fully cover it?
+17
+How many hairs are on a black bear?
+6
+How long a line in millimeters will an average Bic pen write?
+6
+How many letters are in a Campbell Biology textbook?
+6
+6^457
+355
+How many inches per minute does light in a vacuum travel?
+8
+How many golf balls would fit inside the sun?
+31
+If you start with $1000, how many dollars would you have in 1,000 years with an annual return of 3%
+7
+How many grains of sugar are in a 50-pound bag of pure cane granulated sugar?
+8
+How many water balloons can you make out of the Earth’s entire ocean?
+20
+How many pounds of rice will the average Japanese eat in their lifetime?
+12
+How many miles of road are in the US interstate system?
+4
+How many atoms are in the human body?
+28
+How many US dollar bills would it take in order to create a stack from Stockholm to Beijing?
+11
+How many Pascals would the air pressure be in a bubble one mile below the surface of the ocean?
+7
+How many calories of energy is needed to evaporate the entire Atlantic Ocean?
+17
+How many grains of sand are there in the top most layer of the Sahara Desert?
+21
+What is the sum of all integers from one to one septillion, exclusive?
+47
+How many gallons of diesel fuel would it take for a town of 2000 people to travel in school busses from Montana to Texas?
+4
+How many questions are on this test?
+2

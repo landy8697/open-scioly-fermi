@@ -402,6 +402,56 @@ You see color because the cones in your retina interact with certain wavelengths
 In the Marvel universe, Thor sometimes pounds his magical war hammer on the ground to create a shock wave to knock his opponents down. If his foes are 6 m away, estimate the pressure at the point of contact between the hammer and the ground. [atm] For the sake of this estimate, assume his foes are humanoid and have human mass.
 If you walked at a snail’s pace in an approximately straight line, estimate how long it would take to travel from Camas to the top of Mt. Rainier. [hrs]
 Estimate the amount of energy it takes to smile. [J]
+How many hot dogs are eaten at a Boston Red Sox game?
+How many liters of water are there in Earth’s oceans?
+How many electrons in a mole of neutral oxygen gas?
+How many rotations does a school bus tire make during a twenty-five-mile trip?
+How many pennies are in $56,45
+On Earth, how many millimeters long would the string on a simple pendulum have to be to have a period of one minute?
+What is the mass of the moon in grams?
+On average, how many hours of television commercials does a school student see during four years of high school?
+If the entire human population could fit on one scale, what would it read in ounces?
+How long in days does it take a quarter to fall 100 meters?
+How many blades of grass are there on the playing area of a football field?
+How many tick marks are there on a meter stick (including both metric and empirical sides)
+How many Taco Bell burritos would it take to equal the price of an average college textbook?
+How many electrons would you need to balance the weight of J.J. Thompson?
+What is the wavelength of violet light in miles?
+How many seconds is the average lifetime?
+How many Oxygen molecules are there in a cup of water?
+How many Joules of kinetic energy does a proton moving at 50% the speed of light have?
+What would be the mass in grams of an ice cube the size of a tractor trailer?
+How many words are in the Oxford English dictionary?
+How many times would your heart beat during a sixmonth trip to Mars?
+How many bits of information can be stored on a standard CD-ROM?
+64!
+How many M&M candies would fit in a Prius
+What is the voltage necessary to move a single electron through a 670 Ω resistor?
+How many electrons move through a 60W bulb in one hour?
+What would the weight in pounds be of a fifty-foottall woman?
+How many books are there in the library of congress?
+How many possible combinations are there for a standard 3x3 Rubik’s cube?
+How many square millimeters are in a square mile?
+What number of US dollar coins would you have to lay on the surface area of the Earth in order to fully cover it?
+How many hairs are on a black bear?
+How long a line in millimeters will an average Bic pen write?
+How many letters are in a Campbell Biology textbook?
+6^457
+How many inches per minute does light in a vacuum travel?
+How many golf balls would fit inside the sun?
+If you start with $1000, how many dollars would you have in 1,000 years with an annual return of 3%
+How many grains of sugar are in a 50-pound bag of pure cane granulated sugar?
+How many water balloons can you make out of the Earth’s entire ocean?
+How many pounds of rice will the average Japanese eat in their lifetime?
+How many miles of road are in the US interstate system?
+How many atoms are in the human body?
+How many US dollar bills would it take in order to create a stack from Stockholm to Beijing?
+How many Pascals would the air pressure be in a bubble one mile below the surface of the ocean?
+How many calories of energy is needed to evaporate the entire Atlantic Ocean?
+How many grains of sand are there in the top most layer of the Sahara Desert?
+What is the sum of all integers from one to one septillion, exclusive?
+How many gallons of diesel fuel would it take for a town of 2000 people to travel in school busses from Montana to Texas?
+How many questions are on this test?
 How many golf balls would it take to fill up all the tanks in the Atlanta Aquarium?
  What is the weight in nanograms of all the coffee beans that were consumed in 2022?
 DISCARDD DISCARD
@@ -1425,9 +1475,39 @@ An SR-71 Blackbird flying at top speed takes how many seconds to reach the Sun f
 How large, in square centimeters, is the combined area (one side) of the solar panel arrays on the International Space Station?
 Counting all agencies and the type of work (seasonal, full time, etc), how many people are employed by the *just* the federal government (not state, local) of the United States of America?
 Assuming he runs at his 100m-record average speed, how many parsecs can Usain Bolt run in 2023 years?
+How many tennis balls would fit in the Indian Ocean?
+What is 17 to the power of 56?
+What number of tennis balls would you have to lay on the surface area of an Olympic-sized swimming pool in order to fully cover it?
+How many US dollar bills would it take in order to create a stack from Stockholm to Mumbai?
+What is the height of the Great Pyramid of Giza, as a multiple of the height of the statue of liberty?
+What number of computer pixels would you have to lay on the surface area of the Sun in order to fully cover it?
+What does a 24 inch beach ball weigh, measured in units of grains of birch pollen?
+How many Earth-sized planets does it take to equal the weight of the star Betelgeuse (which has 18 times the mass of the Sun)?
+How many staridard 2x4 lego blocks would it take to make a replica of an average human?
+How many handcuffs would it take in order to create an interlocked chain from Istanbul to Beijing?
+In 2010 how many pounds of oranges were grown worldwide?
+What is the number of US dimes it would take to make a full scale model of General Sherman (a sequoia tree and the world's largest tree)?
+How many standard 2x4 lego blocks would it take in order to create a stack from Washington DC to Juneau AK?
+How many US dollar coins would it take in order to create a stack the length of a mile?
+Determine the distance from Pluto to the Sun divided by the diameter of Auto.
+How many carbon atoms would it take in order to create a single-file line of atoms along the total length of the U.S.'s land boundaries?
+How many toothpicks would fit in the Atlantic Ocean?
+What is the diameter of Jupiter, as a multiple of the height of Mount Everest?
+How many seconds would it take a common snail to travel the length of a nautical mile?
+What's the total dollar value of all apples sold yearly by all orchards in the US?
+What is the number of standard Rubik's Cubes it would take to fill the Oval Office?
+How many standard Rubik's Cubes would fit in a Hindenburg class airship?
+What is the thickness of a cell membrane, as a multiple of the length of the Nile river?
+How many carbon atoms would it take in order to create a single-file line of atoms the length of a mile?
+How many red blood cells are there in the average human body?
+As a factor, how much more is the price of a 15-1b bag of basmati rice than the pricevofan Airbus A380 jet airliner (seats up to 853)?
+What is pi to the power of 7?
+What number of US dollar bills would you have to lay on the surface area of Manhattan in order to fully cover it?
+How many bytes of data do Facebook users produce per day?
+How many minutes would it take a light beam to travel the length of a nanometer?
 2^32
 17!
-1^89
+0.1^89
 50,000,000^(1/9)
 19^19 - 2^4 + 1,000,000^47
 If multiple Suns were placed side-by-side, how many would it take to cover the distance between the locations of the Earth and actual Sun? (Not a trick question, don’t assume 0)
@@ -1742,6 +1822,119 @@ How many streetlights are there in seattle?
 How many people visit Times Square every year?
 Suppose that I randomly pick a city that has over 100,000 residents. What is the probability that it is in Pennsylvania?
 How many 10-digit numbers are prime?
+What is 2^2017?
+What is 12345 × 67890?
+What is 17^31?
+What is 161 × 294 × 280 × 438?
+What is 4 ↑↑ 3? Note: The double up arrow (↑↑) signifies iterated exponentiation (referred to as tetration). Just like multiplication is repeated addition and exponentiation is repeated multiplication, tetration is repeated exponentiation.
+Consider the partial sum of a harmonic series; that is, 1 + 1/2 + 1/3 ... + 1/k. that the partial sum will be above 15?
+What is the length of a covalent carbon-carbon bond, as a multiple of the height of the statue of liberty?
+Consider the combustion of propane (C3H8). How many moles of propane would you need to combust in order to release the same amount of energy that the Sun outputs in an hour? Assume that oxygen (O2) is in excess and that ∆H = −2221 kJ/mol.
+How many iron atoms are on the head of an iron pin?
+How many nickels, stacked face to face, would it take in order to create a stack the length of a megaparsec?
+How many seconds are in a year?
+What is the mass of carbon dioxide produced from oil consumption worldwide each year?
+How many African bush elephants would it take to equal the mass of the Virgo Supercluster of galaxies, including the Local Group?
+How many carbon atoms would it take in order to create a single-file line of atoms from Istanbul to Moscow?
+How many times larger is the acceleration due to gravity on the Moon’s surface than the acceleration of a bullet in the barrel of a gun?
+Divide the price of a new copy of Campbell’s Biology 9th edition by the price of a B-2 Spirit stealth bomber
+How many US dollar bills are needed to blanket the surface area of the Indian Ocean?
+How many TI-Nspire calculators would it take to equal the mass of Sirius A?
+At roughly what wind speed, in kilometers per hour, is the force on one’s body from wind approximately equal to the weight of an average adult male?
+How far, in femtometers, could a cheetah run at top speed in the time that the Sun has been a star?
+How many Nexus 6p cellphones, stacked face to face, would you need to to have a stack with the same length as Betelguese’s radius?
+What is the radius of the observable universe divided by a Planck’s length?
+How many liters are in a barrel of oil?
+How many barrels of oil does the US import every year?
+How many heartbeats are there in a year for the entire world’s population?
+How many HIV-1 viruses would it take to equal the mass of the Empire State Building?
+How many handcuffs would it take in order to create an interlocked chain from Boston, Massachusetts to Juneau, Alaska?
+How many burgers were sold last year in America?
+How many ping pong balls would it take to fill the Indian Ocean?
+How many US dollar coins would fit in a bathtub?
+What is the mass of Betelgeuse (a red supergiant of spectral type M1-2 in the constellation Orion) divided by the mass of Jupiter?
+How many US dollar coins are needed to cover the surface of Pluto?
+How many party balloons are needed to equal the volume of the troposphere?
+How many many liters of water are contained in an averaged-sized cumulonimbus cloud?
+How many US nickels would you need for the resulting Ni content from the nickels to be equal to the amount of Ni in the Earth’s inner core?
+How many liters of freshwater would you add to the Dead Sea to decrease its salinity to that of seawater?
+How many grains of sand would be needed to fill the Empire State Building?
+How many words were texted in the past year in the US?
+What is the volume of air breathed by the whole US population each month?
+How many kilograms of pizza were consumed last year in the US?
+If a cup of water could be converted entirely into thermal energy, how many kilograms of ice could be melted?
+If a weather balloon at sea level was taken to the bottom of the Atlantic Ocean, what would its new volume be in cubic meters?
+If you set the entire volume of water from Lake Michigan over a campfire, how many seconds would it take for the water to boil away?
+How many copies of Giancoli, Physics: Principles with Applications 7th edition could be made with all the trees on the Earth?
+How many leaves are in the Amazon Rainforest?
+How many blades of grass are there in Central Park?
+If all the humans on Earth crowded together, how much area would we cover in square kilometers?
+What is the speed of Titan’s orbit around Saturn in meters per second?
+What is the thickness of a sheet of paper in terms of the wavelength of blue light?
+If you were to take the DNA from every cell of an average-sized human body and uncoil it, then how many humans would you need for their DNA to stretch from Neptune to the Sun?
+How many joules of energy are contained in a tablespoon of material from a neutron star?
+How many laptop computers could you fit side-byside from the surface of the Sun to the surface of the Earth?
+Given a car running at highway speeds, how long would it take for it to circle the Earth in hours?
+If you ate 10 donuts and 10 hamburgers, how long would it take you to burn the calories by jogging disregarding normal bodily processes (as in, the calories burned come only through jogging) in terms of seconds?
+What is 2 to the power of 100?
+How many textbooks would fit inside an Olympicsized swimming pool?
+What length of time would it take for Usain Bolt do run from Earth to Alpha Centauri given he keeps the same rate throughout in seconds?
+How many apples can you fit into a standard trash can (i.e. one you would find on the side of the street)?
+If you used a seesaw to compare the weight of an elephant and the Sun, how many elephants would you need to balance the weight of the Sun?
+How fast would it take for a photon to travel from the pitcher’s mound to home plate of a normal MLB (Major League Baseball) stadium in seconds?
+How long would it take for Amtrak trains to go from San Francisco to New York City assuming no traffic hiccups?
+How many total hours of sleep do all college students get in the United States per night combined (i.e. if one student slept 4 hours and another student slept 8 hours, the total would be 12 hours)?
+How long in seconds would it take for a snail to cross the Atlantic Ocean?
+How much is spent on gasoline for all cars every year?
+How many Earths would fit inside the Milky Way Galaxy?
+What amount of cellphones put side-to-side would span across the inside of the Sun?
+How many adult human teeth can be fitted inside a normal Mason jar?
+How many blue whales put side-to-side would be needed to go around the circumference of the Earth?
+What number of tuna cans stacked on top of each other would be needed to go from sea level to the top of Mount Everest?
+If a pitcher threw an MLB (Major League Baseball)-normal fastball into space, how long would it take for that fastball to go from the Earth to Pluto at Pluto’s farthest distance from the Sun?
+How much water is there on the Earth in cubic meters?
+How many newspapers would be needed put side-to-side to cover the surface of the Sun?
+How many car sunshields going side-to-side would it take to blanket Earth’s atmosphere at a height of 400 kilometers?
+If a human and an electron stood on a scale, how many humans would balance out the scale with 1 electron?
+How much time would it take for a bullet to travel the distance across the length of the stirrup in seconds?
+How many soup cans would be needed when the soup is emptied into the Pacific Ocean to fill the Pacific Ocean?
+How many basketballs would be needed to fit inside a cell phone?
+How many trumpet cases could fit inside the Empire State Building?
+How many sheets of 5 x 11 paper would have to be stacked to reach the mass of the Sun?
+What would be the height of this stack, in cm?
+25!
+What is the diameter of a US penny in femtometers?
+How many 2017 Ford F-150s (base MSRP) would you have to sell to pay off the entire US National Debt (as of May 2017, assuming 100% profit, excluding tax)?
+How many average human small intestines laid end to end would wrap around the Earth at the Equator? Do not try this at home.
+How many mL of water could the world record holder for bench press bench?
+How many times is the word Versace said in the full song “Versace” by Migos?
+How many dislikes does “Baby” by Justin Bieber have on YouTube?
+How many Eiffel Towers deep is the Mariana Trench?
+How many atoms are in a mole of atoms?
+How many moles of atoms are in a mole of atoms?
+How many atoms are in a mole of 011 g pure carbon balls?
+How many carbon atoms would equal the mass of an average European mole (the animal)?
+How long is an olympic swimming pool in light years?
+What is the price of the Louisiana Purchase divided by the price of the International Space Station (not adjusted for inflation)?
+How many hours has it been since the first Science Olympiad event was held (as of May 2017)?
+18^18
+How many 100W light bulbs could the Sun power?
+How long, in seconds, would it take the fastest Bugatti Veyron at top speed to travel 10 feet?
+How many twinkies would a blue whale have to consume to reach its daily caloric intake?
+What is the frequency, in Hz, of the highest note that the flute plays in the classic masterwork “Mask Off” by Future?
+What is the radius of a regulation soccer ball in km?
+How many human genomes can you store in a 1 Terabyte hard drive?
+How attracted are you to your partner (gravitationally, in newtons, assuming you are both 50kg, and are sitting 1m apart)?
+How many regulation male water polo balls would fit into the Pacific Ocean?
+How long (in seconds) would it take Michael Phelps (at 100m World Record pace) to swim butterfly across a pool stretching from Earth to the Moon?
+How many seconds would it take a person typing at 100 words per minute to type the entire Lord of The Rings trilogy?
+How many light years long is the Great Wall of China?
+How many bones are in the human body?
+What was Apple’s total net sales (in dollars) in 2016?
+How many consecutive digits of pi have been found (as of May 2017)?
+What is the greatest number of people to have ever logged into Facebook in one day?
+How many times faster is the speed of light than the speed of sound?
+How long (in hours) would it take a garden snail to reach the Sun?
 How long is the word “Fermi”?
 What page number is Fermi Questions on the rules manual?
 How many characters are there in the Fermi Questions rules manual page?
@@ -1832,6 +2025,55 @@ About how many videos are on YouTube?
 How many students could you actually fit into a classroom (if they were stacked on top of each other and really packed in there)?
 If everyone in the world stood as close to each other as possible, how many square meters of ground would we cover? (hint: the world population just hit 8 billion as of November 2022!)
 How many Bic ballpoint pens would it take to draw a to-scale 2-D replica of a commercial airplane? (think: Boeing 737)
+How many words are there total on this test?
+How many total users does Facebook have?
+How many total users does Instagram have?
+What is the total number of people who have ever served in the Senate?
+What is the total number of people who have ever served in the House of Representatives?
+1234^5
+How many seconds will pass between noon today (1/13/18) and noon on the date of the state competition (3/24/18)?
+How many grains of sand would it take to fill the Empire State Building?
+How many unit barrels of water would it take to fill Ben Hill Griffin Stadium?
+How many GameCubes stacked on top one another would it take to reach the height of Mt. Everest?
+How many hair follicles are there on the world’s population? Assume humans only have hair follicles on their heads.
+How many dry grains of white long grain rice would it take to cover the ground of the gardens that contain the Taj Mahal?
+How much do the tacos that were consumed in the United States during the year 2016 weigh in slugs? Slugs are a unit of weight.
+How many fortnights would it take to traverse the length of a grain of rice, longwise, travelling at the speed of light?
+How much longer, in jubilees, would it take a zebra to circle the globe, along the equator, than it would for a cheetah? Assume that zebras and cheetahs both can run across water, and that they run continuously.
+How much does a toenail grow per Svedberg in furlongs?
+How many standard-sized credit cards would fit in all of the oceans on Earth?
+How many golf balls fit in the 3rd largest planet that NASA has found to date?
+How many fast food restaurants are open in the United States right now?
+How many fast food restaurants are open in the world right now?
+How many cubic millimeters of liquid could fit in an average sized 6’1” man?
+How many pennies would you have to melt to have enough material to make Iron man’s suit?
+How many angstroms are there between the center of South Africa and the center of Australia?
+How many passengers passed through Miami International Airport in 2012?
+How many gallons of Walmart Brand milk could Matt Leblanc buy using only his salary from filming season 7 of Friends?
+How many Maserati Quattroportes would be equivalent in weight to the largest airplane ever made?
+How many CDs would you have to line edge to edge to equal the length of the Golden Gate bridge ?
+3^20
+How many square parsecs are there in one square lightyear?
+What is the mass of the sun in units of King Size Hershey Bars?
+How wide is this paper in Scandinavian miles?
+How many blades of grass are there on a standard sized football field?
+If you have 150 randomly selected people in a room, what’s the probability that they all have different birthdays?
+If you have 75 randomly selected people in a room, what’s the probability that they all have different birthdays?
+How many people would you need in a room to have a 50% chance that two of them share a birthday?
+If the spelling in Webster’s Third New International Dictionary, published in 1961, was only 99% correct, how many misspelled words would there be?
+If you had invested $365 into bitcoin on January 1st 2011, how much money would your investment be worth if you sold on Thanksgiving of this past year?
+How many ways are there to shuffle a deck of cards?
+As of 2010, how many car tires are there on the globe? Only include those that are currently attached to cars.
+What is Google’s daily ad revenue?
+How many total lines are there in a college ruled 5 subject notebook?
+How many ants are there on earth?
+How many atoms, of the diameter of an average plutonium, would it take, lined end to end, to cover the length of a marathon?
+If a computer counted up starting at 0 for one day at a rate of 1 number per likshaka, a hindu unit of time, what would the final number it reached be?
+How many seconds are there in a fortnight on Pluto?
+How many hours would it take Usain bolt to run the length of Earth’s orbit if he ran at full speed the entire time?
+How many hours would it take the world’s fastest plane?
+How many iPhone X’s would it take to equal the volume of Neptune?
+How many iPhone X’s would it take to equal the weight of Neptune?
 What percent of America’s male population would it take to lift the Eiffel Tower to hip height assuming space for people lifting is not an issue?
 If you spill a full 20 fluid oz water bottle into the ocean. What will the percent increase in water of the Ocean?
 What is the mass of the Sun in micrograms?
@@ -1892,6 +2134,41 @@ How many possible five-card hands can you deal with a standard 52-card deck?
 If you rolled ten twenty-sided dice, what percent of the time would you roll a total of 18?
 What is the hundredth Fibonacci number? (Consider the first to be 0 and the second to be 1).
 What is the volume of an icosahedron with side length 10,000?
+How many events are held in a typical Division C Science Olympiad competition?
+As of 2017, how many minutes of movie has Steven Spielberg directed?
+Assume that in a game of Rock-Paper-Scissors, the hands played by both participants are chosen completely randomly with an equal chance of choosing Rock, Paper, or Scissors. If the two choose the same hand, they do another round. What is the probability the two play the same hand exactly 72 times before finally declaring a winner? Note: a probability of ½ can be written as 5
+What is the pH of rain?
+What is the net worth of Apple, Inc., in Mexican pesos?
+How many standard packs of Bicycle playing cards would it take to completely cover Jupiter?
+What is the surface area of an iPhone 7, in hectares?
+How many human skin cells, laid end to end, would it take to reach from here to the Science Olympiad National Tournament in Fort Collins, Colorado?
+What is the overall product of the lengths of the first names of everyone who is taking Fermi at this competition? (For example, if Bob, Mary, and Joseph are the only ones competing in Fermi, the answer would be 3 x 4 x 6 = 72 ⇒ 2) Please note that I will be using the names written on the front pages of these tests to calculate the answer to this question.
+26
+How many full rolls of toilet paper could fit inside the White House?
+What is the mass of a mole (unit) of moles (animal), in ounces?
+What is the density of four-year colleges in the United States, per square meter?
+If the population of Michigan were to continue growing at its current growth rate for eternity, how many years from now would it take for its population to reach the current population of the world?
+What is the perimeter of Manhattan, in terms of the wavelength of red light?
+How many credit cards would fit in the Earth’s stratosphere?
+A sample of pure iridium weighs as much as a loaf of bread. How many atoms of iridium are in the sample?
+At what speed would a standard brick have to travel in order to have the same kinetic energy as a Ping-Pong ball travelling at a cheetah’s top speed? Give your answer in km/hr.
+What is the file size of the original Pokémon Red, in terms of the file size of the total article text of the English Wikipedia?
+On average, how many times has Luis Fonsi’s Despacito been watched on YouTube per day since it was uploaded?
+What is the diameter of an electron, in light years?
+How many March Madness brackets would each member of the US Congress have to fill out in order to guarantee that someone has a perfect bracket? You can assume that each member of Congress fills out the same number of brackets and that all filled-out brackets are unique.
+If every person who ever lived crowded together in one spot, how much area would be covered, in terms of the area of Rhode Island?
+How many individual fries does McDonald’s sell every year?
+How many pennies would it take to create a walkable bridge from Boston, MA to Portugal, assuming that pennies sink (and that you therefore must stack pennies from the bottom of the ocean floor)?
+How many more square centimeters is the area of the earth in the flat earth model, compared to the area of the earth in real life? Useful note: The most common flat earth model represents the earth as a disk, with the North Pole at the center and the “South Pole” at the edge.
+How many exa-newtons of force does the Earth’s gravitational field apply on a single grain of rice located on the surface of the Moon?
+You are in space and are unaffected by gravity (yes you are still breathing, don’t ask how). You want to get from the Sun to the next closest star, so you throw your shoe in the correct direction. How many minutes would it take for you to get there?
+How many times does the string “cell” appear in Campbell’s Biology, 9th edition? (Note: any word that contains “cell”, such as “intracellular” or “cellulose”, would count)
+How many terabytes is this test, when converted to PDF format?
+How many standard AAA batteries would it take to equal the total installed wind energy capacity of the world?
+How many cells are in the typical human body?
+If you took the hair from the heads of every student enrolled at the University of Michigan, how many pounds of hair would you have?
+An average-sized blue whale is actually a mutant - it can stay suspended in pure helium without sinking or rising. What is its mass, in solar masses?
+How many results turn up when “University of Michigan Science Olympiad” is Googled?
 What is the area of a football field including end zones in square feet?
 How many cans of pop and beer are consumed each year in the world?
 On the social media platform Snapchat, on average, how many daily active users are there?

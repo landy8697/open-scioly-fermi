@@ -1,0 +1,124 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. What is 2^2017?
+607
+2. What is 12345 × 67890?
+9
+3. What is 17^31?
+38
+4. What is 161 × 294 × 280 × 438?
+10
+5. What is 4 ↑↑ 3? Note: The double up arrow (↑↑) signifies iterated exponentiation (referred to as
+tetration). Just like multiplication is repeated addition and exponentiation is repeated multiplication,
+tetration is repeated exponentiation.
+154
+6. Consider the partial sum of a harmonic series; that is, 1 + 1/2 + 1/3 ... + 1/k.
+that the partial sum will be above 15?
+6
+7. What is the length of a covalent carbon-carbon bond, as a multiple of the height of the statue of liberty?
+-12
+8. Consider the combustion of propane (C3H8). How many moles of propane would you need to combust
+in order to release the same amount of energy that the Sun outputs in an hour? Assume that oxygen
+(O2) is in excess and that ∆H = −2221 kJ/mol.
+24
+9. How many iron atoms are on the head of an iron pin?
+13
+10. How many nickels, stacked face to face, would it take in order to create a stack the length of a megaparsec?
+25
+11. How many seconds are in a year?
+7
+12. What is the mass of carbon dioxide produced from oil consumption worldwide each year?
+13
+13. How many African bush elephants would it take to equal the mass of the Virgo Supercluster of galaxies,
+including the Local Group?
+41
+14. How many carbon atoms would it take in order to create a single-file line of atoms from Istanbul to
+Moscow?
+16
+15. How many times larger is the acceleration due to gravity on the Moon’s surface than the acceleration of
+a bullet in the barrel of a gun?
+-6
+16. Divide the price of a new copy of Campbell’s Biology 9th edition by the price of a B-2 Spirit stealth
+bomber
+-7
+17. How many US dollar bills are needed to blanket the surface area of the Indian Ocean?
+16
+18. How many TI-Nspire calculators would it take to equal the mass of Sirius A?
+31
+19. At roughly what wind speed, in kilometers per hour, is the force on one’s body from wind approximately
+equal to the weight of an average adult male?
+2
+20. How far, in femtometers, could a cheetah run at top speed in the time that the Sun has been a star?
+33
+21. How many Nexus 6p cellphones, stacked face to face, would you need to to have a stack with the same
+length as Betelguese’s radius?
+14
+22. What is the radius of the observable universe divided by a Planck’s length?
+61
+23. How many liters are in a barrel of oil?
+2
+24. How many barrels of oil does the US import every year?
+9
+25. How many heartbeats are there in a year for the entire world’s population?
+17
+26. How many HIV-1 viruses would it take to equal the mass of the Empire State Building?
+26
+27. How many handcuffs would it take in order to create an interlocked chain from Boston, Massachusetts
+to Juneau, Alaska?
+7
+28. How many burgers were sold last year in America?
+10
+29. How many ping pong balls would it take to fill the Indian Ocean?
+20
+30. How many US dollar coins would fit in a bathtub?
+5
+31. What is the mass of Betelgeuse (a red supergiant of spectral type M1-2 in the constellation Orion)
+divided by the mass of Jupiter?
+4
+32. How many US dollar coins are needed to cover the surface of Pluto?
+16
+33. How many party balloons are needed to equal the volume of the troposphere?
+21
+34. How many many liters of water are contained in an averaged-sized cumulonimbus cloud?
+6
+35. How many US nickels would you need for the resulting Ni content from the nickels to be equal to the
+amount of Ni in the Earth’s inner core?
+25
+36. How many liters of freshwater would you add to the Dead Sea to decrease its salinity to that of seawater?
+12
+37. How many grains of sand would be needed to fill the Empire State Building?
+16
+38. How many words were texted in the past year in the US?
+13
+39. What is the volume of air breathed by the whole US population each month?
+13
+40. How many kilograms of pizza were consumed last year in the US?
+10
+41. If a cup of water could be converted entirely into thermal energy, how many kilograms of ice could be
+melted?
+11
+42. If a weather balloon at sea level was taken to the bottom of the Atlantic Ocean, what would its new
+volume be in cubic meters?
+-3
+43. If you set the entire volume of water from Lake Michigan over a campfire, how many seconds would it
+take for the water to boil away?
+18
+44. How many copies of Giancoli, Physics: Principles with Applications 7th edition could be made with all
+the trees on the Earth?
+14
+45. How many leaves are in the Amazon Rainforest?
+17
+46. How many blades of grass are there in Central Park?
+12
+47. If all the humans on Earth crowded together, how much area would we cover in square kilometers?
+3
+48. What is the speed of Titan’s orbit around Saturn in meters per second?
+4
+49. What is the thickness of a sheet of paper in terms of the wavelength of blue light?
+7
+50. If you were to take the DNA from every cell of an average-sized human body and uncoil it, then how
+many humans would you need for their DNA to stretch from Neptune to the Sun?
+-1
+51. How many joules of energy are contained in a tablespoon of material from a neutron star?
+29

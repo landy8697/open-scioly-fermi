@@ -2424,6 +2424,306 @@
         "number": 48
     },
     {
+        "question": "How many hot dogs are eaten at a Boston Red Sox game?\n",
+        "answer": 4,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 1
+    },
+    {
+        "question": "How many liters of water are there in Earth\u2019s oceans?\n",
+        "answer": 21,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 2
+    },
+    {
+        "question": "How many electrons in a mole of neutral oxygen gas?\n",
+        "answer": 25,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 3
+    },
+    {
+        "question": "How many rotations does a school bus tire make during a twenty-five-mile trip?\n",
+        "answer": 4,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 4
+    },
+    {
+        "question": "How many pennies are in $56,45\n",
+        "answer": 7,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 5
+    },
+    {
+        "question": "On Earth, how many millimeters long would the string on a simple pendulum have to be to have a period of one minute?\n",
+        "answer": 6,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 6
+    },
+    {
+        "question": "What is the mass of the moon in grams?\n",
+        "answer": 26,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 7
+    },
+    {
+        "question": "On average, how many hours of television commercials does a school student see during four years of high school?\n",
+        "answer": 3,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 8
+    },
+    {
+        "question": "If the entire human population could fit on one scale, what would it read in ounces?\n",
+        "answer": 13,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 9
+    },
+    {
+        "question": "How long in days does it take a quarter to fall 100 meters?\n",
+        "answer": -5,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 10
+    },
+    {
+        "question": "How many blades of grass are there on the playing area of a football field?\n",
+        "answer": 8,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 11
+    },
+    {
+        "question": "How many tick marks are there on a meter stick (including both metric and empirical sides)\n",
+        "answer": 3,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 12
+    },
+    {
+        "question": "How many Taco Bell burritos would it take to equal the price of an average college textbook?\n",
+        "answer": 2,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 13
+    },
+    {
+        "question": "How many electrons would you need to balance the weight of J.J. Thompson?\n",
+        "answer": 32,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 14
+    },
+    {
+        "question": "What is the wavelength of violet light in miles?\n",
+        "answer": -10,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 15
+    },
+    {
+        "question": "How many seconds is the average lifetime?\n",
+        "answer": 9,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 16
+    },
+    {
+        "question": "How many Oxygen molecules are there in a cup of water?\n",
+        "answer": 26,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 17
+    },
+    {
+        "question": "How many Joules of kinetic energy does a proton moving at 50% the speed of light have?\n",
+        "answer": 13,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 18
+    },
+    {
+        "question": "What would be the mass in grams of an ice cube the size of a tractor trailer?\n",
+        "answer": 8,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 19
+    },
+    {
+        "question": "How many words are in the Oxford English dictionary?\n",
+        "answer": 5,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 20
+    },
+    {
+        "question": "How many times would your heart beat during a sixmonth trip to Mars?\n",
+        "answer": 5,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 21
+    },
+    {
+        "question": "How many bits of information can be stored on a standard CD-ROM?\n",
+        "answer": 10,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 22
+    },
+    {
+        "question": "64!\n",
+        "answer": 89,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 23
+    },
+    {
+        "question": "How many M&M candies would fit in a Prius\n",
+        "answer": 9,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 24
+    },
+    {
+        "question": "What is the voltage necessary to move a single electron through a 670 \u2126 resistor?\n",
+        "answer": -16,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 25
+    },
+    {
+        "question": "How many electrons move through a 60W bulb in one hour?\n",
+        "answer": 22,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 26
+    },
+    {
+        "question": "What would the weight in pounds be of a fifty-foottall woman?\n",
+        "answer": 5,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 27
+    },
+    {
+        "question": "How many books are there in the library of congress?\n",
+        "answer": 7,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 28
+    },
+    {
+        "question": "How many possible combinations are there for a standard 3x3 Rubik\u2019s cube?\n",
+        "answer": 19,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 29
+    },
+    {
+        "question": "How many square millimeters are in a square mile?\n",
+        "answer": 12,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 30
+    },
+    {
+        "question": "What number of US dollar coins would you have to lay on the surface area of the Earth in order to fully cover it?\n",
+        "answer": 17,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 31
+    },
+    {
+        "question": "How many hairs are on a black bear?\n",
+        "answer": 6,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 32
+    },
+    {
+        "question": "How long a line in millimeters will an average Bic pen write?\n",
+        "answer": 6,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 33
+    },
+    {
+        "question": "How many letters are in a Campbell Biology textbook?\n",
+        "answer": 6,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 34
+    },
+    {
+        "question": "6^457\n",
+        "answer": 355,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 35
+    },
+    {
+        "question": "How many inches per minute does light in a vacuum travel?\n",
+        "answer": 8,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 36
+    },
+    {
+        "question": "How many golf balls would fit inside the sun?\n",
+        "answer": 31,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 37
+    },
+    {
+        "question": "If you start with $1000, how many dollars would you have in 1,000 years with an annual return of 3%\n",
+        "answer": 7,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 38
+    },
+    {
+        "question": "How many grains of sugar are in a 50-pound bag of pure cane granulated sugar?\n",
+        "answer": 8,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 39
+    },
+    {
+        "question": "How many water balloons can you make out of the Earth\u2019s entire ocean?\n",
+        "answer": 20,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 40
+    },
+    {
+        "question": "How many pounds of rice will the average Japanese eat in their lifetime?\n",
+        "answer": 12,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 41
+    },
+    {
+        "question": "How many miles of road are in the US interstate system?\n",
+        "answer": 4,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 42
+    },
+    {
+        "question": "How many atoms are in the human body?\n",
+        "answer": 28,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 43
+    },
+    {
+        "question": "How many US dollar bills would it take in order to create a stack from Stockholm to Beijing?\n",
+        "answer": 11,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 44
+    },
+    {
+        "question": "How many Pascals would the air pressure be in a bubble one mile below the surface of the ocean?\n",
+        "answer": 7,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 45
+    },
+    {
+        "question": "How many calories of energy is needed to evaporate the entire Atlantic Ocean?\n",
+        "answer": 17,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 46
+    },
+    {
+        "question": "How many grains of sand are there in the top most layer of the Sahara Desert?\n",
+        "answer": 21,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 47
+    },
+    {
+        "question": "What is the sum of all integers from one to one septillion, exclusive?\n",
+        "answer": 47,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 48
+    },
+    {
+        "question": "How many gallons of diesel fuel would it take for a town of 2000 people to travel in school busses from Montana to Texas?\n",
+        "answer": 4,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 49
+    },
+    {
+        "question": "How many questions are on this test?\n",
+        "answer": 2,
+        "source": "Captains Tryouts Carmel 17-18",
+        "number": 50
+    },
+    {
         "question": "How many golf balls would it take to fill up all the tanks in the Atlanta Aquarium?\n",
         "answer": 9,
         "source": "Carolina Invitational 22-23",
@@ -8562,6 +8862,186 @@
         "number": 36
     },
     {
+        "question": "How many tennis balls would fit in the Indian Ocean?\n",
+        "answer": 21,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 1
+    },
+    {
+        "question": "What is 17 to the power of 56?\n",
+        "answer": 69,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 2
+    },
+    {
+        "question": "What number of tennis balls would you have to lay on the surface area of an Olympic-sized swimming pool in order to fully cover it?\n",
+        "answer": 5,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 3
+    },
+    {
+        "question": "How many US dollar bills would it take in order to create a stack from Stockholm to Mumbai?\n",
+        "answer": 11,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 4
+    },
+    {
+        "question": "What is the height of the Great Pyramid of Giza, as a multiple of the height of the statue of liberty?\n",
+        "answer": 0,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 5
+    },
+    {
+        "question": "What number of computer pixels would you have to lay on the surface area of the Sun in order to fully cover it?\n",
+        "answer": 26,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 6
+    },
+    {
+        "question": "What does a 24 inch beach ball weigh, measured in units of grains of birch pollen?\n",
+        "answer": 10,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 7
+    },
+    {
+        "question": "How many Earth-sized planets does it take to equal the weight of the star Betelgeuse (which has 18 times the mass of the Sun)?\n",
+        "answer": 7,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 8
+    },
+    {
+        "question": "How many staridard 2x4 lego blocks would it take to make a replica of an average human?\n",
+        "answer": 4,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 9
+    },
+    {
+        "question": "How many handcuffs would it take in order to create an interlocked chain from Istanbul to Beijing?\n",
+        "answer": 7,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 10
+    },
+    {
+        "question": "In 2010 how many pounds of oranges were grown worldwide?\n",
+        "answer": 11,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 11
+    },
+    {
+        "question": "What is the number of US dimes it would take to make a full scale model of General Sherman (a sequoia tree and the world's largest tree)?\n",
+        "answer": 9,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 12
+    },
+    {
+        "question": "How many standard 2x4 lego blocks would it take in order to create a stack from Washington DC to Juneau AK?\n",
+        "answer": 9,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 13
+    },
+    {
+        "question": "How many US dollar coins would it take in order to create a stack the length of a mile?\n",
+        "answer": 6,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 14
+    },
+    {
+        "question": "Determine the distance from Pluto to the Sun divided by the diameter of Auto.\n",
+        "answer": 6,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 15
+    },
+    {
+        "question": "How many carbon atoms would it take in order to create a single-file line of atoms along the total length of the U.S.'s land boundaries?\n",
+        "answer": 17,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 16
+    },
+    {
+        "question": "How many toothpicks would fit in the Atlantic Ocean?\n",
+        "answer": 24,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 17
+    },
+    {
+        "question": "What is the diameter of Jupiter, as a multiple of the height of Mount Everest?\n",
+        "answer": 4,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 18
+    },
+    {
+        "question": "How many seconds would it take a common snail to travel the length of a nautical mile?\n",
+        "answer": 6,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 19
+    },
+    {
+        "question": "What's the total dollar value of all apples sold yearly by all orchards in the US?\n",
+        "answer": 6,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 20
+    },
+    {
+        "question": "What is the number of standard Rubik's Cubes it would take to fill the Oval Office?\n",
+        "answer": 6,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 21
+    },
+    {
+        "question": "How many standard Rubik's Cubes would fit in a Hindenburg class airship?\n",
+        "answer": 9,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 22
+    },
+    {
+        "question": "What is the thickness of a cell membrane, as a multiple of the length of the Nile river?\n",
+        "answer": -15,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 23
+    },
+    {
+        "question": "How many carbon atoms would it take in order to create a single-file line of atoms the length of a mile?\n",
+        "answer": 13,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 24
+    },
+    {
+        "question": "How many red blood cells are there in the average human body?\n",
+        "answer": 13,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 25
+    },
+    {
+        "question": "As a factor, how much more is the price of a 15-1b bag of basmati rice than the pricevofan Airbus A380 jet airliner (seats up to 853)?\n",
+        "answer": -7,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 26
+    },
+    {
+        "question": "What is pi to the power of 7?\n",
+        "answer": 3,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 27
+    },
+    {
+        "question": "What number of US dollar bills would you have to lay on the surface area of Manhattan in order to fully cover it?\n",
+        "answer": 10,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 28
+    },
+    {
+        "question": "How many bytes of data do Facebook users produce per day?\n",
+        "answer": 15,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 29
+    },
+    {
+        "question": "How many minutes would it take a light beam to travel the length of a nanometer?\n",
+        "answer": -19,
+        "source": "Raisbeck Aviation Invitational 17-18",
+        "number": 30
+    },
+    {
         "question": "2^32\n",
         "answer": 9,
         "source": "Rice Invitational 17-18",
@@ -8574,7 +9054,7 @@
         "number": 2
     },
     {
-        "question": "1^89\n",
+        "question": "0.1^89\n",
         "answer": -89,
         "source": "Rice Invitational 17-18",
         "number": 3
@@ -10464,6 +10944,684 @@
         "number": 50
     },
     {
+        "question": "What is 2^2017?\n",
+        "answer": 607,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 1
+    },
+    {
+        "question": "What is 12345 \u00d7 67890?\n",
+        "answer": 9,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 2
+    },
+    {
+        "question": "What is 17^31?\n",
+        "answer": 38,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 3
+    },
+    {
+        "question": "What is 161 \u00d7 294 \u00d7 280 \u00d7 438?\n",
+        "answer": 10,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 4
+    },
+    {
+        "question": "What is 4 \u2191\u2191 3? Note: The double up arrow (\u2191\u2191) signifies iterated exponentiation (referred to as tetration). Just like multiplication is repeated addition and exponentiation is repeated multiplication, tetration is repeated exponentiation.\n",
+        "answer": 154,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 5
+    },
+    {
+        "question": "Consider the partial sum of a harmonic series; that is, 1 + 1/2 + 1/3 ... + 1/k. that the partial sum will be above 15?\n",
+        "answer": 6,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 6
+    },
+    {
+        "question": "What is the length of a covalent carbon-carbon bond, as a multiple of the height of the statue of liberty?\n",
+        "answer": -12,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 7
+    },
+    {
+        "question": "Consider the combustion of propane (C3H8). How many moles of propane would you need to combust in order to release the same amount of energy that the Sun outputs in an hour? Assume that oxygen (O2) is in excess and that \u2206H = \u22122221 kJ/mol.\n",
+        "answer": 24,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 8
+    },
+    {
+        "question": "How many iron atoms are on the head of an iron pin?\n",
+        "answer": 13,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 9
+    },
+    {
+        "question": "How many nickels, stacked face to face, would it take in order to create a stack the length of a megaparsec?\n",
+        "answer": 25,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 10
+    },
+    {
+        "question": "How many seconds are in a year?\n",
+        "answer": 7,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 11
+    },
+    {
+        "question": "What is the mass of carbon dioxide produced from oil consumption worldwide each year?\n",
+        "answer": 13,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 12
+    },
+    {
+        "question": "How many African bush elephants would it take to equal the mass of the Virgo Supercluster of galaxies, including the Local Group?\n",
+        "answer": 41,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 13
+    },
+    {
+        "question": "How many carbon atoms would it take in order to create a single-file line of atoms from Istanbul to Moscow?\n",
+        "answer": 16,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 14
+    },
+    {
+        "question": "How many times larger is the acceleration due to gravity on the Moon\u2019s surface than the acceleration of a bullet in the barrel of a gun?\n",
+        "answer": -6,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 15
+    },
+    {
+        "question": "Divide the price of a new copy of Campbell\u2019s Biology 9th edition by the price of a B-2 Spirit stealth bomber\n",
+        "answer": -7,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 16
+    },
+    {
+        "question": "How many US dollar bills are needed to blanket the surface area of the Indian Ocean?\n",
+        "answer": 16,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 17
+    },
+    {
+        "question": "How many TI-Nspire calculators would it take to equal the mass of Sirius A?\n",
+        "answer": 31,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 18
+    },
+    {
+        "question": "At roughly what wind speed, in kilometers per hour, is the force on one\u2019s body from wind approximately equal to the weight of an average adult male?\n",
+        "answer": 2,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 19
+    },
+    {
+        "question": "How far, in femtometers, could a cheetah run at top speed in the time that the Sun has been a star?\n",
+        "answer": 33,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 20
+    },
+    {
+        "question": "How many Nexus 6p cellphones, stacked face to face, would you need to to have a stack with the same length as Betelguese\u2019s radius?\n",
+        "answer": 14,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 21
+    },
+    {
+        "question": "What is the radius of the observable universe divided by a Planck\u2019s length?\n",
+        "answer": 61,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 22
+    },
+    {
+        "question": "How many liters are in a barrel of oil?\n",
+        "answer": 2,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 23
+    },
+    {
+        "question": "How many barrels of oil does the US import every year?\n",
+        "answer": 9,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 24
+    },
+    {
+        "question": "How many heartbeats are there in a year for the entire world\u2019s population?\n",
+        "answer": 17,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 25
+    },
+    {
+        "question": "How many HIV-1 viruses would it take to equal the mass of the Empire State Building?\n",
+        "answer": 26,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 26
+    },
+    {
+        "question": "How many handcuffs would it take in order to create an interlocked chain from Boston, Massachusetts to Juneau, Alaska?\n",
+        "answer": 7,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 27
+    },
+    {
+        "question": "How many burgers were sold last year in America?\n",
+        "answer": 10,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 28
+    },
+    {
+        "question": "How many ping pong balls would it take to fill the Indian Ocean?\n",
+        "answer": 20,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 29
+    },
+    {
+        "question": "How many US dollar coins would fit in a bathtub?\n",
+        "answer": 5,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 30
+    },
+    {
+        "question": "What is the mass of Betelgeuse (a red supergiant of spectral type M1-2 in the constellation Orion) divided by the mass of Jupiter?\n",
+        "answer": 4,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 31
+    },
+    {
+        "question": "How many US dollar coins are needed to cover the surface of Pluto?\n",
+        "answer": 16,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 32
+    },
+    {
+        "question": "How many party balloons are needed to equal the volume of the troposphere?\n",
+        "answer": 21,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 33
+    },
+    {
+        "question": "How many many liters of water are contained in an averaged-sized cumulonimbus cloud?\n",
+        "answer": 6,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 34
+    },
+    {
+        "question": "How many US nickels would you need for the resulting Ni content from the nickels to be equal to the amount of Ni in the Earth\u2019s inner core?\n",
+        "answer": 25,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 35
+    },
+    {
+        "question": "How many liters of freshwater would you add to the Dead Sea to decrease its salinity to that of seawater?\n",
+        "answer": 12,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 36
+    },
+    {
+        "question": "How many grains of sand would be needed to fill the Empire State Building?\n",
+        "answer": 16,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 37
+    },
+    {
+        "question": "How many words were texted in the past year in the US?\n",
+        "answer": 13,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 38
+    },
+    {
+        "question": "What is the volume of air breathed by the whole US population each month?\n",
+        "answer": 13,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 39
+    },
+    {
+        "question": "How many kilograms of pizza were consumed last year in the US?\n",
+        "answer": 10,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 40
+    },
+    {
+        "question": "If a cup of water could be converted entirely into thermal energy, how many kilograms of ice could be melted?\n",
+        "answer": 11,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 41
+    },
+    {
+        "question": "If a weather balloon at sea level was taken to the bottom of the Atlantic Ocean, what would its new volume be in cubic meters?\n",
+        "answer": -3,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 42
+    },
+    {
+        "question": "If you set the entire volume of water from Lake Michigan over a campfire, how many seconds would it take for the water to boil away?\n",
+        "answer": 18,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 43
+    },
+    {
+        "question": "How many copies of Giancoli, Physics: Principles with Applications 7th edition could be made with all the trees on the Earth?\n",
+        "answer": 14,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 44
+    },
+    {
+        "question": "How many leaves are in the Amazon Rainforest?\n",
+        "answer": 17,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 45
+    },
+    {
+        "question": "How many blades of grass are there in Central Park?\n",
+        "answer": 12,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 46
+    },
+    {
+        "question": "If all the humans on Earth crowded together, how much area would we cover in square kilometers?\n",
+        "answer": 3,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 47
+    },
+    {
+        "question": "What is the speed of Titan\u2019s orbit around Saturn in meters per second?\n",
+        "answer": 4,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 48
+    },
+    {
+        "question": "What is the thickness of a sheet of paper in terms of the wavelength of blue light?\n",
+        "answer": 7,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 49
+    },
+    {
+        "question": "If you were to take the DNA from every cell of an average-sized human body and uncoil it, then how many humans would you need for their DNA to stretch from Neptune to the Sun?\n",
+        "answer": -1,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 50
+    },
+    {
+        "question": "How many joules of energy are contained in a tablespoon of material from a neutron star?\n",
+        "answer": 29,
+        "source": "SSSS Fermi (Adi1008) 17-18",
+        "number": 51
+    },
+    {
+        "question": "How many laptop computers could you fit side-byside from the surface of the Sun to the surface of the Earth?\n",
+        "answer": 12,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 1
+    },
+    {
+        "question": "Given a car running at highway speeds, how long would it take for it to circle the Earth in hours?\n",
+        "answer": 2,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 2
+    },
+    {
+        "question": "If you ate 10 donuts and 10 hamburgers, how long would it take you to burn the calories by jogging disregarding normal bodily processes (as in, the calories burned come only through jogging) in terms of seconds?\n",
+        "answer": 5,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 3
+    },
+    {
+        "question": "What is 2 to the power of 100?\n",
+        "answer": 30,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 4
+    },
+    {
+        "question": "How many textbooks would fit inside an Olympicsized swimming pool?\n",
+        "answer": 7,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 5
+    },
+    {
+        "question": "What length of time would it take for Usain Bolt do run from Earth to Alpha Centauri given he keeps the same rate throughout in seconds?\n",
+        "answer": 16,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 6
+    },
+    {
+        "question": "How many apples can you fit into a standard trash can (i.e. one you would find on the side of the street)?\n",
+        "answer": 2,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 7
+    },
+    {
+        "question": "If you used a seesaw to compare the weight of an elephant and the Sun, how many elephants would you need to balance the weight of the Sun?\n",
+        "answer": 26,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 8
+    },
+    {
+        "question": "How fast would it take for a photon to travel from the pitcher\u2019s mound to home plate of a normal MLB (Major League Baseball) stadium in seconds?\n",
+        "answer": -5,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 9
+    },
+    {
+        "question": "How long would it take for Amtrak trains to go from San Francisco to New York City assuming no traffic hiccups?\n",
+        "answer": 1,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 10
+    },
+    {
+        "question": "How many total hours of sleep do all college students get in the United States per night combined (i.e. if one student slept 4 hours and another student slept 8 hours, the total would be 12 hours)?\n",
+        "answer": 8,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 11
+    },
+    {
+        "question": "How long in seconds would it take for a snail to cross the Atlantic Ocean?\n",
+        "answer": 6,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 12
+    },
+    {
+        "question": "How much is spent on gasoline for all cars every year?\n",
+        "answer": 14,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 13
+    },
+    {
+        "question": "How many Earths would fit inside the Milky Way Galaxy?\n",
+        "answer": 38,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 14
+    },
+    {
+        "question": "What amount of cellphones put side-to-side would span across the inside of the Sun?\n",
+        "answer": 11,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 15
+    },
+    {
+        "question": "How many adult human teeth can be fitted inside a normal Mason jar?\n",
+        "answer": 3,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 16
+    },
+    {
+        "question": "How many blue whales put side-to-side would be needed to go around the circumference of the Earth?\n",
+        "answer": 6,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 17
+    },
+    {
+        "question": "What number of tuna cans stacked on top of each other would be needed to go from sea level to the top of Mount Everest?\n",
+        "answer": 5,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 18
+    },
+    {
+        "question": "If a pitcher threw an MLB (Major League Baseball)-normal fastball into space, how long would it take for that fastball to go from the Earth to Pluto at Pluto\u2019s farthest distance from the Sun?\n",
+        "answer": 8,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 19
+    },
+    {
+        "question": "How much water is there on the Earth in cubic meters?\n",
+        "answer": 20,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 20
+    },
+    {
+        "question": "How many newspapers would be needed put side-to-side to cover the surface of the Sun?\n",
+        "answer": 10,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 21
+    },
+    {
+        "question": "How many car sunshields going side-to-side would it take to blanket Earth\u2019s atmosphere at a height of 400 kilometers?\n",
+        "answer": 7,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 22
+    },
+    {
+        "question": "If a human and an electron stood on a scale, how many humans would balance out the scale with 1 electron?\n",
+        "answer": -32,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 23
+    },
+    {
+        "question": "How much time would it take for a bullet to travel the distance across the length of the stirrup in seconds?\n",
+        "answer": -5,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 24
+    },
+    {
+        "question": "How many soup cans would be needed when the soup is emptied into the Pacific Ocean to fill the Pacific Ocean?\n",
+        "answer": 25,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 25
+    },
+    {
+        "question": "How many basketballs would be needed to fit inside a cell phone?\n",
+        "answer": -2,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 26
+    },
+    {
+        "question": "How many trumpet cases could fit inside the Empire State Building?\n",
+        "answer": 7,
+        "source": "SSSs Fermi (luminosityfan) 17-18",
+        "number": 27
+    },
+    {
+        "question": "How many sheets of 5 x 11 paper would have to be stacked to reach the mass of the Sun?\n",
+        "answer": 32,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 1
+    },
+    {
+        "question": "What would be the height of this stack, in cm?\n",
+        "answer": 30,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 2
+    },
+    {
+        "question": "25!\n",
+        "answer": 25,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 3
+    },
+    {
+        "question": "What is the diameter of a US penny in femtometers?\n",
+        "answer": 13,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 4
+    },
+    {
+        "question": "How many 2017 Ford F-150s (base MSRP) would you have to sell to pay off the entire US National Debt (as of May 2017, assuming 100% profit, excluding tax)?\n",
+        "answer": 9,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 5
+    },
+    {
+        "question": "How many average human small intestines laid end to end would wrap around the Earth at the Equator? Do not try this at home.\n",
+        "answer": 7,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 6
+    },
+    {
+        "question": "How many mL of water could the world record holder for bench press bench?\n",
+        "answer": 5,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 7
+    },
+    {
+        "question": "How many times is the word Versace said in the full song \u201cVersace\u201d by Migos?\n",
+        "answer": 2,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 8
+    },
+    {
+        "question": "How many dislikes does \u201cBaby\u201d by Justin Bieber have on YouTube?\n",
+        "answer": 7,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 9
+    },
+    {
+        "question": "How many Eiffel Towers deep is the Mariana Trench?\n",
+        "answer": 1,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 10
+    },
+    {
+        "question": "How many atoms are in a mole of atoms?\n",
+        "answer": 24,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 11
+    },
+    {
+        "question": "How many moles of atoms are in a mole of atoms?\n",
+        "answer": 0,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 12
+    },
+    {
+        "question": "How many atoms are in a mole of 011 g pure carbon balls?\n",
+        "answer": 47,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 13
+    },
+    {
+        "question": "How many carbon atoms would equal the mass of an average European mole (the animal)?\n",
+        "answer": 24,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 14
+    },
+    {
+        "question": "How long is an olympic swimming pool in light years?\n",
+        "answer": -14,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 15
+    },
+    {
+        "question": "What is the price of the Louisiana Purchase divided by the price of the International Space Station (not adjusted for inflation)?\n",
+        "answer": -4,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 16
+    },
+    {
+        "question": "How many hours has it been since the first Science Olympiad event was held (as of May 2017)?\n",
+        "answer": 5,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 17
+    },
+    {
+        "question": "18^18\n",
+        "answer": 22,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 18
+    },
+    {
+        "question": "How many 100W light bulbs could the Sun power?\n",
+        "answer": 24,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 19
+    },
+    {
+        "question": "How long, in seconds, would it take the fastest Bugatti Veyron at top speed to travel 10 feet?\n",
+        "answer": -2,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 20
+    },
+    {
+        "question": "How many twinkies would a blue whale have to consume to reach its daily caloric intake?\n",
+        "answer": 4,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 21
+    },
+    {
+        "question": "What is the frequency, in Hz, of the highest note that the flute plays in the classic masterwork \u201cMask Off\u201d by Future?\n",
+        "answer": 3,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 22
+    },
+    {
+        "question": "What is the radius of a regulation soccer ball in km?\n",
+        "answer": -4,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 23
+    },
+    {
+        "question": "How many human genomes can you store in a 1 Terabyte hard drive?\n",
+        "answer": 3,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 24
+    },
+    {
+        "question": "How attracted are you to your partner (gravitationally, in newtons, assuming you are both 50kg, and are sitting 1m apart)?\n",
+        "answer": -7,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 25
+    },
+    {
+        "question": "How many regulation male water polo balls would fit into the Pacific Ocean?\n",
+        "answer": 20,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 26
+    },
+    {
+        "question": "How long (in seconds) would it take Michael Phelps (at 100m World Record pace) to swim butterfly across a pool stretching from Earth to the Moon?\n",
+        "answer": 8,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 27
+    },
+    {
+        "question": "How many seconds would it take a person typing at 100 words per minute to type the entire Lord of The Rings trilogy?\n",
+        "answer": 5,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 28
+    },
+    {
+        "question": "How many light years long is the Great Wall of China?\n",
+        "answer": -9,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 29
+    },
+    {
+        "question": "How many bones are in the human body?\n",
+        "answer": 2,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 30
+    },
+    {
+        "question": "What was Apple\u2019s total net sales (in dollars) in 2016?\n",
+        "answer": 11,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 31
+    },
+    {
+        "question": "How many consecutive digits of pi have been found (as of May 2017)?\n",
+        "answer": 13,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 32
+    },
+    {
+        "question": "What is the greatest number of people to have ever logged into Facebook in one day?\n",
+        "answer": 9,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 33
+    },
+    {
+        "question": "How many times faster is the speed of light than the speed of sound?\n",
+        "answer": 6,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 34
+    },
+    {
+        "question": "How long (in hours) would it take a garden snail to reach the Sun?\n",
+        "answer": 9,
+        "source": "SSSs Fermi (rafaelnadal) 17-18",
+        "number": 35
+    },
+    {
         "question": "How long is the word \u201cFermi\u201d?\n",
         "answer": 1,
         "source": "SSSS Fermi (randomsci) 22-23",
@@ -11004,6 +12162,300 @@
         "number": 50
     },
     {
+        "question": "How many words are there total on this test?\n",
+        "answer": 3,
+        "source": "University of Florida North Regional 17-18",
+        "number": 1
+    },
+    {
+        "question": "How many total users does Facebook have?\n",
+        "answer": 9,
+        "source": "University of Florida North Regional 17-18",
+        "number": 2
+    },
+    {
+        "question": "How many total users does Instagram have?\n",
+        "answer": 9,
+        "source": "University of Florida North Regional 17-18",
+        "number": 3
+    },
+    {
+        "question": "What is the total number of people who have ever served in the Senate?\n",
+        "answer": 3,
+        "source": "University of Florida North Regional 17-18",
+        "number": 4
+    },
+    {
+        "question": "What is the total number of people who have ever served in the House of Representatives?\n",
+        "answer": 4,
+        "source": "University of Florida North Regional 17-18",
+        "number": 5
+    },
+    {
+        "question": "1234^5\n",
+        "answer": 15,
+        "source": "University of Florida North Regional 17-18",
+        "number": 6
+    },
+    {
+        "question": "How many seconds will pass between noon today (1/13/18) and noon on the date of the state competition (3/24/18)?\n",
+        "answer": 7,
+        "source": "University of Florida North Regional 17-18",
+        "number": 7
+    },
+    {
+        "question": "How many grains of sand would it take to fill the Empire State Building?\n",
+        "answer": 18,
+        "source": "University of Florida North Regional 17-18",
+        "number": 8
+    },
+    {
+        "question": "How many unit barrels of water would it take to fill Ben Hill Griffin Stadium?\n",
+        "answer": 6,
+        "source": "University of Florida North Regional 17-18",
+        "number": 9
+    },
+    {
+        "question": "How many GameCubes stacked on top one another would it take to reach the height of Mt. Everest?\n",
+        "answer": 5,
+        "source": "University of Florida North Regional 17-18",
+        "number": 10
+    },
+    {
+        "question": "How many hair follicles are there on the world\u2019s population? Assume humans only have hair follicles on their heads.\n",
+        "answer": 15,
+        "source": "University of Florida North Regional 17-18",
+        "number": 11
+    },
+    {
+        "question": "How many dry grains of white long grain rice would it take to cover the ground of the gardens that contain the Taj Mahal?\n",
+        "answer": 16,
+        "source": "University of Florida North Regional 17-18",
+        "number": 12
+    },
+    {
+        "question": "How much do the tacos that were consumed in the United States during the year 2016 weigh in slugs? Slugs are a unit of weight.\n",
+        "answer": 8,
+        "source": "University of Florida North Regional 17-18",
+        "number": 13
+    },
+    {
+        "question": "How many fortnights would it take to traverse the length of a grain of rice, longwise, travelling at the speed of light?\n",
+        "answer": -19,
+        "source": "University of Florida North Regional 17-18",
+        "number": 14
+    },
+    {
+        "question": "How much longer, in jubilees, would it take a zebra to circle the globe, along the equator, than it would for a cheetah? Assume that zebras and cheetahs both can run across water, and that they run continuously.\n",
+        "answer": -3,
+        "source": "University of Florida North Regional 17-18",
+        "number": 15
+    },
+    {
+        "question": "How much does a toenail grow per Svedberg in furlongs?\n",
+        "answer": -24,
+        "source": "University of Florida North Regional 17-18",
+        "number": 16
+    },
+    {
+        "question": "How many standard-sized credit cards would fit in all of the oceans on Earth?\n",
+        "answer": 24,
+        "source": "University of Florida North Regional 17-18",
+        "number": 17
+    },
+    {
+        "question": "How many golf balls fit in the 3rd largest planet that NASA has found to date?\n",
+        "answer": 30,
+        "source": "University of Florida North Regional 17-18",
+        "number": 18
+    },
+    {
+        "question": "How many fast food restaurants are open in the United States right now?\n",
+        "answer": 5,
+        "source": "University of Florida North Regional 17-18",
+        "number": 19
+    },
+    {
+        "question": "How many fast food restaurants are open in the world right now?\n",
+        "answer": 6,
+        "source": "University of Florida North Regional 17-18",
+        "number": 20
+    },
+    {
+        "question": "How many cubic millimeters of liquid could fit in an average sized 6\u20191\u201d man?\n",
+        "answer": 8,
+        "source": "University of Florida North Regional 17-18",
+        "number": 21
+    },
+    {
+        "question": "How many pennies would you have to melt to have enough material to make Iron man\u2019s suit?\n",
+        "answer": 4,
+        "source": "University of Florida North Regional 17-18",
+        "number": 22
+    },
+    {
+        "question": "How many angstroms are there between the center of South Africa and the center of Australia?\n",
+        "answer": 17,
+        "source": "University of Florida North Regional 17-18",
+        "number": 23
+    },
+    {
+        "question": "How many passengers passed through Miami International Airport in 2012?\n",
+        "answer": 7,
+        "source": "University of Florida North Regional 17-18",
+        "number": 24
+    },
+    {
+        "question": "How many gallons of Walmart Brand milk could Matt Leblanc buy using only his salary from filming season 7 of Friends?\n",
+        "answer": 6,
+        "source": "University of Florida North Regional 17-18",
+        "number": 25
+    },
+    {
+        "question": "How many Maserati Quattroportes would be equivalent in weight to the largest airplane ever made?\n",
+        "answer": 2,
+        "source": "University of Florida North Regional 17-18",
+        "number": 26
+    },
+    {
+        "question": "How many CDs would you have to line edge to edge to equal the length of the Golden Gate bridge ?\n",
+        "answer": 2,
+        "source": "University of Florida North Regional 17-18",
+        "number": 27
+    },
+    {
+        "question": "3^20\n",
+        "answer": 9,
+        "source": "University of Florida North Regional 17-18",
+        "number": 28
+    },
+    {
+        "question": "How many square parsecs are there in one square lightyear?\n",
+        "answer": -1,
+        "source": "University of Florida North Regional 17-18",
+        "number": 29
+    },
+    {
+        "question": "What is the mass of the sun in units of King Size Hershey Bars?\n",
+        "answer": 31,
+        "source": "University of Florida North Regional 17-18",
+        "number": 30
+    },
+    {
+        "question": "How wide is this paper in Scandinavian miles?\n",
+        "answer": -5,
+        "source": "University of Florida North Regional 17-18",
+        "number": 31
+    },
+    {
+        "question": "How many blades of grass are there on a standard sized football field?\n",
+        "answer": 8,
+        "source": "University of Florida North Regional 17-18",
+        "number": 32
+    },
+    {
+        "question": "If you have 150 randomly selected people in a room, what\u2019s the probability that they all have different birthdays?\n",
+        "answer": -14,
+        "source": "University of Florida North Regional 17-18",
+        "number": 33
+    },
+    {
+        "question": "If you have 75 randomly selected people in a room, what\u2019s the probability that they all have different birthdays?\n",
+        "answer": -4,
+        "source": "University of Florida North Regional 17-18",
+        "number": 34
+    },
+    {
+        "question": "How many people would you need in a room to have a 50% chance that two of them share a birthday?\n",
+        "answer": 1,
+        "source": "University of Florida North Regional 17-18",
+        "number": 35
+    },
+    {
+        "question": "If the spelling in Webster\u2019s Third New International Dictionary, published in 1961, was only 99% correct, how many misspelled words would there be?\n",
+        "answer": 3,
+        "source": "University of Florida North Regional 17-18",
+        "number": 36
+    },
+    {
+        "question": "If you had invested $365 into bitcoin on January 1st 2011, how much money would your investment be worth if you sold on Thanksgiving of this past year?\n",
+        "answer": 7,
+        "source": "University of Florida North Regional 17-18",
+        "number": 37
+    },
+    {
+        "question": "How many ways are there to shuffle a deck of cards?\n",
+        "answer": 67,
+        "source": "University of Florida North Regional 17-18",
+        "number": 38
+    },
+    {
+        "question": "As of 2010, how many car tires are there on the globe? Only include those that are currently attached to cars.\n",
+        "answer": 9,
+        "source": "University of Florida North Regional 17-18",
+        "number": 39
+    },
+    {
+        "question": "What is Google\u2019s daily ad revenue?\n",
+        "answer": 8,
+        "source": "University of Florida North Regional 17-18",
+        "number": 40
+    },
+    {
+        "question": "How many total lines are there in a college ruled 5 subject notebook?\n",
+        "answer": 4,
+        "source": "University of Florida North Regional 17-18",
+        "number": 41
+    },
+    {
+        "question": "How many ants are there on earth?\n",
+        "answer": 13,
+        "source": "University of Florida North Regional 17-18",
+        "number": 42
+    },
+    {
+        "question": "How many atoms, of the diameter of an average plutonium, would it take, lined end to end, to cover the length of a marathon?\n",
+        "answer": 14,
+        "source": "University of Florida North Regional 17-18",
+        "number": 43
+    },
+    {
+        "question": "If a computer counted up starting at 0 for one day at a rate of 1 number per likshaka, a hindu unit of time, what would the final number it reached be?\n",
+        "answer": 7,
+        "source": "University of Florida North Regional 17-18",
+        "number": 44
+    },
+    {
+        "question": "How many seconds are there in a fortnight on Pluto?\n",
+        "answer": 7,
+        "source": "University of Florida North Regional 17-18",
+        "number": 45
+    },
+    {
+        "question": "How many hours would it take Usain bolt to run the length of Earth\u2019s orbit if he ran at full speed the entire time?\n",
+        "answer": 7,
+        "source": "University of Florida North Regional 17-18",
+        "number": 46
+    },
+    {
+        "question": "How many hours would it take the world\u2019s fastest plane?\n",
+        "answer": 5,
+        "source": "University of Florida North Regional 17-18",
+        "number": 47
+    },
+    {
+        "question": "How many iPhone X\u2019s would it take to equal the volume of Neptune?\n",
+        "answer": 27,
+        "source": "University of Florida North Regional 17-18",
+        "number": 48
+    },
+    {
+        "question": "How many iPhone X\u2019s would it take to equal the weight of Neptune?\n",
+        "answer": 27,
+        "source": "University of Florida North Regional 17-18",
+        "number": 49
+    },
+    {
         "question": "What percent of America\u2019s male population would it take to lift the Eiffel Tower to hip height assuming space for people lifting is not an issue?\n",
         "answer": -3,
         "source": "University of Georgia Invitational 18-19",
@@ -11362,6 +12814,216 @@
         "answer": 12,
         "source": "UMass Amherst Invitational 22-23",
         "number": 40
+    },
+    {
+        "question": "How many events are held in a typical Division C Science Olympiad competition?\n",
+        "answer": 1,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 1
+    },
+    {
+        "question": "As of 2017, how many minutes of movie has Steven Spielberg directed?\n",
+        "answer": 3,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 2
+    },
+    {
+        "question": "Assume that in a game of Rock-Paper-Scissors, the hands played by both participants are chosen completely randomly with an equal chance of choosing Rock, Paper, or Scissors. If the two choose the same hand, they do another round. What is the probability the two play the same hand exactly 72 times before finally declaring a winner? Note: a probability of \u00bd can be written as 5\n",
+        "answer": -35,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 3
+    },
+    {
+        "question": "What is the pH of rain?\n",
+        "answer": 1,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 4
+    },
+    {
+        "question": "What is the net worth of Apple, Inc., in Mexican pesos?\n",
+        "answer": 13,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 5
+    },
+    {
+        "question": "How many standard packs of Bicycle playing cards would it take to completely cover Jupiter?\n",
+        "answer": 20,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 6
+    },
+    {
+        "question": "What is the surface area of an iPhone 7, in hectares?\n",
+        "answer": -6,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 7
+    },
+    {
+        "question": "How many human skin cells, laid end to end, would it take to reach from here to the Science Olympiad National Tournament in Fort Collins, Colorado?\n",
+        "answer": 11,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 8
+    },
+    {
+        "question": "What is the overall product of the lengths of the first names of everyone who is taking Fermi at this competition? (For example, if Bob, Mary, and Joseph are the only ones competing in Fermi, the answer would be 3 x 4 x 6 = 72 \u21d2 2) Please note that I will be using the names written on the front pages of these tests to calculate the answer to this question.\n",
+        "answer": 58,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 9
+    },
+    {
+        "question": "26\n",
+        "answer": 13,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 10
+    },
+    {
+        "question": "How many full rolls of toilet paper could fit inside the White House?\n",
+        "answer": 7,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 11
+    },
+    {
+        "question": "What is the mass of a mole (unit) of moles (animal), in ounces?\n",
+        "answer": 24,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 12
+    },
+    {
+        "question": "What is the density of four-year colleges in the United States, per square meter?\n",
+        "answer": -10,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 13
+    },
+    {
+        "question": "If the population of Michigan were to continue growing at its current growth rate for eternity, how many years from now would it take for its population to reach the current population of the world?\n",
+        "answer": 3,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 14
+    },
+    {
+        "question": "What is the perimeter of Manhattan, in terms of the wavelength of red light?\n",
+        "answer": 11,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 15
+    },
+    {
+        "question": "How many credit cards would fit in the Earth\u2019s stratosphere?\n",
+        "answer": 25,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 16
+    },
+    {
+        "question": "A sample of pure iridium weighs as much as a loaf of bread. How many atoms of iridium are in the sample?\n",
+        "answer": 24,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 17
+    },
+    {
+        "question": "At what speed would a standard brick have to travel in order to have the same kinetic energy as a Ping-Pong ball travelling at a cheetah\u2019s top speed? Give your answer in km/hr.\n",
+        "answer": 0,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 18
+    },
+    {
+        "question": "What is the file size of the original Pok\u00e9mon Red, in terms of the file size of the total article text of the English Wikipedia?\n",
+        "answer": -4,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 19
+    },
+    {
+        "question": "On average, how many times has Luis Fonsi\u2019s Despacito been watched on YouTube per day since it was uploaded?\n",
+        "answer": 7,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 20
+    },
+    {
+        "question": "What is the diameter of an electron, in light years?\n",
+        "answer": -32,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 21
+    },
+    {
+        "question": "How many March Madness brackets would each member of the US Congress have to fill out in order to guarantee that someone has a perfect bracket? You can assume that each member of Congress fills out the same number of brackets and that all filled-out brackets are unique.\n",
+        "answer": 16,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 22
+    },
+    {
+        "question": "If every person who ever lived crowded together in one spot, how much area would be covered, in terms of the area of Rhode Island?\n",
+        "answer": 1,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 23
+    },
+    {
+        "question": "How many individual fries does McDonald\u2019s sell every year?\n",
+        "answer": 12,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 24
+    },
+    {
+        "question": "How many pennies would it take to create a walkable bridge from Boston, MA to Portugal, assuming that pennies sink (and that you therefore must stack pennies from the bottom of the ocean floor)?\n",
+        "answer": 16,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 25
+    },
+    {
+        "question": "How many more square centimeters is the area of the earth in the flat earth model, compared to the area of the earth in real life? Useful note: The most common flat earth model represents the earth as a disk, with the North Pole at the center and the \u201cSouth Pole\u201d at the edge.\n",
+        "answer": 19,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 26
+    },
+    {
+        "question": "How many exa-newtons of force does the Earth\u2019s gravitational field apply on a single grain of rice located on the surface of the Moon?\n",
+        "answer": -25,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 27
+    },
+    {
+        "question": "You are in space and are unaffected by gravity (yes you are still breathing, don\u2019t ask how). You want to get from the Sun to the next closest star, so you throw your shoe in the correct direction. How many minutes would it take for you to get there?\n",
+        "answer": 15,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 28
+    },
+    {
+        "question": "How many times does the string \u201ccell\u201d appear in Campbell\u2019s Biology, 9th edition? (Note: any word that contains \u201ccell\u201d, such as \u201cintracellular\u201d or \u201ccellulose\u201d, would count)\n",
+        "answer": 3,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 29
+    },
+    {
+        "question": "How many terabytes is this test, when converted to PDF format?\n",
+        "answer": -7,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 30
+    },
+    {
+        "question": "How many standard AAA batteries would it take to equal the total installed wind energy capacity of the world?\n",
+        "answer": 5,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 31
+    },
+    {
+        "question": "How many cells are in the typical human body?\n",
+        "answer": 13,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 32
+    },
+    {
+        "question": "If you took the hair from the heads of every student enrolled at the University of Michigan, how many pounds of hair would you have?\n",
+        "answer": 4,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 33
+    },
+    {
+        "question": "An average-sized blue whale is actually a mutant - it can stay suspended in pure helium without sinking or rising. What is its mass, in solar masses?\n",
+        "answer": -29,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 34
+    },
+    {
+        "question": "How many results turn up when \u201cUniversity of Michigan Science Olympiad\u201d is Googled?\n",
+        "answer": 5,
+        "source": "University of Michigan Invitational 17-18",
+        "number": 35
     },
     {
         "question": "What is the area of a football field including end zones in square feet?\n",

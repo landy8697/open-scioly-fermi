@@ -1,0 +1,100 @@
+University of Florida North Regional 17-18
+49
+How many words are there total on this test?
+3
+How many total users does Facebook have?
+9
+How many total users does Instagram have?
+9
+What is the total number of people who have ever served in the Senate?
+3
+What is the total number of people who have ever served in the House of Representatives?
+4
+1234^5
+15
+How many seconds will pass between noon today (1/13/18) and noon on the date of the state competition (3/24/18)?
+7
+How many grains of sand would it take to fill the Empire State Building?
+18
+How many unit barrels of water would it take to fill Ben Hill Griffin Stadium?
+6
+How many GameCubes stacked on top one another would it take to reach the height of Mt. Everest?
+5
+How many hair follicles are there on the world’s population? Assume humans only have hair follicles on their heads.
+15
+How many dry grains of white long grain rice would it take to cover the ground of the gardens that contain the Taj Mahal?
+16
+How much do the tacos that were consumed in the United States during the year 2016 weigh in slugs? Slugs are a unit of weight.
+8
+How many fortnights would it take to traverse the length of a grain of rice, longwise, travelling at the speed of light?
+-19
+How much longer, in jubilees, would it take a zebra to circle the globe, along the equator, than it would for a cheetah? Assume that zebras and cheetahs both can run across water, and that they run continuously.
+-3
+How much does a toenail grow per Svedberg in furlongs?
+-24
+How many standard-sized credit cards would fit in all of the oceans on Earth?
+24
+How many golf balls fit in the 3rd largest planet that NASA has found to date?
+30
+How many fast food restaurants are open in the United States right now?
+5
+How many fast food restaurants are open in the world right now?
+6
+How many cubic millimeters of liquid could fit in an average sized 6’1” man?
+8
+How many pennies would you have to melt to have enough material to make Iron man’s suit?
+4
+How many angstroms are there between the center of South Africa and the center of Australia?
+17
+How many passengers passed through Miami International Airport in 2012?
+7
+How many gallons of Walmart Brand milk could Matt Leblanc buy using only his salary from filming season 7 of Friends?
+6
+How many Maserati Quattroportes would be equivalent in weight to the largest airplane ever made?
+2
+How many CDs would you have to line edge to edge to equal the length of the Golden Gate bridge ?
+2
+3^20
+9
+How many square parsecs are there in one square lightyear?
+-1
+What is the mass of the sun in units of King Size Hershey Bars?
+31
+How wide is this paper in Scandinavian miles?
+-5
+How many blades of grass are there on a standard sized football field?
+8
+If you have 150 randomly selected people in a room, what’s the probability that they all have different birthdays?
+-14
+If you have 75 randomly selected people in a room, what’s the probability that they all have different birthdays?
+-4
+How many people would you need in a room to have a 50% chance that two of them share a birthday?
+1
+If the spelling in Webster’s Third New International Dictionary, published in 1961, was only 99% correct, how many misspelled words would there be?
+3
+If you had invested $365 into bitcoin on January 1st 2011, how much money would your investment be worth if you sold on Thanksgiving of this past year?
+7
+How many ways are there to shuffle a deck of cards?
+67
+As of 2010, how many car tires are there on the globe? Only include those that are currently attached to cars.
+9
+What is Google’s daily ad revenue?
+8
+How many total lines are there in a college ruled 5 subject notebook?
+4
+How many ants are there on earth?
+13
+How many atoms, of the diameter of an average plutonium, would it take, lined end to end, to cover the length of a marathon?
+14
+If a computer counted up starting at 0 for one day at a rate of 1 number per likshaka, a hindu unit of time, what would the final number it reached be?
+7
+How many seconds are there in a fortnight on Pluto?
+7
+How many hours would it take Usain bolt to run the length of Earth’s orbit if he ran at full speed the entire time?
+7
+How many hours would it take the world’s fastest plane?
+5
+How many iPhone X’s would it take to equal the volume of Neptune?
+27
+How many iPhone X’s would it take to equal the weight of Neptune?
+27

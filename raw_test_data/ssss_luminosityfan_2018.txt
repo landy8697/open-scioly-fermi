@@ -1,0 +1,104 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. How many laptop computers could you fit side-byside from the surface of the Sun to the surface of the
+Earth?
+2. Given a car running at highway speeds, how long
+would it take for it to circle the Earth in hours?
+3. If you ate 10 donuts and 10 hamburgers, how long
+would it take you to burn the calories by jogging
+disregarding normal bodily processes (as in, the
+calories burned come only through jogging) in terms
+of seconds?
+4. What is 2 to the power of 100?
+5. How many textbooks would fit inside an Olympicsized swimming pool?
+6. What length of time would it take for Usain Bolt do
+run from Earth to Alpha Centauri given he keeps the
+same rate throughout in seconds?
+7. How many apples can you fit into a standard trash
+can (i.e. one you would find on the side of the street)?
+8. If you used a seesaw to compare the weight of an
+elephant and the Sun, how many elephants would you
+need to balance the weight of the Sun?
+9. How fast would it take for a photon to travel from the
+pitcher’s mound to home plate of a normal MLB
+(Major League Baseball) stadium in seconds?
+10. How long would it take for Amtrak trains to go
+from San Francisco to New York City assuming no
+traffic hiccups?
+11. How many total hours of sleep do all college
+students get in the United States per night combined
+(i.e. if one student slept 4 hours and another student
+slept 8 hours, the total would be 12 hours)?
+12. How long in seconds would it take for a snail to
+cross the Atlantic Ocean?
+13. How much is spent on gasoline for all cars every
+year?
+14. How many Earths would fit inside the Milky
+Way Galaxy?
+15. What amount of cellphones put side-to-side
+would span across the inside of the Sun?
+16. How many adult human teeth can be fitted
+inside a normal Mason jar?
+17. How many blue whales put side-to-side would
+be needed to go around the circumference of the
+Earth?
+18. What number of tuna cans stacked on top of
+each other would be needed to go from sea level to
+the top of Mount Everest?
+19. If a pitcher threw an MLB (Major League
+Baseball)-normal fastball into space, how long would
+it take for that fastball to go from the Earth to Pluto at
+Pluto’s farthest distance from the Sun?
+20. How much water is there on the Earth in cubic
+meters?
+21. How many newspapers would be needed put
+side-to-side to cover the surface of the Sun?
+22. How many car sunshields going side-to-side
+would it take to blanket Earth’s atmosphere at a
+height of 400 kilometers?
+23. If a human and an electron stood on a scale, how
+many humans would balance out the scale with 1
+electron?
+24. How much time would it take for a bullet to
+travel the distance across the length of the stirrup in
+seconds?
+25. How many soup cans would be needed when the
+soup is emptied into the Pacific Ocean to fill the
+Pacific Ocean?
+26. How many basketballs would be needed to fit
+inside a cell phone?
+27. How many trumpet cases could fit inside the
+Empire State Building?
+
+12
+2
+5
+30
+7
+16
+
+2
+26
+-5
+1
+8
+6
+14
+
+38
+11
+3
+6
+5
+8
+
+20
+10
+7
+-32
+-5
+25
+
+-2
+7

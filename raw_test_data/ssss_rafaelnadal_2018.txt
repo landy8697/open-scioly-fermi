@@ -1,0 +1,92 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. How many sheets of 8.5 x 11 paper would have to be stacked to reach the
+mass of the Sun?
+2. What would be the height of this stack, in cm?
+3. 25!
+4. What is the diameter of a US penny in femtometers?
+5. How many 2017 Ford F-150s (base MSRP) would you have to sell to pay off
+the entire US National Debt (as of May 2017, assuming 100% profit, excluding
+tax)?
+6. How many average human small intestines laid end to end would wrap
+around the Earth at the Equator? Do not try this at home.
+7. How many mL of water could the world record holder for bench press
+bench?
+8. How many times is the word Versace said in the full song “Versace” by
+Migos?
+9. How many dislikes does “Baby” by Justin Bieber have on YouTube?
+10. How many Eiffel Towers deep is the Mariana Trench?
+11. How many atoms are in a mole of atoms?
+12. How many moles of atoms are in a mole of atoms?
+13. How many atoms are in a mole of 12.011 g pure carbon balls?
+14. How many carbon atoms would equal the mass of an average European
+mole (the animal)?
+15. How long is an olympic swimming pool in light years?
+16. What is the price of the Louisiana Purchase divided by the price of the
+International Space Station (not adjusted for inflation)?
+17. How many hours has it been since the first Science Olympiad event was
+held (as of May 2017)?
+18. 18^18
+19. How many 100W light bulbs could the Sun power?
+20. How long, in seconds, would it take the fastest Bugatti Veyron at top speed
+to travel 10 feet?
+21. How many twinkies would a blue whale have to consume to reach its daily
+caloric intake?
+22. What is the frequency, in Hz, of the highest note that the flute plays in the
+classic masterwork “Mask Off” by Future?
+23. What is the radius of a regulation soccer ball in km?
+24. How many human genomes can you store in a 1 Terabyte hard drive?
+25. How attracted are you to your partner (gravitationally, in newtons,
+assuming you are both 50kg, and are sitting 1m apart)?
+26. How many regulation male water polo balls would fit into the Pacific
+Ocean?
+27. How long (in seconds) would it take Michael Phelps (at 100m World
+Record pace) to swim butterfly across a pool stretching from Earth to the
+Moon?
+28. How many seconds would it take a person typing at 100 words per minute
+to type the entire Lord of The Rings trilogy?
+29. How many light years long is the Great Wall of China?
+30. How many bones are in the human body?
+31. What was Apple’s total net sales (in dollars) in 2016?
+32. How many consecutive digits of pi have been found (as of May 2017)?
+33. What is the greatest number of people to have ever logged into Facebook
+in one day?
+34. How many times faster is the speed of light than the speed of sound?
+35. How long (in hours) would it take a garden snail to reach the Sun?
+
+32
+30
+25
+13
+9
+7
+5
+2
+7
+1
+24
+0
+47
+24
+-14
+-4
+5
+22
+24
+-2
+4
+3
+-4
+3
+-7
+20
+8
+5
+-9
+2
+11
+13
+9
+6
+9
