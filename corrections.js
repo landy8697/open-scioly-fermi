@@ -222,9 +222,9 @@ corrections = {
         "credit": "sharp59#6969"
     },
     "Golden Gate Invitational 22-23, #31": {
-        "question": "They say that it took Thomas Jefferson 1,000 tries to successfully create the first lightbulb. How many Navajo Indians died in that amount of time?",
+        "question": "They say that it took Thomas Edison 1,000 tries to successfully create the first lightbulb. How many Navajo Indians died in that amount of time?",
         "answer": "",
-        "explanation": "jefferson died 50 years before the lightbulb. edison is credited with inventing it",
+        "explanation": "",
         "credit": ""
     },
     "BullSO Invitational 22-23, #10": {
@@ -352,6 +352,114 @@ corrections = {
         "answer": "",
         "explanation": "",
         "credit": "None"
+    },
+    "Princeton Invitational 17-18, #60": {
+        "question": "The Ackermann function is defined by \n\u00e2\u20ac\u00a2 A(0, n) = n + 1 \u00e2\u20ac\u00a2 A(m, 0) = A(m \u00e2\u02c6\u2019 1, 1)\n\u00e2\u20ac\u00a2 A(m, n) = A(m \u00e2\u02c6\u2019 1; A(m, n \u00e2\u02c6\u2019 1)) \nSome values include: A(2, 3) = 9 and A(4, 1) = 65533\nWhat is A(4, 2)? [SI/2017 USD]",
+        "answer": "",
+        "explanation": "",
+        "credit": "None"
+    },
+    "SOAPS Invitational 22-23, #25": {
+        "question": "",
+        "answer": "1",
+        "explanation": "Given answer of 5 is impossible since 10^5 > 500; correct answer is 100 (2), as per this study: https://www.npr.org/sections/thetwo-way/2016/09/28/495798448/what-meerkat-murder-tells-us-about-human-violence",
+        "credit": "__lockheedmartin (discord)"
+    },
+    "MIT Invitational 22-23, #27": {
+        "question": "43^29",
+        "answer": "",
+        "explanation": "Bro just read the question \nIt looks like they meant 43^29 since the answer would be 47",
+        "credit": ""
+    },
+    "High Desert Mini Invitational 22-23, #6": {
+        "question": "How tall is Mount Everest (in meters)?",
+        "answer": "",
+        "explanation": "",
+        "credit": ""
+    },
+    "UChicago Invitational 22-23, #1": {
+        "question": "",
+        "answer": "19",
+        "explanation": "A study in the journal Earth Surface Processes and Landforms, written by Dr. Robert A. Morton of the U.S. Geological Survey, predicted that there are 7.5*10^18 grains of sand on earth. Based off other sources this is also the accepted number in academia.",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #33 [2018 Westlake Q47]": {
+        "question": "",
+        "answer": "-21",
+        "explanation": "Diameter of a helium atom is 9.8*10^-11 meters and the diameter of the sun is 1.3927 * 10^9 meters.  Dividing this gives us 7.0366913*10^-20 which is -21 in fermi units.",
+        "credit": "BTHS Science Olympiad!!"
+    },
+    "UChicago Invitational 22-23, #33": {
+        "question": "",
+        "answer": "8",
+        "explanation": "238,900 miles to the moon * 1 hour / 3 miles (average walking pace) * 60 mins / 1 hr * 60 sec / 1 min = 286,680,000 seconds, or 2.8 * 10^8, answer is 8",
+        "credit": ""
+    },
+    "Rice Invitational 17-18, #10": {
+        "question": "",
+        "answer": "-6",
+        "explanation": "i hope the question meant -6",
+        "credit": ""
+    },
+    "SOUP Invitational 22-23, #31": {
+        "question": "",
+        "answer": "8",
+        "explanation": "Maybe people got less interested in making soup or something, but 300 million->8 results show up if you look it up on a standard school laptop.",
+        "credit": "emptiespace"
+    },
+    "Clements Invitational 17-18, #7": {
+        "question": "",
+        "answer": "21",
+        "explanation": "Gm...\nSurface area of Moon is 3.8 10^13 m^2...\nso Volume of Glass.. is.. 1.9 * 10^12 m^3 OR 1.9 * 10^18 cm^3\nTHUS... around 4 * 10^18 gram or 4 * 10^21 milligram\n\nRB",
+        "credit": "Ryan park"
+    },
+    "RobertYL, daily fermi questions day #110 [2019 Monta Vista Q22]": {
+        "question": "",
+        "answer": "9",
+        "explanation": "The US GDP is 2*10^13 USD and the average cost of a car is 3.5*10^4 USD.  When you divide these 2 you get 6.5*10^8 and then you round up to get 10^9",
+        "credit": "BTHS SciOly"
+    },
+    "North Pocono Invitational 22-23, #15": {
+        "question": "",
+        "answer": "0",
+        "explanation": "Im relatively sure the Milky Way is a galaxy, which means theres only one galaxy in the Milky Way. Kinda similar to \"how many countries are in the U.S.?\" i think.",
+        "credit": "emptiespace"
+    },
+    "SSSs Fermi (luminosityfan) 17-18, #12": {
+        "question": "",
+        "answer": "8",
+        "explanation": "Google says that the Atlantic is 4.9 million meters, and that a snail speed is 0.01 meters per second. This gives 4900000/0.01->8 as the fermi answer.",
+        "credit": "emptiespace"
+    },
+    "SSSS Fermi (randomsci) 22-23, #27": {
+        "question": "",
+        "answer": "78",
+        "explanation": "The Google Calculator says 6x10^77 -> 78 for the fermi answer.",
+        "credit": "emptiespace"
+    },
+    "Seven Lakes Invitational 22-23, #38": {
+        "question": "",
+        "answer": "4",
+        "explanation": "Google says that it takes 820 hours to walk to the end of a minecraft world. Multiply this by 60 to get 49200. This gets pretty close to the 5 midpoint, but does round down to 4.",
+        "credit": "emptiespace"
+    },
+    "SSSS Fermi (Adi1008) 17-18, #49": {
+        "question": "",
+        "answer": "2",
+        "explanation": "Simply divided the thickness of the average piece of paper by the wavelength of blue light",
+        "credit": ""
+    },
+    "Yale Invitational 17-18, #22": {
+        "question": "Evaluate (\u00cf\u20ace)^(\u00cf\u20ace)",
+        "answer": "",
+        "explanation": "",
+        "credit": "None"
+    },
+    "Yale Invitational 17-18, #19": {
+        "question": "It's Chris's birthday! How many times should he roll a fair 10^10000-sided die before expecting to see a number twice (not necessarily consecutively) ?",
+        "answer": "",
+        "explanation": "",
+        "credit": "None"
     }
 }
 corrections_list = [
@@ -419,5 +527,24 @@ corrections_list = [
     "Yale Invitational 17-18, #5",
     "UT Austin Regionals 22-23, #14",
     "Rice Invitational 17-18, #3",
-    "Duke Invitational 22-23, #36"
+    "Duke Invitational 22-23, #36",
+    "Princeton Invitational 17-18, #60",
+    "SOAPS Invitational 22-23, #25",
+    "MIT Invitational 22-23, #27",
+    "High Desert Mini Invitational 22-23, #6",
+    "UChicago Invitational 22-23, #1",
+    "RobertYL, daily fermi questions day #33 [2018 Westlake Q47]",
+    "Golden Gate Invitational 22-23, #31",
+    "UChicago Invitational 22-23, #33",
+    "Rice Invitational 17-18, #10",
+    "SOUP Invitational 22-23, #31",
+    "Clements Invitational 17-18, #7",
+    "RobertYL, daily fermi questions day #110 [2019 Monta Vista Q22]",
+    "North Pocono Invitational 22-23, #15",
+    "SSSs Fermi (luminosityfan) 17-18, #12",
+    "SSSS Fermi (randomsci) 22-23, #27",
+    "Seven Lakes Invitational 22-23, #38",
+    "SSSS Fermi (Adi1008) 17-18, #49",
+    "Yale Invitational 17-18, #22",
+    "Yale Invitational 17-18, #19"
 ]

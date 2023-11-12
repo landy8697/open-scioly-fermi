@@ -88,3 +88,34 @@ RB",Craig buszka
 10/26/2023 17:11:41,"Rice Invitational 17-18, #3        ",0.1^89,,1^89 is 1... which happens to be a fermi answer of 0. ,
 ,,,,,
 10/28/2023 2:51:37,"Duke Invitational 22-23, #36        ",What percentage is that volume compared to mL of water on Earth? [That volume: mL of blood does our heart pumps each day],,,None
+10/28/2023 4:00:03,"Princeton Invitational 17-18, #60        ","The Ackermann function is defined by 
+• A(0, n) = n + 1 • A(m, 0) = A(m − 1, 1)
+• A(m, n) = A(m − 1; A(m, n − 1)) 
+Some values include: A(2, 3) = 9 and A(4, 1) = 65533
+What is A(4, 2)? [SI/2017 USD]",,,None
+10/29/2023 0:26:34,"SOAPS Invitational 22-23, #25        ",,1,"Given answer of 5 is impossible since 10^5 > 500; correct answer is 100 (2), as per this study: https://www.npr.org/sections/thetwo-way/2016/09/28/495798448/what-meerkat-murder-tells-us-about-human-violence ",__lockheedmartin (discord)
+10/29/2023 20:34:49,"MIT Invitational 22-23, #27        ",43^29,,"Bro just read the question 
+It looks like they meant 43^29 since the answer would be 47",
+10/29/2023 21:28:53,"High Desert Mini Invitational 22-23, #6        ",How tall is Mount Everest (in meters)?,,,
+11/1/2023 20:10:08,"UChicago Invitational 22-23, #1        ",,19,"A study in the journal Earth Surface Processes and Landforms, written by Dr. Robert A. Morton of the U.S. Geological Survey, predicted that there are 7.5*10^18 grains of sand on earth. Based off other sources this is also the accepted number in academia.",
+11/4/2023 9:26:39,"RobertYL, daily fermi questions day #33 [2018 Westlake Q47]        ",,-21,Diameter of a helium atom is 9.8*10^-11 meters and the diameter of the sun is 1.3927 * 10^9 meters.  Dividing this gives us 7.0366913*10^-20 which is -21 in fermi units.,BTHS Science Olympiad!!
+11/5/2023 14:31:34,"Golden Gate Invitational 22-23, #31        ","They say that it took Thomas Edison 1,000 tries to successfully create the first lightbulb. How many Navajo Indians died in that amount of time?",,,
+11/6/2023 10:51:04,"UChicago Invitational 22-23, #33        ",,8,"238,900 miles to the moon * 1 hour / 3 miles (average walking pace) * 60 mins / 1 hr * 60 sec / 1 min = 286,680,000 seconds, or 2.8 * 10^8, answer is 8",
+11/6/2023 14:59:29,"Rice Invitational 17-18, #10        ",,-6,i hope the question meant -6,
+,,,,,
+,,,,,
+11/7/2023 13:25:51,"SOUP Invitational 22-23, #31        ",,8,"Maybe people got less interested in making soup or something, but 300 million->8 results show up if you look it up on a standard school laptop.",emptiespace
+11/7/2023 14:24:36,"Clements Invitational 17-18, #7        ",,21,"Gm...
+Surface area of Moon is 3.8 10^13 m^2...
+so Volume of Glass.. is.. 1.9 * 10^12 m^3 OR 1.9 * 10^18 cm^3
+THUS... around 4 * 10^18 gram or 4 * 10^21 milligram
+
+RB",Ryan park
+11/8/2023 15:56:51,"RobertYL, daily fermi questions day #110 [2019 Monta Vista Q22]        ",,9,The US GDP is 2*10^13 USD and the average cost of a car is 3.5*10^4 USD.  When you divide these 2 you get 6.5*10^8 and then you round up to get 10^9,BTHS SciOly
+11/9/2023 16:31:53,"North Pocono Invitational 22-23, #15        ",,0,"Im relatively sure the Milky Way is a galaxy, which means theres only one galaxy in the Milky Way. Kinda similar to ""how many countries are in the U.S.?"" i think.",emptiespace
+11/10/2023 8:04:00,"SSSs Fermi (luminosityfan) 17-18, #12        ",,8,"Google says that the Atlantic is 4.9 million meters, and that a snail speed is 0.01 meters per second. This gives 4900000/0.01->8 as the fermi answer.",emptiespace
+11/10/2023 8:34:01,"SSSS Fermi (randomsci) 22-23, #27        ",,78,The Google Calculator says 6x10^77 -> 78 for the fermi answer.,emptiespace
+11/10/2023 8:37:09,"Seven Lakes Invitational 22-23, #38        ",,4,"Google says that it takes 820 hours to walk to the end of a minecraft world. Multiply this by 60 to get 49200. This gets pretty close to the 5 midpoint, but does round down to 4.",emptiespace
+11/11/2023 9:53:51,"SSSS Fermi (Adi1008) 17-18, #49        ",,2,Simply divided the thickness of the average piece of paper by the wavelength of blue light,
+11/11/2023 22:17:49,"Yale Invitational 17-18, #22        ",Evaluate (πe)^(πe),,,None
+11/11/2023 22:19:17,"Yale Invitational 17-18, #19        ",It's Chris's birthday! How many times should he roll a fair 10^10000-sided die before expecting to see a number twice (not necessarily consecutively) ?,,,None
