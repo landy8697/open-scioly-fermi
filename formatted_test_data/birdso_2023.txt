@@ -1,7 +1,7 @@
 BirdSO In-Person Invitational 22-23
 55
 What is the mass of the sun, in solar masses?
-6
+0
 How many millimeters are in a kilometer?
 6
 How many seconds are in a decade?
@@ -98,7 +98,7 @@ Based on the previous question, if you randomly placed a guess between -98 and 9
 -96
 Now if you randomly guessed every question what is the probability that you will receive full credit on 20 questions and no credit on any of the other questions?
 -31
-What is (1000!)100?
+What is (1000!)100? (Difficulty: Hard, Black Hole Astronomy)
 256760
 What is the mass in kilograms of Sagittarius A*, the supermassive black hole at the center of the Milky Way galaxy?
 37
@@ -106,7 +106,7 @@ If you have a 1 solar mass black hole, what is the corresponding Schwarzschild r
 3
 If you have the same 1 solar mass black hole, what is the lifetime of the black hole in seconds before it dissipates fully due to Hawking Radiation? Presume there is never any mass input into the black hole.
 74
-[Question 53] If you have the same 1 solar mass black hole, what is the lifetime of the black hole in seconds before it dissipates fully due to Hawking Radiation? Presume there is never any mass input into the black hole. \nWith your answer from the previous question, estimate the nominal luminosity in watts of the black hole. You can assume the luminosity of the black hole remains constant throughout its lifespan although in actuality it will increase as the black hole decays.
+[Question 53] If you have the same 1 solar mass black hole, what is the lifetime of the black hole in seconds before it dissipates fully due to Hawking Radiation? Presume there is never any mass input into the black hole. With your answer from the previous question, estimate the nominal luminosity in watts of the black hole. You can assume the luminosity of the black hole remains constant throughout its lifespan although in actuality it will increase as the black hole decays.
 -28
 As King Midas might know, too much gold is not always a good thing. If you have a sphere of pure gold, how much would the sphere be worth ignoring deflation in USD at the point just where all of the gold is no longer retrievable? (The sphere is a black hole with the density of gold).
 42

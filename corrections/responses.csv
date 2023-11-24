@@ -93,9 +93,8 @@ RB",Craig buszka
 • A(m, n) = A(m − 1; A(m, n − 1)) 
 Some values include: A(2, 3) = 9 and A(4, 1) = 65533
 What is A(4, 2)? [SI/2017 USD]",,,None
-10/29/2023 0:26:34,"SOAPS Invitational 22-23, #25        ",,1,"Given answer of 5 is impossible since 10^5 > 500; correct answer is 100 (2), as per this study: https://www.npr.org/sections/thetwo-way/2016/09/28/495798448/what-meerkat-murder-tells-us-about-human-violence ",__lockheedmartin (discord)
-10/29/2023 20:34:49,"MIT Invitational 22-23, #27        ",43^29,,"Bro just read the question 
-It looks like they meant 43^29 since the answer would be 47",
+10/29/2023 0:26:34,"SOAPS Invitational 22-23, #25        ","The current meerkat population is about 500,000. Approximately how many of these meerkats will be murdered by their own species if we follow all of them to their cause of death? Hint: Meerkats have been deemed the ""most murderous"" mammal species.",5,"Given answer of 5 is impossible since 10^5 > 500; correct answer is 100 (2), as per this study: https://www.npr.org/sections/thetwo-way/2016/09/28/495798448/what-meerkat-murder-tells-us-about-human-violence ",__lockheedmartin (discord)
+10/29/2023 20:34:49,"MIT Invitational 22-23, #27        ",43^29,,It looks like they meant 43^29 since the answer would be 47,
 10/29/2023 21:28:53,"High Desert Mini Invitational 22-23, #6        ",How tall is Mount Everest (in meters)?,,,
 11/1/2023 20:10:08,"UChicago Invitational 22-23, #1        ",,19,"A study in the journal Earth Surface Processes and Landforms, written by Dr. Robert A. Morton of the U.S. Geological Survey, predicted that there are 7.5*10^18 grains of sand on earth. Based off other sources this is also the accepted number in academia.",
 11/4/2023 9:26:39,"RobertYL, daily fermi questions day #33 [2018 Westlake Q47]        ",,-21,Diameter of a helium atom is 9.8*10^-11 meters and the diameter of the sun is 1.3927 * 10^9 meters.  Dividing this gives us 7.0366913*10^-20 which is -21 in fermi units.,BTHS Science Olympiad!!
@@ -112,10 +111,27 @@ THUS... around 4 * 10^18 gram or 4 * 10^21 milligram
 
 RB",Ryan park
 11/8/2023 15:56:51,"RobertYL, daily fermi questions day #110 [2019 Monta Vista Q22]        ",,9,The US GDP is 2*10^13 USD and the average cost of a car is 3.5*10^4 USD.  When you divide these 2 you get 6.5*10^8 and then you round up to get 10^9,BTHS SciOly
-11/9/2023 16:31:53,"North Pocono Invitational 22-23, #15        ",,0,"Im relatively sure the Milky Way is a galaxy, which means theres only one galaxy in the Milky Way. Kinda similar to ""how many countries are in the U.S.?"" i think.",emptiespace
+11/9/2023 16:31:53,"North Pocono Invitational 22-23, #15        ",How many galaxies are in the local group?,0,"Im relatively sure the Milky Way is a galaxy, which means theres only one galaxy in the Milky Way. Kinda similar to ""how many countries are in the U.S.?"" i think.",emptiespace
 11/10/2023 8:04:00,"SSSs Fermi (luminosityfan) 17-18, #12        ",,8,"Google says that the Atlantic is 4.9 million meters, and that a snail speed is 0.01 meters per second. This gives 4900000/0.01->8 as the fermi answer.",emptiespace
 11/10/2023 8:34:01,"SSSS Fermi (randomsci) 22-23, #27        ",,78,The Google Calculator says 6x10^77 -> 78 for the fermi answer.,emptiespace
 11/10/2023 8:37:09,"Seven Lakes Invitational 22-23, #38        ",,4,"Google says that it takes 820 hours to walk to the end of a minecraft world. Multiply this by 60 to get 49200. This gets pretty close to the 5 midpoint, but does round down to 4.",emptiespace
 11/11/2023 9:53:51,"SSSS Fermi (Adi1008) 17-18, #49        ",,2,Simply divided the thickness of the average piece of paper by the wavelength of blue light,
 11/11/2023 22:17:49,"Yale Invitational 17-18, #22        ",Evaluate (πe)^(πe),,,None
 11/11/2023 22:19:17,"Yale Invitational 17-18, #19        ",It's Chris's birthday! How many times should he roll a fair 10^10000-sided die before expecting to see a number twice (not necessarily consecutively) ?,,,None
+11/14/2023 7:39:50,"Rice Invitational 17-18, #1        ",,9,"When you put 2^32 in a calculator, you get 4294967296 which is 4.2*10^9 so the answer is 9",BTHS Science Olympiad
+11/14/2023 14:08:24,"BirdSO Satellite Invitational 21-22, #11        ",What is the sum of the numbers from 1 to 10^5 ?,,"Sum of numbers 1-105 is 5,565, or 4.",Asher N
+11/14/2023 14:21:47,"Seven Lakes Invitational 17-18, #7        ","On a chess board, suppose that the queens must be arranged in a manner such that none of the queens could capture another (i.e. none of the queens can be under attack). How many such configurations are possible? Do not include boards that are reflections, rotations, etc.",,"This helps to clarify what the question is about. It was kind of ""cut off"" in the beginning.",
+11/15/2023 8:46:39,"Columbia Invitational 17-18, #41        ",,5,"After using compound interest formula, you get around 95K, which round to 10^5.",
+11/15/2023 12:37:34,"SOAPS Invitational 22-23, #25        ",,2,"Given answer of 5 is impossible since 10^5 > 500; correct answer is 100 (2), as per this study: https://www.npr.org/sections/thetwo-way/2016/09/28/495798448/what-meerkat-murder-tells-us-about-human-violence",me
+11/15/2023 16:09:55,"RobertYL, daily fermi questions day #6 [2019 Virginia Tech Q4]        ",,22,"Volume of Pacific Ocean is 5E+17m^3, roughly 1e+4 sheets of paper fit in a cubic meter. Should be 21 or 22.",
+11/17/2023 10:17:43,"Seven Lakes Invitational 17-18, #11        ","Suppose that Feliks Zemdegs (a speedcuber from Australia) takes 10 seconds to solve every Rubik's cube. How long would it take him, in years, to solve the number of cubes found in the question above? [Number of cubes = total arrangements of rubiks cubes]",,"This question should not be included as it references a previous question, which is not displayed.",
+11/17/2023 20:55:16,"RobertYL, daily fermi questions day #22 [2018 Acton-Box Q15]        ",,7,Searched it up on google. It is around 20 million (10^7),Purple
+11/17/2023 22:03:24,"Princeton Invitational 17-18, #46        ",,4,"Google says it's ~5700 years, which is fermi 4 (original answer fermi 11)",
+11/18/2023 8:20:31,"BirdSO In-Person Invitational 22-23, #1        ",,,"The mass of the sun and the solar mass is around the same, where did 6 come from",
+11/18/2023 9:30:24,"RobertYL, daily fermi questions day #80 [2019 U Chicago Q21]        ",,9,I have been listening to Gucci Gang since 1776 and I can confirm this answer is right,Ryan park
+11/18/2023 10:23:18,"RobertYL, daily fermi questions day #109 [2018 U Florida Regionals Q14]        ",,19,I used a pipette and confirmed it myself,Ryan park
+11/18/2023 11:54:05,"RobertYL, daily fermi questions day #96 [2018 Monta Vista Tryouts Q1]        ",,27,The volume of is 10^21 meters and the weigh of water per cubic meter is 10^3 kg and kg to g is 10^3. Mutiply everything and we get 10^27,
+11/18/2023 22:21:02,"High Desert Satellite Invitational 22-23, #11",How tall is Mount Everest in meters?,,,
+11/20/2023 22:19:51,"Columbia Invitational 17-18, #41        ",,5,"This is an interest question, to solve this you do 1500*(1.05)^85 which results in approximately 950,00, if continuously compounded it would be about 105,000, both of which are rounded to 100,000 which in fermi notation is 5",iampotatoz
+11/22/2023 15:46:29,"SOAPS Invitational 22-23, #25        ",,,the explanation literally says 2 but it says the answer is 1,
+11/22/2023 18:00:09,"Captains Tryouts Carmel 17-18, #5        ","How many pennies are in $5,645",,,

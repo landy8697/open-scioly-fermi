@@ -174,10 +174,10 @@ corrections = {
         "credit": "randomeclipse"
     },
     "Seven Lakes Invitational 17-18, #11": {
-        "question": "Suppose that Feliks Zemdegs (a speedcuber from Australia) takes 10 seconds to solve every Rubik\u00e2\u20ac\u2122s cube. How long would it take him, in years, to solve the number of cubes [total number of cube arrangements] found in the question above?",
+        "question": "Suppose that Feliks Zemdegs (a speedcuber from Australia) takes 10 seconds to solve every Rubik's cube. How long would it take him, in years, to solve the number of cubes found in the question above? [Number of cubes = total arrangements of rubiks cubes]",
         "answer": "",
-        "explanation": "",
-        "credit": "None"
+        "explanation": "This question should not be included as it references a previous question, which is not displayed.",
+        "credit": ""
     },
     "Cornell Invitational 22-23, #18": {
         "question": "How many dislikes does this same video (the most viewed video) have?",
@@ -271,9 +271,9 @@ corrections = {
     },
     "Rice Invitational 17-18, #1": {
         "question": "",
-        "answer": "10",
-        "explanation": "2^32 is about 9.6, so it would round up to 10.",
-        "credit": "discord: emptiespace"
+        "answer": "9",
+        "explanation": "When you put 2^32 in a calculator, you get 4294967296 which is 4.2*10^9 so the answer is 9",
+        "credit": "BTHS Science Olympiad"
     },
     "Camas Invitational 22-23, #25": {
         "question": "",
@@ -361,14 +361,14 @@ corrections = {
     },
     "SOAPS Invitational 22-23, #25": {
         "question": "",
-        "answer": "1",
-        "explanation": "Given answer of 5 is impossible since 10^5 > 500; correct answer is 100 (2), as per this study: https://www.npr.org/sections/thetwo-way/2016/09/28/495798448/what-meerkat-murder-tells-us-about-human-violence",
-        "credit": "__lockheedmartin (discord)"
+        "answer": "",
+        "explanation": "the explanation literally says 2 but it says the answer is 1",
+        "credit": ""
     },
     "MIT Invitational 22-23, #27": {
         "question": "43^29",
         "answer": "",
-        "explanation": "Bro just read the question \nIt looks like they meant 43^29 since the answer would be 47",
+        "explanation": "It looks like they meant 43^29 since the answer would be 47",
         "credit": ""
     },
     "High Desert Mini Invitational 22-23, #6": {
@@ -420,7 +420,7 @@ corrections = {
         "credit": "BTHS SciOly"
     },
     "North Pocono Invitational 22-23, #15": {
-        "question": "",
+        "question": "How many galaxies are in the local group?",
         "answer": "0",
         "explanation": "Im relatively sure the Milky Way is a galaxy, which means theres only one galaxy in the Milky Way. Kinda similar to \"how many countries are in the U.S.?\" i think.",
         "credit": "emptiespace"
@@ -460,6 +460,78 @@ corrections = {
         "answer": "",
         "explanation": "",
         "credit": "None"
+    },
+    "BirdSO Satellite Invitational 21-22, #11": {
+        "question": "What is the sum of the numbers from 1 to 10^5 ?",
+        "answer": "",
+        "explanation": "Sum of numbers 1-105 is 5,565, or 4.",
+        "credit": "Asher N"
+    },
+    "Seven Lakes Invitational 17-18, #7": {
+        "question": "On a chess board, suppose that the queens must be arranged in a manner such that none of the queens could capture another (i.e. none of the queens can be under attack). How many such configurations are possible? Do not include boards that are reflections, rotations, etc.",
+        "answer": "",
+        "explanation": "This helps to clarify what the question is about. It was kind of \"cut off\" in the beginning.",
+        "credit": ""
+    },
+    "Columbia Invitational 17-18, #41": {
+        "question": "",
+        "answer": "5",
+        "explanation": "This is an interest question, to solve this you do 1500*(1.05)^85 which results in approximately 950,00, if continuously compounded it would be about 105,000, both of which are rounded to 100,000 which in fermi notation is 5",
+        "credit": "iampotatoz"
+    },
+    "RobertYL, daily fermi questions day #6 [2019 Virginia Tech Q4]": {
+        "question": "",
+        "answer": "22",
+        "explanation": "Volume of Pacific Ocean is 5E+17m^3, roughly 1e+4 sheets of paper fit in a cubic meter. Should be 21 or 22.",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #22 [2018 Acton-Box Q15]": {
+        "question": "",
+        "answer": "7",
+        "explanation": "Searched it up on google. It is around 20 million (10^7)",
+        "credit": "Purple"
+    },
+    "Princeton Invitational 17-18, #46": {
+        "question": "",
+        "answer": "4",
+        "explanation": "Google says it's ~5700 years, which is fermi 4 (original answer fermi 11)",
+        "credit": ""
+    },
+    "BirdSO In-Person Invitational 22-23, #1": {
+        "question": "",
+        "answer": "",
+        "explanation": "The mass of the sun and the solar mass is around the same, where did 6 come from",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #80 [2019 U Chicago Q21]": {
+        "question": "",
+        "answer": "9",
+        "explanation": "I have been listening to Gucci Gang since 1776 and I can confirm this answer is right",
+        "credit": "Ryan park"
+    },
+    "RobertYL, daily fermi questions day #109 [2018 U Florida Regionals Q14]": {
+        "question": "",
+        "answer": "19",
+        "explanation": "I used a pipette and confirmed it myself",
+        "credit": "Ryan park"
+    },
+    "RobertYL, daily fermi questions day #96 [2018 Monta Vista Tryouts Q1]": {
+        "question": "",
+        "answer": "27",
+        "explanation": "The volume of is 10^21 meters and the weigh of water per cubic meter is 10^3 kg and kg to g is 10^3. Mutiply everything and we get 10^27",
+        "credit": ""
+    },
+    "High Desert Satellite Invitational 22-23, #11": {
+        "question": "How tall is Mount Everest in meters?",
+        "answer": "",
+        "explanation": "",
+        "credit": ""
+    },
+    "Captains Tryouts Carmel 17-18, #5": {
+        "question": "How many pennies are in $5,645",
+        "answer": "",
+        "explanation": "",
+        "credit": ""
     }
 }
 corrections_list = [
@@ -546,5 +618,22 @@ corrections_list = [
     "Seven Lakes Invitational 22-23, #38",
     "SSSS Fermi (Adi1008) 17-18, #49",
     "Yale Invitational 17-18, #22",
-    "Yale Invitational 17-18, #19"
+    "Yale Invitational 17-18, #19",
+    "Rice Invitational 17-18, #1",
+    "BirdSO Satellite Invitational 21-22, #11",
+    "Seven Lakes Invitational 17-18, #7",
+    "Columbia Invitational 17-18, #41",
+    "SOAPS Invitational 22-23, #25",
+    "RobertYL, daily fermi questions day #6 [2019 Virginia Tech Q4]",
+    "Seven Lakes Invitational 17-18, #11",
+    "RobertYL, daily fermi questions day #22 [2018 Acton-Box Q15]",
+    "Princeton Invitational 17-18, #46",
+    "BirdSO In-Person Invitational 22-23, #1",
+    "RobertYL, daily fermi questions day #80 [2019 U Chicago Q21]",
+    "RobertYL, daily fermi questions day #109 [2018 U Florida Regionals Q14]",
+    "RobertYL, daily fermi questions day #96 [2018 Monta Vista Tryouts Q1]",
+    "High Desert Satellite Invitational 22-23, #11",
+    "Columbia Invitational 17-18, #41",
+    "SOAPS Invitational 22-23, #25",
+    "Captains Tryouts Carmel 17-18, #5"
 ]

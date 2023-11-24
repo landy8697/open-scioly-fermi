@@ -1,109 +1,109 @@
 _QUESTIONFORMAT_ r'\d+\.'
 _ANSWERFORMAT_ STYLE_SINGLE_NUMBER
 
-1. What was Princeton’s acceptance rate for the class of 2021? [SI/2017 USD]
-2. How many undergraduates are currently attending Princeton? [SI/2017 USD]
-3. How large is Princeton’s endownment? [SI/2017 USD]
-4. What is the net worth of Princeton’s richest alumni? [SI/2017 USD]
-5. What is the population of the world? [SI/2017 USD]
-6. What is the population of Tanzania? [SI/2017 USD]
-7. What is the population of American Samoa? [SI/2017 USD]
-8. How many cities have a population of over 1 million people? [SI/2017 USD]
+1. What was Princeton’s acceptance rate for the class of 2021? [Use SI Units / 2017 USD]
+2. How many undergraduates are currently attending Princeton? [Use SI Units / 2017 USD]
+3. How large is Princeton’s endownment? [Use SI Units / 2017 USD]
+4. What is the net worth of Princeton’s richest alumni? [Use SI Units / 2017 USD]
+5. What is the population of the world? [Use SI Units / 2017 USD]
+6. What is the population of Tanzania? [Use SI Units / 2017 USD]
+7. What is the population of American Samoa? [Use SI Units / 2017 USD]
+8. How many cities have a population of over 1 million people? [Use SI Units / 2017 USD]
 9. How many motor vehicle fatalities have there been in the
-United States in 2017? [SI/2017 USD]
+United States in 2017? [Use SI Units / 2017 USD]
 
 10. How many motor vehicle fatalities have there been in the
-United States in total? [SI/2017 USD]
+United States in total? [Use SI Units / 2017 USD]
 
 11. How many passengers have there been on domestic flights in
-the United States in 2017? [SI/2017 USD]
+the United States in 2017? [Use SI Units / 2017 USD]
 
-12. How much does a Boeing 787 cost? [SI/2017 USD]
-13. How much does the most expensive aircraft carrier cost? [SI/2017 USD]
-14. What was the United States’s GDP in 2017? [SI/2017 USD]
-15. What was the United States’s GDP per capita in 1900? [SI/2017 USD] 
-16. What was North Korea’s GDP in 2017? [SI/2017 USD]
-17. What is the market cap of Alphabet? [SI/2017 USD] 
-18. What was the 2017 income of Alphabet? [SI/2017 USD] 
+12. How much does a Boeing 787 cost? [Use SI Units / 2017 USD]
+13. How much does the most expensive aircraft carrier cost? [Use SI Units / 2017 USD]
+14. What was the United States’s GDP in 2017? [Use SI Units / 2017 USD]
+15. What was the United States’s GDP per capita in 1900? [Use SI Units / 2017 USD] 
+16. What was North Korea’s GDP in 2017? [Use SI Units / 2017 USD]
+17. What is the market cap of Alphabet? [Use SI Units / 2017 USD] 
+18. What was the 2017 income of Alphabet? [Use SI Units / 2017 USD] 
 19. How many bankruptcies were filed in the United States since
-the crash of 2008? [SI/2017 USD]
-20. How long is the longest bridge? [SI/2017 USD] 
-21. How many restaurants have earned a Michelin star? [SI/2017 USD]
-22. How many wild-caught Atlantic salmon were there in 2017? [SI/2017 USD] 
-23. How many apples were grown in the United States in 2017? [SI/2017 USD] 
-24. How much is the Mona Lisa worth? [SI/2017 USD] 
-25. How much is the most expensive cut diamond worth? [SI/2017 USD] 
-26. What was the video game industry revenue, in 2017? [SI/2017 USD]
-27. How large (area) is Legend of Zelda: Breath of the Wild’s map? [SI/2017 USD]
-28. How many hours, in total, have people spent playing DotA 2? [SI/2017 USD]
+the crash of 2008? [Use SI Units / 2017 USD]
+20. How long is the longest bridge? [Use SI Units / 2017 USD] 
+21. How many restaurants have earned a Michelin star? [Use SI Units / 2017 USD]
+22. How many wild-caught Atlantic salmon were there in 2017? [Use SI Units / 2017 USD] 
+23. How many apples were grown in the United States in 2017? [Use SI Units / 2017 USD] 
+24. How much is the Mona Lisa worth? [Use SI Units / 2017 USD] 
+25. How much is the most expensive cut diamond worth? [Use SI Units / 2017 USD] 
+26. What was the video game industry revenue, in 2017? [Use SI Units / 2017 USD]
+27. How large (area) is Legend of Zelda: Breath of the Wild’s map? [Use SI Units / 2017 USD]
+28. How many hours, in total, have people spent playing DotA 2? [Use SI Units / 2017 USD]
 29. How much did the anime film Kimi no Na wa make in its
-opening weekend in the United States? [SI/2017 USD]
+opening weekend in the United States? [Use SI Units / 2017 USD]
 
-30. How many words are in the longest novel (according to Guinness World Records), A la recherche du temps perdu ` ? [SI/2017 USD]
+30. How many words are in the longest novel (according to Guinness World Records), A la recherche du temps perdu ` ? [Use SI Units / 2017 USD]
 
-31. How many Google searches were there in 2017? [SI/2017 USD]
-32. How many likes have there been on Facebook? [SI/2017 USD]
+31. How many Google searches were there in 2017? [Use SI Units / 2017 USD]
+32. How many likes have there been on Facebook? [Use SI Units / 2017 USD]
 33. How many likes does the most-viewed Youtube video in 2009,
-The Evolution of Dance, currently have? [SI/2017 USD]
+The Evolution of Dance, currently have? [Use SI Units / 2017 USD]
 
 34. How many flops (floating-point operations per second) can the
-fastest supercomputer achieve? [SI/2017 USD]
+fastest supercomputer achieve? [Use SI Units / 2017 USD]
 
 35. How many chemical substances, indexed in the CAS (Chemical
-Abstracts Service) registry, are known? [SI/2017 USD] [SI/2017 USD]
+Abstracts Service) registry, are known? [Use SI Units / 2017 USD] [Use SI Units / 2017 USD]
 
-36. What is the mass of an electron? [SI/2017 USD]
-37. How fast does an electron in a single Hydrogen atom move? [SI/2017 USD]
-38. What is the mass of the Sun? [SI/2017 USD]
-39. What is the density at the center of the Sun? [SI/2017 USD]
-40. What is the temperature at the center of the Sun? [SI/2017 USD]
+36. What is the mass of an electron? [Use SI Units / 2017 USD]
+37. How fast does an electron in a single Hydrogen atom move? [Use SI Units / 2017 USD]
+38. What is the mass of the Sun? [Use SI Units / 2017 USD]
+39. What is the density at the center of the Sun? [Use SI Units / 2017 USD]
+40. What is the temperature at the center of the Sun? [Use SI Units / 2017 USD]
 41. What is the mass of the supermassive black hole at the center
-of the Milky Way? [SI/2017 USD]
+of the Milky Way? [Use SI Units / 2017 USD]
 
-42. How much saliva (mass) does a human produce over a lifetime? [SI/2017 USD]
-43. How many bacteria are in the average human? [SI/2017 USD]
-44. How many endangered species are there? [SI/2017 USD]
-45. How many bald eagles are there? [SI/2017 USD]
-46. What is the half-life of Carbon-14? [SI/2017 USD]
-47. What is 42!? [SI/2017 USD] 51 5 3 1
-48. What is C(69, 42)? [SI/2017 USD]
-49. What is 1001001^1001^1? [SI/2017 USD]
+42. How much saliva (mass) does a human produce over a lifetime? [Use SI Units / 2017 USD]
+43. How many bacteria are in the average human? [Use SI Units / 2017 USD]
+44. How many endangered species are there? [Use SI Units / 2017 USD]
+45. How many bald eagles are there? [Use SI Units / 2017 USD]
+46. What is the half-life of Carbon-14? [Use SI Units / 2017 USD]
+47. What is 42!? [Use SI Units / 2017 USD] 51 5 3 1
+48. What is C(69, 42)? [Use SI Units / 2017 USD]
+49. What is 1001001^1001^1? [Use SI Units / 2017 USD]
 50. What is the probability of getting a royal flush in a standard
-5-card poker hand? [SI/2017 USD]
+5-card poker hand? [Use SI Units / 2017 USD]
 
 
-51. How many grains of sand are there on Earth? [SI/2017 USD]
+51. How many grains of sand are there on Earth? [Use SI Units / 2017 USD]
 52. Over the past 100 years, the sea level in New York has risen
 approximately 1 foot, while the land underneath has remained
 level. Assuming this is an accurate indicator of ice melt and
 that the rate of ice melt is constant, how long will it take for
-all the ice on Earth to melt? [SI/2017 USD]
-53. What is cubeRoot(2017 ^ 2017)? [SI/2017 USD]
-54. How much time have people spent watching Youtube videos? [SI/2017 USD]
+all the ice on Earth to melt? [Use SI Units / 2017 USD]
+53. What is cubeRoot(2017 ^ 2017)? [Use SI Units / 2017 USD]
+54. How much time have people spent watching Youtube videos? [Use SI Units / 2017 USD]
 Note that this includes videos embedded on other sies.
 55. How much money was traded in the FX (currency exchange)
-market in 2017? [SI/2017 USD]
+market in 2017? [Use SI Units / 2017 USD]
 56. What is the mass of all the neutrons in the DNA of a single
-human cell (you may assume the cell is in G0)? [SI/2017 USD]
+human cell (you may assume the cell is in G0)? [Use SI Units / 2017 USD]
 57. 2017 integers from the set {1, 2, 3...2017} are picked at random, with replacement. What is the probability that their
-product is not divisible by 6? [SI/2017 USD] Note that log2(3) ≈ 1:58496.
+product is not divisible by 6? [Use SI Units / 2017 USD] Note that log2(3) ≈ 1:58496.
 58. A typical neutron star has mass approximately 1.4 times that
 of the Sun and surface area approximately the area of London.
 Due to neutron degeneracy pressure, the density of a neutron
 star is approximately the density of an atomic nucleus. What
-is the diameter of an Uranium atomic nucleus? [SI/2017 USD]
+is the diameter of an Uranium atomic nucleus? [Use SI Units / 2017 USD]
 59. A sverdrup is a unit of volumetric flow (m^3/s) roughly equivalent to the total rate of water flowing from rivers into oceans.
 The Antarctic Circumpolar current flows from Eastward (in
 the same direction as the Earth’s rotation), carrying water a
 rate of 150 sverdrups. If the current were to spontaneously
-stop, by how long would the length of day be shortened? [SI/2017 USD]
+stop, by how long would the length of day be shortened? [Use SI Units / 2017 USD]
 
 60. The Ackermann function is defined by
 • A(0; n) = n + 1
 • A(m; 0) = A(m − 1; 1)
 • A(m; n) = A(m − 1; A(m; n − 1))
 Some values include: A(2; 3) = 9 and A(4; 1) = 65533. What
-is A(4; 2)? [SI/2017 USD]
+is A(4; 2)? [Use SI Units / 2017 USD]
 
 -1
 -4
