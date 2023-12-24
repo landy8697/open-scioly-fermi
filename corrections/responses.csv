@@ -122,11 +122,11 @@ RB",Ryan park
 11/14/2023 14:08:24,"BirdSO Satellite Invitational 21-22, #11        ",What is the sum of the numbers from 1 to 10^5 ?,,"Sum of numbers 1-105 is 5,565, or 4.",Asher N
 11/14/2023 14:21:47,"Seven Lakes Invitational 17-18, #7        ","On a chess board, suppose that the queens must be arranged in a manner such that none of the queens could capture another (i.e. none of the queens can be under attack). How many such configurations are possible? Do not include boards that are reflections, rotations, etc.",,"This helps to clarify what the question is about. It was kind of ""cut off"" in the beginning.",
 11/15/2023 8:46:39,"Columbia Invitational 17-18, #41        ",,5,"After using compound interest formula, you get around 95K, which round to 10^5.",
-11/15/2023 12:37:34,"SOAPS Invitational 22-23, #25        ",,2,"Given answer of 5 is impossible since 10^5 > 500; correct answer is 100 (2), as per this study: https://www.npr.org/sections/thetwo-way/2016/09/28/495798448/what-meerkat-murder-tells-us-about-human-violence",me
+11/15/2023 12:37:34,"SOAPS Invitational 22-23, #25        ",,2,"Given answer of 5 is impossible since 10^5 > 500; correct answer is 100 (2), as per this study: https://www.npr.org/sections/thetwo-way/2016/09/28/495798448/what-meerkat-murder-tells-us-about-human-violence",
 11/15/2023 16:09:55,"RobertYL, daily fermi questions day #6 [2019 Virginia Tech Q4]        ",,22,"Volume of Pacific Ocean is 5E+17m^3, roughly 1e+4 sheets of paper fit in a cubic meter. Should be 21 or 22.",
 11/17/2023 10:17:43,"Seven Lakes Invitational 17-18, #11        ","Suppose that Feliks Zemdegs (a speedcuber from Australia) takes 10 seconds to solve every Rubik's cube. How long would it take him, in years, to solve the number of cubes found in the question above? [Number of cubes = total arrangements of rubiks cubes]",,"This question should not be included as it references a previous question, which is not displayed.",
 11/17/2023 20:55:16,"RobertYL, daily fermi questions day #22 [2018 Acton-Box Q15]        ",,7,Searched it up on google. It is around 20 million (10^7),Purple
-11/17/2023 22:03:24,"Princeton Invitational 17-18, #46        ",,4,"Google says it's ~5700 years, which is fermi 4 (original answer fermi 11)",
+11/17/2023 22:03:24,"Princeton Invitational 17-18, #46        ",,,"Google says it's ~5700 years, which is fermi 4 (original answer fermi 11)",
 11/18/2023 8:20:31,"BirdSO In-Person Invitational 22-23, #1        ",,,"The mass of the sun and the solar mass is around the same, where did 6 come from",
 11/18/2023 9:30:24,"RobertYL, daily fermi questions day #80 [2019 U Chicago Q21]        ",,9,I have been listening to Gucci Gang since 1776 and I can confirm this answer is right,Ryan park
 11/18/2023 10:23:18,"RobertYL, daily fermi questions day #109 [2018 U Florida Regionals Q14]        ",,19,I used a pipette and confirmed it myself,Ryan park
@@ -135,3 +135,42 @@ RB",Ryan park
 11/20/2023 22:19:51,"Columbia Invitational 17-18, #41        ",,5,"This is an interest question, to solve this you do 1500*(1.05)^85 which results in approximately 950,00, if continuously compounded it would be about 105,000, both of which are rounded to 100,000 which in fermi notation is 5",iampotatoz
 11/22/2023 15:46:29,"SOAPS Invitational 22-23, #25        ",,,the explanation literally says 2 but it says the answer is 1,
 11/22/2023 18:00:09,"Captains Tryouts Carmel 17-18, #5        ","How many pennies are in $5,645",,,
+11/25/2023 11:30:54,"SSSS Fermi (luminosityfan) 17-18, #20        ",,18,"https://www.usgs.gov/faqs/how-much-natural-water-there#:~:text=Earth%20is%20estimated%20to%20hold,glaciers%20(fresh)%2024%2C064%2C000%20cubic%20kilometers ",Discord: errorfunction
+11/25/2023 13:15:23,"RobertYL, daily fermi questions day #17 [2018 Westlake Q24]        ",,4,"https://www.aar.org/wp-content/uploads/2021/02/AAR-Ohio-State-Fact-Sheet.pdf 
+
+The Association of American Railroads states in the above pdf that there's 5,139 miles of railroad tracks, so the answer would round up to 4. I hope I'm not coming off sounding mean; just want the info as accurate as possible  👍",thatperson2647
+11/27/2023 8:55:34,"MIT Invitational 18-19, #30        ",,5,"16 Disney-owned movies were released in 2016; an average of 2 hours per movie moves around 97,000 seconds. Final answer is 5",@tripleqgaming (discord)
+11/27/2023 13:52:51,"BullSO Invitational 22-23, #27        ","A particle is placed in a rigid box (the walls are impenetrable). What is the probability of finding it anywhere within (percent)? For reference, the one dimensional wave equation is ψ=Asin[(nπ/L)*x]",,Clarifying the problem because it's 2 as in 100%,
+11/27/2023 13:58:14,"Captains Tryouts Carmel 17-18, #5        ",,6,564500 pennies is rounded 1000000 = 10^6,
+11/28/2023 10:11:03,"Captains Tryouts Carmel 17-18, #41        ",,4,"according to this:https://kokumura.medium.com/how-japanese-people-eat-so-much-white-rice-yet-stay-lean-4e1166d70f3c#:~:text=Japanese%20people%20eat%20lots%20of,lunches%20and%20in%20government%20cafeterias. 
+japanese people eat 82kg of rice yearly, converting to pounds and multiplying by a rougly 80 year lifespan we get ~14000 pounds in a lifetime, which is 4",Trainboi01
+11/29/2023 14:05:39,"RobertYL, daily fermi questions day #133 [2019 Dartmouth Q16]        ",,5,"100 pizzas * $10/pizza * 100 pennies/dollar = 10^5
+
+CJB",Ryan park
+11/30/2023 12:37:33,"RobertYL, daily fermi questions day #73 [2019 Northmont Q75]        ",,8,12 bacteria on 4 sq cm of skin,
+12/1/2023 10:34:21,"SSSs Fermi (rafaelnadal) 17-18, #34        ",,,real answer would be n where 300*2^n=c,
+12/1/2023 11:56:29,"MIT Invitational 22-23, #24        ",,2,"The average square foot of grass has 3,000 blades (https://www.quora.com/Has-anyone-ever-calculated-how-many-blades-of-grass-are-in-a-typical-lawn#:~:text=The%20average%20square%20foot%20of,Oklahoma%20Museum%20of%20Natural%20History%20.), so one foot likely contacts about a tenth of that area (average foot is 100 cm^2 = 0.1 ft^2), so about 300 blades are contacted",errorfunction
+12/4/2023 11:27:00,"RobertYL, daily fermi questions day #111 [2019 SOUP Q38]        ",,7,"According to the Cleveland Clinic, humans breath around 12-18 times per minute. The average test taker could, using simple observation, presume a similar rate. There are around 5 * 10^5 minutes in a year. That's a range of 6-9 * 10^6, which provides a Fermi answer of 7. Even without this knowledge, an answer of 9 suggests around 30 breaths per second, with is plainly wrong up or down an order of magnitude.",
+12/4/2023 11:35:45,"Captains Tryouts Carmel 17-18, #41        ",,4,"Most sources (Statista, for instance) suggest that the average Japanese eats just under 100 pounds of rice per year. This is around a bowl of rice a day, if we were to make a reasonable guess during a test. The Japanese life expectancy also happens to be just under 100 (mid-80s). 10^2 * 10^2 produces a Fermi number of 4.",
+12/4/2023 19:57:28,"Princeton Invitational 17-18, #2        ",,4,"The previous answer was -4, which isn't even possible, and online it says that they have 5,604 undrgrad students which is 4 in fermi units.",Brooklyn Technical High School SciOly
+12/6/2023 17:04:03,"SOUP Invitational 22-23, #18        ",,12,"log of [44^9 (characters expected for the monkeys to type out one ""GOOD SOUP"") divided by 400 characters per minute (100 wpm = 400 cpm)] ",
+12/7/2023 16:50:04,"RobertYL, daily fermi questions day #102 [2018 Princeton Q A39]        ",,-5,"Volume of a grain of rice is about 0.02 mL = 2e-5 L, so the fraction of the 2L bottle occupied is 1e-5",errorfunction
+12/8/2023 11:42:21,"Captains Tryouts Carmel 17-18, #5        ",,6,"$5645, each $ has 100 pennies, so total is 5.645e3 * 1e2 which rounds up to an answer of 6",
+12/8/2023 13:46:28,"Yale Invitational 17-18, #21        ",How many primes are less than 10^100?,,,greg
+12/9/2023 9:28:54,"MIT Invitational 21-22, #36        ",,27,"Solar constant (flux) is about 1368 W/m^2 (note W = J/s), so energy captured in a minute is 60s * 1368 W/m^2 = 82000 J. Energy consumption of a 1600 lumen lightbulb is about 15 W, so the lightbulb stays on for 82000 J / 15 W = 5500 s. A jiffy is 3e-24 seconds, so converting to jiffies, the time is 1.8e27 jiffies, so the answer is 27.",errorfunction
+12/10/2023 14:29:31,"Captains Tryouts Carmel 17-18, #21        ",,7,"Your heart beats once per second at least, 1.5 e7 seconds in half of a year (six months)",
+12/10/2023 14:55:44,"North Pocono Invitational 22-23, #2        ",How many NERDS ropes would it take to wrap around Mars?,,"what does it mean ""in miles"" sir?????",
+12/10/2023 15:02:27,"Seven Lakes Invitational 18-19, #12        ",Find 3^33,,,
+12/14/2023 18:06:49,"Captains Tryouts Carmel 17-18, #18        ",,-11,K.E. = 1/2 m v^2 = 1/2 * 1.67 * 10^-27 * (1.5 * 10^8)^2 = ,
+12/14/2023 18:22:45,"Captains Tryouts Carmel 17-18, #36        ",,12,3*10^8 m/s * 60 s/minute * 36 inch/meter (also google),
+12/14/2023 18:49:42,"North Pocono Invitational 22-23, #21        ",,,idk the intended question but hour per hour is really sussy,
+12/15/2023 7:15:34,"Rickards SO Invitational 22-23, #42        ",,4,5190 is not the fermi answer it is the normal answer,Paresh
+12/15/2023 11:51:46,"BirdSO Invitational 20-21, #17        ",How many feathers equal the weight of the heaviest slug species?,4,"Heaviest slug species (California slug) is 0.25 pounds, weight of a feather is 8.2 milligrams. 13,829 feathers equal the weight of a California slug)",
+12/16/2023 10:26:34,"Princeton Invitational 17-18, #2        ",,4,"The enrollment in 2017-2018 was 5,260, meaning that the fermi number should be 4",King Von
+12/16/2023 11:13:45,"Harvard Invitational 22-23, #4        ",,38,"2 mols released per tree per year, 12 trees, 2 + 12 + 24 = 38",
+12/18/2023 17:07:56,"RobertYL, daily fermi questions day #53 [2018 Westlake Q27]        ",,8,"distance from earth to moon, 3e8 meters, each german shepard is on average 1m long so 8 are needed",
+12/18/2023 17:15:25,"Captains Tryouts Carmel 17-18, #38        ",,16,"whether using simple or compound interest, 1000(1.03)^1000 or 1000e^(1000*.03) gives 16",
+12/20/2023 8:40:22,"Captains Tryouts Carmel 17-18, #24        ",,6,"Volume of m&m is about 0.6 mL, available volume of car is about 2000 L (3000L before subtracting stuff like engine, seats, etc.), 2000L / (6e-4 L) = 3.33 million, so the answer is 6",errorfunction
+12/23/2023 10:53:36,"BirdSO Satellite Invitational 21-22, #41        ",,,the size n is not shown (unless this is intentional),
+12/23/2023 10:55:22,"Seven Lakes Invitational 17-18, #2        ",What is 7^45?,,"caret not shown, the answer 38 thus makes no sense (745 -> 3)",
+12/23/2023 10:57:09,"Seven Lakes Invitational 17-18, #5        ","The largest prime number discovered to date is 2^74,207,281 - 1 − How many digits does this number have?",,missing caret and +1,

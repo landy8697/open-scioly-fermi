@@ -18,7 +18,7 @@ corrections = {
         "credit": "randomeclipse"
     },
     "UT Austin Invitational 17-18, #19": {
-        "question": "[Question #6: Yo mamma so fat, she took all the Big Macs sold in the US last year and gobbled \u00e2\u20ac\u2122em right up! How many pounds of fat are in yo mamma now? Assume that yo mama ain\u00e2\u20ac\u2122t burning any o\u00e2\u20ac\u2122 those calories, cuz ain\u00e2\u20ac\u2122t nobody got time for that!]\n\nYo mamma not only fat, she so fat that she is seriously concerned about her health and well-being. How many hours would she have to run in order to burn off all those delicious Big Macs from question 6?",
+        "question": "[Question #6: Yo mamma so fat, she took all the Big Macs sold in the US last year and gobbled \u2019em right up! How many pounds of fat are in yo mamma now? Assume that yo mama ain\u2019t burning any o\u2019 those calories, cuz ain\u2019t nobody got time for that!]\n\nYo mamma not only fat, she so fat that she is seriously concerned about her health and well-being. How many hours would she have to run in order to burn off all those delicious Big Macs from question 6?",
         "answer": "",
         "explanation": "",
         "credit": "randomeclipse"
@@ -282,7 +282,7 @@ corrections = {
         "credit": "trainboi01"
     },
     "Camas Invitational 22-23, #15": {
-        "question": "Determine the number of barns [Barn = 1.00 * 10 -28 m2 ] covered by Washington state\u00e2\u20ac\u2122s apple orchards.",
+        "question": "Determine the number of barns [Barn = 1.00 * 10 -28 m2 ] covered by Washington state\u2019s apple orchards.",
         "answer": "if you dont change it then the answer is technically 0 since 00*10^-28 is 0",
         "explanation": "",
         "credit": ""
@@ -354,7 +354,7 @@ corrections = {
         "credit": "None"
     },
     "Princeton Invitational 17-18, #60": {
-        "question": "The Ackermann function is defined by \n\u00e2\u20ac\u00a2 A(0, n) = n + 1 \u00e2\u20ac\u00a2 A(m, 0) = A(m \u00e2\u02c6\u2019 1, 1)\n\u00e2\u20ac\u00a2 A(m, n) = A(m \u00e2\u02c6\u2019 1; A(m, n \u00e2\u02c6\u2019 1)) \nSome values include: A(2, 3) = 9 and A(4, 1) = 65533\nWhat is A(4, 2)? [SI/2017 USD]",
+        "question": "The Ackermann function is defined by \n\u2022 A(0, n) = n + 1 \u2022 A(m, 0) = A(m \u2212 1, 1)\n\u2022 A(m, n) = A(m \u2212 1; A(m, n \u2212 1)) \nSome values include: A(2, 3) = 9 and A(4, 1) = 65533\nWhat is A(4, 2)? [SI/2017 USD]",
         "answer": "",
         "explanation": "",
         "credit": "None"
@@ -450,7 +450,7 @@ corrections = {
         "credit": ""
     },
     "Yale Invitational 17-18, #22": {
-        "question": "Evaluate (\u00cf\u20ace)^(\u00cf\u20ace)",
+        "question": "Evaluate (\u03c0e)^(\u03c0e)",
         "answer": "",
         "explanation": "",
         "credit": "None"
@@ -493,7 +493,7 @@ corrections = {
     },
     "Princeton Invitational 17-18, #46": {
         "question": "",
-        "answer": "4",
+        "answer": "",
         "explanation": "Google says it's ~5700 years, which is fermi 4 (original answer fermi 11)",
         "credit": ""
     },
@@ -528,9 +528,189 @@ corrections = {
         "credit": ""
     },
     "Captains Tryouts Carmel 17-18, #5": {
-        "question": "How many pennies are in $5,645",
+        "question": "",
+        "answer": "6",
+        "explanation": "$5645, each $ has 100 pennies, so total is 5.645e3 * 1e2 which rounds up to an answer of 6",
+        "credit": ""
+    },
+    "SSSS Fermi (luminosityfan) 17-18, #20": {
+        "question": "",
+        "answer": "18",
+        "explanation": "https://www.usgs.gov/faqs/how-much-natural-water-there#:~:text=Earth%20is%20estimated%20to%20hold,glaciers%20(fresh)%2024%2C064%2C000%20cubic%20kilometers",
+        "credit": "Discord: errorfunction"
+    },
+    "RobertYL, daily fermi questions day #17 [2018 Westlake Q24]": {
+        "question": "",
+        "answer": "4",
+        "explanation": "https://www.aar.org/wp-content/uploads/2021/02/AAR-Ohio-State-Fact-Sheet.pdf \n\nThe Association of American Railroads states in the above pdf that there's 5,139 miles of railroad tracks, so the answer would round up to 4. I hope I'm not coming off sounding mean; just want the info as accurate as possible  \ud83d\udc4d",
+        "credit": "thatperson2647"
+    },
+    "MIT Invitational 18-19, #30": {
+        "question": "",
+        "answer": "5",
+        "explanation": "16 Disney-owned movies were released in 2016; an average of 2 hours per movie moves around 97,000 seconds. Final answer is 5",
+        "credit": "@tripleqgaming (discord)"
+    },
+    "BullSO Invitational 22-23, #27": {
+        "question": "A particle is placed in a rigid box (the walls are impenetrable). What is the probability of finding it anywhere within (percent)? For reference, the one dimensional wave equation is \u03c8=Asin[(n\u03c0/L)*x]",
+        "answer": "",
+        "explanation": "Clarifying the problem because it's 2 as in 100%",
+        "credit": ""
+    },
+    "Captains Tryouts Carmel 17-18, #41": {
+        "question": "",
+        "answer": "4",
+        "explanation": "Most sources (Statista, for instance) suggest that the average Japanese eats just under 100 pounds of rice per year. This is around a bowl of rice a day, if we were to make a reasonable guess during a test. The Japanese life expectancy also happens to be just under 100 (mid-80s). 10^2 * 10^2 produces a Fermi number of 4.",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #133 [2019 Dartmouth Q16]": {
+        "question": "",
+        "answer": "5",
+        "explanation": "100 pizzas * $10/pizza * 100 pennies/dollar = 10^5\n\nCJB",
+        "credit": "Ryan park"
+    },
+    "RobertYL, daily fermi questions day #73 [2019 Northmont Q75]": {
+        "question": "",
+        "answer": "8",
+        "explanation": "12 bacteria on 4 sq cm of skin",
+        "credit": ""
+    },
+    "SSSs Fermi (rafaelnadal) 17-18, #34": {
+        "question": "",
+        "answer": "",
+        "explanation": "real answer would be n where 300*2^n=c",
+        "credit": ""
+    },
+    "MIT Invitational 22-23, #24": {
+        "question": "",
+        "answer": "2",
+        "explanation": "The average square foot of grass has 3,000 blades (https://www.quora.com/Has-anyone-ever-calculated-how-many-blades-of-grass-are-in-a-typical-lawn#:~:text=The%20average%20square%20foot%20of,Oklahoma%20Museum%20of%20Natural%20History%20.), so one foot likely contacts about a tenth of that area (average foot is 100 cm^2 = 0.1 ft^2), so about 300 blades are contacted",
+        "credit": "errorfunction"
+    },
+    "RobertYL, daily fermi questions day #111 [2019 SOUP Q38]": {
+        "question": "",
+        "answer": "7",
+        "explanation": "According to the Cleveland Clinic, humans breath around 12-18 times per minute. The average test taker could, using simple observation, presume a similar rate. There are around 5 * 10^5 minutes in a year. That's a range of 6-9 * 10^6, which provides a Fermi answer of 7. Even without this knowledge, an answer of 9 suggests around 30 breaths per second, with is plainly wrong up or down an order of magnitude.",
+        "credit": ""
+    },
+    "Princeton Invitational 17-18, #2": {
+        "question": "",
+        "answer": "4",
+        "explanation": "The enrollment in 2017-2018 was 5,260, meaning that the fermi number should be 4",
+        "credit": "King Von"
+    },
+    "SOUP Invitational 22-23, #18": {
+        "question": "",
+        "answer": "12",
+        "explanation": "log of [44^9 (characters expected for the monkeys to type out one \"GOOD SOUP\") divided by 400 characters per minute (100 wpm = 400 cpm)]",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #102 [2018 Princeton Q A39]": {
+        "question": "",
+        "answer": "-5",
+        "explanation": "Volume of a grain of rice is about 0.02 mL = 2e-5 L, so the fraction of the 2L bottle occupied is 1e-5",
+        "credit": "errorfunction"
+    },
+    "Yale Invitational 17-18, #21": {
+        "question": "How many primes are less than 10^100?",
         "answer": "",
         "explanation": "",
+        "credit": "greg"
+    },
+    "MIT Invitational 21-22, #36": {
+        "question": "",
+        "answer": "27",
+        "explanation": "Solar constant (flux) is about 1368 W/m^2 (note W = J/s), so energy captured in a minute is 60s * 1368 W/m^2 = 82000 J. Energy consumption of a 1600 lumen lightbulb is about 15 W, so the lightbulb stays on for 82000 J / 15 W = 5500 s. A jiffy is 3e-24 seconds, so converting to jiffies, the time is 1.8e27 jiffies, so the answer is 27.",
+        "credit": "errorfunction"
+    },
+    "Captains Tryouts Carmel 17-18, #21": {
+        "question": "",
+        "answer": "7",
+        "explanation": "Your heart beats once per second at least, 1.5 e7 seconds in half of a year (six months)",
+        "credit": ""
+    },
+    "North Pocono Invitational 22-23, #2": {
+        "question": "How many NERDS ropes would it take to wrap around Mars?",
+        "answer": "",
+        "explanation": "what does it mean \"in miles\" sir?????",
+        "credit": ""
+    },
+    "Seven Lakes Invitational 18-19, #12": {
+        "question": "Find 3^33",
+        "answer": "",
+        "explanation": "",
+        "credit": ""
+    },
+    "Captains Tryouts Carmel 17-18, #18": {
+        "question": "",
+        "answer": "-11",
+        "explanation": "K.E. = 1/2 m v^2 = 1/2 * 1.67 * 10^-27 * (1.5 * 10^8)^2 =",
+        "credit": ""
+    },
+    "Captains Tryouts Carmel 17-18, #36": {
+        "question": "",
+        "answer": "12",
+        "explanation": "3*10^8 m/s * 60 s/minute * 36 inch/meter (also google)",
+        "credit": ""
+    },
+    "North Pocono Invitational 22-23, #21": {
+        "question": "",
+        "answer": "",
+        "explanation": "idk the intended question but hour per hour is really sussy",
+        "credit": ""
+    },
+    "Rickards SO Invitational 22-23, #42": {
+        "question": "",
+        "answer": "4",
+        "explanation": "5190 is not the fermi answer it is the normal answer",
+        "credit": "Paresh"
+    },
+    "BirdSO Invitational 20-21, #17": {
+        "question": "How many feathers equal the weight of the heaviest slug species?",
+        "answer": "4",
+        "explanation": "Heaviest slug species (California slug) is 0.25 pounds, weight of a feather is 8.2 milligrams. 13,829 feathers equal the weight of a California slug)",
+        "credit": ""
+    },
+    "Harvard Invitational 22-23, #4": {
+        "question": "",
+        "answer": "38",
+        "explanation": "2 mols released per tree per year, 12 trees, 2 + 12 + 24 = 38",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #53 [2018 Westlake Q27]": {
+        "question": "",
+        "answer": "8",
+        "explanation": "distance from earth to moon, 3e8 meters, each german shepard is on average 1m long so 8 are needed",
+        "credit": ""
+    },
+    "Captains Tryouts Carmel 17-18, #38": {
+        "question": "",
+        "answer": "16",
+        "explanation": "whether using simple or compound interest, 1000(1.03)^1000 or 1000e^(1000*.03) gives 16",
+        "credit": ""
+    },
+    "Captains Tryouts Carmel 17-18, #24": {
+        "question": "",
+        "answer": "6",
+        "explanation": "Volume of m&m is about 0.6 mL, available volume of car is about 2000 L (3000L before subtracting stuff like engine, seats, etc.), 2000L / (6e-4 L) = 3.33 million, so the answer is 6",
+        "credit": "errorfunction"
+    },
+    "BirdSO Satellite Invitational 21-22, #41": {
+        "question": "",
+        "answer": "",
+        "explanation": "the size n is not shown (unless this is intentional)",
+        "credit": ""
+    },
+    "Seven Lakes Invitational 17-18, #2": {
+        "question": "What is 7^45?",
+        "answer": "",
+        "explanation": "caret not shown, the answer 38 thus makes no sense (745 -> 3)",
+        "credit": ""
+    },
+    "Seven Lakes Invitational 17-18, #5": {
+        "question": "The largest prime number discovered to date is 2^74,207,281 - 1. How many digits does this number have?",
+        "answer": "",
+        "explanation": "missing caret and +1",
         "credit": ""
     }
 }
@@ -635,5 +815,39 @@ corrections_list = [
     "High Desert Satellite Invitational 22-23, #11",
     "Columbia Invitational 17-18, #41",
     "SOAPS Invitational 22-23, #25",
-    "Captains Tryouts Carmel 17-18, #5"
+    "Captains Tryouts Carmel 17-18, #5",
+    "SSSS Fermi (luminosityfan) 17-18, #20",
+    "RobertYL, daily fermi questions day #17 [2018 Westlake Q24]",
+    "MIT Invitational 18-19, #30",
+    "BullSO Invitational 22-23, #27",
+    "Captains Tryouts Carmel 17-18, #5",
+    "Captains Tryouts Carmel 17-18, #41",
+    "RobertYL, daily fermi questions day #133 [2019 Dartmouth Q16]",
+    "RobertYL, daily fermi questions day #73 [2019 Northmont Q75]",
+    "SSSs Fermi (rafaelnadal) 17-18, #34",
+    "MIT Invitational 22-23, #24",
+    "RobertYL, daily fermi questions day #111 [2019 SOUP Q38]",
+    "Captains Tryouts Carmel 17-18, #41",
+    "Princeton Invitational 17-18, #2",
+    "SOUP Invitational 22-23, #18",
+    "RobertYL, daily fermi questions day #102 [2018 Princeton Q A39]",
+    "Captains Tryouts Carmel 17-18, #5",
+    "Yale Invitational 17-18, #21",
+    "MIT Invitational 21-22, #36",
+    "Captains Tryouts Carmel 17-18, #21",
+    "North Pocono Invitational 22-23, #2",
+    "Seven Lakes Invitational 18-19, #12",
+    "Captains Tryouts Carmel 17-18, #18",
+    "Captains Tryouts Carmel 17-18, #36",
+    "North Pocono Invitational 22-23, #21",
+    "Rickards SO Invitational 22-23, #42",
+    "BirdSO Invitational 20-21, #17",
+    "Princeton Invitational 17-18, #2",
+    "Harvard Invitational 22-23, #4",
+    "RobertYL, daily fermi questions day #53 [2018 Westlake Q27]",
+    "Captains Tryouts Carmel 17-18, #38",
+    "Captains Tryouts Carmel 17-18, #24",
+    "BirdSO Satellite Invitational 21-22, #41",
+    "Seven Lakes Invitational 17-18, #2",
+    "Seven Lakes Invitational 17-18, #5"
 ]

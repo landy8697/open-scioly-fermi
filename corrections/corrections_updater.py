@@ -11,7 +11,7 @@ Revised Question Text (Optional),
 "Credits (Optional, but we want to thank whoever fixed the problem :D, preferred discord or forums name)"
 '''
 #Removing the heading
-file_object = open('corrections\\responses.csv', 'r')
+file_object = open('corrections\\responses.csv', 'r', encoding = 'utf-8')
 heading = next(file_object)
 csv_reader = csv.reader(file_object, delimiter=',')
 corrections = {}
