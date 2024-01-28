@@ -1,0 +1,73 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1.  How many molecules of hydrogen make up the sun?
+
+2.  How many steps will a human take in their lifetime?
+
+3.  How many steps are in the Eiffel Tower?
+
+4.  How many mL of water are in the Great Lakes?
+
+5.  How much money is spent on Christmas in the United States?
+
+6.  How many gallons of ice cream area consumed in the United States each year?
+
+7.  How many ml of blood does a mosquito take from a person?
+
+8.  Approximately how many seconds left do you have to left to live?
+
+9.  How many snails would you need to produce enough mucus to fill a bathtub in an hour?
+
+10.  How many letters are sent per day through USPS?
+
+11.  How many base pairs comprise the DNA in all of the cells in the human body combined?
+
+12.  How many pizza boxes would one need to make a stack the height of the Leaning Tower of Pisa?
+
+13.  What is the approximate population of the world?
+
+14.  How many people eat at McDonalds daily?
+
+15.  What is the size of Wikipedia in bytes?
+
+16.  How many stone blocks were used to build the pyramid at Giza?
+
+17.  How many grains of rice fit in a cup?
+
+18.  How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+
+19.  How many miles long is a honey bee?
+
+20.  How many planets in our universe can have life?
+
+21.  How many grams of deadliest poison would kill you?
+
+22. 
+In the 1989 Loma Prieta earthquake in California, approximately 2 million books fell off the shelves at the Stanford
+University library. If you were the library administrator and wanted to hire enough part-time student labor to put the books
+back on the shelves in a day how many students would you need?
+
+57
+8
+3
+19
+9
+9
+-3
+9
+3
+11
+
+23
+3
+10
+8
+10
+6
+4
+3
+-5
+5
+-7
+4

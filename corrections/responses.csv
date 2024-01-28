@@ -173,4 +173,54 @@ CJB",Ryan park
 12/20/2023 8:40:22,"Captains Tryouts Carmel 17-18, #24        ",,6,"Volume of m&m is about 0.6 mL, available volume of car is about 2000 L (3000L before subtracting stuff like engine, seats, etc.), 2000L / (6e-4 L) = 3.33 million, so the answer is 6",errorfunction
 12/23/2023 10:53:36,"BirdSO Satellite Invitational 21-22, #41        ",,,the size n is not shown (unless this is intentional),
 12/23/2023 10:55:22,"Seven Lakes Invitational 17-18, #2        ",What is 7^45?,,"caret not shown, the answer 38 thus makes no sense (745 -> 3)",
-12/23/2023 10:57:09,"Seven Lakes Invitational 17-18, #5        ","The largest prime number discovered to date is 2^74,207,281 - 1 − How many digits does this number have?",,missing caret and +1,
+12/23/2023 10:57:09,"Seven Lakes Invitational 17-18, #5        ","The largest prime number discovered to date is 2^74,207,281 - 1. How many digits does this number have?",,missing caret and +1,
+1/3/2024 13:19:25,"RobertYL, daily fermi questions day #3 [2018 Princeton Q B9]        ",What is the number of cells in an adult male human body?,13,"According to a new analysis of more than 1,500 papers, the average adult male human has around 36 trillion cells — that's 36 followed by 12 zeros — while adult females have 28 trillion and 10-year-old children have about 17 trillion.",Troy Athens SciOly
+1/6/2024 14:04:24,"Cornell Invitational 22-23, #13        ",What fraction of the distance from the Earth to the Moon is the height of this text?,-12,"Assuming the term ""height"" in this question refers to the height of the text, 12 point font is about 1/6 of an inch. The distance from the earth to the moon is about 238,900 miles, or 1,261,392,000 feet, or 15,136,704,000 inches, or 90,820,224,000 size 12 picapoints. So if you were to express the height of a sentence in 12 point font as a fraction of the distance from the earth to the moon, it'd be 10 to the negative 12th. This question is a bit vague, but I don't see any way for the answer to logically be 10 to the 0th, considering that is scientific notation for 1. Maybe it was originally referencing the answer to the previous problem, in which case you may choose to include the previous problem as well to make this one solvable. Thank you!",Emily G.
+1/8/2024 8:45:12,"University of Florida North Regional 17-18, #42        ",,16,google it lol,Ryan park
+1/8/2024 8:52:43,"Golden Gate Invitational 22-23, #43        ","How many iron atoms are on the tip of a safety pin (the pointy part)?
+
+",,typically the head of a pin refers to the round part,P JAYA
+1/8/2024 13:16:43,"RobertYL, daily fermi questions day #125 [2018 Centerville Q18]        ",,1,"I dont know if the fizz is right here, but if the answer is 5g=50->2, g is less than 10, so the answer should be 1.",emptiespace
+1/8/2024 13:23:40,"Golden Gate Invitational 22-23, #39        ",How many ways are there to make change for $10?,,,
+1/8/2024 13:26:26,"RobertYL, daily fermi questions day #34 [2019 Captains Exchange: NCSSM Q15]        ",,1,30 pages rounds to 1???? either that or the question needs to be reworded,emptiespace
+1/8/2024 16:01:41,"University of Michigan Invitational 17-18, #3        ",,-76,"Method 1: Probability of each event and multiplying
+
+Probability of a tie: Since there are 3 options for each player and they need to match, the probability of a tie in one round is 1/3 * 1/3 = 1/9.
+Probability of 72 ties in a row: This is simply the probability of a tie happening on each round 72 times, so it's (1/9)^72.
+Probability of any non-tie outcome: Once we have 72 ties, the next round must break the tie and therefore not be a tie. This means the probability of any non-tie outcome is 1 - (probability of a tie) = 1 - 1/9 = 8/9.
+Now, we need to multiply the probability of getting 72 ties in a row followed by a non-tie outcome: (1/9)^72 * 8/9 ≈ 5.062 x 10^-76",-sorryforthetypo
+1/9/2024 8:00:44,"RobertYL, daily fermi questions day #35 [2019 Solon Q9]        ",,10,bruv look it up ,Ryan park
+1/9/2024 8:54:37,"Columbia Invitational 17-18, #47        ",,11,dump truck volume is 10 m^3 and grand canyon is like 4 * 10^12 m^2,Ryan park
+1/9/2024 15:05:59,"Ohio State Invitational 22-23, #8        ",,11,"1 drop has the volume of 0.05ml, 1 olympic sized swimming pool contains 2.5e6 liters. 2.5e6/0.05e-3 gives 5e10 = 11",
+1/9/2024 15:11:19,"SSSS Fermi (Adi1008) 17-18, #37        ",,19,"each grain of sand is -13 m^3, empire state building is 6m^3, so 19 grains are required",
+1/10/2024 9:47:01,"RobertYL, daily fermi questions day #82 [2019 Captains Exchange: Irvine Q10]        ",,2,"i mean it never specified front/back, 91 pages is 2",
+1/10/2024 20:09:39,"MIT Invitational 22-23, #19        ",,5,"According to a new report, the average cost per inmate in New York's prisons is $167,731 per year.  - first google search",
+1/11/2024 15:53:20,"RobertYL, daily fermi questions day #26 [2018 Aviation Q5]        ",,27,"Volume of earth is 1e21m^3 = 1e27 mL, each skittle is about 0.5-1 mL, resulting in an answer of 1-2e27 skittles in the earth. ",errorfunction
+1/13/2024 9:30:30,"RobertYL, daily fermi questions day #105 [2019 Polytechnic Q24]        ",,-9,"probability of being struck in lifetime = 6.5e-5; if we assume that the probability of getting struck per day is x, then (1 - x) ^ (80 * 365 days) = 1 - 6.5e-5; solving gives x is around 2.2 * 10^-9",Ryan PARK
+1/13/2024 9:35:38,"RobertYL, daily fermi questions day #60 [2019 Boca Raton Tryouts Q11]        ",,8,bro its not a hard problem lol,Ryan park
+1/13/2024 22:48:22,"High Desert Mini Invitational 22-23, #2        ",,3,"average #2 pencil write 56km, Equator of Earth is 40,075 km, 40075/56=715.6 which is fermi 3",Krishna Dhiman
+1/16/2024 13:19:01,"SSSs Fermi (luminosityfan) 17-18, #25        ",,21,Volume of the Pacific Ocean is 7x10^20 liters. A soup can is 12 fluid ounces->0.35 liters. 7/0.35=20->2x10^21->21 cans needed to fill the Pacific Ocean,emptiespace
+1/16/2024 13:32:29,"University of Florida North Regional 17-18, #47        ",How many hours would it take the world’s fastest plane to fly the Earth's orbit?,,,
+1/17/2024 16:49:15,"SSSs Fermi (luminosityfan) 17-18, #21        ",How many newspapers would be needed put side-to-side to cover the surface of the Sun?,"Not sure, but it sure isn't 10","The surface area of the sun is 10^12 km, so unless a newspaper is kilometers long, this answer is wrong.",
+1/17/2024 17:49:16,"RobertYL, daily fermi questions day #36 [2019 Boca Raton Tryouts Q29]        ",How much does Bill Gates’ net worth weigh in 10 dollar bills? Express your answer in grams.,10,"Gate's net worth is at a magnitude of 11, ten dollar bills make it ^10 bills, 1 bill is 1 gram.",
+1/19/2024 9:35:57,"RobertYL, daily fermi questions day #53 [2018 Westlake Q27]        ",,6,1 General Sherman tree is 84 meters. Distance to the moon is 3.8e8m. Dividing gives 4.5e6 -> 6,TheBirdyBirdyBird
+1/22/2024 10:44:05,"SOAPS Invitational 22-23, #3        ",What fraction (expressed as a decimal) of positive integers less than 10^100 are perfect squares?,,,BTHS SciOly
+1/22/2024 14:58:36,"Cornell Invitational 22-23, #13        ",,,Question is based off a previous answer that we cannot see. ,
+1/22/2024 16:01:56,"High Desert Satellite Invitational 22-23, #5        ",,10,"8 people in germany, 2 liters per person",
+1/22/2024 18:56:52,"Sahil Gandhi, WSO Regionals 22-23, #20        ",,4,"The Philippines is an archipelago that comprises 7,641 islands --> rounds up to 4.",
+1/22/2024 18:59:57,"Duke Invitational 22-23, #14        ",How big is Duke’s campus (including every part of Duke-owned land) according to Google in cm^2?,,,None
+1/22/2024 19:00:00,"Cornell Invitational 22-23, #11",How many meters tall would stacking all of these light bulbs be? [All the light bulbs sold in a year],,,None
+1/22/2024 19:00:00,"Cornell Invitational 22-23, #12",How many of the world's tallest building stacked on top of each other would reach this height? [Height of all the light bulbs sold in a year stacked together],,,None
+1/22/2024 19:00:00,"Cornell Invitational 22-23, #13        ",What fraction of the distance from the Earth to the Moon is this height? [Height of all the light bulbs sold in a year stacked together],,,None
+1/25/2024 1:03:38,"Carolina Invitational 22-23, #17        ",,6,"""With good reason, the Swiss are the world’s most enthusiastic rail users, traveling an average of 2,450 kilometers every year by train.""
+
+https://www.cnn.com/travel/article/world-record-train-switzerland/index.html
+
+Likely the original answer was in regards to km, but the real answer should be in meters, like the question asks for...",
+1/25/2024 1:14:35,"SSSS Fermi (Adi1008) 17-18, #39        ",What is the volume of air breathed by the whole US population each month in liters?,,Missing units...,
+1/25/2024 11:57:49,"RobertYL, daily fermi questions day #116 [2019 Columbia Q3]        ",,37,"4.2 million solar masses * 2e30 kg/solar mass = 8.4e36 kg, so the answer is 37",errorfunction
+1/25/2024 18:17:46,"SOUP Invitational 22-23, #8        ",,4,30 days * 24 hrs/day * 30 mm/hr = 21600 ,
+1/26/2024 11:36:50,"UChicago Invitational 22-23, #14        ",,-7,"Thickness of paper is about 0.05-0.2 mm = 5-10 x 10^-5 m. A mile is 1609 meters, so thickness in miles is 5-20 x 10^-5 m x (1 mi / 1609 m) = 3.11-12.43 e-8 mi. Different sources give different numbers for thickness of paper ranging from 0.05-0.1 mm all the way up to 9 mil (~0.2 mm), so probably the safest answer here is -7.",errorfunction
+1/26/2024 15:43:18,"Rice Invitational 17-18, #10        ",,-7,calculate it yourself,
+1/27/2024 6:56:25,"University of Florida North Regional 17-18, #38        ",,68,bro whoever made this test is incompetent,Craig B
+1/28/2024 14:40:54,"RobertYL, daily fermi questions day #120 [2018 Westlake Q44]        ",,19,"There are 6e18 electrons in a coulomb. Given that wattage is equal to amperage times voltage, at a standard US voltage of 120, that means there's half an amp running through a 60 watt bulb. 6e18 electrons divided by 0.5 amps is a 1.2e19. Likewise, if we use a more global voltage of 240 volts, that would mean a quarter of an amp is running through a 60 watt bulb. 6e18 electrons divided by 0.25 amps is 2.4e19, which would also be 19. Not sure why the original answer was negative.",cubicfrog (disc)

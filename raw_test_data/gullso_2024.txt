@@ -1,0 +1,130 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. What is the wingspan of the largest gull species, the great black-backed gull, in
+angstroms?
+2. How long is the egg incubation time of a gull, in days?
+3. In the time that Laridae, the family of seabirds including gulls, have existed on Earth,
+how many kilometers could an immortal seagull travel, flying nonstop at its top speed?
+4. How many birds live on Earth?
+5. How many bird species are there?
+6. If all of the polar bears on Earth fought all of the penguins on Earth, how many
+penguins would each polar bear have to take down for there to be no penguins left at
+the end of the battle?
+7. Birds will poop anywhere and everywhere. Seabird poop has been valued to upwards of
+hundreds of millions of dollars for the fishing industry due to their ability to fertilize and
+provide nutrients to marine ecosystems. How much has seabird poop been estimated
+to be worth annually?
+
+8. If you laid out all the toilet paper bought by New York City (the city government, not
+the population) in a year, how long would the line be, in kilometers?
+9. How many toilet paper squares would be needed to cover the entirety of the U.S.
+interstate highway system?
+10. How large is the annual revenue of Charmin Ultra Soft, expressed in terms of the annual
+GDP of Tuvalu?
+11. How many olympic-sized swimming pools could be filled by all the water used annually
+to produce toilet paper in the U.S.?
+12. If all the energy used annually to produce toilet paper in the U.S. was used to power a
+Tesla Model 3, how far, in kilometers, could it go?
+13. Suppose you tp Beyoncé and Jay-Z’s 200 million dollar mansion. How much will you get
+charged by the state of California for (the felony form of) vandalism in USD?
+
+14. What was Live Nation Entertainment’s concert revenue in 2022?
+15. How many notes are played by the pianist in Rachmaninoff’s third piano concerto?
+16. How many times does the letter “a” appear in the 1605 novel Don Quixote?
+17. How many seconds long are the complete works of Ludwig van Beethoven?
+18. How many words are on the Wikipedia page for “Trombone”?
+19. How many horses’ worth of blood could the surviving Stradivarius violins today store?
+20. How many more units did the video game Metal Gear Solid (1998) sell than Deus Ex
+(2000) by 2001?
+21. Between 2019 and 2020, by how much USD did the revenue of the North American box
+office fall?
+
+22. How many lightning strikes occur in Florida every year?
+23. How many ash trees in North America are threatened by the invasive emerald ash
+borer?
+24. How many hectares of land in Australia are arable?
+25. How many kilojoules are in 100 grams of black walnuts?
+26. How many Saturns could fit into Earth’s moon?
+27. What is the size of the Maldives in square centimeters?
+28. According to present scientific consensus, how many species of fish are there on Earth?
+
+29. What year (AD) did Constantine become the new seat of the government in the Roman
+Empire?
+30. How many minutes have you lived?
+31. The 1936 Berlin Olympics Stadium was later used as a bunker by Nazis during WWII.
+How many people could it hold?
+31. How many standing lighthouses remain in America?
+
+32. Consider the amount of time that Steam users logged in 2020 playing video games. If
+Joel spends that entire amount of time calculating the digits of pi, given the formula of
+the average time to calculate the nth digit of pi in weeks = n^(1/2), how many digits
+would he manage to calculate? (He’s not the fastest at calculating these digits).
+33. How many more bicycles are in China than in London?
+34. As of 2021, how many answers have been provided on Stack Overflow, the largest
+coding Q&A site?
+
+
+35. What is the 100th Fibonacci number?
+36. How many happy numbers occur from 0 to 1,000,000? A happy number is defined as
+one where by continuously summing the squares of the digits, one eventually arrives at
+37. For example, 13 is happy, because 1^2 + 3^2 = 10, and 1^2 + 0^2 = 1. Assume
+base 10.
+38. How many of the values in the set of happy numbers from the previous question are
+prime?
+
+39. Here are the first few Pentagonal numbers. What is the 103212103rd Pentagonal
+number?
+40. What is the sum of the answers to the first four Math section problems?
+41. What is the product of the answers to the first four Math section problems?
+42. Let the correct answers to question 1, 2, 3, and 4 of the Math section be a, b, c, and d,
+respectively. What is a^b^c^d?
+
+
+10
+1
+13
+10
+4
+3
+9
+
+5
+12
+1
+6
+11
+5
+
+10
+4
+5
+5
+4
+1
+7
+10
+
+6
+10
+7
+3
+-5
+12
+4
+
+2
+7
+5
+3
+6
+8
+7
+
+20
+5
+4
+16
+1
+4
+416

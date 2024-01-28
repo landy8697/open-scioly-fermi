@@ -1,0 +1,102 @@
+Stanford Invitational 23-24
+50
+A long time ago (though not in a galaxy far, far away) dinosaurs roamed the Earth, having first appeared during the Triassic period. How long ago did the Triassic period begin, in microfortnights?
+16
+One such dinosaur was the Ferganasaurus verzilini, native to the Fergana valley of Kyrgyzstan. First described in 2003 by palaeontologists Alexander Averianov and Vladimir Alifanov, the species could grow to be up to 15 metric tonnes. How many butter firkins is this, as defined in the Magistrate’s Pocketbook published in London in 1825?
+3
+In order to maintain such a large body mass, dinosaurs had to eat a lot. In fact, it’s said that the Tyrannosaurus rex ate up to 140 kilograms worth of food per day. How many cubic furlongs of powdered cement add up to 140 kilograms?
+-8
+Powdered cement is unfortunately not known as a particularly rich source of nutrition, and cement is probably a food group best avoided altogether. That being said, different foods can have vastly different caloric densities. How many more kilocalories are in 140 kilograms of Walmart Angus beef steak than in 140 kilograms of romaine lettuce?
+5
+After eating 140 kilograms of Walmart steak, you may find yourself driving to the ER pretty soon after. How many emergency room visits occur annually in the United States?
+8
+Eating that much steak is also likely to lead to significant weight gain, and losing it afterwards could take a while. How many days would it take an average American to lose 140 kg in body mass if they exercise as much as they did before, but reduce their daily caloric intake to 2000 kcal?
+3
+One must always be careful while driving, but sometimes crashes aren’t the driver’s fault. One example of this occurred in 1990, when heavy fog caused by the Bowater paper mill led to a 99-car pileup on Interstate 75 in Tennessee, in which 42 people were injured and 12 were killed. How much total compensation did the mill pay out to victims of the tragedy, in Kyrgyzstani soms? (Use the 2024 exchange rate).
+9
+Speaking of Kyrgyzstan, the country’s parliament recently passed a law to straighten the previously wavy sun rays on the national flag. The official reason given for this was that the arrangement of the rays on the old flag closely resembles a sunflower, which is said to represent cowardice. How many sunflower seeds would it take to fill up a standard-size 55 gallon steel drum?
+6
+Hopping over the border west from Kyrgyzstan, we arrive in Kazakhstan, whose flag coincidentally also contains sun rays! How many more sun rays are there on the Kyrgyz flag than on the Kazakh flag?
+1
+Kazakhstan is a diverse state with large numbers of ethnic Kazakhs, Russians, Uzbeks, Ukrainians, Germans and Koreans. In fact, owing to the nation’s sizeable Korean community, the 3rd most common surname there is Kim! How many people with the last name Kim are there in Kazakhstan?
+4
+Another Central Asian nation is Tajikistan, which is the second most mountainous country in the world. How many mountains are located in Tajikistan?
+3
+The second-tallest mountain in Tajikistan is Lenin Peak, located along the Tajik-Kyrygz border. If x, y and z are the number of Cyrillic characters in the Tajik, Kyrgyz and Russian translations of “Lenin Peak” respectively (excluding spaces), how many digits are in the decimal representation of x^y^z?
+9
+North of Central Asia lies the Russian Federation, a country with one of the world’s largest railway networks. How many times more electrified railway track does Russia (the world’s largest country) have than Canada (the world’s second-largest country)?
+2
+Besides Canada, another country that significantly needs to upgrade its rail infrastructure is its southern neighbour, the United States. In fact, Caltrain still uses passenger train carriages from the early 1980s built by Japanese rolling stock manufacturer Nippon Sharyo. What is the equivalent energy of one of these Nippon Sharyo gallery cars in British Thermal Units, using mass-energy equivalence?
+18
+Wow, that’s a lot of energy. If I were to start a nuclear reaction with a stick of butter-sized block of Uranium-235, how much energy would be released in joules?
+14
+If I bought two stick of butter-sized blocks on the day you were born, one of Uranium-235 and one of Cobalt-60, how many more grams of uranium would I have today than cobalt?
+3
+How many years worth of calorie consumption does a single stick of butter represent for the combined population of the entire Houston metro area?
+-10
+In December 2022 a cold freeze swept across Texas (including the Houston metro area), putting significant strain on the state’s water supply systems, and officials in many localities asked residents to stop dripping their faucets. If every household faucet in Texas were to leak at a rate of 1 drop of water per second, what is the mass of all the water that would be wasted annually, in troy ounces?
+12
+Besides water, another major problem in the United States is food waste. If I were to take all the food wasted in the United States annually out of the landfill and put it into several Olympic-sized swimming pools, how many pools would it fill up?
+4
+How heavy would all this food waste be, in terms of standard Las Vegas tournament poker chips?
+13
+At last we find ourselves in Vegas, where a casino blackjack game can use up to 8 decks of cards. How many unique ways are there to shuffle a “superdeck” consisting of 8 standard 52-card decks?
+671
+What is the probability that a randomly drawn 5-card ordered sequence from an 8-card superdeck contains my birthday in MMDDYY format, if aces have a face value of 1 and jacks, kings and queens all have a face value of 11? MMDDYY format should be preserved exactly in all valid sequences, including leading zeros.
+-6
+How many decks of cards do Las Vegas casinos go through every year?
+7
+If I were to stack all of the decks from the previous question on top of each other, how many Vujanovi ́cs tall would they be? One Vujanovi ́c is the height of former Montenegrin president Filip Vujanovi ́c. [all the decks = decks of cards do Las Vegas casinos go through every year]
+6
+Enrico tried to solve question 24, but he forgot we were talking about decks of cards and not decks of a cruise ship! Assuming he solved question 23 correctly, by what factor would his answer be off, assuming he answered using decimal (not Fermi) answers?
+2
+A primorial is defined similarly to a factorial, except for the fact that it only considers primes. In particular, the sequence of primorials 2, 6, 30, 210, ... is defined with the ith element of the sequence, pi#, being the product of the first i prime numbers. For example, p5# = 2 · 3 · 5 · 7 · 11 = Please calculate the value of p1# + p2# + ... + p25#
+36
+What is 50! divided by p50#? [For example, p5# = 2 · 3 · 5 · 7 · 11 = 2310 (product of first i prime numbers)]
+-27
+What is the value of the natural log of the asymptotic growth function of pn# evaluated at n = 10,000,000? [For example, p5# = 2 · 3 · 5 · 7 · 11 = 2310 (product of first i prime numbers)]
+8
+I learnt about primorials from the On-Line Encyclopedia of Integer Sequences (OEIS). As of January 2024, how many mathematical sequences were included in the OEIS?
+5
+The OEIS website is available in several obscure languages, including Albanian and Welsh, which despite being vastly different from each other are both members of the Indo-European language family. How many Indo-European languages are there, according to Ethnologue?
+2
+What is the sum of the international country calling (ISD) codes of all UN member states whose list of official languages includes the Indo-European language with the largest number of native speakers, either de facto or de jure?
+4
+The Welsh language is famously difficult for its long words and frequent use of consonant clusters, so it’s fitting that Wales is home to Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, a small village of about 3,000 inhabitants which happens to bear the world record for the longest single-word name of a populated settlement. If x is the number of vowels in the village’s name and y is the number of consonants, please calculate the value of x!y!.
+66
+Interestingly, the number of letters in Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch varies depending on which language you consult! PIf x is the number of vowels in the village’s name and y is the number of consonants, please calculate the value of x!y!, using the Welsh reckoning, where digraphs (such as ng and dd) are counted as single letters, and w and y are treated as vowels. As an example, the town of Llanelli has 8 letters in English reckoning, but only 6 in Welsh.
+50
+To be honest, I didn’t know about how digraphs are counted in Welsh until I looked up the rules for Welsh orthography. And like most people interested in similarly useless information, I turned to Wikipedia. How many characters (excluding spaces) are there on the English-language Wikipedia page about Wikipedia?
+4
+Wikipedia is free to use for everyone, but if you’ve spent much time on the site at all you’ve probably been shown a pop-up message asking you to donate $3 to help the site keep up with maintainence costs. What were Wikipedia’s total operating expenses for the fiscal year 2022-23? (yes I looked this statistic up on Wikipedia :)).
+8
+In the past year, many people have switched away from searching Wikipedia or the web to asking ChatGPT whenever they have a question. How many monthly active users does ChatGPT have?
+8
+ChatGPT has gotten a lot more accurate since its release, especially since GPT4 has come out. Among other benchmarks, developers at OpenAI tested the model’s ability to answer questions on the Law School Admission Test (LSAT). If Kostya cheated on the LSAT by feeding all of the questions into GPT4, how many students from the 2022-23 exam cycle would he score better than?
+5
+Tadashi also decided to cheat on the LSAT, but he wasn’t willing to pay the $20 monthly subscription fee for ChatGPT Plus, so he just fed the questions into the free version (GPT5) instead. How many examinees from the previous problem would score better than Tadashi but worse than Kostya? [Kostya cheated on the LSAT by feeding all of the questions into GPT4]
+5
+The choices of character names in the previous two questions may seem random, but they’re actually fairly common names in their respective countries of origin: Russia and Japan. How many ethnic Japanese live in Russia?
+3
+Everything in Russia is written in the Cyrillic script, including words and names of Japanese origin, which means they must be transliterated. A common method of transcribing the Japanese language into Cyrillic is the Polivanov system, which was developed in How many fewer characters are there in the original Japanese text of Article 1 of the Universal Declaration of Human Rights (UDHR) than in its Polivanov-based Cyrillic transcription, including spaces?
+2
+The UDHR is commonly used to compare text across languages due to its having been so widely translated and disseminated. In fact, it set a Guinness World Record in 1999 for being the most widely translated document in the world. If x represents the median length of a word in the Greenlandic- language text of the UDHR (rounded to the nearest integer), and y represents the number of characters in the Greenlandic translation of the words “Universal Declaration of Human Rights” (excluding spaces), what is x^y?
+75
+I wanted to check how similar the Greenlandic version of the UDHR is to the original French, but unfortunately Greenlandic isn’t supported on Google translate! I guess I’ll just have to find a Greenlandic speaker myself. If I were to pick ten people at random from the world population, what’s the probability that at least three of them would be able to speak Greenlandic? Assume that every human on Earth has an equal chance of being selected, regardless of ethnicity or geographic location.
+-14
+My quest to find a Greenlander is likely to meet with widely varying success rates depending on where I search. How many times more likely am I to find an ethnic Greenlander in Denmark (excluding the Farøe Islands and Greenland) than in the United States, if my search consists of picking three people at random in each country and asking them where they’re from?
+3
+One of the largest sectors of the Greenlandic economy is fishing and whaling. Another major fish-loving nation is Japan, the birthplace of sushi. As it turns out, however, raw salmon was never consumed in Japan until extensive marketing by the Norwegian government in the 1990s! What is the total value of annual Norwegian fish and seafood exports to Japan, in yen?
+11
+Congrats, you’ve almost made it to the end! Many of these questions were difficult, so I’ll give you an easy one. For this question, simply answer with your team number.
+1
+It’s question 46 and I just realised I haven’t asked you guys anything about Stanford yet! How many pipe organs are there in Stanford’s Memorial Church, located on Main Quad?
+1
+Stanford has a long-standing football rivalry with UC Berkeley, a big part of which is the annual Big Game held every autumn. How many total points have Stanford scored against Cal across every Big Game played since its inaugural match in 1892?
+3
+How many patient beds are there at Lucile Packard Children’s Hospital, which is part of the Stanford University Health system and consistently ranks as one of the top paediatric hospitals in the country?
+2
+A time-honoured (but illegal) pastime among some Stanford students is exploring the labyrinthine network of steam tunnels that run below campus, carrying steam and water to heat the buildings on main quad, including the one we’re in right now. These tunnels were first built in the 19th century, and entrances to them are scattered throughout campus. Though the exact length of the network has never been officially disclosed to the public, we now have some fairly consistent estimates thanks to meticulous clandestine exploration and mapping by students over the decades. How many parsecs long is Stanford’s steam tunnel network estimated to be?
+-12
+We’re almost done, so it’s time for some mind games :). What is the most common answer to this question? (The correct answer will be the mode of all teams’ responses).
+1

@@ -1,0 +1,122 @@
+Rickards Invitational 23-24
+60
+How many digits are in
+3
+Compute 13^513
+571
+Compute C(513, 100)
+108
+Compute 513!
+1169
+Compute the derangement of 13
+9
+Compute the 1000th Fibonacci Number.
+208
+How many teardrops would it take to fill up Lake Ontario?
+20
+How many languages are there on Earth?
+4
+How old is the oldest material on Earth?
+10
+How many species of animals have scientists observed and classified?
+6
+In kilowatt-hours, how much electric energy does Greece use per year?
+10
+How many different Google Font Families are available for free on Google Docs?
+3
+How many lakes are in Indiana?
+2
+How many major deserts are there in the world?
+1
+How many pounds of food does an average person eat per year?
+3
+How many seconds does it take for Neptune to make a complete orbit around the Sun?
+10
+According to the US Census Bureau, what was the population of Indiana in 2022?
+7
+How many trophies does the #1 ranked Brawl Stars Player have?
+5
+How many minutes does the average person spend on their phone each week?
+3
+How many seconds has Ephram Chun spent playing chess on Lichess.org?
+6
+Assuming that the equator is paved, how many gallons of gas would a car consume if it were to drive all the way around the equator?
+3
+How many pennies would I need to stack on top of each other to reach the moon from Earth?
+11
+How many tickets have been sold worldwide to Taylor Swift’s Eras tour?
+7
+How much money, in Japanese Yen, would you make if you sold a cube of solid gold with a side length equal to the length of a Bugatti Chiron?
+13
+How many times would I have to drink from a standard boba straw to drain the Pacific Ocean?
+22
+How many pairs of Adidas ultraboosts can I buy if I spent the entirety of the 2022 U.S defense budget?
+9
+What was the area, in barns (unit), of the Roman empire at its peak?
+40
+What is the cardinality of the power set of a set containing 45 elements?
+13
+Assuming Shishir read at an average pace, what is the distance, in meters, that a garden snail could travel in the time it takes him to read the entire Hunger Games Trilogy?
+3
+What is the minimum number of black ants needed to lift a weight equal to a UPS delivery truck?
+8
+How many times could I have watched the Lord of the Rings trilogy in the time from the big bang to the present?
+13
+What is the probability that a pebble dropped randomly over the U.S lands on a McDonalds?
+-6
+What is the probability that I roll at most one 6 when I roll 100 fair dice?
+-7
+A tetration of a number to the order is defined as x^x^x.., where is exponentiated times. How many digits are in the tetration of 5 to the order 4?
+3
+The volume of ink, in mL, needed to print 2024 4” by 4” photos?
+2
+The amount of time, in days, it would take to build the Burj Khalifa if, instead of the original crew, I had a workforce equal to the number of dentists in the U.S. that worked at the same pace?
+2
+How many total Calories were burnt by all the runners who completed the Boston Marathon in 2023?
+7
+What is the speed, in m/s of an average passenger aircraft?
+2
+How loud is a police siren, in decibels, if I were standing right next to it?
+2
+What is the sum of the top 13 Go player Elo’s?
+4
+How deep is the deepest part of the ocean, in kilometers?
+1
+How long is the entire Clone Wars Series in seconds?
+5
+How many different teams can Audrey create for Pokemon Scarlet and Violet National Dex Monotype?
+13
+How many Exoplanets have been discovered as of September 21, 2023?
+4
+How many grains of sand are in the Sahara Desert?
+24
+On average, how many more cells does a male adult have compared to a female adult?
+10
+In Gigawatt Hours, how much electricity did the country Brunei use in 2022?
+3
+In Kilotons, how much carbon dioxide was released from Slovenia in 2020?
+4
+What is the cost of garment imports in the G20 that are at risk of modern slavery?
+11
+How many droplets of water are on Earth?
+25
+How many pixels are there on the new iPhone 15 Pro Max?
+6
+What is the volumetric flow, in sverdrups, of the Nile river?
+-3
+What is combined net worth of all U.S billionaires?
+12
+How many hairs are there on an average human’s head?
+5
+How many devices in the world run Java?
+9
+How many Cryptocurrency users are there worldwide?
+8
+How many species of beetles are there in the world?
+5
+How many people in the United States were on Active Military Duty in 2022?
+6
+How many seconds has Ephram Chun spent playing chess on Lichess.org?
+6
+How many people does the University of Pennsylvania employ?
+4

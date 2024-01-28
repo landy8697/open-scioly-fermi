@@ -1,0 +1,92 @@
+ut_invite_2023.txt
+45
+(T) The lifetime, in years, of a 100-kg black hole.
+-18
+The number of possible ways to arrange 118 people in a circle.
+192
+The Lorentz factor of a particle moving at .999999999999999999c (or (1 − 10^−18)c).
+18
+The mass of an E. coli cell divided by the mass of Pando, the world’s largest organism.
+-22
+The height of all U.S. currency notes in circu- lation stacked on top of each other, expressed in Planck lengths.
+41
+The weight, in metric tons, of all the Big Macs sold by McDonald’s in the U.S. (at the cur- rent rate) from now until the next perihelion of comet Hale–Bopp.
+9
+The number of colossal squid eyeballs that could be closest-packed into the observable uni- verse.
+81
+The energy, in gigajoules, consumed by burn- ing all the fuel contained in a filled tank of an Airbus A
+4
+The first Fibonacci number Fn for which Fn/Fn−1 is within 10−9% of the golden ratio, φ.
+5
+The number of characters across all printed copies of the Bible.
+16
+(T) The time, in minutes, you could survive if you were to take all the body fat from the 8× Mr. Olympia Lee Haney and use that as a food source, assuming you die as soon as you run out of food.
+4
+The number of times you could circle the Earth using every water molecule in a cup of water stacked side-by-side.
+9
+The number of barns (unit of area) you could fit on a small family barnyard in the 19th cen- tury.
+31
+The duration, in microseconds, of the laser pulse from the experiment described in the recently-awarded 2023 Nobel Prize in Physics.
+-10
+The number of back-to-back laser pulses from the Nobel Prize experiment you could set off in the duration it takes a person to finish this test (use the time limit of the test).
+11
+The number of Earths you could destroy from the energy released by a Type Ia supernova.
+11
+The number of bags of Lay’s that were sold in
+9
+The volume, in milliliters, of a family-sized bag of Lay’s filled with air.
+4
+The volume of air, in cubic meters, in all the bags of Lay’s sold in 2023, assuming they’re all family-sized.
+7
+The weight of an ant expressed as a percentage of the weight of a human.
+-6
+Calculate summation from n = 1 to 100 of n^999
+2997
+(T) The number of times by which Fermi was off when he initially calculated the energy of the atomic bomb from the Trinity Test.
+0
+The amount, in Japanese Yen (using the ex- change rate of October 2023), grossed by Bar- bie and Oppenheimer in their opening week- ends.
+10
+The weight, in Troy ounces, of all the gold in the oceans.
+12
+The number of smartphones you could make with the gold from Question 24, assuming all the other necessary elements are already present.
+15
+The number of transistors in an Apple M2 Ul- tra chip.
+11
+The kinetic energy, in joules, of the average hy- drogen molecule in this room.
+-20
+The force of the Moon on the Earth in meganewtons.
+14
+The force of the Earth on the Moon in newtons.
+20
+The number of IB students that got a 7 in HL Physics on the May 2023 examination around the world.
+4
+2023^23
+76
+The number of Mercury (Hg) atoms (as a liq- uid) that could fill Lake Baikal.
+42
+The absolute difference in the number of base pairs in a male and female (human) diploid karyotype.
+8
+(T) The molar solubility, in M, of Ag2C2O4 (silver oxalate) in a sufficiently strong buffer with pH =
+-3
+The number of hours of Instagram reels watched across the world per day.
+7
+The number of papers published to arXiv as of October
+6
+The sound intensity of a sperm whale’s click, in W/m^2 .
+11
+The diameter of a quantum dot that emits blue light, in nanometers.
+0
+The energy needed to excite an electron of the monoelectronic U91+ ion from n = 1 to n = 2, in Hartrees.
+3
+The number of grams of Hope Diamond–priced material necessary to repay the U.S. govern- ment’s debt as of October
+6
+The cups of rice that you could cook if you harnessed the energy of the biggest earthquake ever recorded.
+11
+(T) The sum of elements along the main diag- onal of the following matrix power: [[2 1], [1 2]]^23
+11
+The number of well-crushed 12 oz. soda cans you could fit in the average double room at UT’s residence halls.
+7
+The number of sugarcane-powered cars that could drive the distance from the Earth to the Sun fueled by the sugarcane produced across the world in one year. Assume the car gets as much energy from the sugarcane as a human would from eating it.
+4
+The number of times you would “watch” the recent Five Nights at Freddy’s from start to finish over your lifetime (assuming you have an average lifespan), if it played every time you blinked and paused every time you opened your eyes.
+4

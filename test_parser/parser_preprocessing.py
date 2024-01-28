@@ -3,7 +3,7 @@ import re
 
 filepath = "C:\\Andy\\Programming Projects\\open-scioly-fermi\\raw_test_data"
 filepath2 = "C:\\Andy\\Programming Projects\\open-scioly-fermi\\test_parser"
-current_file = "columbia_2018.txt"
+current_file = "uga_2024.txt"
 new_file = "temp.txt"
 #Pre Processing for tests (Ex. Cornell) That have answers on the same line as questions
 '''
@@ -35,20 +35,21 @@ for line in fileinput.input(files=(f"{filepath}\\{current_file}"), encoding="utf
 
 #Much simplier case, no numbers and one line per question
 
-'''
+print("hello")
 question_number = 1
 cur_question = ""
 for line in fileinput.input(files=(f"{filepath}\\{current_file}"), encoding="utf-8"):
     print(f"{question_number}. {line}")
     question_number += 1
-    #print(line.strip())
-'''
+
 
 #Remove question number and parentheses Ex: 1) 7 -> 7
 
+'''
 question_number = 1
 cur_question = ""
 for line in fileinput.input(files=(f"{filepath}\\{current_file}"), encoding="utf-8"):
     #remove the question number and parenthese from each line
     line = re.sub(r'\d+\)', '', line)
     print(line.strip())
+'''

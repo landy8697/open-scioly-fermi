@@ -397,8 +397,8 @@ corrections = {
     },
     "Rice Invitational 17-18, #10": {
         "question": "",
-        "answer": "-6",
-        "explanation": "i hope the question meant -6",
+        "answer": "-7",
+        "explanation": "calculate it yourself",
         "credit": ""
     },
     "SOUP Invitational 22-23, #31": {
@@ -679,9 +679,9 @@ corrections = {
     },
     "RobertYL, daily fermi questions day #53 [2018 Westlake Q27]": {
         "question": "",
-        "answer": "8",
-        "explanation": "distance from earth to moon, 3e8 meters, each german shepard is on average 1m long so 8 are needed",
-        "credit": ""
+        "answer": "6",
+        "explanation": "1 General Sherman tree is 84 meters. Distance to the moon is 3.8e8m. Dividing gives 4.5e6 -> 6",
+        "credit": "TheBirdyBirdyBird"
     },
     "Captains Tryouts Carmel 17-18, #38": {
         "question": "",
@@ -712,6 +712,216 @@ corrections = {
         "answer": "",
         "explanation": "missing caret and +1",
         "credit": ""
+    },
+    "RobertYL, daily fermi questions day #3 [2018 Princeton Q B9]": {
+        "question": "What is the number of cells in an adult male human body?",
+        "answer": "13",
+        "explanation": "According to a new analysis of more than 1,500 papers, the average adult male human has around 36 trillion cells \u2014 that's 36 followed by 12 zeros \u2014 while adult females have 28 trillion and 10-year-old children have about 17 trillion.",
+        "credit": "Troy Athens SciOly"
+    },
+    "Cornell Invitational 22-23, #13": {
+        "question": "What fraction of the distance from the Earth to the Moon is this height? [Height of all the light bulbs sold in a year stacked together]",
+        "answer": "",
+        "explanation": "",
+        "credit": "None"
+    },
+    "University of Florida North Regional 17-18, #42": {
+        "question": "",
+        "answer": "16",
+        "explanation": "google it lol",
+        "credit": "Ryan park"
+    },
+    "Golden Gate Invitational 22-23, #43": {
+        "question": "How many iron atoms are on the tip of a safety pin (the pointy part)?",
+        "answer": "",
+        "explanation": "typically the head of a pin refers to the round part",
+        "credit": "P JAYA"
+    },
+    "RobertYL, daily fermi questions day #125 [2018 Centerville Q18]": {
+        "question": "",
+        "answer": "1",
+        "explanation": "I dont know if the fizz is right here, but if the answer is 5g=50->2, g is less than 10, so the answer should be 1.",
+        "credit": "emptiespace"
+    },
+    "Golden Gate Invitational 22-23, #39": {
+        "question": "How many ways are there to make change for $10?",
+        "answer": "",
+        "explanation": "",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #34 [2019 Captains Exchange: NCSSM Q15]": {
+        "question": "",
+        "answer": "1",
+        "explanation": "30 pages rounds to 1???? either that or the question needs to be reworded",
+        "credit": "emptiespace"
+    },
+    "University of Michigan Invitational 17-18, #3": {
+        "question": "",
+        "answer": "-76",
+        "explanation": "Method 1: Probability of each event and multiplying\n\nProbability of a tie: Since there are 3 options for each player and they need to match, the probability of a tie in one round is 1/3 * 1/3 = 1/9.\nProbability of 72 ties in a row: This is simply the probability of a tie happening on each round 72 times, so it's (1/9)^72.\nProbability of any non-tie outcome: Once we have 72 ties, the next round must break the tie and therefore not be a tie. This means the probability of any non-tie outcome is 1 - (probability of a tie) = 1 - 1/9 = 8/9.\nNow, we need to multiply the probability of getting 72 ties in a row followed by a non-tie outcome: (1/9)^72 * 8/9 \u2248 5.062 x 10^-76",
+        "credit": "-sorryforthetypo"
+    },
+    "RobertYL, daily fermi questions day #35 [2019 Solon Q9]": {
+        "question": "",
+        "answer": "10",
+        "explanation": "bruv look it up",
+        "credit": "Ryan park"
+    },
+    "Columbia Invitational 17-18, #47": {
+        "question": "",
+        "answer": "11",
+        "explanation": "dump truck volume is 10 m^3 and grand canyon is like 4 * 10^12 m^2",
+        "credit": "Ryan park"
+    },
+    "Ohio State Invitational 22-23, #8": {
+        "question": "",
+        "answer": "11",
+        "explanation": "1 drop has the volume of 0.05ml, 1 olympic sized swimming pool contains 2.5e6 liters. 2.5e6/0.05e-3 gives 5e10 = 11",
+        "credit": ""
+    },
+    "SSSS Fermi (Adi1008) 17-18, #37": {
+        "question": "",
+        "answer": "19",
+        "explanation": "each grain of sand is -13 m^3, empire state building is 6m^3, so 19 grains are required",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #82 [2019 Captains Exchange: Irvine Q10]": {
+        "question": "",
+        "answer": "2",
+        "explanation": "i mean it never specified front/back, 91 pages is 2",
+        "credit": ""
+    },
+    "MIT Invitational 22-23, #19": {
+        "question": "",
+        "answer": "5",
+        "explanation": "According to a new report, the average cost per inmate in New York's prisons is $167,731 per year.  - first google search",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #26 [2018 Aviation Q5]": {
+        "question": "",
+        "answer": "27",
+        "explanation": "Volume of earth is 1e21m^3 = 1e27 mL, each skittle is about 0.5-1 mL, resulting in an answer of 1-2e27 skittles in the earth.",
+        "credit": "errorfunction"
+    },
+    "RobertYL, daily fermi questions day #105 [2019 Polytechnic Q24]": {
+        "question": "",
+        "answer": "-9",
+        "explanation": "probability of being struck in lifetime = 6.5e-5; if we assume that the probability of getting struck per day is x, then (1 - x) ^ (80 * 365 days) = 1 - 6.5e-5; solving gives x is around 2.2 * 10^-9",
+        "credit": "Ryan PARK"
+    },
+    "RobertYL, daily fermi questions day #60 [2019 Boca Raton Tryouts Q11]": {
+        "question": "",
+        "answer": "8",
+        "explanation": "bro its not a hard problem lol",
+        "credit": "Ryan park"
+    },
+    "High Desert Mini Invitational 22-23, #2": {
+        "question": "",
+        "answer": "3",
+        "explanation": "average #2 pencil write 56km, Equator of Earth is 40,075 km, 40075/56=715.6 which is fermi 3",
+        "credit": "Krishna Dhiman"
+    },
+    "SSSs Fermi (luminosityfan) 17-18, #25": {
+        "question": "",
+        "answer": "21",
+        "explanation": "Volume of the Pacific Ocean is 7x10^20 liters. A soup can is 12 fluid ounces->0.35 liters. 7/0.35=20->2x10^21->21 cans needed to fill the Pacific Ocean",
+        "credit": "emptiespace"
+    },
+    "University of Florida North Regional 17-18, #47": {
+        "question": "How many hours would it take the world\u2019s fastest plane to fly the Earth's orbit?",
+        "answer": "",
+        "explanation": "",
+        "credit": ""
+    },
+    "SSSs Fermi (luminosityfan) 17-18, #21": {
+        "question": "How many newspapers would be needed put side-to-side to cover the surface of the Sun?",
+        "answer": "Not sure, but it sure isn't 10",
+        "explanation": "The surface area of the sun is 10^12 km, so unless a newspaper is kilometers long, this answer is wrong.",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #36 [2019 Boca Raton Tryouts Q29]": {
+        "question": "How much does Bill Gates\u2019 net worth weigh in 10 dollar bills? Express your answer in grams.",
+        "answer": "10",
+        "explanation": "Gate's net worth is at a magnitude of 11, ten dollar bills make it ^10 bills, 1 bill is 1 gram.",
+        "credit": ""
+    },
+    "SOAPS Invitational 22-23, #3": {
+        "question": "What fraction (expressed as a decimal) of positive integers less than 10^100 are perfect squares?",
+        "answer": "",
+        "explanation": "",
+        "credit": "BTHS SciOly"
+    },
+    "High Desert Satellite Invitational 22-23, #5": {
+        "question": "",
+        "answer": "10",
+        "explanation": "8 people in germany, 2 liters per person",
+        "credit": ""
+    },
+    "Sahil Gandhi, WSO Regionals 22-23, #20": {
+        "question": "",
+        "answer": "4",
+        "explanation": "The Philippines is an archipelago that comprises 7,641 islands --> rounds up to 4.",
+        "credit": ""
+    },
+    "Duke Invitational 22-23, #14": {
+        "question": "How big is Duke\u2019s campus (including every part of Duke-owned land) according to Google in cm^2?",
+        "answer": "",
+        "explanation": "",
+        "credit": "None"
+    },
+    "Cornell Invitational 22-23, #11": {
+        "question": "How many meters tall would stacking all of these light bulbs be? [All the light bulbs sold in a year]",
+        "answer": "",
+        "explanation": "",
+        "credit": "None"
+    },
+    "Cornell Invitational 22-23, #12": {
+        "question": "How many of the world's tallest building stacked on top of each other would reach this height? [Height of all the light bulbs sold in a year stacked together]",
+        "answer": "",
+        "explanation": "",
+        "credit": "None"
+    },
+    "Carolina Invitational 22-23, #17": {
+        "question": "",
+        "answer": "6",
+        "explanation": "\"With good reason, the Swiss are the world\u2019s most enthusiastic rail users, traveling an average of 2,450 kilometers every year by train.\"\n\nhttps://www.cnn.com/travel/article/world-record-train-switzerland/index.html\n\nLikely the original answer was in regards to km, but the real answer should be in meters, like the question asks for...",
+        "credit": ""
+    },
+    "SSSS Fermi (Adi1008) 17-18, #39": {
+        "question": "What is the volume of air breathed by the whole US population each month in liters?",
+        "answer": "",
+        "explanation": "Missing units...",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #116 [2019 Columbia Q3]": {
+        "question": "",
+        "answer": "37",
+        "explanation": "4.2 million solar masses * 2e30 kg/solar mass = 8.4e36 kg, so the answer is 37",
+        "credit": "errorfunction"
+    },
+    "SOUP Invitational 22-23, #8": {
+        "question": "",
+        "answer": "4",
+        "explanation": "30 days * 24 hrs/day * 30 mm/hr = 21600",
+        "credit": ""
+    },
+    "UChicago Invitational 22-23, #14": {
+        "question": "",
+        "answer": "-7",
+        "explanation": "Thickness of paper is about 0.05-0.2 mm = 5-10 x 10^-5 m. A mile is 1609 meters, so thickness in miles is 5-20 x 10^-5 m x (1 mi / 1609 m) = 3.11-12.43 e-8 mi. Different sources give different numbers for thickness of paper ranging from 0.05-0.1 mm all the way up to 9 mil (~0.2 mm), so probably the safest answer here is -7.",
+        "credit": "errorfunction"
+    },
+    "University of Florida North Regional 17-18, #38": {
+        "question": "",
+        "answer": "68",
+        "explanation": "bro whoever made this test is incompetent",
+        "credit": "Craig B"
+    },
+    "RobertYL, daily fermi questions day #120 [2018 Westlake Q44]": {
+        "question": "",
+        "answer": "19",
+        "explanation": "There are 6e18 electrons in a coulomb. Given that wattage is equal to amperage times voltage, at a standard US voltage of 120, that means there's half an amp running through a 60 watt bulb. 6e18 electrons divided by 0.5 amps is a 1.2e19. Likewise, if we use a more global voltage of 240 volts, that would mean a quarter of an amp is running through a 60 watt bulb. 6e18 electrons divided by 0.25 amps is 2.4e19, which would also be 19. Not sure why the original answer was negative.",
+        "credit": "cubicfrog (disc)"
     }
 }
 corrections_list = [
@@ -849,5 +1059,44 @@ corrections_list = [
     "Captains Tryouts Carmel 17-18, #24",
     "BirdSO Satellite Invitational 21-22, #41",
     "Seven Lakes Invitational 17-18, #2",
-    "Seven Lakes Invitational 17-18, #5"
+    "Seven Lakes Invitational 17-18, #5",
+    "RobertYL, daily fermi questions day #3 [2018 Princeton Q B9]",
+    "Cornell Invitational 22-23, #13",
+    "University of Florida North Regional 17-18, #42",
+    "Golden Gate Invitational 22-23, #43",
+    "RobertYL, daily fermi questions day #125 [2018 Centerville Q18]",
+    "Golden Gate Invitational 22-23, #39",
+    "RobertYL, daily fermi questions day #34 [2019 Captains Exchange: NCSSM Q15]",
+    "University of Michigan Invitational 17-18, #3",
+    "RobertYL, daily fermi questions day #35 [2019 Solon Q9]",
+    "Columbia Invitational 17-18, #47",
+    "Ohio State Invitational 22-23, #8",
+    "SSSS Fermi (Adi1008) 17-18, #37",
+    "RobertYL, daily fermi questions day #82 [2019 Captains Exchange: Irvine Q10]",
+    "MIT Invitational 22-23, #19",
+    "RobertYL, daily fermi questions day #26 [2018 Aviation Q5]",
+    "RobertYL, daily fermi questions day #105 [2019 Polytechnic Q24]",
+    "RobertYL, daily fermi questions day #60 [2019 Boca Raton Tryouts Q11]",
+    "High Desert Mini Invitational 22-23, #2",
+    "SSSs Fermi (luminosityfan) 17-18, #25",
+    "University of Florida North Regional 17-18, #47",
+    "SSSs Fermi (luminosityfan) 17-18, #21",
+    "RobertYL, daily fermi questions day #36 [2019 Boca Raton Tryouts Q29]",
+    "RobertYL, daily fermi questions day #53 [2018 Westlake Q27]",
+    "SOAPS Invitational 22-23, #3",
+    "Cornell Invitational 22-23, #13",
+    "High Desert Satellite Invitational 22-23, #5",
+    "Sahil Gandhi, WSO Regionals 22-23, #20",
+    "Duke Invitational 22-23, #14",
+    "Cornell Invitational 22-23, #11",
+    "Cornell Invitational 22-23, #12",
+    "Cornell Invitational 22-23, #13",
+    "Carolina Invitational 22-23, #17",
+    "SSSS Fermi (Adi1008) 17-18, #39",
+    "RobertYL, daily fermi questions day #116 [2019 Columbia Q3]",
+    "SOUP Invitational 22-23, #8",
+    "UChicago Invitational 22-23, #14",
+    "Rice Invitational 17-18, #10",
+    "University of Florida North Regional 17-18, #38",
+    "RobertYL, daily fermi questions day #120 [2018 Westlake Q44]"
 ]

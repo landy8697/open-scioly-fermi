@@ -1,0 +1,78 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. How many full size computer keyboards would it take to match every key from every keyboard to a key for every house in the US?
+
+2. How many hydrogen atoms would be in a sphere of water the size of the moon?
+
+3. How many standard water bottles’ worth of liquid would it take to fill up Lake Mead to full capacity?
+
+4. 20 * 69!
+
+5. What would be the mass of a planet, in Daltons, the same size as Earth which generates 4g of gravity?
+
+6. How many M&M’s would it take to recoup the cumulative energy used by all the marathon runners in this year’s Boston marathon?
+
+7. How much dissolved oxygen, in nanograms, is present in enough tap water to cover Manhattan 1 meter deep?
+
+8. How many red blood cells would fit inside the Sun?
+
+9. Recall that an electron needs energy to move from one energy level to another in an atom. How many leaps from the ground state to the first excited state of an electron in a neutral hydrogen atom could be powered by the energy usage of an average US household?
+
+10. How many centaurs would span the distance from Earth to Proxima Centauri, assuming that centaurs would be the same size as a horse?
+
+11. How many seconds apart were the completion of the Pyramid of Giza and the Colosseum?
+
+12. How long, in decades, would it take for light to complete the famous Cannonball Run challenge (Red Ball Garage in NY to Portofino Hotel in LA)?
+
+13. What is the major axis diameter of Neptune’s orbit in picas?
+
+14. How many Interstate highway dashed lines would it take to connect K2 to Mauna Kea?
+
+15. How many individual doses of the COVID-19 booster vaccine would be needed to create a column of liquid that is 5 m in diameter to the ISS?
+
+16. How long is the longest aircraft carrier in buckyballs (buckminsterfullerene)?
+
+17. How many wavelengths of violet visible light exist between the Sun and Neptune, at their average distance apart?
+
+18. If all corn produced yearly worldwide were distributed equally to all the blue whales on Earth, how much would each blue whale weigh, in lb, carrying their assigned amount of corn?
+
+19. How long, in Planck time, would it take to move across the length of the universe at the speed of light?
+
+20. How many centuries would it take for Usain Bolt to run a light-second while running at his 100m world record pace?
+
+21. If everyone in the world were to stand side-by-side (shoulder to shoulder with no gaps) to form a circle, what would be the diameter of the circle, in human hairs?
+
+22. How many leagues under the sea is the center of the Earth?
+
+23. How heavy is the combined weight of the UGA football team, in cricket balls?
+
+24. How many houseflies’ worth of lift would you need to lift a school bus?
+
+25. How much paraffin wax, in oz, would be needed to power a hot air balloon for a week (ignore the energy needed to carry the weight of the wax itself)?
+
+6
+24
+14
+99
+52
+7
+17
+43
+28
+16
+11
+-11
+20
+6
+13
+11
+24
+8
+61
+-2
+16
+3
+5
+9
+5
