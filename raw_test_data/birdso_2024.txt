@@ -1,0 +1,176 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. Suppose we model LA county as a circle, with area equal to that of LA county. Assuming the teams at BirdSO are
+uniformly distributed throughout LA county, in dollars, how much money was spent on gas for transportation to BirdSO?
+Assume current LA gas prices.
+2. How many different states are represented among the competing teams at BirdSO?
+3. How many brain cells are there that belongs to competitors at BirdSO?
+4. The BirdSO volunteers are going to have 6” Subway sandwiches for lunch. What length of sandwiches will be eaten by
+BirdSO volunteers for lunch today? Report your answer in ant lengths (the insect).
+5. If all the BirdSO competitors joined USC as undergraduate students today, what percentage of USC students would be
+BirdSO competitors?
+6. With so many students and interests, USC will need to offer many majors to accommodate everyone! How many distinct
+undergraduate degrees does USC award?
+7. As you may know, the mascot for BirdSO is a (blue) pigeon, named πgeon. πgeon is a mail pigeon (think of your
+standard pigeon) and is notably not blue, but wants to be painted blue. For the purposes of buying the right amount of
+paint, what is πgeon’s surface area, in square picometers?
+8. Before joining BirdSO, πgeon lived in NYC, the world’s foremost destination for pigeons (source needed). If all the
+pigeons in NYC formed Science Olympiad teams to compete at BirdSO, how much would BirdSO receive in registration
+fees from the pigeons?
+9. Oops, the pigeon SciOly teams forgot they would have to buy a sweeper to clean the vehicle track to optimize their
+performance. Luckily, πgeon befriended Taylor Swift during her earlier years in NYC. If Taylor Swift used all the money
+made from the Eras tour to buy Swiffer Sweepers for the pigeons, how many Swiffer Sweepers could she buy?
+10. In milliseconds, how long would it take Usain Bolt running at top speed to pass through all the streets of Los Angeles?
+11. How many times does a hummingbird flap its wings in its lifetime?
+12. Per the USDA, how many turkeys are eaten on Thanksgiving every year?
+13. How many chicken eggs can one ostrich egg substitute for?
+14. What is the ratio of the width of a dollar bill to the diameter of a red blood cell?
+15. How many cells are a regular household cat?
+16. What is the ratio of the number of cells you have and the number of characters on this test booklet?
+17. How many cells are in a unicellular organism?
+18. How many sunflower seeds does a sunflower produce in its lifetime?
+19. Suppose Lake Michigan was actually filled with (regular) milk, instead of water. How many moles of whey protein would
+there be in the lake?
+20. How many people travel by plane from LAX to SFO each year?
+21. How many books are published a year?
+22. How many people visit the Empire State Building every year?
+23. How many cars cross the Golden Gate Bridge each year?
+24. How many transistors are produced annually?
+25. What is the GDP of Singapore, in USD?
+26. On average, how much toilet paper is used by an individual per year?
+27. How many grams of ammonia are manufactured each day (by industry)?
+28. How many Pokemon cards are printed a year?
+29. How many COVID shots have been administered in California?
+30. How much electricity does the Niagara falls generate, in Watts?
+31. How many holes does Crocs sell a year?
+32. If every citizen that was naturalized in the United States in 2022 fully neutralized 3 L of 12 M NaOH with 0.1 M HCl,
+what is the minimum number of gallon waste containers they would need to clean up the experiment?
+33. In light-seconds, what is the average distance between the stars in Orion’s belt?
+34. How many electrons flow through a 1 A lamp in 1 second?
+35. In Newtons, what is the force of the Moon on the Earth?
+36. In Joules, how much energy would it take ChatGPT to provide an answer to this question?
+37. What mass of graphene would it take to cover USC in grams?
+38. Assume all objects in the universe besides you and Pluto disappear. In m/s2, how fast would you accelerate toward
+
+Pluto?
+39. How many D-T fusion events would it take to cook a chicken?
+40. On a dark, moonless night, how many stars can you see at night?
+41. How many meters does Pluto traverse in a month?
+42. In m/s, what is the escape velocity of the Milky Way?
+43. Using a standard 1000W microwave, how long would it take to melt Antarctica, in seconds? Assume (unrealistically)
+that all of it starts at 0 degrees C.
+44. If we made a line of foot-long Subway sandwiches from USC to MIT, how many sandwiches would it take?
+45. If you uniformly pick a random place on Earth and throw a rock straight up (with, say, infinite velocity somehow), what
+is the probability you will hit the moon?
+46. How many tennis balls, placed end-to-end, would it take to reach the Sun from Earth?
+47. How many cubic kilometers of crust is generated in the average time frame of a geomagnetic reversal?
+48. In kg, what is the mass of silica in the mantle?
+49. In g/m3, what is the density of water in a cumulus cloud?
+33. In light-seconds, what is the average distance between the stars in Orion’s belt?
+34. How many electrons flow through a 1 A lamp in 1 second?
+35. In Newtons, what is the force of the Moon on the Earth?
+36. In Joules, how much energy would it take ChatGPT to provide an answer to this question?
+37. What mass of graphene would it take to cover USC in grams?
+38. Assume all objects in the universe besides you and Pluto disappear. In m/s2
+
+, how fast would you accelerate toward
+
+Pluto?
+39. How many D-T fusion events would it take to cook a chicken?
+40. On a dark, moonless night, how many stars can you see at night?
+41. How many meters does Pluto traverse in a month?
+42. In m/s, what is the escape velocity of the Milky Way?
+43. Using a standard 1000W microwave, how long would it take to melt Antarctica, in seconds? Assume (unrealistically)
+that all of it starts at 0 degrees C.
+44. If we made a line of foot-long Subway sandwiches from USC to MIT, how many sandwiches would it take?
+45. If you uniformly pick a random place on Earth and throw a rock straight up (with, say, infinite velocity somehow), what
+is the probability you will hit the moon?
+46. How many tennis balls, placed end-to-end, would it take to reach the Sun from Earth?
+47. How many cubic kilometers of crust is generated in the average time frame of a geomagnetic reversal?
+48. In kg, what is the mass of silica in the mantle?
+49. In g/m3
+
+, what is the density of water in a cumulus cloud?
+50. (pi)geon gets an espresso from his local Starbucks every morning. There are 100 unique receipt numbers, and he wants to
+collect all of them. Assuming that the probability of getting any of the receipt numbers is the same, how long would it
+take (on average) to get all 100 receipts?
+51. How many trees are there on 100 vertices? A tree is a graph (where a graph consists of vertices and edges between
+pairs of vertices) where there are no cycles (e.g., no loops) and the graph is connected (for every two vertices, there is a
+path between them).
+52. Suppose you have a list of the numbers 1 through 120, and you randomly mix them up and put them in a list. You try
+to sort them as follows: take the list, uniformly at random permute the elements, and check if it’s sorted. If it’s still not
+sorted, then repeated. On average, many attempts should it take for you to sort the numbers?
+53. What is 30!?
+54. Suppose I start writing down an infinite sequence of numbers, where each number is sampled uniformly between the
+integers from 0 to 9 (inclusive). How many numbers would I need to sample before the expected number of times I see 00000000000 as a substring exceeds 5?
+55. You have a jar of jelly beans with 10 red jelly beans and 90 blue jelly beans. You draw from the jar 15 times, and after
+drawing each time you put the bean you drew back. What is the probability that you never draw a blue bean?
+56. What is the 60th Fibonacci number F60, defined by the recurrence F1 = 1, F2 = 1, Fn = Fn−1 + Fn−2?
+
+57. How many breaths would it take to recycle all the air in a car? Assume each time you take a breath, all the new air you
+breathe was originally unbreathed.
+58. How many toothpicks would it take to recreate the Eiffel tower?
+59. How many stars are in the Hollywood Walk of Fame?
+60. How many copies of your answer sheet would it take to cover Antarctica?
+
+4
+0
+14
+4
+0
+2
+27
+8
+8
+9
+10
+7
+1
+1
+8
+9
+0
+3
+9
+6
+6
+6
+7
+21
+11
+4
+11
+10
+8
+9
+9
+8
+10
+19
+20
+4
+3
+-14
+18
+3
+10
+5
+22
+7
+-5
+12
+5
+24
+0
+3
+196
+199
+32
+11
+-15
+12
+4
+14
+3
+14

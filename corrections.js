@@ -420,10 +420,10 @@ corrections = {
         "credit": "BTHS SciOly"
     },
     "North Pocono Invitational 22-23, #15": {
-        "question": "How many galaxies are in the local group?",
-        "answer": "0",
-        "explanation": "Im relatively sure the Milky Way is a galaxy, which means theres only one galaxy in the Milky Way. Kinda similar to \"how many countries are in the U.S.?\" i think.",
-        "credit": "emptiespace"
+        "question": "",
+        "answer": "1",
+        "explanation": "There are 30 galaxies in our local group. The logarithm of 30 is approximately 1.477 which would be rounded down to one.",
+        "credit": ""
     },
     "SSSs Fermi (luminosityfan) 17-18, #12": {
         "question": "",
@@ -817,9 +817,9 @@ corrections = {
     },
     "High Desert Mini Invitational 22-23, #2": {
         "question": "",
-        "answer": "3",
-        "explanation": "average #2 pencil write 56km, Equator of Earth is 40,075 km, 40075/56=715.6 which is fermi 3",
-        "credit": "Krishna Dhiman"
+        "answer": "8",
+        "explanation": "the original question did not ask how far it could write but how many pencils would it take so the assumption would be to take the length of the pencil which would be 18 cm and it would take approximetly 2 x 10^8 pencils to circle the earth",
+        "credit": ""
     },
     "SSSs Fermi (luminosityfan) 17-18, #25": {
         "question": "",
@@ -922,6 +922,138 @@ corrections = {
         "answer": "19",
         "explanation": "There are 6e18 electrons in a coulomb. Given that wattage is equal to amperage times voltage, at a standard US voltage of 120, that means there's half an amp running through a 60 watt bulb. 6e18 electrons divided by 0.5 amps is a 1.2e19. Likewise, if we use a more global voltage of 240 volts, that would mean a quarter of an amp is running through a 60 watt bulb. 6e18 electrons divided by 0.25 amps is 2.4e19, which would also be 19. Not sure why the original answer was negative.",
         "credit": "cubicfrog (disc)"
+    },
+    "High Desert Mini Invitational 22-23, #3": {
+        "question": "How many dead skin cells are shed by all the people on Earth each year?",
+        "answer": "20",
+        "explanation": "40,000 per minute, 525,000 minutes in a year, 8 bil people in the world --> 1.68*e20",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #1 [2018 Westlake Q64]": {
+        "question": "",
+        "answer": "-23",
+        "explanation": "Mass of earth is 6*10^24 kg, average mass of man is 80 kg -> 80/(6*10^24) = 1.3*10^-23, answer is -23",
+        "credit": "bibob"
+    },
+    "High Desert Satellite Invitational 22-23, #19": {
+        "question": "",
+        "answer": "7",
+        "explanation": "10^6 liters in an olympic swimming pool, ~5 balls in a liter, 10^7 balls total",
+        "credit": "emptiespace"
+    },
+    "ut_invite_2023.txt, #9": {
+        "question": "",
+        "answer": "1",
+        "explanation": "5 is a fibonacci number for which F_n/F_n-1 is within 5% of phi. The percent error for 5/3 compared to phi is surprisingly low at only ~3%, so the answer to the question is 1.",
+        "credit": "errorfunction"
+    },
+    "RobertYL, daily fermi questions day #114 [2019 Solon Q10]": {
+        "question": "",
+        "answer": "10",
+        "explanation": "google the thickness ur tweaking",
+        "credit": "Ryan park"
+    },
+    "SOAPS Invitational 22-23, #53": {
+        "question": "The n-th Fermat number is defined as F_n = 2^(2^n) + 1. What is log(F_2023)? Here log denotes the base-10 logarithm.",
+        "answer": "",
+        "explanation": "",
+        "credit": "bibob/pikapika007"
+    },
+    "Columbia Invitational 17-18, #49": {
+        "question": "",
+        "answer": "",
+        "explanation": "10 electrons per molecule of water (2*1 + 8), each mole of water has N_A = 6.022*10^23 molecules of water, final answer is 6*10^24 which is 25",
+        "credit": "bibob/pikapika007"
+    },
+    "Centerville Invitational 17-18, #26": {
+        "question": "",
+        "answer": "10",
+        "explanation": "20*12*2= 480 m^3, 480*1000*1000 = 4.8e8 ml, 1 drop of water is 0.05 mL, 4.8e8/0.05 = 9.6e9 which rounds to 10.",
+        "credit": ""
+    },
+    "Carnegie Mellon Invitational 22-23, #24": {
+        "question": "",
+        "answer": "1",
+        "explanation": "The number of digits is 10^1.",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #102 [2019 Duke Q5]": {
+        "question": "What is the density at the center of the Sun (in grams per centimeter cubed)?",
+        "answer": "",
+        "explanation": "Include units of density that should be used.",
+        "credit": "chez_republic1052, alphalion0205"
+    },
+    "Cornell Invitational 22-23, #4": {
+        "question": "",
+        "answer": "151",
+        "explanation": "log 2 = 0.301 -> 0.301*500=150.5, which rounds up to 151",
+        "credit": "dc"
+    },
+    "Rickards Invitational 23-24, #45": {
+        "question": "",
+        "answer": "",
+        "explanation": "not sure what the answer is but if theres only 19 grains of sand on earth there cant be 24 in the sahara",
+        "credit": ""
+    },
+    "BirdSO Mini Invitational 21-22, #44": {
+        "question": "Assuming a Bluetooth 4 connection, how many Airpod earbuds would you need to cover the entire Earth?",
+        "answer": "18",
+        "explanation": "surface area of earth : 4pi r^2 : e1 * e7 * e7 m = e15 m^2 \n\ne3 buds / sq meter? \n\napprox e18",
+        "credit": "me"
+    },
+    "BirdSO Mini Invitational 21-22, #22": {
+        "question": "",
+        "answer": "0",
+        "explanation": "Amount of dirt per swimming pool: 1.5g/cm^3 dirt * (10000 cm^3 per cubic meter) * (50 * 25 *2 meters^3) * (1kg/1000g) = 3750 kg\n\nWeight of an adult blue whale: ~110,000 kg\n\nPools per whale: ~29 (1)",
+        "credit": "Trippy (@tripleqgaming for discord)"
+    },
+    "Yale Invitational 17-18, #14": {
+        "question": "",
+        "answer": "11",
+        "explanation": "distance from earth to sun is at least 10^11 meters, cannot be less than 11",
+        "credit": ""
+    },
+    "Palo Alto Tryouts 22-23, #31": {
+        "question": "How many different books have been published in the world?",
+        "answer": "",
+        "explanation": "The fermi answer 8 is given as the number of published books in the world, not the total copies of books in the world.",
+        "credit": "emptiespace"
+    },
+    "BirdSO In-Person Invitational 22-23, #24": {
+        "question": "",
+        "answer": "4",
+        "explanation": "Text is probably a typo and the Q should be revised, but 41,124 is 4.1124*10^4 or 4.",
+        "credit": "Trippy (@tripleqgaming on Discord)"
+    },
+    "Princeton Invitational 22-23, #12": {
+        "question": "",
+        "answer": "-5",
+        "explanation": "if its a ratio of revolutionary to ww1 thats R/W which should be negative",
+        "credit": "Him"
+    },
+    "BirdSO Invitational 20-21, #40": {
+        "question": "",
+        "answer": "-48",
+        "explanation": "(1/3)^100 is 1.9e-48",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #77 [2019 Cornell Q28]": {
+        "question": "How many liters of gasoline does the average american use in their lifetime",
+        "answer": "",
+        "explanation": "nom nom gasoline",
+        "credit": ""
+    },
+    "UMass Amherst Invitational 22-23, #34": {
+        "question": "Jalal flips an unfair coin (heads 3 10 of the time and tails 7 10 of the time) 50 times and calls it an experiment. On average, how many experiments will Jalal have to conduct until he flips at least 48 tails in one experiment?",
+        "answer": "",
+        "explanation": "",
+        "credit": ""
+    },
+    "Columbia Invitational 17-18, #11": {
+        "question": "",
+        "answer": "6",
+        "explanation": "Speed of S waves is 1-8 km/s (for our purposes we will take the average and go 4 km/s), san francisco to syracuse is 4000 km (3926 km but close enough), 4000/4 = 1000 seconds = 1*10^6 ms which is 6",
+        "credit": "bibob/pikapika007"
     }
 }
 corrections_list = [
@@ -1098,5 +1230,29 @@ corrections_list = [
     "UChicago Invitational 22-23, #14",
     "Rice Invitational 17-18, #10",
     "University of Florida North Regional 17-18, #38",
-    "RobertYL, daily fermi questions day #120 [2018 Westlake Q44]"
+    "RobertYL, daily fermi questions day #120 [2018 Westlake Q44]",
+    "High Desert Mini Invitational 22-23, #3",
+    "RobertYL, daily fermi questions day #1 [2018 Westlake Q64]",
+    "High Desert Satellite Invitational 22-23, #19",
+    "ut_invite_2023.txt, #9",
+    "RobertYL, daily fermi questions day #114 [2019 Solon Q10]",
+    "SOAPS Invitational 22-23, #53",
+    "Columbia Invitational 17-18, #49",
+    "Centerville Invitational 17-18, #26",
+    "Carnegie Mellon Invitational 22-23, #24",
+    "RobertYL, daily fermi questions day #102 [2019 Duke Q5]",
+    "North Pocono Invitational 22-23, #15",
+    "Cornell Invitational 22-23, #4",
+    "Rickards Invitational 23-24, #45",
+    "BirdSO Mini Invitational 21-22, #44",
+    "High Desert Mini Invitational 22-23, #2",
+    "BirdSO Mini Invitational 21-22, #22",
+    "Yale Invitational 17-18, #14",
+    "Palo Alto Tryouts 22-23, #31",
+    "BirdSO In-Person Invitational 22-23, #24",
+    "Princeton Invitational 22-23, #12",
+    "BirdSO Invitational 20-21, #40",
+    "RobertYL, daily fermi questions day #77 [2019 Cornell Q28]",
+    "UMass Amherst Invitational 22-23, #34",
+    "Columbia Invitational 17-18, #11"
 ]

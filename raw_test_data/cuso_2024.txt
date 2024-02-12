@@ -1,0 +1,144 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1.  Thousands of tourists visit the Grand Canyon each year. How many pounds of
+water are required to fill the entire canyon?
+2.  Selfies are one of the most common types of photographs. How many selfies are
+estimated to be taken globally in one day?
+3.  I’ve never understood why chocolate is associated with love... How many pounds
+of chocolate were bought during Valentine’s Day week in 2023?
+4.  India has one of the lowest rates of meat consumption per capita, while the U.S.
+has one of the highest. On average, how many people from India would you need to
+match the yearly meat consumption of the entire US population?
+5.  Columbia recently made a gaming lounge, outfitted with some of the newest and
+fastest PC hardware on the market (all the more reason to come to Columbia)! How many
+operations does an NVIDIA RTX 4090 TI GPU (the top-end consumer available
+GPU as of 2023) perform per second?
+6.  2023 was a big year for Taylor Swift – TIME person of the year, a billion-dollar
+tour, and Spotify’s top artist, to name some achievements. What is the product of all of
+Taylor Swift’s ex and current boyfriends’ heights (in feet)?
+7.  Did you know chinchillas have the densest fur (in terms of number of hairs per unit
+area) out of all mammals? How many more times dense is a chinchilla’s fur compared
+to the average human head?
+8.  Chess is far from being a “fully solved” game, but we’re slowly making progress. In
+2018, computer scientists finally finished tabulating all possible positions with 7 or fewer pieces
+left on the board. How many legal chess positions can be created using 7 or fewer
+pieces? Remember that a “legal position” must contain two kings, pawns can’t be on the first
+or last rank, etc.
+
+9.  2024 means another U.S. presidential election year! If you took all U.S. presi-
+dents that have an “e” somewhere in their full name and multiplied their number
+
+n together (where they are the n-th president), what number would you get? – e.g.
+Thomas Jefferson x Joe Biden = 3 * 46 = 138.
+10.  The speedrunning community loves the original 1985 Super Mario Bros. game, on
+Nintendo’s NES console. How many frames (ran on original NES) does it take to
+complete Super Mario Bros., based on the current world-record fastest speedrun?
+
+11.  You ever think about how physics-defying Carl’s house is in the movie Up? He
+always managed to keep exactly the right number of balloons attached to the house for it to
+float one foot o↵ the ground. How many standard balloons, filled with helium, would
+you need to lift the Empire State Building?
+12.  Did you know that it’s a kicker that holds the all-time high for career points in the
+NFL? What is the product of the highest number of career points scored in the
+NBA, career goals scored in the NHL, career points scored in the NFL, and career
+runs scored in the MLB? (By career points, we mean the number of points scored across a
+single player’s entire playing career).
+13.  Spider silk is remarkably strong – however, we haven’t quite figured out how to
+create web fluid, so no swinging around like Spiderman yet. How many times greater is
+the tensile strength of spider silk compared to that of steel? Note that tensile strength
+is measured by stretching a material until it breaks.
+14.  Many people dream of traveling the world, and some of them also dream of trying
+every item on the McDonald’s menu... people have di↵erent tastes I guess. How many
+times could you go around Earth’s circumference, by lining all of the burgers that
+McDonald’s sells (globally) in one year? Assume the burgers are placed along the equator.
+
+15.  In Percy Jackson, Delphi Strawberry Service is the cover name for Camp Half-
+Blood. The cost of constructing a temple dedicated to one god at the camp requires selling a
+
+16-wheeler truckload of strawberries. If each of the major Greek gods were to receive
+a temple, how many pounds of strawberries would the camp have to sell?
+
+16.  In 1946, Enrico Fermi was awarded an honorary degree of Doctor of Science by
+Columbia for his discovery of nuclear reactions. Since 1896, how many degrees has
+Columbia University awarded in total?
+17.  Some of you have traveled from very far to come to today’s Science Olympiad! If
+you summed all of the direct distances (“as the crow flies”) between Columbia and
+each school at today’s invitational, what would the total distance be in kilometers?
+18.  Low Library (the big domed building in the middle of campus) isn’t actually library
+anymore! In 1934, all books were removed and moved to Butler Library. At full capacity,
+how many books was Low Library expected to accommodate?
+19.  Columbia’s campus is very small - I can walk to any of my classes in less than 5
+minutes! If you combined the land across all Ivy League school main campuses
+(exclude any land owned outside of the main campuses), how many of Columbia’s
+main campus could fit in this area?
+20.  Do you all think the Columbia classroom chairs are comfy? How many chairs
+are there within all the registrar-managed classrooms on Columbia’s campus?
+
+21.  (Physics) A common joke about particle physics research is how we keep needing to
+construct bigger particle accelerators to make any new discoveries. How many times more
+powerful is the Large Hadron Collider at CERN compared to the first cyclotron
+ever made by Ernest Lawrence back in 1931?
+22.  (Physics) Brian and I were lucky enough to watch Oppenheimer at an IMAX 70mm
+theatre last summer. Assuming you only account for the projector and sound system,
+how many times could an IMAX movie theatre play Oppenheimer using solely the
+energy from the 1945 Trinity nuclear test’s explosion?
+23.  (Astronomy) Did you know there will be a total solar eclipse that goes directly
+through the continental US on April 8, 2024? If you witnessed a solar eclipse, about how
+many blue moons (the 2nd full moon occurrence in a calendar month) would you
+see until you saw another solar eclipse, still standing at the exact same spot?
+24.  (Chemistry) Have you seen the famous Mentos and Soda experiment? If you dump
+Mentos into a bottle of soda, the carbon dioxide bubbles expand rapidly, creating a geyser. If
+you put a single Mento into a 2 liter bottle of Diet Coke, how many bubbles are
+produced in the resulting geyser?
+25.  (Biology) Villains are always saying creepy things like, “this sword was forged from
+the blood my enemies.” Assuming perfect extraction, how many human men would
+you need to extract enough iron to create a full medieval broadsword?
+
+26.  How many digits in pi do you need to get the first instance of 123456789?
+27.  A rabbit is traveling from (0, 0) to (24, 24) by hopping one unit in the
+positive x or positive y direction each step. However, there is a snake at each
+lattice point where both coordinates are odd, e.g. (1, 1) or (1, 3). How many paths
+can the rabbit take without encountering a snake?
+28.  Let’s talk about telescoping. What is SQRT(1 * SQRT(5 * SQRT(25 ...)))
+
+29.  The prime factorization of 2024 is 2^3 * 11 * 23. What is the sum of all
+positive numbers less than 20242 that are divisible by all of 2, 11, and 23?
+30.  What is the maximum number of regions that a circle can be partitioned
+into by drawing 100 lines?
+
+16
+8
+8
+10
+14
+
+8
+2
+14
+42
+4
+
+10
+15
+0
+1
+6
+
+6
+3
+6
+2
+4
+
+8
+5
+2
+7
+2
+
+9
+6
+1
+10
+4

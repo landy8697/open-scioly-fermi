@@ -690,6 +690,366 @@ data = [
         "number": 55
     },
     {
+        "question": "Suppose we model LA county as a circle, with area equal to that of LA county. Assuming the teams at BirdSO are uniformly distributed throughout LA county, in dollars, how much money was spent on gas for transportation to BirdSO? Assume current LA gas prices.\n",
+        "answer": 4,
+        "source": "birdso_2024.txt",
+        "number": 1
+    },
+    {
+        "question": "How many different states are represented among the competing teams at BirdSO?\n",
+        "answer": 0,
+        "source": "birdso_2024.txt",
+        "number": 2
+    },
+    {
+        "question": "How many brain cells are there that belongs to competitors at BirdSO?\n",
+        "answer": 14,
+        "source": "birdso_2024.txt",
+        "number": 3
+    },
+    {
+        "question": "The BirdSO volunteers are going to have 6\u201d Subway sandwiches for lunch. What length of sandwiches will be eaten by BirdSO volunteers for lunch today? Report your answer in ant lengths (the insect).\n",
+        "answer": 4,
+        "source": "birdso_2024.txt",
+        "number": 4
+    },
+    {
+        "question": "If all the BirdSO competitors joined USC as undergraduate students today, what percentage of USC students would be BirdSO competitors?\n",
+        "answer": 0,
+        "source": "birdso_2024.txt",
+        "number": 5
+    },
+    {
+        "question": "With so many students and interests, USC will need to offer many majors to accommodate everyone! How many distinct undergraduate degrees does USC award?\n",
+        "answer": 2,
+        "source": "birdso_2024.txt",
+        "number": 6
+    },
+    {
+        "question": "As you may know, the mascot for BirdSO is a (blue) pigeon, named \u03c0geon. \u03c0geon is a mail pigeon (think of your standard pigeon) and is notably not blue, but wants to be painted blue. For the purposes of buying the right amount of paint, what is \u03c0geon\u2019s surface area, in square picometers?\n",
+        "answer": 27,
+        "source": "birdso_2024.txt",
+        "number": 7
+    },
+    {
+        "question": "Before joining BirdSO, \u03c0geon lived in NYC, the world\u2019s foremost destination for pigeons (source needed). If all the pigeons in NYC formed Science Olympiad teams to compete at BirdSO, how much would BirdSO receive in registration fees from the pigeons?\n",
+        "answer": 8,
+        "source": "birdso_2024.txt",
+        "number": 8
+    },
+    {
+        "question": "Oops, the pigeon SciOly teams forgot they would have to buy a sweeper to clean the vehicle track to optimize their performance. Luckily, \u03c0geon befriended Taylor Swift during her earlier years in NYC. If Taylor Swift used all the money made from the Eras tour to buy Swiffer Sweepers for the pigeons, how many Swiffer Sweepers could she buy?\n",
+        "answer": 8,
+        "source": "birdso_2024.txt",
+        "number": 9
+    },
+    {
+        "question": "In milliseconds, how long would it take Usain Bolt running at top speed to pass through all the streets of Los Angeles?\n",
+        "answer": 9,
+        "source": "birdso_2024.txt",
+        "number": 10
+    },
+    {
+        "question": "How many times does a hummingbird flap its wings in its lifetime?\n",
+        "answer": 10,
+        "source": "birdso_2024.txt",
+        "number": 11
+    },
+    {
+        "question": "Per the USDA, how many turkeys are eaten on Thanksgiving every year?\n",
+        "answer": 7,
+        "source": "birdso_2024.txt",
+        "number": 12
+    },
+    {
+        "question": "How many chicken eggs can one ostrich egg substitute for?\n",
+        "answer": 1,
+        "source": "birdso_2024.txt",
+        "number": 13
+    },
+    {
+        "question": "What is the ratio of the width of a dollar bill to the diameter of a red blood cell?\n",
+        "answer": 1,
+        "source": "birdso_2024.txt",
+        "number": 14
+    },
+    {
+        "question": "How many cells are a regular household cat?\n",
+        "answer": 8,
+        "source": "birdso_2024.txt",
+        "number": 15
+    },
+    {
+        "question": "What is the ratio of the number of cells you have and the number of characters on this test booklet?\n",
+        "answer": 9,
+        "source": "birdso_2024.txt",
+        "number": 16
+    },
+    {
+        "question": "How many cells are in a unicellular organism?\n",
+        "answer": 0,
+        "source": "birdso_2024.txt",
+        "number": 17
+    },
+    {
+        "question": "How many sunflower seeds does a sunflower produce in its lifetime?\n",
+        "answer": 3,
+        "source": "birdso_2024.txt",
+        "number": 18
+    },
+    {
+        "question": "Suppose Lake Michigan was actually filled with (regular) milk, instead of water. How many moles of whey protein would there be in the lake?\n",
+        "answer": 9,
+        "source": "birdso_2024.txt",
+        "number": 19
+    },
+    {
+        "question": "How many people travel by plane from LAX to SFO each year?\n",
+        "answer": 6,
+        "source": "birdso_2024.txt",
+        "number": 20
+    },
+    {
+        "question": "How many books are published a year?\n",
+        "answer": 6,
+        "source": "birdso_2024.txt",
+        "number": 21
+    },
+    {
+        "question": "How many people visit the Empire State Building every year?\n",
+        "answer": 6,
+        "source": "birdso_2024.txt",
+        "number": 22
+    },
+    {
+        "question": "How many cars cross the Golden Gate Bridge each year?\n",
+        "answer": 7,
+        "source": "birdso_2024.txt",
+        "number": 23
+    },
+    {
+        "question": "How many transistors are produced annually?\n",
+        "answer": 21,
+        "source": "birdso_2024.txt",
+        "number": 24
+    },
+    {
+        "question": "What is the GDP of Singapore, in USD?\n",
+        "answer": 11,
+        "source": "birdso_2024.txt",
+        "number": 25
+    },
+    {
+        "question": "On average, how much toilet paper is used by an individual per year?\n",
+        "answer": 4,
+        "source": "birdso_2024.txt",
+        "number": 26
+    },
+    {
+        "question": "How many grams of ammonia are manufactured each day (by industry)?\n",
+        "answer": 11,
+        "source": "birdso_2024.txt",
+        "number": 27
+    },
+    {
+        "question": "How many Pokemon cards are printed a year?\n",
+        "answer": 10,
+        "source": "birdso_2024.txt",
+        "number": 28
+    },
+    {
+        "question": "How many COVID shots have been administered in California?\n",
+        "answer": 8,
+        "source": "birdso_2024.txt",
+        "number": 29
+    },
+    {
+        "question": "How much electricity does the Niagara falls generate, in Watts?\n",
+        "answer": 9,
+        "source": "birdso_2024.txt",
+        "number": 30
+    },
+    {
+        "question": "How many holes does Crocs sell a year?\n",
+        "answer": 9,
+        "source": "birdso_2024.txt",
+        "number": 31
+    },
+    {
+        "question": "If every citizen that was naturalized in the United States in 2022 fully neutralized 3 L of 12 M NaOH with 1 M HCl, what is the minimum number of gallon waste containers they would need to clean up the experiment?\n",
+        "answer": 8,
+        "source": "birdso_2024.txt",
+        "number": 32
+    },
+    {
+        "question": "In light-seconds, what is the average distance between the stars in Orion\u2019s belt?\n",
+        "answer": 10,
+        "source": "birdso_2024.txt",
+        "number": 33
+    },
+    {
+        "question": "How many electrons flow through a 1 A lamp in 1 second?\n",
+        "answer": 19,
+        "source": "birdso_2024.txt",
+        "number": 34
+    },
+    {
+        "question": "In Newtons, what is the force of the Moon on the Earth?\n",
+        "answer": 20,
+        "source": "birdso_2024.txt",
+        "number": 35
+    },
+    {
+        "question": "In Joules, how much energy would it take ChatGPT to provide an answer to this question?\n",
+        "answer": 4,
+        "source": "birdso_2024.txt",
+        "number": 36
+    },
+    {
+        "question": "What mass of graphene would it take to cover USC in grams?\n",
+        "answer": 3,
+        "source": "birdso_2024.txt",
+        "number": 37
+    },
+    {
+        "question": "Assume all objects in the universe besides you and Pluto disappear. In m/s2, how fast would you accelerate toward Pluto?\n",
+        "answer": -14,
+        "source": "birdso_2024.txt",
+        "number": 38
+    },
+    {
+        "question": "How many D-T fusion events would it take to cook a chicken?\n",
+        "answer": 18,
+        "source": "birdso_2024.txt",
+        "number": 39
+    },
+    {
+        "question": "On a dark, moonless night, how many stars can you see at night?\n",
+        "answer": 3,
+        "source": "birdso_2024.txt",
+        "number": 40
+    },
+    {
+        "question": "How many meters does Pluto traverse in a month?\n",
+        "answer": 10,
+        "source": "birdso_2024.txt",
+        "number": 41
+    },
+    {
+        "question": "In m/s, what is the escape velocity of the Milky Way?\n",
+        "answer": 5,
+        "source": "birdso_2024.txt",
+        "number": 42
+    },
+    {
+        "question": "Using a standard 1000W microwave, how long would it take to melt Antarctica, in seconds? Assume (unrealistically) that all of it starts at 0 degrees C.\n",
+        "answer": 22,
+        "source": "birdso_2024.txt",
+        "number": 43
+    },
+    {
+        "question": "If we made a line of foot-long Subway sandwiches from USC to MIT, how many sandwiches would it take?\n",
+        "answer": 7,
+        "source": "birdso_2024.txt",
+        "number": 44
+    },
+    {
+        "question": "If you uniformly pick a random place on Earth and throw a rock straight up (with, say, infinite velocity somehow), what is the probability you will hit the moon?\n",
+        "answer": -5,
+        "source": "birdso_2024.txt",
+        "number": 45
+    },
+    {
+        "question": "How many tennis balls, placed end-to-end, would it take to reach the Sun from Earth?\n",
+        "answer": 12,
+        "source": "birdso_2024.txt",
+        "number": 46
+    },
+    {
+        "question": "How many cubic kilometers of crust is generated in the average time frame of a geomagnetic reversal?\n",
+        "answer": 5,
+        "source": "birdso_2024.txt",
+        "number": 47
+    },
+    {
+        "question": "In kg, what is the mass of silica in the mantle?\n",
+        "answer": 24,
+        "source": "birdso_2024.txt",
+        "number": 48
+    },
+    {
+        "question": "In g/m3, what is the density of water in a cumulus cloud? In light-seconds, what is the average distance between the stars in Orion\u2019s belt? How many electrons flow through a 1 A lamp in 1 second? In Newtons, what is the force of the Moon on the Earth? In Joules, how much energy would it take ChatGPT to provide an answer to this question? What mass of graphene would it take to cover USC in grams? Assume all objects in the universe besides you and Pluto disappear. In m/s2 , how fast would you accelerate toward Pluto? How many D-T fusion events would it take to cook a chicken? On a dark, moonless night, how many stars can you see at night? How many meters does Pluto traverse in a month? In m/s, what is the escape velocity of the Milky Way? Using a standard 1000W microwave, how long would it take to melt Antarctica, in seconds? Assume (unrealistically) that all of it starts at 0 degrees C. If we made a line of foot-long Subway sandwiches from USC to MIT, how many sandwiches would it take? If you uniformly pick a random place on Earth and throw a rock straight up (with, say, infinite velocity somehow), what is the probability you will hit the moon? How many tennis balls, placed end-to-end, would it take to reach the Sun from Earth? How many cubic kilometers of crust is generated in the average time frame of a geomagnetic reversal? In kg, what is the mass of silica in the mantle? In g/m3 , what is the density of water in a cumulus cloud?\n",
+        "answer": 0,
+        "source": "birdso_2024.txt",
+        "number": 49
+    },
+    {
+        "question": "(pi)geon gets an espresso from his local Starbucks every morning. There are 100 unique receipt numbers, and he wants to collect all of them. Assuming that the probability of getting any of the receipt numbers is the same, how long would it take (on average) to get all 100 receipts?\n",
+        "answer": 3,
+        "source": "birdso_2024.txt",
+        "number": 50
+    },
+    {
+        "question": "How many trees are there on 100 vertices? A tree is a graph (where a graph consists of vertices and edges between pairs of vertices) where there are no cycles (e.g., no loops) and the graph is connected (for every two vertices, there is a path between them).\n",
+        "answer": 196,
+        "source": "birdso_2024.txt",
+        "number": 51
+    },
+    {
+        "question": "Suppose you have a list of the numbers 1 through 120, and you randomly mix them up and put them in a list. You try to sort them as follows: take the list, uniformly at random permute the elements, and check if it\u2019s sorted. If it\u2019s still not sorted, then repeated. On average, many attempts should it take for you to sort the numbers?\n",
+        "answer": 199,
+        "source": "birdso_2024.txt",
+        "number": 52
+    },
+    {
+        "question": "What is 30!?\n",
+        "answer": 32,
+        "source": "birdso_2024.txt",
+        "number": 53
+    },
+    {
+        "question": "Suppose I start writing down an infinite sequence of numbers, where each number is sampled uniformly between the integers from 0 to 9 (inclusive). How many numbers would I need to sample before the expected number of times I see 00000000000 as a substring exceeds 5?\n",
+        "answer": 11,
+        "source": "birdso_2024.txt",
+        "number": 54
+    },
+    {
+        "question": "You have a jar of jelly beans with 10 red jelly beans and 90 blue jelly beans. You draw from the jar 15 times, and after drawing each time you put the bean you drew back. What is the probability that you never draw a blue bean?\n",
+        "answer": -15,
+        "source": "birdso_2024.txt",
+        "number": 55
+    },
+    {
+        "question": "What is the 60th Fibonacci number F60, defined by the recurrence F1 = 1, F2 = 1, Fn = Fn\u22121 + Fn\u22122?\n",
+        "answer": 12,
+        "source": "birdso_2024.txt",
+        "number": 56
+    },
+    {
+        "question": "How many breaths would it take to recycle all the air in a car? Assume each time you take a breath, all the new air you breathe was originally unbreathed.\n",
+        "answer": 4,
+        "source": "birdso_2024.txt",
+        "number": 57
+    },
+    {
+        "question": "How many toothpicks would it take to recreate the Eiffel tower?\n",
+        "answer": 14,
+        "source": "birdso_2024.txt",
+        "number": 58
+    },
+    {
+        "question": "How many stars are in the Hollywood Walk of Fame?\n",
+        "answer": 3,
+        "source": "birdso_2024.txt",
+        "number": 59
+    },
+    {
+        "question": "How many copies of your answer sheet would it take to cover Antarctica?\n",
+        "answer": 14,
+        "source": "birdso_2024.txt",
+        "number": 60
+    },
+    {
         "question": "Assuming notes actually get that high, what is the frequency of E300?\n",
         "answer": 91,
         "source": "BirdSO Mini Invitational 21-22",
@@ -4524,6 +4884,366 @@ data = [
         "number": 50
     },
     {
+        "question": "In honor of me eating at Cracker Barrel for the first time in my life this year, what is the annual revenue (in USD) of Cracker Barrel in 2022?\n",
+        "answer": 9,
+        "source": "cuso_2023.txt",
+        "number": 1
+    },
+    {
+        "question": "We had to Google a ton of research to create this exam. How many Google searches are done every day?\n",
+        "answer": 10,
+        "source": "cuso_2023.txt",
+        "number": 2
+    },
+    {
+        "question": "As a Midwest local, one of my favorite pastimes is sitting in cornfields. . . doing nothing. About how many pounds of corn are grown and harvested in Indiana each year?\n",
+        "answer": 10,
+        "source": "cuso_2023.txt",
+        "number": 3
+    },
+    {
+        "question": "Why do ice cubes always come as. . . cubes? Why aren\u2019t there ice spheres? or ice cylinders? If you froze all the freshwater (include all sources, not just surface lakes, ponds, etc.) on Earth into an ice cube, what would the side length of the cube be in meters?\n",
+        "answer": 5,
+        "source": "cuso_2023.txt",
+        "number": 4
+    },
+    {
+        "question": "In the wise words of Albus Dumbledore, \u201cFermi Questions is the best Scioly event!\u201d Directly after worldwide release, how many seconds did J.K. Rowling have to wait until she sold enough copies of Harry Potter and the Deathly Hallows to be able to stack them to the International Space Station?\n",
+        "answer": 5,
+        "source": "cuso_2023.txt",
+        "number": 5
+    },
+    {
+        "question": "One of my favorite songs is Bruno Mars\u2019 Talking to the Moon. Unfortunately, sound does not travel through space, so Bruno\u2019s words never made it to the moon :(. Assuming the sound does not decay, and assuming we use the speed of sound through air, How many seconds would it take your voice to travel the equivalent distance from the Earth\u2019s surface to the moon?\n",
+        "answer": 6,
+        "source": "cuso_2023.txt",
+        "number": 6
+    },
+    {
+        "question": "Do you ever see those funny graphs Apple presents to show how much better their devices are than their competitors? It got me thinking about Apple\u2019s new computer chips. Intel 4004 was the first ever commercially produced microprocessor. How many times more transistors are on the new Apple M2 chip, compared to the Intel 4004 chip?\n",
+        "answer": 7,
+        "source": "cuso_2023.txt",
+        "number": 7
+    },
+    {
+        "question": "Did you know that capsaicinoids are the active chemical compound found in peppers that make them spicy? How many times hotter is the hottest capsaicinoid compared to the hottest jalapeno peppers, on the scoville scale?\n",
+        "answer": 6,
+        "source": "cuso_2023.txt",
+        "number": 8
+    },
+    {
+        "question": "Sometimes, I spend more time looking for a show than actually watching a show on Netflix. How many days would it take to watch all of Netflix (assume Netflix US)?\n",
+        "answer": 3,
+        "source": "cuso_2023.txt",
+        "number": 9
+    },
+    {
+        "question": "Wow, that\u2019s a lot of days! How many megabytes of data would it take to stream all of Netflix (assume Netflix US) in HD?\n",
+        "answer": 8,
+        "source": "cuso_2023.txt",
+        "number": 10
+    },
+    {
+        "question": "Speaking of streaming services, have you made your Spotify \u201cplaylist in a bottle\u201d? On average, how many hours would it take for you to listen to all of the songs Spotify adds to its collection in a single day?\n",
+        "answer": 3,
+        "source": "cuso_2023.txt",
+        "number": 11
+    },
+    {
+        "question": "Fermi Questions are usually solved by what people often call \u201cback of a napkin\u201d calculations. If you used a BIC ballpoint pen to draw a continuous straight line, how many paper napkins would you need to draw on until the pen ran out of ink? In other words, if you used the pen to draw one single horizontal line on each napkin, where the line is equal to the side length of the square napkin, how many napkins could you draw on until the pen ran out of ink? Assume the napkin is NOT unfolded (how a paper napkin looks in its packaging).\n",
+        "answer": 5,
+        "source": "cuso_2023.txt",
+        "number": 12
+    },
+    {
+        "question": "Something I miss from high school is competing against my classmates in Kahoots. College professors should use them more often! How many Kahoot sets have been created since the inception of the site?\n",
+        "answer": 8,
+        "source": "cuso_2023.txt",
+        "number": 13
+    },
+    {
+        "question": "The Wiki Game is where you try to jump from one Wikipedia page to another by only using the hyperlinks on the pages. Across all Wikipedia articles, how many hyperlinks are there to the \u201cUnited States\u201d Wikipedia page?\n",
+        "answer": 5,
+        "source": "cuso_2023.txt",
+        "number": 14
+    },
+    {
+        "question": "One of the most popular drinks amongst my friends these days is bubble tea. Did you know bubble tea originated in Taiwan? What is the global bubble tea market value, in New Taiwan Dollars?\n",
+        "answer": 11,
+        "source": "cuso_2023.txt",
+        "number": 15
+    },
+    {
+        "question": "The New York Federal Reserve is one the most important institutions for the U.S. economy. How many Lydian stater gold coins (the first gold coin ever used for currency in the world) would equal the amount of gold stored in the New York Federal Reserve?\n",
+        "answer": 9,
+        "source": "cuso_2023.txt",
+        "number": 16
+    },
+    {
+        "question": "A famous icon of NYC is its squadron of yellow taxi cabs. How many miles do all of the taxi cabs drive in a day, cumulatively?\n",
+        "answer": 6,
+        "source": "cuso_2023.txt",
+        "number": 17
+    },
+    {
+        "question": "You may have seen this one coming. It\u2019s the classic interview question to test your analytical skills! How many windows are in NYC? Don\u2019t forget that all windows count: homes, cars, boats, you name it.\n",
+        "answer": 8,
+        "source": "cuso_2023.txt",
+        "number": 18
+    },
+    {
+        "question": "One of my favorite experiences in NYC has been celebrating 4th of July here. In 2022, how many shells were set off for \u201cMacy\u2019s 4th of July Fireworks\u201d celebration?\n",
+        "answer": 4,
+        "source": "cuso_2023.txt",
+        "number": 19
+    },
+    {
+        "question": "We couldn\u2019t get through the NYC section without talking about Columbia! Re- cently, Columbia has been under public scrutiny due to it giving inaccurate information to U.S. News national university rankings. As such, Columbia\u2019s ranking dropped to 18th in 2023, compared to 2nd in If you multiplied Columbia University\u2019s rankings in the \u201cU.S. News Rankings of best national universities\u201d over all years from 1988 to 2023 (inclusive), what would your answer be?\n",
+        "answer": 31,
+        "source": "cuso_2023.txt",
+        "number": 20
+    },
+    {
+        "question": "I wanted to ask this question about t-rexes but unfortunately I couldn\u2019t find any concrete data on them :(. How many genes does a fruit fly have?\n",
+        "answer": 4,
+        "source": "cuso_2023.txt",
+        "number": 21
+    },
+    {
+        "question": "\u201cMexican Coke\u201d is a special form of Coca Cola where all the sugar in it is purely real cane sugar (i.e. sucrose). How many molecules of sugar are there in a 12 oz. Mexican Coca Cola bottle?\n",
+        "answer": 23,
+        "source": "cuso_2023.txt",
+        "number": 22
+    },
+    {
+        "question": "Did you know that a parsec is not a unit of time, but rather a unit of distance? How many hours would it take the Saturn V rocket, traveling constantly at its top speed, to finish Han Solo\u2019s famous 12-parsec Kessel Run?\n",
+        "answer": 10,
+        "source": "cuso_2023.txt",
+        "number": 23
+    },
+    {
+        "question": "In Mission Impossible: Rogue Nation, Tom Cruises\u2019 character, Ethan Hunt, holds onto the side of a plane as it takes off. Assuming that the plane took off at a constant velocity of 200 mph, and that Ethan is holding the plane such that his body is aligned with the wind (\u201cdiver position\u201d), how many Newtons of force are exerted on Ethan Hunt by air resistance?\n",
+        "answer": 3,
+        "source": "cuso_2023.txt",
+        "number": 24
+    },
+    {
+        "question": "We take for granted that when we charge up our batteries, they don\u2019t get heavier... or do they? Assuming that an iPhone 14 has a 3000 mAh battery that is rated at 7 volts, how many more kilograms does an iPhone 14 weigh when fully charged, compared to when its battery is completely empty, all else equal? Assume for sim- plicity that all electrons in the battery have zero kinetic motion, regardless of the battery being charged or not.\n",
+        "answer": -13,
+        "source": "cuso_2023.txt",
+        "number": 25
+    },
+    {
+        "question": "We like to call this question the Power Tower. What is 3^3^3?\n",
+        "answer": 13,
+        "source": "cuso_2023.txt",
+        "number": 26
+    },
+    {
+        "question": "We like to call this question the Power Tower .What is 2^2^..?\n",
+        "answer": -1,
+        "source": "cuso_2023.txt",
+        "number": 27
+    },
+    {
+        "question": "Interestingly, the largest prime number ever found was discovered in For the past 4 years, nobody has cared enough to look for the next; and neither do we! Just tell us: what is the ten millionth prime number?\n",
+        "answer": 8,
+        "source": "cuso_2023.txt",
+        "number": 28
+    },
+    {
+        "question": "A tetromino is a geometric shape composed of four squares, connected orthogonally (think Tetris pieces). How many distinct ways are there to tile a 2 \u00d7 100 board with tetrominoes of any shape?\n",
+        "answer": 20,
+        "source": "cuso_2023.txt",
+        "number": 29
+    },
+    {
+        "question": "A childhood card game I loved to play with my brother is \u201cWar.\u201d You always start your hand with half the cards in a standard 54-card deck. Assuming order does not matter, what are the total unique hands you can start out with in \u201cWar\u201d?\n",
+        "answer": 15,
+        "source": "cuso_2023.txt",
+        "number": 30
+    },
+    {
+        "question": "Thousands of tourists visit the Grand Canyon each year. How many pounds of water are required to fill the entire canyon?\n",
+        "answer": 16,
+        "source": "cuso_2024.txt",
+        "number": 1
+    },
+    {
+        "question": "Selfies are one of the most common types of photographs. How many selfies are estimated to be taken globally in one day?\n",
+        "answer": 8,
+        "source": "cuso_2024.txt",
+        "number": 2
+    },
+    {
+        "question": "I\u2019ve never understood why chocolate is associated with love... How many pounds of chocolate were bought during Valentine\u2019s Day week in 2023?\n",
+        "answer": 8,
+        "source": "cuso_2024.txt",
+        "number": 3
+    },
+    {
+        "question": "India has one of the lowest rates of meat consumption per capita, while the U.S. has one of the highest. On average, how many people from India would you need to match the yearly meat consumption of the entire US population?\n",
+        "answer": 10,
+        "source": "cuso_2024.txt",
+        "number": 4
+    },
+    {
+        "question": "Columbia recently made a gaming lounge, outfitted with some of the newest and fastest PC hardware on the market (all the more reason to come to Columbia)! How many operations does an NVIDIA RTX 4090 TI GPU (the top-end consumer available GPU as of 2023) perform per second?\n",
+        "answer": 14,
+        "source": "cuso_2024.txt",
+        "number": 5
+    },
+    {
+        "question": "2023 was a big year for Taylor Swift \u2013 TIME person of the year, a billion-dollar tour, and Spotify\u2019s top artist, to name some achievements. What is the product of all of Taylor Swift\u2019s ex and current boyfriends\u2019 heights (in feet)?\n",
+        "answer": 8,
+        "source": "cuso_2024.txt",
+        "number": 6
+    },
+    {
+        "question": "Did you know chinchillas have the densest fur (in terms of number of hairs per unit area) out of all mammals? How many more times dense is a chinchilla\u2019s fur compared to the average human head?\n",
+        "answer": 2,
+        "source": "cuso_2024.txt",
+        "number": 7
+    },
+    {
+        "question": "Chess is far from being a \u201cfully solved\u201d game, but we\u2019re slowly making progress. In 2018, computer scientists finally finished tabulating all possible positions with 7 or fewer pieces left on the board. How many legal chess positions can be created using 7 or fewer pieces? Remember that a \u201clegal position\u201d must contain two kings, pawns can\u2019t be on the first or last rank, etc.\n",
+        "answer": 14,
+        "source": "cuso_2024.txt",
+        "number": 8
+    },
+    {
+        "question": "2024 means another U.S. presidential election year! If you took all U.S. presi- dents that have an \u201ce\u201d somewhere in their full name and multiplied their number n together (where they are the n-th president), what number would you get? \u2013 e.g. Thomas Jefferson x Joe Biden = 3 * 46 =\n",
+        "answer": 42,
+        "source": "cuso_2024.txt",
+        "number": 9
+    },
+    {
+        "question": "The speedrunning community loves the original 1985 Super Mario Bros. game, on Nintendo\u2019s NES console. How many frames (ran on original NES) does it take to complete Super Mario Bros., based on the current world-record fastest speedrun?\n",
+        "answer": 4,
+        "source": "cuso_2024.txt",
+        "number": 10
+    },
+    {
+        "question": "You ever think about how physics-defying Carl\u2019s house is in the movie Up? He always managed to keep exactly the right number of balloons attached to the house for it to float one foot o\u21b5 the ground. How many standard balloons, filled with helium, would you need to lift the Empire State Building?\n",
+        "answer": 10,
+        "source": "cuso_2024.txt",
+        "number": 11
+    },
+    {
+        "question": "Did you know that it\u2019s a kicker that holds the all-time high for career points in the NFL? What is the product of the highest number of career points scored in the NBA, career goals scored in the NHL, career points scored in the NFL, and career runs scored in the MLB? (By career points, we mean the number of points scored across a single player\u2019s entire playing career).\n",
+        "answer": 15,
+        "source": "cuso_2024.txt",
+        "number": 12
+    },
+    {
+        "question": "Spider silk is remarkably strong \u2013 however, we haven\u2019t quite figured out how to create web fluid, so no swinging around like Spiderman yet. How many times greater is the tensile strength of spider silk compared to that of steel? Note that tensile strength is measured by stretching a material until it breaks.\n",
+        "answer": 0,
+        "source": "cuso_2024.txt",
+        "number": 13
+    },
+    {
+        "question": "Many people dream of traveling the world, and some of them also dream of trying every item on the McDonald\u2019s menu... people have di\u21b5erent tastes I guess. How many times could you go around Earth\u2019s circumference, by lining all of the burgers that McDonald\u2019s sells (globally) in one year? Assume the burgers are placed along the equator.\n",
+        "answer": 1,
+        "source": "cuso_2024.txt",
+        "number": 14
+    },
+    {
+        "question": "In Percy Jackson, Delphi Strawberry Service is the cover name for Camp Half- Blood. The cost of constructing a temple dedicated to one god at the camp requires selling a 16-wheeler truckload of strawberries. If each of the major Greek gods were to receive a temple, how many pounds of strawberries would the camp have to sell?\n",
+        "answer": 6,
+        "source": "cuso_2024.txt",
+        "number": 15
+    },
+    {
+        "question": "In 1946, Enrico Fermi was awarded an honorary degree of Doctor of Science by Columbia for his discovery of nuclear reactions. Since 1896, how many degrees has Columbia University awarded in total?\n",
+        "answer": 6,
+        "source": "cuso_2024.txt",
+        "number": 16
+    },
+    {
+        "question": "Some of you have traveled from very far to come to today\u2019s Science Olympiad! If you summed all of the direct distances (\u201cas the crow flies\u201d) between Columbia and each school at today\u2019s invitational, what would the total distance be in kilometers?\n",
+        "answer": 3,
+        "source": "cuso_2024.txt",
+        "number": 17
+    },
+    {
+        "question": "Low Library (the big domed building in the middle of campus) isn\u2019t actually library anymore! In 1934, all books were removed and moved to Butler Library. At full capacity, how many books was Low Library expected to accommodate?\n",
+        "answer": 6,
+        "source": "cuso_2024.txt",
+        "number": 18
+    },
+    {
+        "question": "Columbia\u2019s campus is very small - I can walk to any of my classes in less than 5 minutes! If you combined the land across all Ivy League school main campuses (exclude any land owned outside of the main campuses), how many of Columbia\u2019s main campus could fit in this area?\n",
+        "answer": 2,
+        "source": "cuso_2024.txt",
+        "number": 19
+    },
+    {
+        "question": "Do you all think the Columbia classroom chairs are comfy? How many chairs are there within all the registrar-managed classrooms on Columbia\u2019s campus?\n",
+        "answer": 4,
+        "source": "cuso_2024.txt",
+        "number": 20
+    },
+    {
+        "question": "(Physics) A common joke about particle physics research is how we keep needing to construct bigger particle accelerators to make any new discoveries. How many times more powerful is the Large Hadron Collider at CERN compared to the first cyclotron ever made by Ernest Lawrence back in 1931?\n",
+        "answer": 8,
+        "source": "cuso_2024.txt",
+        "number": 21
+    },
+    {
+        "question": "(Physics) Brian and I were lucky enough to watch Oppenheimer at an IMAX 70mm theatre last summer. Assuming you only account for the projector and sound system, how many times could an IMAX movie theatre play Oppenheimer using solely the energy from the 1945 Trinity nuclear test\u2019s explosion?\n",
+        "answer": 5,
+        "source": "cuso_2024.txt",
+        "number": 22
+    },
+    {
+        "question": "(Astronomy) Did you know there will be a total solar eclipse that goes directly through the continental US on April 8, 2024? If you witnessed a solar eclipse, about how many blue moons (the 2nd full moon occurrence in a calendar month) would you see until you saw another solar eclipse, still standing at the exact same spot?\n",
+        "answer": 2,
+        "source": "cuso_2024.txt",
+        "number": 23
+    },
+    {
+        "question": "(Chemistry) Have you seen the famous Mentos and Soda experiment? If you dump Mentos into a bottle of soda, the carbon dioxide bubbles expand rapidly, creating a geyser. If you put a single Mento into a 2 liter bottle of Diet Coke, how many bubbles are produced in the resulting geyser?\n",
+        "answer": 7,
+        "source": "cuso_2024.txt",
+        "number": 24
+    },
+    {
+        "question": "(Biology) Villains are always saying creepy things like, \u201cthis sword was forged from the blood my enemies.\u201d Assuming perfect extraction, how many human men would you need to extract enough iron to create a full medieval broadsword?\n",
+        "answer": 2,
+        "source": "cuso_2024.txt",
+        "number": 25
+    },
+    {
+        "question": "How many digits in pi do you need to get the first instance of 123456789?\n",
+        "answer": 9,
+        "source": "cuso_2024.txt",
+        "number": 26
+    },
+    {
+        "question": "A rabbit is traveling from (0, 0) to (24, 24) by hopping one unit in the positive x or positive y direction each step. However, there is a snake at each lattice point where both coordinates are odd, e.g. (1, 1) or (1, 3). How many paths can the rabbit take without encountering a snake?\n",
+        "answer": 6,
+        "source": "cuso_2024.txt",
+        "number": 27
+    },
+    {
+        "question": "Let\u2019s talk about telescoping. What is SQRT(1 * SQRT(5 * SQRT(25 ...)))\n",
+        "answer": 1,
+        "source": "cuso_2024.txt",
+        "number": 28
+    },
+    {
+        "question": "The prime factorization of 2024 is 2^3 * 11 * What is the sum of all positive numbers less than 20242 that are divisible by all of 2, 11, and 23?\n",
+        "answer": 10,
+        "source": "cuso_2024.txt",
+        "number": 29
+    },
+    {
+        "question": "What is the maximum number of regions that a circle can be partitioned into by drawing 100 lines?\n",
+        "answer": 4,
+        "source": "cuso_2024.txt",
+        "number": 30
+    },
+    {
         "question": "How far away is the star Sirius from the Earth in meters?\n",
         "answer": 16,
         "source": "Duke Invitational 22-23",
@@ -7576,6 +8296,252 @@ data = [
         "answer": 0,
         "source": "MIT Invitational 22-23",
         "number": 60
+    },
+    {
+        "question": "How many seconds would it take half a sample of uranium 238 to decay (assuming its isotope has a half-life of 5 billion years)?\n",
+        "answer": 17,
+        "source": "northview_2024.txt",
+        "number": 1
+    },
+    {
+        "question": "How fast is the speed of light in cm/hour?\n",
+        "answer": 14,
+        "source": "northview_2024.txt",
+        "number": 2
+    },
+    {
+        "question": "What fraction of a cubic meter is a cubic millimeter?\n",
+        "answer": -9,
+        "source": "northview_2024.txt",
+        "number": 3
+    },
+    {
+        "question": "How many ounces of candy canes are sold between Thanksgiving and Christmas each year?\n",
+        "answer": 9,
+        "source": "northview_2024.txt",
+        "number": 4
+    },
+    {
+        "question": "In the movie \u201cThe Princess Bride,\u201d we learn that true love does not happen every day. Assuming that true love happens every other day, more specifically, it happens once every 10 square miles of land every other day on Earth, how many times has true love happened since homo sapiens have walked the Earth?\n",
+        "answer": 14,
+        "source": "northview_2024.txt",
+        "number": 5
+    },
+    {
+        "question": "If an organism doubles every 4 minutes, how many will there be after 2 hours?\n",
+        "answer": 9,
+        "source": "northview_2024.txt",
+        "number": 6
+    },
+    {
+        "question": "Find Avogadro\u2019s Number raised to the 10th power.\n",
+        "answer": 238,
+        "source": "northview_2024.txt",
+        "number": 7
+    },
+    {
+        "question": "What is the number of iron atoms on the head of a pin?\n",
+        "answer": 20,
+        "source": "northview_2024.txt",
+        "number": 8
+    },
+    {
+        "question": "The Great American Eclipse occurred on August 21, 2017 and the next such total eclipse across North America will occur on April 8, How many U.S. quarters will we need to stack to match the distance the Earth travels in its orbit during this time?\n",
+        "answer": 15,
+        "source": "northview_2024.txt",
+        "number": 9
+    },
+    {
+        "question": "What is the diameter of a human hair in inches?\n",
+        "answer": -3,
+        "source": "northview_2024.txt",
+        "number": 10
+    },
+    {
+        "question": "How many mitochondria are in the cardiovascular muscle of an average adult human?\n",
+        "answer": 13,
+        "source": "northview_2024.txt",
+        "number": 11
+    },
+    {
+        "question": "How many electrons are needed to match the mass of a ping pong ball?\n",
+        "answer": 27,
+        "source": "northview_2024.txt",
+        "number": 12
+    },
+    {
+        "question": "How many Suns can be lined up between the Sun itself and Mars?\n",
+        "answer": 2,
+        "source": "northview_2024.txt",
+        "number": 13
+    },
+    {
+        "question": "If I have 174 milligrams of a substance, how many metric tons do I have?\n",
+        "answer": -7,
+        "source": "northview_2024.txt",
+        "number": 14
+    },
+    {
+        "question": "If you traveled from Northview High School (your current location) to every Big 10 school, how far would you travel in centimeters?\n",
+        "answer": 9,
+        "source": "northview_2024.txt",
+        "number": 15
+    },
+    {
+        "question": "If you create a single-file line composed of all the atoms making up an average human body, how far would the line stretch in meters?\n",
+        "answer": 18,
+        "source": "northview_2024.txt",
+        "number": 16
+    },
+    {
+        "question": "How many cells are in the average human body?\n",
+        "answer": 13,
+        "source": "northview_2024.txt",
+        "number": 17
+    },
+    {
+        "question": "On average, how many kilometers per second would Santa need to travel to go around the circumference of the earth once in a 24-hour period?\n",
+        "answer": -1,
+        "source": "northview_2024.txt",
+        "number": 18
+    },
+    {
+        "question": "Start with a dollar. Double it every day. In 48 days, you will own _____ dollars asset.\n",
+        "answer": 14,
+        "source": "northview_2024.txt",
+        "number": 19
+    },
+    {
+        "question": "What is the circumference of the Earth in picometers?\n",
+        "answer": 19,
+        "source": "northview_2024.txt",
+        "number": 20
+    },
+    {
+        "question": "What is the number of known digits of pi?\n",
+        "answer": 13,
+        "source": "northview_2024.txt",
+        "number": 21
+    },
+    {
+        "question": "What is the surface area of a normal pin head in miles?\n",
+        "answer": -12,
+        "source": "northview_2024.txt",
+        "number": 22
+    },
+    {
+        "question": "What is the number of calories of heat required to raise the average temperature of Lake Michigan 1 degree Celsius?\n",
+        "answer": 18,
+        "source": "northview_2024.txt",
+        "number": 23
+    },
+    {
+        "question": "100 milliliters are the equivalent to how many meters cubed?\n",
+        "answer": -4,
+        "source": "northview_2024.txt",
+        "number": 24
+    },
+    {
+        "question": "What is the volume of a golf ball measured in hectometers?\n",
+        "answer": -10,
+        "source": "northview_2024.txt",
+        "number": 25
+    },
+    {
+        "question": "Estimate the earth\u2019s surface area in meters.\n",
+        "answer": 9,
+        "source": "northview_2024.txt",
+        "number": 26
+    },
+    {
+        "question": "What is the value of 75! (factorial)?\n",
+        "answer": 109,
+        "source": "northview_2024.txt",
+        "number": 27
+    },
+    {
+        "question": "How many photons are emitted by a 100 W light bulb in one second?\n",
+        "answer": 21,
+        "source": "northview_2024.txt",
+        "number": 28
+    },
+    {
+        "question": "Since it is \u201ctis the season\u201d, how many centimeters of lights are on the Rockefeller Center Christmas Tree in New York?\n",
+        "answer": 6,
+        "source": "northview_2024.txt",
+        "number": 29
+    },
+    {
+        "question": "How much heat in Joules, was released by the explosion of the Hindenburg?\n",
+        "answer": 12,
+        "source": "northview_2024.txt",
+        "number": 30
+    },
+    {
+        "question": "How many possible combinations exists for a standard 3 x 3 x 3 Rubrik\u2019s Cube?\n",
+        "answer": 19,
+        "source": "northview_2024.txt",
+        "number": 31
+    },
+    {
+        "question": "How many water molecules fit inside a 17 fl. Oz. water bottle?\n",
+        "answer": 25,
+        "source": "northview_2024.txt",
+        "number": 32
+    },
+    {
+        "question": "What is the temperature in Celsius of a bolt of lightning?\n",
+        "answer": 4,
+        "source": "northview_2024.txt",
+        "number": 33
+    },
+    {
+        "question": "What is the atmospheric pressure at sea level in mm Hg?\n",
+        "answer": 2,
+        "source": "northview_2024.txt",
+        "number": 34
+    },
+    {
+        "question": "What is the probability two random people will have the same birthday?\n",
+        "answer": -2,
+        "source": "northview_2024.txt",
+        "number": 35
+    },
+    {
+        "question": "How many minutes would it take a beam of light to travel across the continental United States?\n",
+        "answer": -4,
+        "source": "northview_2024.txt",
+        "number": 36
+    },
+    {
+        "question": "How many bananas placed end to end would it take to reach the moon?\n",
+        "answer": 9,
+        "source": "northview_2024.txt",
+        "number": 37
+    },
+    {
+        "question": "In the movie \u201cGremlins\u201d, we learn that the mogwai species reproduce when they get wet. Assuming that mogwai can reproduce at a rate of five every ten seconds, if a mogwai went for a ten-minute swim, how many mogwai would pop out?\n",
+        "answer": 12,
+        "source": "northview_2024.txt",
+        "number": 38
+    },
+    {
+        "question": "In the movie Back to the Future, Marty, and Doc travel throughout time. If Marty and Doc became immortal and traveled back to the start of the Mesozoic era and shared a standard box of Altoids each week until October 2, 1985, how many Altoid mints would they have eaten by then?\n",
+        "answer": 12,
+        "source": "northview_2024.txt",
+        "number": 39
+    },
+    {
+        "question": "Since I am from Indiana, I must have at least one question to represent my team and State... estimate the area of Indiana in micrometers.\n",
+        "answer": 23,
+        "source": "northview_2024.txt",
+        "number": 40
+    },
+    {
+        "question": "At what distance in Plank length is something receding faster than the speed of light?\n",
+        "answer": 61,
+        "source": "northview_2024.txt",
+        "number": 41
     },
     {
         "question": "How many hydrogen atoms can fit inside of a gallon bottle?\n",
@@ -11386,6 +12352,306 @@ data = [
         "answer": 2,
         "source": "SOAPS Invitational 22-23",
         "number": 60
+    },
+    {
+        "question": "How many Science Olympiad medals have been given out at the National Tournament throughout the history of the competition?\n",
+        "answer": 4,
+        "source": "soaps_2024.txt",
+        "number": 1
+    },
+    {
+        "question": "For every LEGO brick on Earth, a copy of the Lord of the Rings trilogy gets printed out. How many words were printed?\n",
+        "answer": 17,
+        "source": "soaps_2024.txt",
+        "number": 2
+    },
+    {
+        "question": "How many grams of sugar does the Venti Java Chip Frappuccino Starbucks drink include?\n",
+        "answer": 2,
+        "source": "soaps_2024.txt",
+        "number": 3
+    },
+    {
+        "question": "How many Big Macs would you need to stack up to reach the height of the Burj Khalifa?\n",
+        "answer": 4,
+        "source": "soaps_2024.txt",
+        "number": 4
+    },
+    {
+        "question": "If you used all the land dedicated to building McDonald's locations worldwide to place down 75 inch televisions flat in a layer three televisions high, how many televisions would there be?\n",
+        "answer": 7,
+        "source": "soaps_2024.txt",
+        "number": 5
+    },
+    {
+        "question": "What is the ratio of Uber drivers to Uber customers?\n",
+        "answer": -2,
+        "source": "soaps_2024.txt",
+        "number": 6
+    },
+    {
+        "question": "What is the ratio of Americans with master's degrees to Americans with pHds?\n",
+        "answer": 1,
+        "source": "soaps_2024.txt",
+        "number": 7
+    },
+    {
+        "question": "How many scholarly papers can be accessed through Google Scholar?\n",
+        "answer": 8,
+        "source": "soaps_2024.txt",
+        "number": 8
+    },
+    {
+        "question": "How many species of fish can be found in the Great Barrier Reef?\n",
+        "answer": 3,
+        "source": "soaps_2024.txt",
+        "number": 9
+    },
+    {
+        "question": "What is the ratio of the cow population in Iowa to the cow population in Kentucky?\n",
+        "answer": 0,
+        "source": "soaps_2024.txt",
+        "number": 10
+    },
+    {
+        "question": "How many Native Americans live in America today?\n",
+        "answer": 6,
+        "source": "soaps_2024.txt",
+        "number": 11
+    },
+    {
+        "question": "How many steps does the population of America take a year?\n",
+        "answer": 14,
+        "source": "soaps_2024.txt",
+        "number": 12
+    },
+    {
+        "question": "How many hospitals exist in Uganda?\n",
+        "answer": 4,
+        "source": "soaps_2024.txt",
+        "number": 13
+    },
+    {
+        "question": "How many more people live in Brazil than in Argentina?\n",
+        "answer": 8,
+        "source": "soaps_2024.txt",
+        "number": 14
+    },
+    {
+        "question": "How many more people live in Laos than in Mongolia?\n",
+        "answer": 6,
+        "source": "soaps_2024.txt",
+        "number": 15
+    },
+    {
+        "question": "How many int values could be stored on the memory of the computer used to write this test?\n",
+        "answer": 9,
+        "source": "soaps_2024.txt",
+        "number": 16
+    },
+    {
+        "question": "How many children are used in child labor in China?\n",
+        "answer": 7,
+        "source": "soaps_2024.txt",
+        "number": 17
+    },
+    {
+        "question": "How many monarch butterflies would equal the combined weight of every resident of Tokyo and Moscow?\n",
+        "answer": 12,
+        "source": "soaps_2024.txt",
+        "number": 18
+    },
+    {
+        "question": "How many hours did it take for Pixar's many computers to render Toy Story 4, total?\n",
+        "answer": 7,
+        "source": "soaps_2024.txt",
+        "number": 19
+    },
+    {
+        "question": "Of the many islands and islets of Indonesia, how many remain uninhabited?\n",
+        "answer": 4,
+        "source": "soaps_2024.txt",
+        "number": 20
+    },
+    {
+        "question": "How many gallons of water would you need to cover the moon one inch deep?\n",
+        "answer": 14,
+        "source": "soaps_2024.txt",
+        "number": 21
+    },
+    {
+        "question": "159!\n",
+        "answer": 282,
+        "source": "soaps_2024.txt",
+        "number": 22
+    },
+    {
+        "question": "What is the Fermi number of the 9432nd Fibonacci number (This question is asking for the Fermi answer of the Fermi number!)?\n",
+        "answer": 3,
+        "source": "soaps_2024.txt",
+        "number": 23
+    },
+    {
+        "question": "Lucas numbers are closely related to the Fibonacci sequence. It's the same idea of the next number being the sum of the prior 2 numbers, but starting with 2 and 1 rather than 0 and This results in the sequence going 2, 1, 3, 4, 7, 11, ... What is the ratio between the 1433rd Lucas number and the 1433rd Fibonacci number?\n",
+        "answer": 0,
+        "source": "soaps_2024.txt",
+        "number": 24
+    },
+    {
+        "question": "How many ways could I tile a 1x25 rectangle using 1x1, 1x2, and 1x4 dominoes?\n",
+        "answer": 6,
+        "source": "soaps_2024.txt",
+        "number": 25
+    },
+    {
+        "question": "18^4324?\n",
+        "answer": 5428,
+        "source": "soaps_2024.txt",
+        "number": 26
+    },
+    {
+        "question": "What is the sum of the powers of the prime factors of 12043242?\n",
+        "answer": 1,
+        "source": "soaps_2024.txt",
+        "number": 27
+    },
+    {
+        "question": "What is the sum of the prime factors of 12043242?\n",
+        "answer": 3,
+        "source": "soaps_2024.txt",
+        "number": 28
+    },
+    {
+        "question": "If you were bit by a random mosquito for every byte of data that was used to store this Fermi test as a PDF, how many times would you get malaria?\n",
+        "answer": 3,
+        "source": "soaps_2024.txt",
+        "number": 29
+    },
+    {
+        "question": "How many people in the world are named Muhammed?\n",
+        "answer": 8,
+        "source": "soaps_2024.txt",
+        "number": 30
+    },
+    {
+        "question": "How many times will you have to split a cookie in half until you split an atom?\n",
+        "answer": 2,
+        "source": "soaps_2024.txt",
+        "number": 31
+    },
+    {
+        "question": "How many times does the minute hand and hour hand of a clock completely align over the course of a petasecond?\n",
+        "answer": 11,
+        "source": "soaps_2024.txt",
+        "number": 32
+    },
+    {
+        "question": "How many fortnights would you have to work at the federal minimum wage to earn enough money to buy every skin in Fortnite (assume you work 9-5, no weekends)?\n",
+        "answer": 1,
+        "source": "soaps_2024.txt",
+        "number": 33
+    },
+    {
+        "question": "What is the ratio of Pluto's surface area to the surface area of Russia?\n",
+        "answer": 0,
+        "source": "soaps_2024.txt",
+        "number": 34
+    },
+    {
+        "question": "How many times hotter is the surface of Stephenson 2-18 (the largest known star) than the temperature a lightning bolt on earth can achieve?\n",
+        "answer": -1,
+        "source": "soaps_2024.txt",
+        "number": 35
+    },
+    {
+        "question": "If the total views on the MrBeast YouTube channel were individual people all spaced evenly across the contiguous United States, what would be the ratio of the population density (people per square mile) to that of Manila, Philippines?\n",
+        "answer": -1,
+        "source": "soaps_2024.txt",
+        "number": 36
+    },
+    {
+        "question": "If you grabbed a random American, what are the odds that they've worked at McDonald's?\n",
+        "answer": -1,
+        "source": "soaps_2024.txt",
+        "number": 37
+    },
+    {
+        "question": "How many carbon atoms would there be in a single chain hydrocarbon that stretches from the earth's surface to the sun (take the average distance between the two bodies)?\n",
+        "answer": 21,
+        "source": "soaps_2024.txt",
+        "number": 38
+    },
+    {
+        "question": "If one carbon atom of each molecule of gasoline in a truck were radioactive, how many atoms of radioactive carbon would there be in a full tank of diesel gasoline for a typical semi truck?\n",
+        "answer": 26,
+        "source": "soaps_2024.txt",
+        "number": 39
+    },
+    {
+        "question": "If you combine the gross box office revenue (globally) for Barbie and Oppenheimer, how many times could you buy a Barbie doll and a kg of natural uranium ore (buying sets of the two as a pair)?\n",
+        "answer": 7,
+        "source": "soaps_2024.txt",
+        "number": 40
+    },
+    {
+        "question": "Let's say you collected every acorn produced by an oak tree and planted each of them. How many total acorns would you (or your grandkids) have by the time each of the trees you planted die, if you collect every acorn they produce?\n",
+        "answer": 13,
+        "source": "soaps_2024.txt",
+        "number": 41
+    },
+    {
+        "question": "If you converted the price of 1 BTC at its all time high to a stack of 1 dollar bills, how tall would it be if measured in mid-size computer towers (typical PC sizes)?\n",
+        "answer": 1,
+        "source": "soaps_2024.txt",
+        "number": 42
+    },
+    {
+        "question": "In the amount of time you lose going up to the second floor by elevator instead of taking the stairs, how many full workdays would you have missed?\n",
+        "answer": -3,
+        "source": "soaps_2024.txt",
+        "number": 43
+    },
+    {
+        "question": "How many more words are in the complete written works of Nietzsche than in the complete written works of Socrates?\n",
+        "answer": 6,
+        "source": "soaps_2024.txt",
+        "number": 44
+    },
+    {
+        "question": "How many total symbols, including letters, numbers, operators, diagram components, etc., are written in the typical notes of a student's notebook(s) from General Physics I and II (ex. x = vt + 1/2 * at has 12 symbols)?\n",
+        "answer": 6,
+        "source": "soaps_2024.txt",
+        "number": 45
+    },
+    {
+        "question": "If you stretched out all the DNA from all of your cells in a line, how many times could you wrap around the earth at its circumference, the equator?\n",
+        "answer": 6,
+        "source": "soaps_2024.txt",
+        "number": 46
+    },
+    {
+        "question": "In a typical sedan, how much does the fuel cost, in cents, to drive from Penn State University to Michigan State University and back?\n",
+        "answer": 4,
+        "source": "soaps_2024.txt",
+        "number": 47
+    },
+    {
+        "question": "Meta-question: What is the factorial of the product of the correct answers to every non meta-question in the test?\n",
+        "answer": 0,
+        "source": "soaps_2024.txt",
+        "number": 48
+    },
+    {
+        "question": "Meta-question: What is the product of the absolute value of the correct answers to every odd numbered non meta-question in the test (multiply the answers to all the odd questions 1-47), only considering the questions with non-zero answers?\n",
+        "answer": 13,
+        "source": "soaps_2024.txt",
+        "number": 49
+    },
+    {
+        "question": "Meta-question: What is the sum of the correct answers to every question before this one in the test?\n",
+        "answer": 4,
+        "source": "soaps_2024.txt",
+        "number": 50
     },
     {
         "question": "Penn's founder Benjamin Franklin was a big proponent of being frugal, coining his phrase \"a penny saved is a penny earned\" in Poor Richard's Almanac  If you saved a penny every time a baby was born in 2023 so far, how many pennies would you have \"earned\"?\n",

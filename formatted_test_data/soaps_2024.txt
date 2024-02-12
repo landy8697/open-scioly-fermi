@@ -1,0 +1,102 @@
+soaps_2024.txt
+50
+How many Science Olympiad medals have been given out at the National Tournament throughout the history of the competition?
+4
+For every LEGO brick on Earth, a copy of the Lord of the Rings trilogy gets printed out. How many words were printed?
+17
+How many grams of sugar does the Venti Java Chip Frappuccino Starbucks drink include?
+2
+How many Big Macs would you need to stack up to reach the height of the Burj Khalifa?
+4
+If you used all the land dedicated to building McDonald's locations worldwide to place down 75 inch televisions flat in a layer three televisions high, how many televisions would there be?
+7
+What is the ratio of Uber drivers to Uber customers?
+-2
+What is the ratio of Americans with master's degrees to Americans with pHds?
+1
+How many scholarly papers can be accessed through Google Scholar?
+8
+How many species of fish can be found in the Great Barrier Reef?
+3
+What is the ratio of the cow population in Iowa to the cow population in Kentucky?
+0
+How many Native Americans live in America today?
+6
+How many steps does the population of America take a year?
+14
+How many hospitals exist in Uganda?
+4
+How many more people live in Brazil than in Argentina?
+8
+How many more people live in Laos than in Mongolia?
+6
+How many int values could be stored on the memory of the computer used to write this test?
+9
+How many children are used in child labor in China?
+7
+How many monarch butterflies would equal the combined weight of every resident of Tokyo and Moscow?
+12
+How many hours did it take for Pixar's many computers to render Toy Story 4, total?
+7
+Of the many islands and islets of Indonesia, how many remain uninhabited?
+4
+How many gallons of water would you need to cover the moon one inch deep?
+14
+159!
+282
+What is the Fermi number of the 9432nd Fibonacci number (This question is asking for the Fermi answer of the Fermi number!)?
+3
+Lucas numbers are closely related to the Fibonacci sequence. It's the same idea of the next number being the sum of the prior 2 numbers, but starting with 2 and 1 rather than 0 and This results in the sequence going 2, 1, 3, 4, 7, 11, ... What is the ratio between the 1433rd Lucas number and the 1433rd Fibonacci number?
+0
+How many ways could I tile a 1x25 rectangle using 1x1, 1x2, and 1x4 dominoes?
+6
+18^4324?
+5428
+What is the sum of the powers of the prime factors of 12043242?
+1
+What is the sum of the prime factors of 12043242?
+3
+If you were bit by a random mosquito for every byte of data that was used to store this Fermi test as a PDF, how many times would you get malaria?
+3
+How many people in the world are named Muhammed?
+8
+How many times will you have to split a cookie in half until you split an atom?
+2
+How many times does the minute hand and hour hand of a clock completely align over the course of a petasecond?
+11
+How many fortnights would you have to work at the federal minimum wage to earn enough money to buy every skin in Fortnite (assume you work 9-5, no weekends)?
+1
+What is the ratio of Pluto's surface area to the surface area of Russia?
+0
+How many times hotter is the surface of Stephenson 2-18 (the largest known star) than the temperature a lightning bolt on earth can achieve?
+-1
+If the total views on the MrBeast YouTube channel were individual people all spaced evenly across the contiguous United States, what would be the ratio of the population density (people per square mile) to that of Manila, Philippines?
+-1
+If you grabbed a random American, what are the odds that they've worked at McDonald's?
+-1
+How many carbon atoms would there be in a single chain hydrocarbon that stretches from the earth's surface to the sun (take the average distance between the two bodies)?
+21
+If one carbon atom of each molecule of gasoline in a truck were radioactive, how many atoms of radioactive carbon would there be in a full tank of diesel gasoline for a typical semi truck?
+26
+If you combine the gross box office revenue (globally) for Barbie and Oppenheimer, how many times could you buy a Barbie doll and a kg of natural uranium ore (buying sets of the two as a pair)?
+7
+Let's say you collected every acorn produced by an oak tree and planted each of them. How many total acorns would you (or your grandkids) have by the time each of the trees you planted die, if you collect every acorn they produce?
+13
+If you converted the price of 1 BTC at its all time high to a stack of 1 dollar bills, how tall would it be if measured in mid-size computer towers (typical PC sizes)?
+1
+In the amount of time you lose going up to the second floor by elevator instead of taking the stairs, how many full workdays would you have missed?
+-3
+How many more words are in the complete written works of Nietzsche than in the complete written works of Socrates?
+6
+How many total symbols, including letters, numbers, operators, diagram components, etc., are written in the typical notes of a student's notebook(s) from General Physics I and II (ex. x = vt + 1/2 * at has 12 symbols)?
+6
+If you stretched out all the DNA from all of your cells in a line, how many times could you wrap around the earth at its circumference, the equator?
+6
+In a typical sedan, how much does the fuel cost, in cents, to drive from Penn State University to Michigan State University and back?
+4
+Meta-question: What is the factorial of the product of the correct answers to every non meta-question in the test?
+0
+Meta-question: What is the product of the absolute value of the correct answers to every odd numbered non meta-question in the test (multiply the answers to all the odd questions 1-47), only considering the questions with non-zero answers?
+13
+Meta-question: What is the sum of the correct answers to every question before this one in the test?
+4

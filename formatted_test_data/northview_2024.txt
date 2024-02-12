@@ -1,0 +1,84 @@
+northview_2024.txt
+41
+How many seconds would it take half a sample of uranium 238 to decay (assuming its isotope has a half-life of 5 billion years)?
+17
+How fast is the speed of light in cm/hour?
+14
+What fraction of a cubic meter is a cubic millimeter?
+-9
+How many ounces of candy canes are sold between Thanksgiving and Christmas each year?
+9
+In the movie “The Princess Bride,” we learn that true love does not happen every day. Assuming that true love happens every other day, more specifically, it happens once every 10 square miles of land every other day on Earth, how many times has true love happened since homo sapiens have walked the Earth?
+14
+If an organism doubles every 4 minutes, how many will there be after 2 hours?
+9
+Find Avogadro’s Number raised to the 10th power.
+238
+What is the number of iron atoms on the head of a pin?
+20
+The Great American Eclipse occurred on August 21, 2017 and the next such total eclipse across North America will occur on April 8, How many U.S. quarters will we need to stack to match the distance the Earth travels in its orbit during this time?
+15
+What is the diameter of a human hair in inches?
+-3
+How many mitochondria are in the cardiovascular muscle of an average adult human?
+13
+How many electrons are needed to match the mass of a ping pong ball?
+27
+How many Suns can be lined up between the Sun itself and Mars?
+2
+If I have 174 milligrams of a substance, how many metric tons do I have?
+-7
+If you traveled from Northview High School (your current location) to every Big 10 school, how far would you travel in centimeters?
+9
+If you create a single-file line composed of all the atoms making up an average human body, how far would the line stretch in meters?
+18
+How many cells are in the average human body?
+13
+On average, how many kilometers per second would Santa need to travel to go around the circumference of the earth once in a 24-hour period?
+-1
+Start with a dollar. Double it every day. In 48 days, you will own _____ dollars asset.
+14
+What is the circumference of the Earth in picometers?
+19
+What is the number of known digits of pi?
+13
+What is the surface area of a normal pin head in miles?
+-12
+What is the number of calories of heat required to raise the average temperature of Lake Michigan 1 degree Celsius?
+18
+100 milliliters are the equivalent to how many meters cubed?
+-4
+What is the volume of a golf ball measured in hectometers?
+-10
+Estimate the earth’s surface area in meters.
+9
+What is the value of 75! (factorial)?
+109
+How many photons are emitted by a 100 W light bulb in one second?
+21
+Since it is “tis the season”, how many centimeters of lights are on the Rockefeller Center Christmas Tree in New York?
+6
+How much heat in Joules, was released by the explosion of the Hindenburg?
+12
+How many possible combinations exists for a standard 3 x 3 x 3 Rubrik’s Cube?
+19
+How many water molecules fit inside a 17 fl. Oz. water bottle?
+25
+What is the temperature in Celsius of a bolt of lightning?
+4
+What is the atmospheric pressure at sea level in mm Hg?
+2
+What is the probability two random people will have the same birthday?
+-2
+How many minutes would it take a beam of light to travel across the continental United States?
+-4
+How many bananas placed end to end would it take to reach the moon?
+9
+In the movie “Gremlins”, we learn that the mogwai species reproduce when they get wet. Assuming that mogwai can reproduce at a rate of five every ten seconds, if a mogwai went for a ten-minute swim, how many mogwai would pop out?
+12
+In the movie Back to the Future, Marty, and Doc travel throughout time. If Marty and Doc became immortal and traveled back to the start of the Mesozoic era and shared a standard box of Altoids each week until October 2, 1985, how many Altoid mints would they have eaten by then?
+12
+Since I am from Indiana, I must have at least one question to represent my team and State... estimate the area of Indiana in micrometers.
+23
+At what distance in Plank length is something receding faster than the speed of light?
+61
