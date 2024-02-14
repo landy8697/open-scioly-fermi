@@ -1,4 +1,4 @@
-northview_2024.txt
+Northview Invitational 23-24
 41
 How many seconds would it take half a sample of uranium 238 to decay (assuming its isotope has a half-life of 5 billion years)?
 17

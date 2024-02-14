@@ -1,4 +1,4 @@
-soaps_2024.txt
+SOAPS Invitational 23-24
 50
 How many Science Olympiad medals have been given out at the National Tournament throughout the history of the competition?
 4

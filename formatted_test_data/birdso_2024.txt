@@ -1,4 +1,4 @@
-birdso_2024.txt
+BirdSO In-Person Invitational 23-24
 60
 Suppose we model LA county as a circle, with area equal to that of LA county. Assuming the teams at BirdSO are uniformly distributed throughout LA county, in dollars, how much money was spent on gas for transportation to BirdSO? Assume current LA gas prices.
 4

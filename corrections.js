@@ -360,10 +360,10 @@ corrections = {
         "credit": "None"
     },
     "SOAPS Invitational 22-23, #25": {
-        "question": "",
+        "question": "The current meerkat population is about 500,000 Approximately how many of these meerkats will be murdered by their own species if we follow all of them to their cause of death? Hint: Meerkats have been deemed the \"most murderous\" mammal species.",
         "answer": "",
-        "explanation": "the explanation literally says 2 but it says the answer is 1",
-        "credit": ""
+        "explanation": "",
+        "credit": "BTHS SciOly"
     },
     "MIT Invitational 22-23, #27": {
         "question": "43^29",
@@ -941,7 +941,7 @@ corrections = {
         "explanation": "10^6 liters in an olympic swimming pool, ~5 balls in a liter, 10^7 balls total",
         "credit": "emptiespace"
     },
-    "ut_invite_2023.txt, #9": {
+    "UT Austin Invitational 23-24, #9": {
         "question": "",
         "answer": "1",
         "explanation": "5 is a fibonacci number for which F_n/F_n-1 is within 5% of phi. The percent error for 5/3 compared to phi is surprisingly low at only ~3%, so the answer to the question is 1.",
@@ -1054,6 +1054,48 @@ corrections = {
         "answer": "6",
         "explanation": "Speed of S waves is 1-8 km/s (for our purposes we will take the average and go 4 km/s), san francisco to syracuse is 4000 km (3926 km but close enough), 4000/4 = 1000 seconds = 1*10^6 ms which is 6",
         "credit": "bibob/pikapika007"
+    },
+    "UT Austin Regionals 22-23, #12": {
+        "question": "",
+        "answer": "19",
+        "explanation": "google says 3 x 10^19",
+        "credit": ""
+    },
+    "University of Georgia Invitational 23-24, #2": {
+        "question": "",
+        "answer": "48",
+        "explanation": "moon volume is 2e25 mL, which is 1.2e24 moles of water, which is 7.4e47 molecules, which is 1.5e48 hydrogen atoms",
+        "credit": ""
+    },
+    "Northview Invitational 23-24, #25": {
+        "question": "What is the volume of a golf ball measured in cubic hectometers?",
+        "answer": "",
+        "explanation": "",
+        "credit": ""
+    },
+    "Carolina Invitational 22-23, #30": {
+        "question": "",
+        "answer": "602051",
+        "explanation": "WolframAlpha gives CatalanNumber[1000000] = 5.5*10^602051.",
+        "credit": ""
+    },
+    "Clements Invitational 17-18, #2": {
+        "question": "How many carbon atoms fit from the distance from sea level to the highest point on earth?",
+        "answer": "14",
+        "explanation": "everest 8800m = e4 m \ncarbon atom 1 angstrom = e-10m \n\n14 m ?",
+        "credit": "evanescent"
+    },
+    "Northview Invitational 23-24, #34": {
+        "question": "",
+        "answer": "3",
+        "explanation": "1 atm ~= 760mmHg which is 3",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #96 [2018 Monta Vista Tryouts Q15]": {
+        "question": "How many small calories does the sun output per second?",
+        "answer": "",
+        "explanation": "the sun outputs 26 watts so for the answer to be 26 it would need to be small calories which can be ambiguous",
+        "credit": ""
     }
 }
 corrections_list = [
@@ -1234,7 +1276,7 @@ corrections_list = [
     "High Desert Mini Invitational 22-23, #3",
     "RobertYL, daily fermi questions day #1 [2018 Westlake Q64]",
     "High Desert Satellite Invitational 22-23, #19",
-    "ut_invite_2023.txt, #9",
+    "UT Austin Invitational 23-24, #9",
     "RobertYL, daily fermi questions day #114 [2019 Solon Q10]",
     "SOAPS Invitational 22-23, #53",
     "Columbia Invitational 17-18, #49",
@@ -1254,5 +1296,14 @@ corrections_list = [
     "BirdSO Invitational 20-21, #40",
     "RobertYL, daily fermi questions day #77 [2019 Cornell Q28]",
     "UMass Amherst Invitational 22-23, #34",
-    "Columbia Invitational 17-18, #11"
+    "Columbia Invitational 17-18, #11",
+    "UT Austin Regionals 22-23, #12",
+    "University of Georgia Invitational 23-24, #2",
+    "Northview Invitational 23-24, #25",
+    "Carolina Invitational 22-23, #30",
+    "SOAPS Invitational 22-23, #25",
+    "UT Austin Regionals 22-23, #12",
+    "Clements Invitational 17-18, #2",
+    "Northview Invitational 23-24, #34",
+    "RobertYL, daily fermi questions day #96 [2018 Monta Vista Tryouts Q15]"
 ]
