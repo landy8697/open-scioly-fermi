@@ -8118,6 +8118,342 @@
         "number": 60
     },
     {
+        "question": "How many acres does the Mississippi River drainage basin, the land area where water flows into the Mississippi, cover?\n",
+        "answer": 9,
+        "source": "MIT Invitational 23-24",
+        "number": 1
+    },
+    {
+        "question": "What is the yearly revenue of the Hair Salon industry in the United States in dollars?\n",
+        "answer": 11,
+        "source": "MIT Invitational 23-24",
+        "number": 2
+    },
+    {
+        "question": "When written in Fahrenheit, what is the sum of the temperatures in Cambridge, Massachusetts, at 8 a.m. every day of the last year?\n",
+        "answer": 4,
+        "source": "MIT Invitational 23-24",
+        "number": 3
+    },
+    {
+        "question": "How many words of new law have been enacted by Congress in the last 50 years?\n",
+        "answer": 8,
+        "source": "MIT Invitational 23-24",
+        "number": 4
+    },
+    {
+        "question": "How many words are spoken in the musical Hamilton?\n",
+        "answer": 4,
+        "source": "MIT Invitational 23-24",
+        "number": 5
+    },
+    {
+        "question": "How many medals have ever been handed out at MIT Scioly invitationals (not including this one)?\n",
+        "answer": 3,
+        "source": "MIT Invitational 23-24",
+        "number": 6
+    },
+    {
+        "question": "How many pounds does the Great Pyramid of Giza weigh?\n",
+        "answer": 10,
+        "source": "MIT Invitational 23-24",
+        "number": 7
+    },
+    {
+        "question": "How many living vertebrate species have been identified?\n",
+        "answer": 5,
+        "source": "MIT Invitational 23-24",
+        "number": 8
+    },
+    {
+        "question": "How many ice cream scoops are required to equal the volume of the Earth?\n",
+        "answer": 25,
+        "source": "MIT Invitational 23-24",
+        "number": 9
+    },
+    {
+        "question": "How many tennis matches have been played at tennis Grand Slams in the past 20 years?\n",
+        "answer": 5,
+        "source": "MIT Invitational 23-24",
+        "number": 10
+    },
+    {
+        "question": "How many combined newtons of force does the Moon exert on the two event supervisors?\n",
+        "answer": -3,
+        "source": "MIT Invitational 23-24",
+        "number": 11
+    },
+    {
+        "question": "How many tablespoons of blood travel through the heart in an average person\u2019s lifetime?\n",
+        "answer": 10,
+        "source": "MIT Invitational 23-24",
+        "number": 12
+    },
+    {
+        "question": "How many light years has Michael Phelps swam over all the Olympic races he has competed in?\n",
+        "answer": -12,
+        "source": "MIT Invitational 23-24",
+        "number": 13
+    },
+    {
+        "question": "If every cranberry plant on every cranberry farm in Massachusetts suddenly produced fruit, how many pounds of cranberries would be produced?\n",
+        "answer": 8,
+        "source": "MIT Invitational 23-24",
+        "number": 14
+    },
+    {
+        "question": "How many people will be born during this test?\n",
+        "answer": 4,
+        "source": "MIT Invitational 23-24",
+        "number": 15
+    },
+    {
+        "question": "How many rotations would the wheels on a school bus complete on a road trip from Maine to California?\n",
+        "answer": 6,
+        "source": "MIT Invitational 23-24",
+        "number": 16
+    },
+    {
+        "question": "What is the value of the expression 5 * 15 * 25 * ... * 105?\n",
+        "answer": 18,
+        "source": "MIT Invitational 23-24",
+        "number": 17
+    },
+    {
+        "question": "How many decades would it take the Koenigsegg Jesko Absolut, the fastest car in the world, to travel from Earth to Saturn?\n",
+        "answer": 1,
+        "source": "MIT Invitational 23-24",
+        "number": 18
+    },
+    {
+        "question": "How many queries does ChatGPT receive per day?\n",
+        "answer": 7,
+        "source": "MIT Invitational 23-24",
+        "number": 19
+    },
+    {
+        "question": "How many seconds would it take to listen to every Joe Rogan podcast episode?\n",
+        "answer": 7,
+        "source": "MIT Invitational 23-24",
+        "number": 20
+    },
+    {
+        "question": "How many more kilograms of carbon dioxide are absorbed than emitted by trees every day?\n",
+        "answer": 10,
+        "source": "MIT Invitational 23-24",
+        "number": 21
+    },
+    {
+        "question": "How many nucleotide changes have occurred in the human genome since the divergence from our last common ancestor with chimpanzees?\n",
+        "answer": 7,
+        "source": "MIT Invitational 23-24",
+        "number": 22
+    },
+    {
+        "question": "If all the ice on Antarctica melted, how many angstroms would the global sea level rise by?\n",
+        "answer": 12,
+        "source": "MIT Invitational 23-24",
+        "number": 23
+    },
+    {
+        "question": "On average, how many emails are sent every second?\n",
+        "answer": 6,
+        "source": "MIT Invitational 23-24",
+        "number": 24
+    },
+    {
+        "question": "How many meters of trails does Yosemite National Park have?\n",
+        "answer": 6,
+        "source": "MIT Invitational 23-24",
+        "number": 25
+    },
+    {
+        "question": "How many tons of two dollar bills are in circulation today?\n",
+        "answer": 3,
+        "source": "MIT Invitational 23-24",
+        "number": 26
+    },
+    {
+        "question": "How many of IBM\u2019s new Quantum Heron processors are needed in order to have enough physical qubits to break a Bitcoin\u2019s encryption in a day?\n",
+        "answer": 5,
+        "source": "MIT Invitational 23-24",
+        "number": 27
+    },
+    {
+        "question": "What is the annual cost of MIT\u2019s research expenditures, in dollars?\n",
+        "answer": 9,
+        "source": "MIT Invitational 23-24",
+        "number": 28
+    },
+    {
+        "question": "How many different types of antigen binding sites can a human body potentially produce?\n",
+        "answer": 18,
+        "source": "MIT Invitational 23-24",
+        "number": 29
+    },
+    {
+        "question": "How many water molecules are used in the flush of a standard toilet in the United States?\n",
+        "answer": 26,
+        "source": "MIT Invitational 23-24",
+        "number": 30
+    },
+    {
+        "question": "In the original US Constitution, what was the average number of words written per square centimeter of paper used?\n",
+        "answer": -1,
+        "source": "MIT Invitational 23-24",
+        "number": 31
+    },
+    {
+        "question": "What is the current average international bandwidth usage, in terabits per second?\n",
+        "answer": 3,
+        "source": "MIT Invitational 23-24",
+        "number": 32
+    },
+    {
+        "question": "How many barrels of fuel were used by commercial airlines in 2022?\n",
+        "answer": 9,
+        "source": "MIT Invitational 23-24",
+        "number": 33
+    },
+    {
+        "question": "How much money, in nickels, did Elon Musk\u2019s net worth decrease from the time when he challenged Zuckeberg to a cage ring fight to the time when the fight was initially scheduled?\n",
+        "answer": 11,
+        "source": "MIT Invitational 23-24",
+        "number": 34
+    },
+    {
+        "question": "What is the value of all the gold in a ton of iPhones, in dollars?\n",
+        "answer": 4,
+        "source": "MIT Invitational 23-24",
+        "number": 35
+    },
+    {
+        "question": "If each element makes a 8 centimeter by 3 centimeter rectangle on the periodic table, what is the area of the triangle formed by the 3 elements with the lowest Scrabble score, in square light years?\n",
+        "answer": -34,
+        "source": "MIT Invitational 23-24",
+        "number": 36
+    },
+    {
+        "question": "How many particles of SARS-CoV-2 does it take to circle the circumference of the moon?\n",
+        "answer": 14,
+        "source": "MIT Invitational 23-24",
+        "number": 37
+    },
+    {
+        "question": "How many cubic centimeters of uranium are does it take for a nuclear reactor to power a home for a year?\n",
+        "answer": 1,
+        "source": "MIT Invitational 23-24",
+        "number": 38
+    },
+    {
+        "question": "How many United States passports have been issued over the last 50 years?\n",
+        "answer": 8,
+        "source": "MIT Invitational 23-24",
+        "number": 39
+    },
+    {
+        "question": "What is the product of the number of phonemes (units of sound that distinguish words from each other) in English and Spanish?\n",
+        "answer": 3,
+        "source": "MIT Invitational 23-24",
+        "number": 40
+    },
+    {
+        "question": "How many ounces of salt are dissolved in the Atlantic Ocean?\n",
+        "answer": 20,
+        "source": "MIT Invitational 23-24",
+        "number": 41
+    },
+    {
+        "question": "What is the total horizontal distance traveled by Stephen Curry\u2019s 3-pointers throughout his NBA career in centimeters?\n",
+        "answer": 6,
+        "source": "MIT Invitational 23-24",
+        "number": 42
+    },
+    {
+        "question": "How many electrons are transferred by a typical lightning strike?\n",
+        "answer": 20,
+        "source": "MIT Invitational 23-24",
+        "number": 43
+    },
+    {
+        "question": "How many kilocalories of energy are produced by residential solar panels in the United States every year?\n",
+        "answer": 13,
+        "source": "MIT Invitational 23-24",
+        "number": 44
+    },
+    {
+        "question": "As of Minecraft update 20, what is the maximum number of blocks that can be generated in the overworld?\n",
+        "answer": 18,
+        "source": "MIT Invitational 23-24",
+        "number": 45
+    },
+    {
+        "question": "How many bits would it take to stream all of Taylor Swift\u2019s studio albums on Spotify at the highest audio quality?\n",
+        "answer": 10,
+        "source": "MIT Invitational 23-24",
+        "number": 46
+    },
+    {
+        "question": "How many atoms are in the largest human chromosome?\n",
+        "answer": 10,
+        "source": "MIT Invitational 23-24",
+        "number": 47
+    },
+    {
+        "question": "On a circle with radius 1 meter and eight points spaced evenly around the circle, what is the sum of the areas of all the triangles that have all three vertices on the eight points, in square inches?\n",
+        "answer": 5,
+        "source": "MIT Invitational 23-24",
+        "number": 48
+    },
+    {
+        "question": "How many valid sequences of 5 chess moves (from each side), starting from the opening position, exist?\n",
+        "answer": 14,
+        "source": "MIT Invitational 23-24",
+        "number": 49
+    },
+    {
+        "question": "What fraction of the Sun\u2019s total power directly reaches the MIT campus at noon on a clear June day?\n",
+        "answer": -18,
+        "source": "MIT Invitational 23-24",
+        "number": 50
+    },
+    {
+        "question": "How many square parsecs of land do parking lots cover in the United States?\n",
+        "answer": -23,
+        "source": "MIT Invitational 23-24",
+        "number": 51
+    },
+    {
+        "question": "How many photons does a 1000-watt microwave emit in a minute?\n",
+        "answer": 28,
+        "source": "MIT Invitational 23-24",
+        "number": 52
+    },
+    {
+        "question": "What is the sum of the point values of all valid Scrabble words up to 15 letters?\n",
+        "answer": 6,
+        "source": "MIT Invitational 23-24",
+        "number": 53
+    },
+    {
+        "question": "What is the total angular momentum of the solar system in kg m2/s?\n",
+        "answer": 45,
+        "source": "MIT Invitational 23-24",
+        "number": 54
+    },
+    {
+        "question": "What is the current speed of the Voyager 1 space probe in astronomical units per year?\n",
+        "answer": 0,
+        "source": "MIT Invitational 23-24",
+        "number": 55
+    },
+    {
+        "question": "What is the area of the triangle formed by the 3 US states with the lowest record low temperatures in square meters?\n",
+        "answer": 12,
+        "source": "MIT Invitational 23-24",
+        "number": 56
+    },
+    {
         "question": "How many seconds would it take half a sample of uranium 238 to decay (assuming its isotope has a half-life of 5 billion years)?\n",
         "answer": 17,
         "source": "Northview Invitational 23-24",
