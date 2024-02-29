@@ -282,10 +282,10 @@ corrections = {
         "credit": "trainboi01"
     },
     "Camas Invitational 22-23, #15": {
-        "question": "Determine the number of barns [Barn = 1.00 * 10 -28 m2 ] covered by Washington state\u2019s apple orchards.",
-        "answer": "if you dont change it then the answer is technically 0 since 00*10^-28 is 0",
-        "explanation": "",
-        "credit": ""
+        "question": "",
+        "answer": "37",
+        "explanation": "did the original correcter misread the unit for a barn????",
+        "credit": "bibob"
     },
     "SSSS Fermi (randomsci) 22-23, #23": {
         "question": "",
@@ -385,9 +385,9 @@ corrections = {
     },
     "RobertYL, daily fermi questions day #33 [2018 Westlake Q47]": {
         "question": "",
-        "answer": "-21",
-        "explanation": "Diameter of a helium atom is 9.8*10^-11 meters and the diameter of the sun is 1.3927 * 10^9 meters.  Dividing this gives us 7.0366913*10^-20 which is -21 in fermi units.",
-        "credit": "BTHS Science Olympiad!!"
+        "answer": "-19",
+        "explanation": "7e-20 is definitely FA -19, not -21",
+        "credit": ""
     },
     "UChicago Invitational 22-23, #33": {
         "question": "",
@@ -397,9 +397,9 @@ corrections = {
     },
     "Rice Invitational 17-18, #10": {
         "question": "",
-        "answer": "-7",
-        "explanation": "calculate it yourself",
-        "credit": ""
+        "answer": "-6",
+        "explanation": "Rice tuition is about $28,605 for one semester, so the fraction that a nickel takes up is 0.05/28605 = 1.7e-6, so the answer is -6.",
+        "credit": "errorfunction"
     },
     "SOUP Invitational 22-23, #31": {
         "question": "",
@@ -420,10 +420,10 @@ corrections = {
         "credit": "BTHS SciOly"
     },
     "North Pocono Invitational 22-23, #15": {
-        "question": "",
-        "answer": "1",
-        "explanation": "There are 30 galaxies in our local group. The logarithm of 30 is approximately 1.477 which would be rounded down to one.",
-        "credit": ""
+        "question": "How many galaxies are in our local group.",
+        "answer": "",
+        "explanation": "This question is currently asking how many galaxies are in one galaxy, which is just 1, or 0 in fermi notation.",
+        "credit": "X"
     },
     "SSSs Fermi (luminosityfan) 17-18, #12": {
         "question": "",
@@ -492,9 +492,9 @@ corrections = {
         "credit": "Purple"
     },
     "Princeton Invitational 17-18, #46": {
-        "question": "",
+        "question": "What is the half-life of Carbon-14 in seconds? [Use SI Units / 2017 USD]",
         "answer": "",
-        "explanation": "Google says it's ~5700 years, which is fermi 4 (original answer fermi 11)",
+        "explanation": "",
         "credit": ""
     },
     "BirdSO In-Person Invitational 22-23, #1": {
@@ -528,9 +528,9 @@ corrections = {
         "credit": ""
     },
     "Captains Tryouts Carmel 17-18, #5": {
-        "question": "",
-        "answer": "6",
-        "explanation": "$5645, each $ has 100 pennies, so total is 5.645e3 * 1e2 which rounds up to an answer of 6",
+        "question": "How many pennies are in $5645",
+        "answer": "",
+        "explanation": "",
         "credit": ""
     },
     "SSSS Fermi (luminosityfan) 17-18, #20": {
@@ -661,9 +661,9 @@ corrections = {
     },
     "Rickards SO Invitational 22-23, #42": {
         "question": "",
-        "answer": "4",
-        "explanation": "5190 is not the fermi answer it is the normal answer",
-        "credit": "Paresh"
+        "answer": "5190",
+        "explanation": "Nah 5190 is right, its log1(54^3000)\u2014log(10^6), which is a fermi answer",
+        "credit": ""
     },
     "BirdSO Invitational 20-21, #17": {
         "question": "How many feathers equal the weight of the heaviest slug species?",
@@ -751,9 +751,9 @@ corrections = {
     },
     "RobertYL, daily fermi questions day #34 [2019 Captains Exchange: NCSSM Q15]": {
         "question": "",
-        "answer": "1",
-        "explanation": "30 pages rounds to 1???? either that or the question needs to be reworded",
-        "credit": "emptiespace"
+        "answer": "3",
+        "explanation": "Average of 20 kids per class * 30 pages per student = 600 pages which rounds to 3",
+        "credit": "AC"
     },
     "University of Michigan Invitational 17-18, #3": {
         "question": "",
@@ -775,9 +775,9 @@ corrections = {
     },
     "Ohio State Invitational 22-23, #8": {
         "question": "",
-        "answer": "11",
-        "explanation": "1 drop has the volume of 0.05ml, 1 olympic sized swimming pool contains 2.5e6 liters. 2.5e6/0.05e-3 gives 5e10 = 11",
-        "credit": ""
+        "answer": "7",
+        "explanation": "A drop of water has a volume of 0.05 mL, and we are adding one drop every second, so the total volume in an hour is 3600 s/hr * 0.05 mL/s = 180 mL = 0.18 L/hr. Olympic swimming pool has a volume of 2.5e6 L, so the time in hours it takes to fill up the swimming pool is (2.5e6 L) / (0.18 L/hr) = 1.39e7 hours, so the answer is 7 (basically, the original answer is correct: someone corrected the answer to 11, which is wrong because they had units of seconds instead of hours)",
+        "credit": "errorfunction"
     },
     "SSSS Fermi (Adi1008) 17-18, #37": {
         "question": "",
@@ -985,9 +985,9 @@ corrections = {
     },
     "Cornell Invitational 22-23, #4": {
         "question": "",
-        "answer": "151",
-        "explanation": "log 2 = 0.301 -> 0.301*500=150.5, which rounds up to 151",
-        "credit": "dc"
+        "answer": "150",
+        "explanation": "150.5 is 3 x 10^150 so it does not round up",
+        "credit": ""
     },
     "Rickards Invitational 23-24, #45": {
         "question": "",
@@ -996,10 +996,10 @@ corrections = {
         "credit": ""
     },
     "BirdSO Mini Invitational 21-22, #44": {
-        "question": "Assuming a Bluetooth 4 connection, how many Airpod earbuds would you need to cover the entire Earth?",
-        "answer": "18",
-        "explanation": "surface area of earth : 4pi r^2 : e1 * e7 * e7 m = e15 m^2 \n\ne3 buds / sq meter? \n\napprox e18",
-        "credit": "me"
+        "question": "",
+        "answer": "14",
+        "explanation": "earth is e15 sq m, about -1 air pods/sq m",
+        "credit": ""
     },
     "BirdSO Mini Invitational 21-22, #22": {
         "question": "",
@@ -1033,8 +1033,8 @@ corrections = {
     },
     "BirdSO Invitational 20-21, #40": {
         "question": "",
-        "answer": "-48",
-        "explanation": "(1/3)^100 is 1.9e-48",
+        "answer": "-18",
+        "explanation": "It says (1/3)^100 but it should be (2/3)^100",
         "credit": ""
     },
     "RobertYL, daily fermi questions day #77 [2019 Cornell Q28]": {
@@ -1096,6 +1096,222 @@ corrections = {
         "answer": "",
         "explanation": "the sun outputs 26 watts so for the answer to be 26 it would need to be small calories which can be ambiguous",
         "credit": ""
+    },
+    "University of Georgia Invitational 23-24, #17": {
+        "question": "",
+        "answer": "19",
+        "explanation": "4e12 / 4e-7 = e19",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #35 [2018 SOUP Q25]": {
+        "question": "",
+        "answer": "19",
+        "explanation": "The earth's circumference (\"arc length\") is 4e7 m, there are 1e12 picometers in a meter, so the arc length is 4e19 pm, leaving an answer of 19",
+        "credit": "errorfunction"
+    },
+    "University of Georgia Invitational 23-24, #21": {
+        "question": "If everyone in the world were to stand side-by-side (shoulder to shoulder with no gaps) to form a circle, what would be the diameter of the circle, in human hair widths?",
+        "answer": "",
+        "explanation": "ambiguous whether it's human hair lengths or widths",
+        "credit": ""
+    },
+    "Sahil Gandhi, WSO Regionals 22-23, #8": {
+        "question": "",
+        "answer": "23",
+        "explanation": "specific molar volume is 22.4 L (at standard temperature and pressure, which should be approximately true when the person stops inhaling), human lung capacity is about 6 L, so the number of molecules inhaled is (6 / 22.4) * 1 mol = 1.6e23 molecules",
+        "credit": "errorfunction"
+    },
+    "SOUP Invitational 22-23, #50": {
+        "question": "",
+        "answer": "9",
+        "explanation": "10-digit numbers are between 10^10 and 10^9. By the Prime Number Theorem, there are approximately 10^9 primes less than 10^10 and 10^9 / 9 less than 10^9 - therefore, the total number of 10-digit primes should be 8/9 * 10^9 which rounds up to 9.",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #15 [2018 Mesa-Wilson Q43]": {
+        "question": "",
+        "answer": "0",
+        "explanation": "In practical terms of electric power, one potato can produce approximately . 5 volts of energy. However, did you know that by boiling the potato, you can get it to produce 5 volts instead? For reference, this is about half of the energy of an average AA battery - google",
+        "credit": ""
+    },
+    "SSSs Fermi (luminosityfan) 17-18, #9": {
+        "question": "",
+        "answer": "-7",
+        "explanation": "20 m / (3 x 10^8 m/s) = 6.67 x 10^-8 s",
+        "credit": "errorfunction"
+    },
+    "Princeton Invitational 17-18, #47": {
+        "question": "What is 42!? [Use SI Units / 2017 USD]",
+        "answer": "",
+        "explanation": "Question text originally contained formatting error which showed the answer.",
+        "credit": "errorfunction"
+    },
+    "MIT Invitational 17-18, #34": {
+        "question": "",
+        "answer": "7",
+        "explanation": "How can the answer be greater than 7 if there are only 30 million seconds a year",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #44 [2018 SOUP Q4]": {
+        "question": "",
+        "answer": "23",
+        "explanation": "internet says that for the atmosphere, there are 10^23 molecules of gas. a room is likely about 15 m^3, but since the air is 1/5 oxygen, then the number of oxygen molecules should be 3 * 10^23",
+        "credit": "me"
+    },
+    "BirdSO Satellite Invitational 21-22, #14": {
+        "question": "",
+        "answer": "3",
+        "explanation": "86400/47 = 1838 = 1.8e3, so 3",
+        "credit": "the better bibob"
+    },
+    "BullSO Invitational 22-23, #36": {
+        "question": "",
+        "answer": "0",
+        "explanation": "all time high in 2023 of bitcoin was 45000 USD, each dollar bill is 0.1mm = 1e-4m thickness. 45000*1e-4m = 4.5m, 0.",
+        "credit": "the better bibob"
+    },
+    "BirdSO Satellite Invitational 21-22, #53": {
+        "question": "Express Coulomb\u2019s constant 8.99 \u00d7 10^9 kg m^3 /s^2 C^2 using the units (picogram)(smoot)^2 (miles)/ (Planck time)(femtosecond)(exacoulomb)(yottacoulomb)",
+        "answer": "",
+        "explanation": "the coulombs constant listed just isnt the constant lol",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #91 [2019 Cheyenne Mountain Q44]": {
+        "question": "",
+        "answer": "10",
+        "explanation": "There were 100 million Mongols at its height. This means that assuming a mongol can hoard 50 boards in their lifetime(a low estimate) 8+2 = 10.",
+        "credit": "X"
+    },
+    "SSSs Fermi (luminosityfan) 17-18, #13": {
+        "question": "",
+        "answer": "12",
+        "explanation": "489 gallons/year per car. 1.5e9 cars in world. Multiply to get 7.5e11 --> 12 is answer.",
+        "credit": ""
+    },
+    "SSSs Fermi (rafaelnadal) 17-18, #7": {
+        "question": "",
+        "answer": "6",
+        "explanation": "world record bench press is 635 kg -> 635,000 g -> 635,000 mL water. shouldn\u2019t that round up to 10^6 because it is greater than 500,000",
+        "credit": "quercus alba"
+    },
+    "Seven Lakes Invitational 17-18, #24": {
+        "question": "",
+        "answer": "27",
+        "explanation": "energy released is 2.5 kJ/mol butane, so 6e23 * 2.5e3 = 27",
+        "credit": ""
+    },
+    "Duke Invitational 22-23, #1": {
+        "question": "",
+        "answer": "17",
+        "explanation": "Actual distance to Sirius is 8.15*10^16 meters, so it should be 17.\n \n8.6 light years * 9.44 * 10^15 meters per light year reaches the same conclusion, so 17 is correct, not 16.",
+        "credit": ""
+    },
+    "Northview Invitational 23-24, #35": {
+        "question": "",
+        "answer": "-3",
+        "explanation": "The probability of two people having the same birthday is 1/365 which should be -3 but the answer provided is -2",
+        "credit": ""
+    },
+    "High Desert Mini Invitational 23-24, #6": {
+        "question": "How many gallons of ice cream are consumed in the United States each year?",
+        "answer": "",
+        "explanation": "",
+        "credit": "bibob"
+    },
+    "GullSO Invitational 23-24, #35": {
+        "question": "",
+        "answer": "20",
+        "explanation": "Wolfram Alpha. (Alternatively, 100log(phi) - 1/2log(5) = 20.89-0.35 = 20.52, which is a comfortable 20.)",
+        "credit": "bibob"
+    },
+    "RobertYL, daily fermi questions day #14 [2019 Captains Tryout: Seven Lakes Q6]": {
+        "question": "What is the half-life of Carbon-14 in seconds?",
+        "answer": "",
+        "explanation": "Question originally didn't give units",
+        "credit": ""
+    },
+    "Seven Lakes Invitational 18-19, #32": {
+        "question": "If every insect alive at this time played \u201cFlight of the Bumblebee\u201d on a tiny tuba, on repeat, how many notes could they play in a day?",
+        "answer": "",
+        "explanation": "Otherwise the answer is implying it is played once, not constantly over 24 hours.",
+        "credit": "X"
+    },
+    "Duke Invitational 22-23, #11": {
+        "question": "If we assume all of Steph\u2019s 3 pointers have come from the 3 point line how many times could we travel from the Earth to the Sun with the total distance the ball has traveled in these shots?",
+        "answer": "",
+        "explanation": "Unclear wording",
+        "credit": "X"
+    },
+    "Princeton Invitational 18-19, #9": {
+        "question": "How many pet rabbits are there in the United States [#]?",
+        "answer": "",
+        "explanation": "Changing misspelling",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #61 [2019 Captains Tryout: TJHSST Q25]": {
+        "question": "",
+        "answer": "6",
+        "explanation": "distance from LA to NY is 2000 miles, 25mpg means 80 gallons, 33kwh in each gallon and 3.6e6 joules in each kwh. 80*33*3.6e6 = about 9e9 joules. 4e3 joules in a kilocalorie so 9e9/4e3 = 2.25e6, so 6",
+        "credit": ""
+    },
+    "UT Austin Regionals 22-23, #17": {
+        "question": "What is the product of the past six math problems (11 - 16)? [UNSOLVABLE QUESTION]",
+        "answer": "",
+        "explanation": "Remove this question because there is no way to solve it.",
+        "credit": "X"
+    },
+    "Raisbeck Aviation Invitational 17-18, #30": {
+        "question": "",
+        "answer": "-13",
+        "explanation": "Speed of light is c = 3e8 m/s = 1.8e10 m/minute, 0.001 m / c = 5.56e-14 minutes, so the answer is -13",
+        "credit": "errorfunction"
+    },
+    "BirdSO Satellite Invitational 21-22, #27": {
+        "question": "",
+        "answer": "37",
+        "explanation": "The world population is about 8 billion, the average human mass is 62 kg = 6.2e4 g, 1g = 6.022e23 dalton, so the combined mass is 8e9 x 6.2e4 g x 6.022e23 dalton/g = 2.98 x 10^37 dalton, so the answer is 37",
+        "credit": "errorfunction"
+    },
+    "University of Georgia Invitational 18-19, #18": {
+        "question": "",
+        "answer": "6",
+        "explanation": "Football field is 160\u00d7360 ft., 57,600 sq ft or 5,350 sq meters. Baseball diameter is just under 3 inches, therefore you could fit at least 16 in a square foot. Previous answer of 4 assumes that you are fitting one tennis ball per square meter, which makes no sense.",
+        "credit": "yert"
+    },
+    "RobertYL, daily fermi questions day #25 [2018 Captains Exchange: Roslyn Q16]": {
+        "question": "",
+        "answer": "21",
+        "explanation": "bruh just google it how are people this incompetent",
+        "credit": "rama BULUSU"
+    },
+    "Camas Invitational 22-23, #23": {
+        "question": "",
+        "answer": "24",
+        "explanation": "Volume of the moon is 2e10 km3 - this should already suggest how wrong the answer is. This is 2e25 cm3, and using an estimate of a hersheys kiss volume being 10ish cm3 (although it hardly matters) it takes 10^24 kisses to make the moon by volume. If you do it by mass, the moon weighs 7e22 kg or 7e25 g, each kiss weighing according to the internet abt 5 g, in which case the answer should be 25. literally no idea how the answer could possibly be 10.",
+        "credit": "disc: cubicfrog"
+    },
+    "SOUP Invitational 22-23, #42": {
+        "question": "",
+        "answer": "1",
+        "explanation": "Usain Bolt's top speed (about 27.8 mph or 44.7 km/h).\nThe length of the equator (about 40,075 kilometers).\nIf we divide the length of the equator by Usain Bolt's top speed, we can estimate the number of hours it would take him to run it. Then, we can convert hours to days.\n\n40,075 km / 44.7 km/h = 896.75 hours\n\nSo, it would take Usain Bolt approximately 897 hours to run along the equator. To convert this to days, we divide by 24 hours per day:\n\n897 hours / 24 hours/day \u2248 37.38 days\n\nSo, it would take Usain Bolt around 37 days to run along the equator if he maintained his top speed.",
+        "credit": "quercus alba"
+    },
+    "GullSO Invitational 23-24, #31": {
+        "question": "The 1936 Berlin Olympics Stadium was later used as a bunker by Nazis during WWII. How many people could it hold?",
+        "answer": "",
+        "explanation": "",
+        "credit": ""
+    },
+    "UMass Amherst Invitational 22-23, #37": {
+        "question": "",
+        "answer": "6",
+        "explanation": "52 choose 5 idk how people suck this much ass at mathematics",
+        "credit": "rama"
+    },
+    "RobertYL, daily fermi questions day #33 [2019 Carmel Q20]": {
+        "question": "",
+        "answer": "19",
+        "explanation": "google it ur tweaking",
+        "credit": "ryan park"
     }
 }
 corrections_list = [
@@ -1305,5 +1521,57 @@ corrections_list = [
     "UT Austin Regionals 22-23, #12",
     "Clements Invitational 17-18, #2",
     "Northview Invitational 23-24, #34",
-    "RobertYL, daily fermi questions day #96 [2018 Monta Vista Tryouts Q15]"
+    "RobertYL, daily fermi questions day #96 [2018 Monta Vista Tryouts Q15]",
+    "Princeton Invitational 17-18, #46",
+    "Cornell Invitational 22-23, #4",
+    "Ohio State Invitational 22-23, #8",
+    "University of Georgia Invitational 23-24, #17",
+    "RobertYL, daily fermi questions day #35 [2018 SOUP Q25]",
+    "University of Georgia Invitational 23-24, #21",
+    "Sahil Gandhi, WSO Regionals 22-23, #8",
+    "Ohio State Invitational 22-23, #8",
+    "SOUP Invitational 22-23, #50",
+    "BirdSO Invitational 20-21, #40",
+    "North Pocono Invitational 22-23, #15",
+    "RobertYL, daily fermi questions day #15 [2018 Mesa-Wilson Q43]",
+    "SSSs Fermi (luminosityfan) 17-18, #9",
+    "Princeton Invitational 17-18, #47",
+    "Rice Invitational 17-18, #10",
+    "MIT Invitational 17-18, #34",
+    "RobertYL, daily fermi questions day #44 [2018 SOUP Q4]",
+    "BirdSO Satellite Invitational 21-22, #14",
+    "Captains Tryouts Carmel 17-18, #5",
+    "BirdSO Mini Invitational 21-22, #44",
+    "BullSO Invitational 22-23, #36",
+    "Camas Invitational 22-23, #15",
+    "BirdSO Satellite Invitational 21-22, #53",
+    "RobertYL, daily fermi questions day #91 [2019 Cheyenne Mountain Q44]",
+    "SSSs Fermi (luminosityfan) 17-18, #13",
+    "SSSs Fermi (rafaelnadal) 17-18, #7",
+    "Seven Lakes Invitational 17-18, #24",
+    "University of Georgia Invitational 23-24, #17",
+    "Duke Invitational 22-23, #1",
+    "Northview Invitational 23-24, #35",
+    "RobertYL, daily fermi questions day #34 [2019 Captains Exchange: NCSSM Q15]",
+    "High Desert Mini Invitational 23-24, #6",
+    "GullSO Invitational 23-24, #35",
+    "RobertYL, daily fermi questions day #14 [2019 Captains Tryout: Seven Lakes Q6]",
+    "Seven Lakes Invitational 18-19, #32",
+    "North Pocono Invitational 22-23, #15",
+    "Duke Invitational 22-23, #11",
+    "Princeton Invitational 18-19, #9",
+    "RobertYL, daily fermi questions day #61 [2019 Captains Tryout: TJHSST Q25]",
+    "UT Austin Regionals 22-23, #17",
+    "Raisbeck Aviation Invitational 17-18, #30",
+    "BirdSO Satellite Invitational 21-22, #27",
+    "University of Georgia Invitational 18-19, #18",
+    "RobertYL, daily fermi questions day #25 [2018 Captains Exchange: Roslyn Q16]",
+    "Camas Invitational 22-23, #23",
+    "SOUP Invitational 22-23, #42",
+    "GullSO Invitational 23-24, #31",
+    "UMass Amherst Invitational 22-23, #37",
+    "Captains Tryouts Carmel 17-18, #5",
+    "RobertYL, daily fermi questions day #33 [2018 Westlake Q47]",
+    "Rickards SO Invitational 22-23, #42",
+    "RobertYL, daily fermi questions day #33 [2019 Carmel Q20]"
 ]

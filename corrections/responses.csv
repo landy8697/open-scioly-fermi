@@ -269,3 +269,72 @@ carbon atom 1 angstrom = e-10m
 14 m ?",evanescent
 2/13/2024 10:57:17,"Northview Invitational 23-24, #34        ",,3,1 atm ~= 760mmHg which is 3,
 2/13/2024 11:02:50,"RobertYL, daily fermi questions day #96 [2018 Monta Vista Tryouts Q15]        ",How many small calories does the sun output per second?,,the sun outputs 26 watts so for the answer to be 26 it would need to be small calories which can be ambiguous,
+2/14/2024 14:49:54,"Princeton Invitational 17-18, #46        ",What is the half-life of Carbon-14 in seconds? [Use SI Units / 2017 USD],,,
+2/15/2024 9:08:09,"Cornell Invitational 22-23, #4        ",,150,150.5 is 3 x 10^150 so it does not round up,
+2/15/2024 10:03:21,"Ohio State Invitational 22-23, #8        ",,7,"each drop is 0.05mL, and there are 2.5e6 liters in an olympic pool. So, there are 2.5e6/5e-5 = 5e10 drops in the pool so it would take 5e10 seconds. Converting to hours, 5e10/3.6e3 = 1.4e7 so 7.",
+2/15/2024 11:22:57,"University of Georgia Invitational 23-24, #17        ",,19,"Wavelength of violet is about ~400 nm = 4e-7 m, sun to neptune distane is ~30 AU = 4.5e12 m, dividing these numbers, we get 1.125e19, so the answer is 19",errorfunction
+2/15/2024 11:35:59,"RobertYL, daily fermi questions day #35 [2018 SOUP Q25]        ",,19,"The earth's circumference (""arc length"") is 4e7 m, there are 1e12 picometers in a meter, so the arc length is 4e19 pm, leaving an answer of 19",errorfunction
+2/16/2024 10:50:24,"University of Georgia Invitational 23-24, #21        ","If everyone in the world were to stand side-by-side (shoulder to shoulder with no gaps) to form a circle, what would be the diameter of the circle, in human hair widths?",,ambiguous whether it's human hair lengths or widths,
+2/16/2024 11:10:51,"Sahil Gandhi, WSO Regionals 22-23, #8        ",,23,"specific molar volume is 22.4 L (at standard temperature and pressure, which should be approximately true when the person stops inhaling), human lung capacity is about 6 L, so the number of molecules inhaled is (6 / 22.4) * 1 mol = 1.6e23 molecules",errorfunction
+2/16/2024 11:21:53,"Ohio State Invitational 22-23, #8        ",,7,"A drop of water has a volume of 0.05 mL, and we are adding one drop every second, so the total volume in an hour is 3600 s/hr * 0.05 mL/s = 180 mL = 0.18 L/hr. Olympic swimming pool has a volume of 2.5e6 L, so the time in hours it takes to fill up the swimming pool is (2.5e6 L) / (0.18 L/hr) = 1.39e7 hours, so the answer is 7 (basically, the original answer is correct: someone corrected the answer to 11, which is wrong because they had units of seconds instead of hours)",errorfunction
+2/16/2024 16:32:24,"SOUP Invitational 22-23, #50        ",,9,"10-digit numbers are between 10^10 and 10^9. By the Prime Number Theorem, there are approximately 10^9 primes less than 10^10 and 10^9 / 9 less than 10^9 - therefore, the total number of 10-digit primes should be 8/9 * 10^9 which rounds up to 9.",
+2/16/2024 20:05:14,"BirdSO Invitational 20-21, #40        ",,-18,It says (1/3)^100 but it should be (2/3)^100,
+2/16/2024 20:07:46,"North Pocono Invitational 22-23, #15        ",,0,use ur brain,
+2/16/2024 21:52:29,"RobertYL, daily fermi questions day #15 [2018 Mesa-Wilson Q43]        ",,0,"In practical terms of electric power, one potato can produce approximately . 5 volts of energy. However, did you know that by boiling the potato, you can get it to produce 5 volts instead? For reference, this is about half of the energy of an average AA battery - google",
+2/20/2024 11:34:06,"SSSs Fermi (luminosityfan) 17-18, #9        ",,-7,20 m / (3 x 10^8 m/s) = 6.67 x 10^-8 s,errorfunction
+2/20/2024 11:37:34,"Princeton Invitational 17-18, #47        ",What is 42!? [Use SI Units / 2017 USD],,Question text originally contained formatting error which showed the answer. ,errorfunction
+2/20/2024 11:49:34,"Rice Invitational 17-18, #10        ",,-6,"Rice tuition is about $28,605 for one semester, so the fraction that a nickel takes up is 0.05/28605 = 1.7e-6, so the answer is -6. ",errorfunction
+2/20/2024 17:45:27,"MIT Invitational 17-18, #34        ",,7,How can the answer be greater than 7 if there are only 30 million seconds a year,
+2/20/2024 22:38:12,"RobertYL, daily fermi questions day #44 [2018 SOUP Q4]        ",,23,"internet says that for the atmosphere, there are 10^23 molecules of gas. a room is likely about 15 m^3, but since the air is 1/5 oxygen, then the number of oxygen molecules should be 3 * 10^23",me
+2/21/2024 9:51:33,"BirdSO Satellite Invitational 21-22, #14        ",,3,"86400/47 = 1838 = 1.8e3, so 3",the better bibob
+2/21/2024 14:09:47,"Captains Tryouts Carmel 17-18, #5        ","How many pennies are in $5,645?",,,
+2/21/2024 18:43:21,"BirdSO Mini Invitational 21-22, #44        ",,14,"earth is e15 sq m, about -1 air pods/sq m",
+2/22/2024 9:03:36,"BullSO Invitational 22-23, #36        ",,0,"all time high in 2023 of bitcoin was 45000 USD, each dollar bill is 0.1mm = 1e-4m thickness. 45000*1e-4m = 4.5m, 0.",the better bibob
+2/22/2024 9:55:24,"Camas Invitational 22-23, #15        ",,37,did the original correcter misread the unit for a barn????,bibob
+2/22/2024 11:23:17,"BirdSO Satellite Invitational 21-22, #53        ",Express Coulomb’s constant 8.99 × 10^9 kg m^3 /s^2 C^2 using the units (picogram)(smoot)^2 (miles)/ (Planck time)(femtosecond)(exacoulomb)(yottacoulomb),,the coulombs constant listed just isnt the constant lol,
+,,,,,
+2/23/2024 10:12:58,"RobertYL, daily fermi questions day #91 [2019 Cheyenne Mountain Q44]        ",,10,There were 100 million Mongols at its height. This means that assuming a mongol can hoard 50 boards in their lifetime(a low estimate) 8+2 = 10. ,X
+2/23/2024 15:53:46,"SSSs Fermi (luminosityfan) 17-18, #13        ",,12,489 gallons/year per car. 1.5e9 cars in world. Multiply to get 7.5e11 --> 12 is answer.,
+2/23/2024 16:34:59,"SSSs Fermi (rafaelnadal) 17-18, #7        ",,6,"world record bench press is 635 kg -> 635,000 g -> 635,000 mL water. shouldn’t that round up to 10^6 because it is greater than 500,000",quercus alba
+2/23/2024 22:10:09,"Seven Lakes Invitational 17-18, #24        ",,27,"energy released is 2.5 kJ/mol butane, so 6e23 * 2.5e3 = 27",
+2/23/2024 22:16:36,"University of Georgia Invitational 23-24, #17        ",,19,4e12 / 4e-7 = e19,
+2/25/2024 0:09:33,"Duke Invitational 22-23, #1        ",,17,"Actual distance to Sirius is 8.15*10^16 meters, so it should be 17.
+ 
+8.6 light years * 9.44 * 10^15 meters per light year reaches the same conclusion, so 17 is correct, not 16.",
+2/25/2024 13:00:38,"Northview Invitational 23-24, #35        ",,-3,The probability of two people having the same birthday is 1/365 which should be -3 but the answer provided is -2,
+2/25/2024 14:34:37,"RobertYL, daily fermi questions day #34 [2019 Captains Exchange: NCSSM Q15]        ",,3,Average of 20 kids per class * 30 pages per student = 600 pages which rounds to 3,AC
+2/26/2024 8:34:26,"High Desert Mini Invitational 23-24, #6        ",How many gallons of ice cream are consumed in the United States each year?,,,bibob
+2/26/2024 8:45:03,"GullSO Invitational 23-24, #35        ",,20,"Wolfram Alpha. (Alternatively, 100log(phi) - 1/2log(5) = 20.89-0.35 = 20.52, which is a comfortable 20.)",bibob
+2/26/2024 11:29:16,"RobertYL, daily fermi questions day #14 [2019 Captains Tryout: Seven Lakes Q6]        ",What is the half-life of Carbon-14 in seconds?,,Question originally didn't give units,
+2/27/2024 6:54:01,"Seven Lakes Invitational 18-19, #32        ","If every insect alive at this time played “Flight of the Bumblebee” on a tiny tuba, on repeat, how many notes could they play in a day?
+
+",,"Otherwise the answer is implying it is played once, not constantly over 24 hours.",X
+2/27/2024 7:01:36,"North Pocono Invitational 22-23, #15        ",How many galaxies are in our local group.,,"This question is currently asking how many galaxies are in one galaxy, which is just 1, or 0 in fermi notation. ",X
+2/27/2024 7:09:14,"Duke Invitational 22-23, #11        ","If we assume all of Steph’s 3 pointers have come from the 3 point line how many times could we travel from the Earth to the Sun with the total distance the ball has traveled in these shots?
+
+",,Unclear wording,X
+2/27/2024 8:45:53,"Princeton Invitational 18-19, #9        ",How many pet rabbits are there in the United States [#]?,,Changing misspelling,
+2/27/2024 8:53:16,"RobertYL, daily fermi questions day #61 [2019 Captains Tryout: TJHSST Q25]        ",,6,"distance from LA to NY is 2000 miles, 25mpg means 80 gallons, 33kwh in each gallon and 3.6e6 joules in each kwh. 80*33*3.6e6 = about 9e9 joules. 4e3 joules in a kilocalorie so 9e9/4e3 = 2.25e6, so 6",
+2/27/2024 8:53:19,"UT Austin Regionals 22-23, #17        ",What is the product of the past six math problems (11 - 16)? [UNSOLVABLE QUESTION],,Remove this question because there is no way to solve it.,X
+2/27/2024 11:41:41,"Raisbeck Aviation Invitational 17-18, #30        ",,-13,"Speed of light is c = 3e8 m/s = 1.8e10 m/minute, 0.001 m / c = 5.56e-14 minutes, so the answer is -13",errorfunction
+2/27/2024 11:46:29,"BirdSO Satellite Invitational 21-22, #27        ",,37,"The world population is about 8 billion, the average human mass is 62 kg = 6.2e4 g, 1g = 6.022e23 dalton, so the combined mass is 8e9 x 6.2e4 g x 6.022e23 dalton/g = 2.98 x 10^37 dalton, so the answer is 37",errorfunction
+2/27/2024 12:32:58,"University of Georgia Invitational 18-19, #18        ",,6,"Football field is 160×360 ft., 57,600 sq ft or 5,350 sq meters. Baseball diameter is just under 3 inches, therefore you could fit at least 16 in a square foot. Previous answer of 4 assumes that you are fitting one tennis ball per square meter, which makes no sense. ",yert
+2/28/2024 13:49:21,"RobertYL, daily fermi questions day #25 [2018 Captains Exchange: Roslyn Q16]        ",,21,bruh just google it how are people this incompetent,rama BULUSU
+2/28/2024 15:50:06,"Camas Invitational 22-23, #23        ",,24,"Volume of the moon is 2e10 km3 - this should already suggest how wrong the answer is. This is 2e25 cm3, and using an estimate of a hersheys kiss volume being 10ish cm3 (although it hardly matters) it takes 10^24 kisses to make the moon by volume. If you do it by mass, the moon weighs 7e22 kg or 7e25 g, each kiss weighing according to the internet abt 5 g, in which case the answer should be 25. literally no idea how the answer could possibly be 10. ",disc: cubicfrog
+2/28/2024 15:51:29,"SOUP Invitational 22-23, #42        ",,1,"Usain Bolt's top speed (about 27.8 mph or 44.7 km/h).
+The length of the equator (about 40,075 kilometers).
+If we divide the length of the equator by Usain Bolt's top speed, we can estimate the number of hours it would take him to run it. Then, we can convert hours to days.
+
+40,075 km / 44.7 km/h = 896.75 hours
+
+So, it would take Usain Bolt approximately 897 hours to run along the equator. To convert this to days, we divide by 24 hours per day:
+
+897 hours / 24 hours/day ≈ 37.38 days
+
+So, it would take Usain Bolt around 37 days to run along the equator if he maintained his top speed.",quercus alba
+2/29/2024 7:25:02,"GullSO Invitational 23-24, #31        ",The 1936 Berlin Olympics Stadium was later used as a bunker by Nazis during WWII. How many people could it hold?,,,
+2/29/2024 8:24:04,"UMass Amherst Invitational 22-23, #37        ",,6,52 choose 5 idk how people suck this much ass at mathematics,rama 
+2/29/2024 8:43:21,"Captains Tryouts Carmel 17-18, #5        ",How many pennies are in $5645,,,
+2/29/2024 11:10:16,"RobertYL, daily fermi questions day #33 [2018 Westlake Q47]        ",,-19,"7e-20 is definitely FA -19, not -21",
+2/29/2024 11:59:56,"Rickards SO Invitational 22-23, #42        ",,5190,"Nah 5190 is right, its log1(54^3000)—log(10^6), which is a fermi answer",
+2/29/2024 14:15:40,"RobertYL, daily fermi questions day #33 [2019 Carmel Q20]        ",,19,google it ur tweaking,ryan park

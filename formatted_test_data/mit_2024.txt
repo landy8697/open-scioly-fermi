@@ -1,0 +1,114 @@
+MIT Invitational 23-24
+56
+How many acres does the Mississippi River drainage basin, the land area where water flows into the Mississippi, cover?
+9
+What is the yearly revenue of the Hair Salon industry in the United States in dollars?
+11
+When written in Fahrenheit, what is the sum of the temperatures in Cambridge, Massachusetts, at 8 a.m. every day of the last year?
+4
+How many words of new law have been enacted by Congress in the last 50 years?
+8
+How many words are spoken in the musical Hamilton?
+4
+How many medals have ever been handed out at MIT Scioly invitationals (not including this one)?
+3
+How many pounds does the Great Pyramid of Giza weigh?
+10
+How many living vertebrate species have been identified?
+5
+How many ice cream scoops are required to equal the volume of the Earth?
+25
+How many tennis matches have been played at tennis Grand Slams in the past 20 years?
+5
+How many combined newtons of force does the Moon exert on the two event supervisors?
+-3
+How many tablespoons of blood travel through the heart in an average person’s lifetime?
+10
+How many light years has Michael Phelps swam over all the Olympic races he has competed in?
+-12
+If every cranberry plant on every cranberry farm in Massachusetts suddenly produced fruit, how many pounds of cranberries would be produced?
+8
+How many people will be born during this test?
+4
+How many rotations would the wheels on a school bus complete on a road trip from Maine to California?
+6
+What is the value of the expression 5 * 15 * 25 * ... * 105?
+18
+How many decades would it take the Koenigsegg Jesko Absolut, the fastest car in the world, to travel from Earth to Saturn?
+1
+How many queries does ChatGPT receive per day?
+7
+How many seconds would it take to listen to every Joe Rogan podcast episode?
+7
+How many more kilograms of carbon dioxide are absorbed than emitted by trees every day?
+10
+How many nucleotide changes have occurred in the human genome since the divergence from our last common ancestor with chimpanzees?
+7
+If all the ice on Antarctica melted, how many angstroms would the global sea level rise by?
+12
+On average, how many emails are sent every second?
+6
+How many meters of trails does Yosemite National Park have?
+6
+How many tons of two dollar bills are in circulation today?
+3
+How many of IBM’s new Quantum Heron processors are needed in order to have enough physical qubits to break a Bitcoin’s encryption in a day?
+5
+What is the annual cost of MIT’s research expenditures, in dollars?
+9
+How many different types of antigen binding sites can a human body potentially produce?
+18
+How many water molecules are used in the flush of a standard toilet in the United States?
+26
+In the original US Constitution, what was the average number of words written per square centimeter of paper used?
+-1
+What is the current average international bandwidth usage, in terabits per second?
+3
+How many barrels of fuel were used by commercial airlines in 2022?
+9
+How much money, in nickels, did Elon Musk’s net worth decrease from the time when he challenged Zuckeberg to a cage ring fight to the time when the fight was initially scheduled?
+11
+What is the value of all the gold in a ton of iPhones, in dollars?
+4
+If each element makes a 8 centimeter by 3 centimeter rectangle on the periodic table, what is the area of the triangle formed by the 3 elements with the lowest Scrabble score, in square light years?
+-34
+How many particles of SARS-CoV-2 does it take to circle the circumference of the moon?
+14
+How many cubic centimeters of uranium are does it take for a nuclear reactor to power a home for a year?
+1
+How many United States passports have been issued over the last 50 years?
+8
+What is the product of the number of phonemes (units of sound that distinguish words from each other) in English and Spanish?
+3
+How many ounces of salt are dissolved in the Atlantic Ocean?
+20
+What is the total horizontal distance traveled by Stephen Curry’s 3-pointers throughout his NBA career in centimeters?
+6
+How many electrons are transferred by a typical lightning strike?
+20
+How many kilocalories of energy are produced by residential solar panels in the United States every year?
+13
+As of Minecraft update 20, what is the maximum number of blocks that can be generated in the overworld?
+18
+How many bits would it take to stream all of Taylor Swift’s studio albums on Spotify at the highest audio quality?
+10
+How many atoms are in the largest human chromosome?
+10
+On a circle with radius 1 meter and eight points spaced evenly around the circle, what is the sum of the areas of all the triangles that have all three vertices on the eight points, in square inches?
+5
+How many valid sequences of 5 chess moves (from each side), starting from the opening position, exist?
+14
+What fraction of the Sun’s total power directly reaches the MIT campus at noon on a clear June day?
+-18
+How many square parsecs of land do parking lots cover in the United States?
+-23
+How many photons does a 1000-watt microwave emit in a minute?
+28
+What is the sum of the point values of all valid Scrabble words up to 15 letters?
+6
+What is the total angular momentum of the solar system in kg m2/s?
+45
+What is the current speed of the Voyager 1 space probe in astronomical units per year?
+0
+What is the area of the triangle formed by the 3 US states with the lowest record low temperatures in square meters?
+12
