@@ -978,7 +978,7 @@ data = [
         "number": 48
     },
     {
-        "question": "In g/m3, what is the density of water in a cumulus cloud? In light-seconds, what is the average distance between the stars in Orion\u2019s belt? How many electrons flow through a 1 A lamp in 1 second? In Newtons, what is the force of the Moon on the Earth? In Joules, how much energy would it take ChatGPT to provide an answer to this question? What mass of graphene would it take to cover USC in grams? Assume all objects in the universe besides you and Pluto disappear. In m/s2 , how fast would you accelerate toward Pluto? How many D-T fusion events would it take to cook a chicken? On a dark, moonless night, how many stars can you see at night? How many meters does Pluto traverse in a month? In m/s, what is the escape velocity of the Milky Way? Using a standard 1000W microwave, how long would it take to melt Antarctica, in seconds? Assume (unrealistically) that all of it starts at 0 degrees C. If we made a line of foot-long Subway sandwiches from USC to MIT, how many sandwiches would it take? If you uniformly pick a random place on Earth and throw a rock straight up (with, say, infinite velocity somehow), what is the probability you will hit the moon? How many tennis balls, placed end-to-end, would it take to reach the Sun from Earth? How many cubic kilometers of crust is generated in the average time frame of a geomagnetic reversal? In kg, what is the mass of silica in the mantle? In g/m3 , what is the density of water in a cumulus cloud?\n",
+        "question": "In g/m3, what is the density of water in a cumulus cloud?\n",
         "answer": 0,
         "source": "BirdSO In-Person Invitational 23-24",
         "number": 49
@@ -13108,6 +13108,318 @@ data = [
         "answer": 8,
         "source": "SOUP Invitational 22-23",
         "number": 50
+    },
+    {
+        "question": "How many cans of Campbell\u2019s chicken noodle soup will it take to fill up an Olympic-sized swimming pool?\n",
+        "answer": 7,
+        "source": "SOUP Invitational 23-24",
+        "number": 1
+    },
+    {
+        "question": "Consider the label of standard soup can. How many labels laid in a line would it take to circumnavigate the equator? (Assuming the labels float on top of the oceans)\n",
+        "answer": 8,
+        "source": "SOUP Invitational 23-24",
+        "number": 2
+    },
+    {
+        "question": "Soup cans are made of tin-coated steel. How many cans would need to be melted to form a 1-by-1-by-1 meter solid cube?\n",
+        "answer": 4,
+        "source": "SOUP Invitational 23-24",
+        "number": 3
+    },
+    {
+        "question": "Chinese bird drop soup is made from a species called the edible-nest swiftlet (Aerodramus fuciphagus). How many of these birds are there in Asia?\n",
+        "answer": 4,
+        "source": "SOUP Invitational 23-24",
+        "number": 4
+    },
+    {
+        "question": "How much sodium (in mg) is in a 24-pack of Maruchan chicken ramen?\n",
+        "answer": 3,
+        "source": "SOUP Invitational 23-24",
+        "number": 5
+    },
+    {
+        "question": "How many units (cans) of soup are sold each year in the United States?\n",
+        "answer": 12,
+        "source": "SOUP Invitational 23-24",
+        "number": 6
+    },
+    {
+        "question": "Consider placing soup cans upright in a hexagonal region from a bird\u2019s eye view. How many can fit in a regular hexagonal region with side lengths of 1 mile?\n",
+        "answer": 9,
+        "source": "SOUP Invitational 23-24",
+        "number": 7
+    },
+    {
+        "question": "How many milliliters of water would need to be boiled to cook enough ramen cups to feed each and every college student in the U.S.? Each ramen cup should be filled to the brim with water and each college student eats 1 package.\n",
+        "answer": 11,
+        "source": "SOUP Invitational 23-24",
+        "number": 8
+    },
+    {
+        "question": "How much gross profit, in USD, has the Campbell\u2019s soup company made since 2000?\n",
+        "answer": 10,
+        "source": "SOUP Invitational 23-24",
+        "number": 9
+    },
+    {
+        "question": "Consider throwing a soup can using a cannon with an angle of elevation of 30 degrees. Considering the earth as flat, at what velocity (in meters per second) is it necessary to launch the soup from New York City to Philadelphia?\n",
+        "answer": 3,
+        "source": "SOUP Invitational 23-24",
+        "number": 10
+    },
+    {
+        "question": "Eric has a collection of 2023 different types of soup. If he tries a different type of soup each day uniformly at random, how many days would you expect it to take for him to finish trying every type of soup?\n",
+        "answer": 4,
+        "source": "SOUP Invitational 23-24",
+        "number": 11
+    },
+    {
+        "question": "You travel in a can-shaped spaceship from earth to Soup Galaxy, which is 7 light years away from earth. You move at approximately 40 percent of the speed of light. Upon arrival, what will the difference in time, in hours, between your clock and a clock back on earth?\n",
+        "answer": 3,
+        "source": "SOUP Invitational 23-24",
+        "number": 12
+    },
+    {
+        "question": "How many cans of soup do you need to stack to reach the moon?\n",
+        "answer": 9,
+        "source": "SOUP Invitational 23-24",
+        "number": 13
+    },
+    {
+        "question": "A soup can finishes a marathon by rolling straight ahead. How many rotations has the soup can completed?\n",
+        "answer": 7,
+        "source": "SOUP Invitational 23-24",
+        "number": 14
+    },
+    {
+        "question": "A ladle is a wonderful device for serving soup. Suppose you wanted to serve the ocean; how many scoops would it take to empty the ocean?\n",
+        "answer": 22,
+        "source": "SOUP Invitational 23-24",
+        "number": 15
+    },
+    {
+        "question": "Andrew, a notable soup scholar, decides to write a definitive guide to the history of soup. He ends up with a text with about as many words as the Bible. To save on printing costs, he prints in Times News Roman, with size 1 font and double spaced. How many pages does he need to print for one copy of his book?\n",
+        "answer": 1,
+        "source": "SOUP Invitational 23-24",
+        "number": 16
+    },
+    {
+        "question": "An empty can of soup is filled with ice and placed outside on a table. Assuming uniform, constant heat from the summer heat, how many seconds would it take for the cylindrical block of ice to completely dissolve.\n",
+        "answer": 2,
+        "source": "SOUP Invitational 23-24",
+        "number": 17
+    },
+    {
+        "question": "Penn has instituted a special secret award called the soup scholarship in Each year, 5 percent of the incoming freshmen class is selected to be a recipient. How many soup scholarships have been awarded up until the end of 2024?\n",
+        "answer": 3,
+        "source": "SOUP Invitational 23-24",
+        "number": 18
+    },
+    {
+        "question": "There are many fish, pork, chicken, and beef-based soups leading to so many unique flavours! If we distinguish the animals up to species, how many soup flavours can we generate if each flavour is a combination of two species?\n",
+        "answer": 15,
+        "source": "SOUP Invitational 23-24",
+        "number": 19
+    },
+    {
+        "question": "The average U.S. frieght train is 6,500 feet long. How many cans of soup can be packed into this frieght train?\n",
+        "answer": 6,
+        "source": "SOUP Invitational 23-24",
+        "number": 20
+    },
+    {
+        "question": "Eric consumes one can of soup each time he cuts his hair. Over the course of 100 lifetimes, how many cans will he consume?\n",
+        "answer": 4,
+        "source": "SOUP Invitational 23-24",
+        "number": 21
+    },
+    {
+        "question": "Soup is chemistry. How many compounds are found on pubchem (a chemical information database)?\n",
+        "answer": 6,
+        "source": "SOUP Invitational 23-24",
+        "number": 22
+    },
+    {
+        "question": "Soup is served in cafeterias across Penn\u2019s campus every day. How much money is spent on the Dining at Penn department each year?\n",
+        "answer": 7,
+        "source": "SOUP Invitational 23-24",
+        "number": 23
+    },
+    {
+        "question": "If I harnessed the energy consumed when every Google employee googles \u201cgoogle\u201d simultaneously, how long could I power a standard hair dryer?\n",
+        "answer": 1,
+        "source": "SOUP Invitational 23-24",
+        "number": 24
+    },
+    {
+        "question": "If the Earth, by mass, was comprised entirely of solid silver, what would the acceleration due to gravity be, in m/s^2 ?\n",
+        "answer": 1,
+        "source": "SOUP Invitational 23-24",
+        "number": 25
+    },
+    {
+        "question": "If I melted the earth down (from Question above) and sold it, how much money, in Japanese Yen, could I make?\n",
+        "answer": 30,
+        "source": "SOUP Invitational 23-24",
+        "number": 26
+    },
+    {
+        "question": "How many packages of party sized Lay\u2019s Sour Cream and Onion Potato Chips would I need to consume in order to equal the amount of Calories burned by a 200 lb man during an ironman triathlon?\n",
+        "answer": 0,
+        "source": "SOUP Invitational 23-24",
+        "number": 27
+    },
+    {
+        "question": "If, for every time someone streamed \u201cCruel Summer\u201d by Taylor Swift on Spotify, Taylor Swift adds an extra floor to the Empire State Building, how tall would the Empire State Building be, in meters?\n",
+        "answer": 10,
+        "source": "SOUP Invitational 23-24",
+        "number": 28
+    },
+    {
+        "question": "If I randomly drop a pebble over the United States, what is the probability that my pebble hits a Tesla?\n",
+        "answer": -6,
+        "source": "SOUP Invitational 23-24",
+        "number": 29
+    },
+    {
+        "question": "How many fortnights would it take for me to run a marathon, assuming that I run at a pace of 5 smoots/shake?\n",
+        "answer": -10,
+        "source": "SOUP Invitational 23-24",
+        "number": 30
+    },
+    {
+        "question": "What is the minimum number of cans of SphagettiOs alphabet soup would I need to reconstruct the book Harry Potter and the Sorcerer\u2019s Stone?\n",
+        "answer": 3,
+        "source": "SOUP Invitational 23-24",
+        "number": 31
+    },
+    {
+        "question": "How heavy, in kg, would the newest Macbook M2 Pro be if I replaced every single transistor with a can of Campbell\u2019s Chicken Soup?\n",
+        "answer": 9,
+        "source": "SOUP Invitational 23-24",
+        "number": 32
+    },
+    {
+        "question": "What is the 200th fibonacci number?\n",
+        "answer": 41,
+        "source": "SOUP Invitational 23-24",
+        "number": 33
+    },
+    {
+        "question": "How many digits does 13123456789 have?\n",
+        "answer": 8,
+        "source": "SOUP Invitational 23-24",
+        "number": 34
+    },
+    {
+        "question": "How many primes are there less than 10000?\n",
+        "answer": 2,
+        "source": "SOUP Invitational 23-24",
+        "number": 35
+    },
+    {
+        "question": "How many gas stations are there in the US?\n",
+        "answer": 5,
+        "source": "SOUP Invitational 23-24",
+        "number": 36
+    },
+    {
+        "question": "If the sun and earth both double in size, how long will it take for the earth to go around the sun?\n",
+        "answer": 0,
+        "source": "SOUP Invitational 23-24",
+        "number": 37
+    },
+    {
+        "question": "Suppose on the day Jesus was born I got a dollar. Exactly one year later, I got 2 dollars. Every year thereafter I receive twice as much as the year before. I am immortal and quite a hoarder so I don\u2019t spend any money. How much do I have in 2023?\n",
+        "answer": 609,
+        "source": "SOUP Invitational 23-24",
+        "number": 38
+    },
+    {
+        "question": "Eric claims that he doesn\u2019t need any meteorology to predict the weather. Darren challenges him with the following game. Darren starts by paying Eric 10^10 dollars, and Eric is to make make daily predictions about whether or not it will rain the following day. Eric is to do this for an entire year, after which Darren will calculate the difference between how many times it rained and how many times Eric said it would rain. We call this difference x, and then Eric must pay Darren x^10 dollars. If Eric plays optimally, what is the maximum amount he can guarantee that he earns (or if he loses money - what is the minimum amount he can lose) at the conclusion of the game?\n",
+        "answer": 10,
+        "source": "SOUP Invitational 23-24",
+        "number": 39
+    },
+    {
+        "question": "If the world was scaled down so that the Earth was the size of a standard soccer ball, what would be the volume of Jupiter in liters?\n",
+        "answer": 5,
+        "source": "SOUP Invitational 23-24",
+        "number": 40
+    },
+    {
+        "question": "If every person in Madagascar simultaneously ate a bagel, how much heavier, in grams, would Madagascar\u2019s population be?\n",
+        "answer": 9,
+        "source": "SOUP Invitational 23-24",
+        "number": 41
+    },
+    {
+        "question": "What is the combined weight, in kg, of every elephant in the world?\n",
+        "answer": 8,
+        "source": "SOUP Invitational 23-24",
+        "number": 42
+    },
+    {
+        "question": "Suppose a clock tells the right time exactly 100 times a day. If this clock is used to time an olympic 100m sprint, approximately how fast, in seconds, will the runners be?\n",
+        "answer": -1,
+        "source": "SOUP Invitational 23-24",
+        "number": 43
+    },
+    {
+        "question": "In Newtons, how many flicks worth force will it take to break someone\u2019s arm?\n",
+        "answer": 1,
+        "source": "SOUP Invitational 23-24",
+        "number": 44
+    },
+    {
+        "question": "Suppose that all the DNA from each cell in a human was stretched out and placed in a single row. How many gallons of gas would it take a 2023 Toyota Prius to drive the distance equal to all of that stretched out DNA?\n",
+        "answer": 8,
+        "source": "SOUP Invitational 23-24",
+        "number": 45
+    },
+    {
+        "question": "Niagara falls is an absolutely iconic waterfall. That being said, what is the volumetric flow rate of Niagara Falls in Sverdrups during high season?\n",
+        "answer": -3,
+        "source": "SOUP Invitational 23-24",
+        "number": 46
+    },
+    {
+        "question": "How many hydrogen atoms are contained within the water in Lake Superior?\n",
+        "answer": 38,
+        "source": "SOUP Invitational 23-24",
+        "number": 47
+    },
+    {
+        "question": "How long would it take, in days, for me to drain all of the Oceans on Earth if I solely drank the recommended amount of water each day from the oceans?\n",
+        "answer": 20,
+        "source": "SOUP Invitational 23-24",
+        "number": 48
+    },
+    {
+        "question": "What is the maximum acceptable latency (delay) for international calls as spec- ified by the International Telecoms Union, in quectoseconds?\n",
+        "answer": 29,
+        "source": "SOUP Invitational 23-24",
+        "number": 49
+    },
+    {
+        "question": "What would the radius, in meters, of a sphere of solid cheddar cheese need to be before it collapsed into a black hole?\n",
+        "answer": 11,
+        "source": "SOUP Invitational 23-24",
+        "number": 50
+    },
+    {
+        "question": "How many oxygen molecules would be inhaled if every single person alive on Earth took a collective breath?\n",
+        "answer": 31,
+        "source": "SOUP Invitational 23-24",
+        "number": 51
+    },
+    {
+        "question": "A 1 Joule is equivalent to 1 kg \u2217 m^2 \u2217 s^\u22121 . What is the value of 1 Joule in the units of (troy ounce) * (furlong^2) * (microseconds)^\u22121?\n",
+        "answer": -8,
+        "source": "SOUP Invitational 23-24",
+        "number": 52
     },
     {
         "question": "What is 2^2017?\n",

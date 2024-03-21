@@ -161,7 +161,7 @@ If you uniformly pick a random place on Earth and throw a rock straight up (with
 How many tennis balls, placed end-to-end, would it take to reach the Sun from Earth?
 How many cubic kilometers of crust is generated in the average time frame of a geomagnetic reversal?
 In kg, what is the mass of silica in the mantle?
-In g/m3, what is the density of water in a cumulus cloud? In light-seconds, what is the average distance between the stars in Orion’s belt? How many electrons flow through a 1 A lamp in 1 second? In Newtons, what is the force of the Moon on the Earth? In Joules, how much energy would it take ChatGPT to provide an answer to this question? What mass of graphene would it take to cover USC in grams? Assume all objects in the universe besides you and Pluto disappear. In m/s2 , how fast would you accelerate toward Pluto? How many D-T fusion events would it take to cook a chicken? On a dark, moonless night, how many stars can you see at night? How many meters does Pluto traverse in a month? In m/s, what is the escape velocity of the Milky Way? Using a standard 1000W microwave, how long would it take to melt Antarctica, in seconds? Assume (unrealistically) that all of it starts at 0 degrees C. If we made a line of foot-long Subway sandwiches from USC to MIT, how many sandwiches would it take? If you uniformly pick a random place on Earth and throw a rock straight up (with, say, infinite velocity somehow), what is the probability you will hit the moon? How many tennis balls, placed end-to-end, would it take to reach the Sun from Earth? How many cubic kilometers of crust is generated in the average time frame of a geomagnetic reversal? In kg, what is the mass of silica in the mantle? In g/m3 , what is the density of water in a cumulus cloud?
+In g/m3, what is the density of water in a cumulus cloud?
 (pi)geon gets an espresso from his local Starbucks every morning. There are 100 unique receipt numbers, and he wants to collect all of them. Assuming that the probability of getting any of the receipt numbers is the same, how long would it take (on average) to get all 100 receipts?
 How many trees are there on 100 vertices? A tree is a graph (where a graph consists of vertices and edges between pairs of vertices) where there are no cycles (e.g., no loops) and the graph is connected (for every two vertices, there is a path between them).
 Suppose you have a list of the numbers 1 through 120, and you randomly mix them up and put them in a list. You try to sort them as follows: take the list, uniformly at random permute the elements, and check if it’s sorted. If it’s still not sorted, then repeated. On average, many attempts should it take for you to sort the numbers?
@@ -2183,6 +2183,58 @@ How many streetlights are there in seattle?
 How many people visit Times Square every year?
 Suppose that I randomly pick a city that has over 100,000 residents. What is the probability that it is in Pennsylvania?
 How many 10-digit numbers are prime?
+How many cans of Campbell’s chicken noodle soup will it take to fill up an Olympic-sized swimming pool?
+Consider the label of standard soup can. How many labels laid in a line would it take to circumnavigate the equator? (Assuming the labels float on top of the oceans)
+Soup cans are made of tin-coated steel. How many cans would need to be melted to form a 1-by-1-by-1 meter solid cube?
+Chinese bird drop soup is made from a species called the edible-nest swiftlet (Aerodramus fuciphagus). How many of these birds are there in Asia?
+How much sodium (in mg) is in a 24-pack of Maruchan chicken ramen?
+How many units (cans) of soup are sold each year in the United States?
+Consider placing soup cans upright in a hexagonal region from a bird’s eye view. How many can fit in a regular hexagonal region with side lengths of 1 mile?
+How many milliliters of water would need to be boiled to cook enough ramen cups to feed each and every college student in the U.S.? Each ramen cup should be filled to the brim with water and each college student eats 1 package.
+How much gross profit, in USD, has the Campbell’s soup company made since 2000?
+Consider throwing a soup can using a cannon with an angle of elevation of 30 degrees. Considering the earth as flat, at what velocity (in meters per second) is it necessary to launch the soup from New York City to Philadelphia?
+Eric has a collection of 2023 different types of soup. If he tries a different type of soup each day uniformly at random, how many days would you expect it to take for him to finish trying every type of soup?
+You travel in a can-shaped spaceship from earth to Soup Galaxy, which is 7 light years away from earth. You move at approximately 40 percent of the speed of light. Upon arrival, what will the difference in time, in hours, between your clock and a clock back on earth?
+How many cans of soup do you need to stack to reach the moon?
+A soup can finishes a marathon by rolling straight ahead. How many rotations has the soup can completed?
+A ladle is a wonderful device for serving soup. Suppose you wanted to serve the ocean; how many scoops would it take to empty the ocean?
+Andrew, a notable soup scholar, decides to write a definitive guide to the history of soup. He ends up with a text with about as many words as the Bible. To save on printing costs, he prints in Times News Roman, with size 1 font and double spaced. How many pages does he need to print for one copy of his book?
+An empty can of soup is filled with ice and placed outside on a table. Assuming uniform, constant heat from the summer heat, how many seconds would it take for the cylindrical block of ice to completely dissolve.
+Penn has instituted a special secret award called the soup scholarship in Each year, 5 percent of the incoming freshmen class is selected to be a recipient. How many soup scholarships have been awarded up until the end of 2024?
+There are many fish, pork, chicken, and beef-based soups leading to so many unique flavours! If we distinguish the animals up to species, how many soup flavours can we generate if each flavour is a combination of two species?
+The average U.S. frieght train is 6,500 feet long. How many cans of soup can be packed into this frieght train?
+Eric consumes one can of soup each time he cuts his hair. Over the course of 100 lifetimes, how many cans will he consume?
+Soup is chemistry. How many compounds are found on pubchem (a chemical information database)?
+Soup is served in cafeterias across Penn’s campus every day. How much money is spent on the Dining at Penn department each year?
+If I harnessed the energy consumed when every Google employee googles “google” simultaneously, how long could I power a standard hair dryer?
+If the Earth, by mass, was comprised entirely of solid silver, what would the acceleration due to gravity be, in m/s^2 ?
+If I melted the earth down (from Question above) and sold it, how much money, in Japanese Yen, could I make?
+How many packages of party sized Lay’s Sour Cream and Onion Potato Chips would I need to consume in order to equal the amount of Calories burned by a 200 lb man during an ironman triathlon?
+If, for every time someone streamed “Cruel Summer” by Taylor Swift on Spotify, Taylor Swift adds an extra floor to the Empire State Building, how tall would the Empire State Building be, in meters?
+If I randomly drop a pebble over the United States, what is the probability that my pebble hits a Tesla?
+How many fortnights would it take for me to run a marathon, assuming that I run at a pace of 5 smoots/shake?
+What is the minimum number of cans of SphagettiOs alphabet soup would I need to reconstruct the book Harry Potter and the Sorcerer’s Stone?
+How heavy, in kg, would the newest Macbook M2 Pro be if I replaced every single transistor with a can of Campbell’s Chicken Soup?
+What is the 200th fibonacci number?
+How many digits does 13123456789 have?
+How many primes are there less than 10000?
+How many gas stations are there in the US?
+If the sun and earth both double in size, how long will it take for the earth to go around the sun?
+Suppose on the day Jesus was born I got a dollar. Exactly one year later, I got 2 dollars. Every year thereafter I receive twice as much as the year before. I am immortal and quite a hoarder so I don’t spend any money. How much do I have in 2023?
+Eric claims that he doesn’t need any meteorology to predict the weather. Darren challenges him with the following game. Darren starts by paying Eric 10^10 dollars, and Eric is to make make daily predictions about whether or not it will rain the following day. Eric is to do this for an entire year, after which Darren will calculate the difference between how many times it rained and how many times Eric said it would rain. We call this difference x, and then Eric must pay Darren x^10 dollars. If Eric plays optimally, what is the maximum amount he can guarantee that he earns (or if he loses money - what is the minimum amount he can lose) at the conclusion of the game?
+If the world was scaled down so that the Earth was the size of a standard soccer ball, what would be the volume of Jupiter in liters?
+If every person in Madagascar simultaneously ate a bagel, how much heavier, in grams, would Madagascar’s population be?
+What is the combined weight, in kg, of every elephant in the world?
+Suppose a clock tells the right time exactly 100 times a day. If this clock is used to time an olympic 100m sprint, approximately how fast, in seconds, will the runners be?
+In Newtons, how many flicks worth force will it take to break someone’s arm?
+Suppose that all the DNA from each cell in a human was stretched out and placed in a single row. How many gallons of gas would it take a 2023 Toyota Prius to drive the distance equal to all of that stretched out DNA?
+Niagara falls is an absolutely iconic waterfall. That being said, what is the volumetric flow rate of Niagara Falls in Sverdrups during high season?
+How many hydrogen atoms are contained within the water in Lake Superior?
+How long would it take, in days, for me to drain all of the Oceans on Earth if I solely drank the recommended amount of water each day from the oceans?
+What is the maximum acceptable latency (delay) for international calls as spec- ified by the International Telecoms Union, in quectoseconds?
+What would the radius, in meters, of a sphere of solid cheddar cheese need to be before it collapsed into a black hole?
+How many oxygen molecules would be inhaled if every single person alive on Earth took a collective breath?
+A 1 Joule is equivalent to 1 kg ∗ m^2 ∗ s^−1 . What is the value of 1 Joule in the units of (troy ounce) * (furlong^2) * (microseconds)^−1?
 What is 2^2017?
 What is 12345 × 67890?
 What is 17^31?

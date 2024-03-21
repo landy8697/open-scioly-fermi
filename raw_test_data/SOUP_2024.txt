@@ -1,0 +1,174 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. How many cans of Campbell’s chicken noodle soup will it take to fill up an
+Olympic-sized swimming pool?
+2. Consider the label of standard soup can. How many labels laid in a line would it
+take to circumnavigate the equator? (Assuming the labels float on top of the oceans)
+3. Soup cans are made of tin-coated steel. How many cans would need to be melted
+to form a 1-by-1-by-1 meter solid cube?
+4. Chinese bird drop soup is made from a species called the edible-nest swiftlet
+(Aerodramus fuciphagus). How many of these birds are there in Asia?
+5. How much sodium (in mg) is in a 24-pack of Maruchan chicken ramen?
+6. How many units (cans) of soup are sold each year in the United States?
+7. Consider placing soup cans upright in a hexagonal region from a bird’s eye view.
+How many can fit in a regular hexagonal region with side lengths of 1 mile?
+8. How many milliliters of water would need to be boiled to cook enough ramen cups
+to feed each and every college student in the U.S.? Each ramen cup should be filled to the brim
+with water and each college student eats 1 package.
+9. How much gross profit, in USD, has the Campbell’s soup company made since
+2000?
+10. Consider throwing a soup can using a cannon with an angle of elevation of 30
+degrees. Considering the earth as flat, at what velocity (in meters per second) is it necessary to
+launch the soup from New York City to Philadelphia?
+11. Eric has a collection of 2023 different types of soup. If he tries a different type
+of soup each day uniformly at random, how many days would you expect it to take for him to
+finish trying every type of soup?
+12. You travel in a can-shaped spaceship from earth to Soup Galaxy, which is 7
+light years away from earth. You move at approximately 40 percent of the speed of light. Upon
+arrival, what will the difference in time, in hours, between your clock and a clock back on earth?
+13. How many cans of soup do you need to stack to reach the moon?
+14. A soup can finishes a marathon by rolling straight ahead. How many rotations
+has the soup can completed?
+15. A ladle is a wonderful device for serving soup. Suppose you wanted to serve the
+ocean; how many scoops would it take to empty the ocean?
+16. Andrew, a notable soup scholar, decides to write a definitive guide to the history
+of soup. He ends up with a text with about as many words as the Bible. To save on printing
+costs, he prints in Times News Roman, with size 1 font and double spaced. How many pages
+does he need to print for one copy of his book?
+17. An empty can of soup is filled with ice and placed outside on a table. Assuming
+uniform, constant heat from the summer heat, how many seconds would it take for the cylindrical
+block of ice to completely dissolve.
+18. Penn has instituted a special secret award called the soup scholarship in 2000.
+Each year, 5 percent of the incoming freshmen class is selected to be a recipient. How many
+soup scholarships have been awarded up until the end of 2024?
+19. There are many fish, pork, chicken, and beef-based soups leading to so many
+unique flavours! If we distinguish the animals up to species, how many soup flavours can we
+generate if each flavour is a combination of two species?
+20. The average U.S. frieght train is 6,500 feet long. How many cans of soup can be
+packed into this frieght train?
+21. Eric consumes one can of soup each time he cuts his hair. Over the course of
+100 lifetimes, how many cans will he consume?
+22. Soup is chemistry. How many compounds are found on pubchem (a chemical
+information database)?
+23. Soup is served in cafeterias across Penn’s campus every day. How much money
+is spent on the Dining at Penn department each year?
+24. If I harnessed the energy consumed when every Google employee googles “google”
+simultaneously, how long could I power a standard hair dryer?
+25. If the Earth, by mass, was comprised entirely of solid silver, what would the
+acceleration due to gravity be, in m/s^2 ?
+26. If I melted the earth down (from Question above) and sold it, how much money,
+in Japanese Yen, could I make?
+27. How many packages of party sized Lay’s Sour Cream and Onion Potato Chips
+would I need to consume in order to equal the amount of Calories burned by a 200 lb man
+during an ironman triathlon?
+28. If, for every time someone streamed “Cruel Summer” by Taylor Swift on Spotify,
+Taylor Swift adds an extra floor to the Empire State Building, how tall would the Empire State
+Building be, in meters?
+29. If I randomly drop a pebble over the United States, what is the probability that
+my pebble hits a Tesla?
+30. How many fortnights would it take for me to run a marathon, assuming that I
+run at a pace of 5 smoots/shake?
+31. What is the minimum number of cans of SphagettiOs alphabet soup would I
+need to reconstruct the book Harry Potter and the Sorcerer’s Stone?
+32. How heavy, in kg, would the newest Macbook M2 Pro be if I replaced every
+single transistor with a can of Campbell’s Chicken Soup?
+33. What is the 200th fibonacci number?
+34. How many digits does 13123456789 have?
+35. How many primes are there less than 10000?
+36. How many gas stations are there in the US?
+37. If the sun and earth both double in size, how long will it take for the earth to
+go around the sun?
+38. Suppose on the day Jesus was born I got a dollar. Exactly one year later, I got
+2 dollars. Every year thereafter I receive twice as much as the year before. I am immortal and
+quite a hoarder so I don’t spend any money. How much do I have in 2023?
+39. Eric claims that he doesn’t need any meteorology to predict the weather. Darren
+challenges him with the following game. Darren starts by paying Eric 10^10 dollars, and Eric is
+to make make daily predictions about whether or not it will rain the following day. Eric is to
+do this for an entire year, after which Darren will calculate the difference between how many
+times it rained and how many times Eric said it would rain. We call this difference x, and then
+Eric must pay Darren x^10 dollars. If Eric plays optimally, what is the maximum amount he can
+guarantee that he earns (or if he loses money - what is the minimum amount he can lose) at the
+conclusion of the game?
+40. If the world was scaled down so that the Earth was the size of a standard soccer
+ball, what would be the volume of Jupiter in liters?
+41. If every person in Madagascar simultaneously ate a bagel, how much heavier, in
+grams, would Madagascar’s population be?
+42. What is the combined weight, in kg, of every elephant in the world?
+43. Suppose a clock tells the right time exactly 100 times a day. If this clock is used
+to time an olympic 100m sprint, approximately how fast, in seconds, will the runners be?
+44. In Newtons, how many flicks worth force will it take to break someone’s arm?
+45. Suppose that all the DNA from each cell in a human was stretched out and
+placed in a single row. How many gallons of gas would it take a 2023 Toyota Prius to drive the
+distance equal to all of that stretched out DNA?
+46. Niagara falls is an absolutely iconic waterfall. That being said, what is the
+volumetric flow rate of Niagara Falls in Sverdrups during high season?
+47. How many hydrogen atoms are contained within the water in Lake Superior?
+48. How long would it take, in days, for me to drain all of the Oceans on Earth if I
+solely drank the recommended amount of water each day from the oceans?
+
+49. What is the maximum acceptable latency (delay) for international calls as spec-
+ified by the International Telecoms Union, in quectoseconds?
+
+50. What would the radius, in meters, of a sphere of solid cheddar cheese need to
+be before it collapsed into a black hole?
+51. How many oxygen molecules would be inhaled if every single person alive on
+Earth took a collective breath?
+52. A 1 Joule is equivalent to 1 kg ∗ m^2 ∗ s^−1
+. What is the value of 1 Joule in the units of (troy ounce) * (furlong^2) * (microseconds)^−1?
+
+7
+8
+4
+4
+3
+12
+9
+11
+10
+3
+4
+3
+9
+
+7
+22
+1
+2
+3
+15
+6
+4
+6
+7
+1
+1
+30
+
+0
+10
+-6
+-10
+3
+9
+41
+8
+2
+5
+0
+609
+10
+
+5
+9
+8
+-1
+1
+8
+-3
+38
+20
+29
+11
+31
+-8
