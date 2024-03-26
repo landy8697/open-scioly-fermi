@@ -1,0 +1,88 @@
+Case Western Reserve University 23-24
+43
+How many liters of water per capita are there on the planet Earth?
+8
+I have a 2006 Honda Civic (jealous?), how many electrons would it take to equal its mass?
+33
+How many moon circumferences make up one Earth circumference?
+0
+How many Calories of pizza does the average American adult eat per year?
+4
+How many days would it take light to travel the distance of the diameter of the Milky Way Galaxy?
+7
+What are the chances of rolling snake eyes 10 times in a row with two dice?
+-16
+What is the average height of an American adult male in astronomical units?
+-11
+How many copper atoms are in a pre-1982 penny (made of 100% copper)?
+22
+What is the ratio of the mass of the sun to the mass of the Earth?
+5
+The Library of Congress houses 167 million items. How many miles of bookshelves does it have?
+3
+George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln are memorialized in Mount Rushmore in the Black Hills of South Dakota. If George Washington’s sculpted head had a body to go with it, how tall would super-sized George be in centimeters?
+4
+What is the population of the most populous nation in the world divided by the population of the least populous nation?
+6
+What is the number of square inches of ice surface on a typical National Hockey League ice rink?
+6
+What is the atomic radius of hydrogen in meters?
+-11
+If you completely uncoiled one molecule of human DNA, how long would it be in meters?
+0
+How many meters above the Earth does the International Space Station orbit?
+5
+The James Webb Space Telescope orbits the sun at LaGrange point 2, how long (in seconds) does it take a radio signal to reach Earth from the JWST?
+1
+How many Jupiters could fit between the Earth and the Sun?
+3
+First produced in 1978, the Intel 8086 was the first processor with x86 architecture. What was its clock speed in cycles/second?
+7
+What is the volume of a standard NBA basketball in cm 3?
+4
+What would be the total weight in grams if I had one mole of each of the 118 elements on the periodic table (assume a standard ratio of isotopes)?
+4
+How many protons would be in that set of atoms (from the previous question)?
+27
+How many moles of meters from here to the south coast of Canada (going straight north)?
+-19
+What is the population of the U.S.A. divided by the number of men who have walked on the moon?
+7
+How many floating point operations per second (flops) can the fastest supercomputer execute at its peak?
+18
+How long in minutes would it take to download an average .mp3 song file with a 6 kbps dial-up modem connection assuming nobody tried to use the phone and ruined the download?
+1
+How long in seconds can you shower and still use less water than taking a bath?
+3
+How many Terminal Towers, laid end to end, would reach from Public Square in Cleveland to the Washington Monument in DC??
+3
+As of the writing of this test, there have been 760 episodes of The Simpsons. How many megabytes of file space would a video file containing all these episodes in standard definition take up?
+5
+The engine in your new 2023 Dodge Challenger SRT Super Stock produces 807 horsepower. When you tell your Science Olympiad friends about it, they are not impressed until you convert that to SI units. How many Watts does the engine of your awesome new ride produce?
+5
+How long, in seconds would it take you to listen to all the works of W.A. Mozart back to back (assuming they were played at the intended tempo)?
+6
+How many tons of TNT would match the yield of the largest nuclear weapon ever produced by mankind?
+10
+How many asteroids (greater than 1 km in diameter) make up the asteroid belt?
+6
+How many calories (note the lowercase c) would a 175 lbs. man burn running a marathon in 4 hours?
+6
+How many words does the average native English-speaking adult know?
+5
+How long ago (in years) did sharks first appear?
+8
+If I drove a 2023 Chevy Bolt the length of a marathon, the electricity I used would have been able to power a 100 watt light bulb for how many hours?
+2
+What is the distance from New York to Los Angeles (as the crow flies) in light years?
+-10
+How many meters did your fingernails grow today (individually, not total)?
+-4
+How many words are in the most recent version of the Oxford English Dictionary?
+5
+How many households in the U.S.A. own pet cats?
+7
+How many hairs does the average human have on their head?
+5
+How many characters (letters, numbers, symbols, and punctuation marks) appear on this test?
+3

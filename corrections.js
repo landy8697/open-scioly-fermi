@@ -445,9 +445,9 @@ corrections = {
     },
     "SSSS Fermi (Adi1008) 17-18, #49": {
         "question": "",
-        "answer": "2",
-        "explanation": "Simply divided the thickness of the average piece of paper by the wavelength of blue light",
-        "credit": ""
+        "answer": "3",
+        "explanation": "Paper thickness is 0.5 mm = 5e-4 m, blue light wavelength is about 400 nm = 4e-7 m, dividing gives 1.25e3, so the answer is 3.",
+        "credit": "errorfunction"
     },
     "Yale Invitational 17-18, #22": {
         "question": "Evaluate (\u03c0e)^(\u03c0e)",
@@ -1147,8 +1147,8 @@ corrections = {
     },
     "MIT Invitational 17-18, #34": {
         "question": "",
-        "answer": "7",
-        "explanation": "How can the answer be greater than 7 if there are only 30 million seconds a year",
+        "answer": "8",
+        "explanation": "the explanation is wrong cause like, it was there for 13 years assuming that they were talking about the september in 2017 before this test was given. i mean mit is probably right man. 13*30m is like 400m so 8",
         "credit": ""
     },
     "RobertYL, daily fermi questions day #44 [2018 SOUP Q4]": {
@@ -1315,15 +1315,15 @@ corrections = {
     },
     "RobertYL, daily fermi questions day #77 [2019 CMU Q29]": {
         "question": "",
-        "answer": "1",
-        "explanation": "5 volts is 1 as a fermi answer",
+        "answer": "33",
+        "explanation": "idk what prev was on?? volts has nothing to do with this volume of the sun ~= 10^27 m^3 = 10^33 cm^3, syrup is about as dense as water so",
         "credit": ""
     },
     "RobertYL, daily fermi questions day #41 [2018 Carmel Tryouts Q29]": {
         "question": "",
-        "answer": "15",
-        "explanation": "thickness of quarter is about 1mm = 1e-4m, distance to sun is 1e11m, 1e11/1e-4 = 1e15",
-        "credit": ""
+        "answer": "14",
+        "explanation": "Thickness of quarter is about 1mm = 1e-3 m (previous person who corrected this said 1 mm = 1e-4 m), Earth-Sun distance is 1.5e11 m, so total quarters needed is 1.5e11 / 1e-3 = 1.5e14, so the answer is 14",
+        "credit": "errorfunction"
     },
     "University of Michigan Invitational 17-18, #10": {
         "question": "",
@@ -1363,9 +1363,9 @@ corrections = {
     },
     "Brown Invitational 22-23, #7": {
         "question": "",
-        "answer": "2",
-        "explanation": "Patriots only have 541 wins in history",
-        "credit": ""
+        "answer": "3",
+        "explanation": "the person who corrected it initially claimed that they have 541 wins. assuming this is correct, the answer rounds up to 3 not 2. the original answer is correct.",
+        "credit": "yert"
     },
     "Captains Tryouts Carmel 17-18, #40": {
         "question": "",
@@ -1509,6 +1509,132 @@ corrections = {
         "question": "What is the probability that everyone in a family of 4 survives the virus? [Virus that escaped containment, kills 90% of population]",
         "answer": "",
         "explanation": "",
+        "credit": ""
+    },
+    "Yale Invitational 17-18, #29": {
+        "question": "",
+        "answer": "11",
+        "explanation": "volume of the ESB is 1047723.3239 cubic meters, divide by 19.3 *10^-4 g/m^3 (density of gold) to get 54286182600, which is 11",
+        "credit": ""
+    },
+    "University of Michigan Invitational 17-18, #6": {
+        "question": "",
+        "answer": "17",
+        "explanation": "surface area of jupiter divide by (SA of a playing card *54) gives 17",
+        "credit": ""
+    },
+    "Columbia Invitational 17-18, #22": {
+        "question": "",
+        "answer": "4",
+        "explanation": "divide the perimeter of the United States by 2000 gives 25940.5 watchtowers. -> 4",
+        "credit": ""
+    },
+    "MIT Invitational 18-19, #4": {
+        "question": "",
+        "answer": "58",
+        "explanation": "question gives answer in kilocalories technically, so mult by 1000 so 58",
+        "credit": "teenmoturtle"
+    },
+    "Golden Gate Invitational 22-23, #19": {
+        "question": "5^222",
+        "answer": "",
+        "explanation": "",
+        "credit": "None"
+    },
+    "Cornell Invitational 22-23, #9": {
+        "question": "",
+        "answer": "23",
+        "explanation": "11 cubic cm = 11ml = 11g = 11/18.02 ~ 0.5 mol = ~3e23 molecules",
+        "credit": ""
+    },
+    "Harvard Invitational 22-23, #6": {
+        "question": "",
+        "answer": "~",
+        "explanation": "answer is negative???",
+        "credit": ""
+    },
+    "Centerville Invitational 17-18, #30": {
+        "question": "",
+        "answer": "20",
+        "explanation": "15 A = 15 coulombs/second. Divide 15 coulombs by the charge of an electron (1.6*10^-19) to get 9.38^19 --> 20",
+        "credit": ""
+    },
+    "MIT Invitational 22-23, #35": {
+        "question": "",
+        "answer": "2",
+        "explanation": "Question is at the very least ambiguous as to which sentence it is referring to",
+        "credit": ""
+    },
+    "Golden Gate Invitational 22-23, #41": {
+        "question": "",
+        "answer": "",
+        "explanation": "Can this question be removed or details added to make it answerable",
+        "credit": ""
+    },
+    "Captains Tryouts Carmel 17-18, #46": {
+        "question": "",
+        "answer": "26",
+        "explanation": "The volume of the Atlantic Ocean is about 3.5e8 km^3 = 3.5e17 m^3, which multiplied by the density of water (1e3 kg/m^3) becomes 3.5e20 kg = 3.5e23 g. The specific heat of water is 4.184 J/(g K) and we probably need to heat up all the water by an average of 90 K (because the average temperature of ocean water is around 10 C\u00b0 (accounting for the very cold water below the surface), the energy needed for the water to get to boiling point is 3.5e23 g * 4.184 J/(g K) * 90 K = 1.3e27 J = 3.2e25 cal. BUT WAIT, we need to account for the latent heat of evaporation, which is 2260 J/g = 540 cal/g, so our final answer is 3.2e25 cal + 3.5e23 g * 540 cal/g = 2.2e26 cal, so the answer is 26.",
+        "credit": "errorfunction"
+    },
+    "Harvard Invitational 22-23, #7": {
+        "question": "",
+        "answer": "25",
+        "explanation": "Speed of light c = (3e8 m/s) * (1 carbon radius / 1.7e-10 m) * (3.2e7 s / 1 year) * (1 year / 5 dog years) = 1.1e25 carbon radii/dog year. It turns out that dog years apparently don't scale linearly with time until a certain age (why?????), but after that it scales to about 5 dog years per year.",
+        "credit": "errorfunction"
+    },
+    "BirdSO Satellite Invitational 21-22, #35": {
+        "question": "",
+        "answer": "12",
+        "explanation": "6^16 = 2.82e12, so answer is 12. smh ggso please use a calculator :)",
+        "credit": "errorfunction"
+    },
+    "Rickards Invitational 23-24, #46": {
+        "question": "",
+        "answer": "13",
+        "explanation": "Average adult male has 36 trillion cells, average adult female has 28 trillion cells, difference is 8 trillion cells which is 13.",
+        "credit": "errorfunction"
+    },
+    "RobertYL, daily fermi questions day #80 [2018 Medford Q11]": {
+        "question": "",
+        "answer": "12",
+        "explanation": "Earth-Sun distance is 1.5e11 m, length of popsicle stick (accounting for glue) is about 3.5-4 inches = ~0.095 m, so the number of sticks needed is 1.5e11 / 0.095 = 1.6e12, so the answer is 12.",
+        "credit": "errorfunction"
+    },
+    "SSSs Fermi (luminosityfan) 17-18, #6": {
+        "question": "",
+        "answer": "15",
+        "explanation": "4.367 ly = 4.13e16 m, using speed of 100 m / 9.58 s = 10.44 m/s, total time is 4.13e16 m /10.44 m/s = 3.96e15 s, so the answer is 15",
+        "credit": "errorfunction"
+    },
+    "Ohio State Invitational 22-23, #26": {
+        "question": "",
+        "answer": "5",
+        "explanation": "tangential speed of earth is ~ 1000 mph\n1000 * 24 * 7 = 168000\n5",
+        "credit": "teenmoturtle"
+    },
+    "SSSs Fermi (luminosityfan) 17-18, #14": {
+        "question": "",
+        "answer": "41",
+        "explanation": "volume of milky way = 3 * 10^61\nvolume of earth = 10^20\n61 - 20 = 41",
+        "credit": "teenmoturtle"
+    },
+    "BirdSO Satellite Invitational 21-22, #52": {
+        "question": "",
+        "answer": "5",
+        "explanation": "65536 is the result",
+        "credit": "cindyxxmel"
+    },
+    "University of Michigan Invitational 18-19, #20": {
+        "question": "",
+        "answer": "-9",
+        "explanation": "SEMs have resolutions of 0.5-4 nanometers. That corresponds with -9",
+        "credit": ""
+    },
+    "SOUP Invitational 23-24, #40": {
+        "question": "",
+        "answer": "4",
+        "explanation": "Real earth radius = 6 million meters, real Jupiter radius = 70 million meters. Soccer ball has a radius of 11 cm, so scaled down Jupiter would have a radius of 70/6 * 0.11 = 1.28m, and a volume of 4/3*pi*(1.28)^3 = 8.8m^3 = 8800 L \u2014> 4",
         "credit": ""
     }
 }
@@ -1817,5 +1943,33 @@ corrections_list = [
     "MIT Invitational 22-23, #11",
     "Centerville Invitational 17-18, #8",
     "UT Austin Regionals 22-23, #5",
-    "MIT Invitational 18-19, #8"
+    "MIT Invitational 18-19, #8",
+    "Yale Invitational 17-18, #29",
+    "University of Michigan Invitational 17-18, #6",
+    "MIT Invitational 17-18, #34",
+    "Columbia Invitational 17-18, #22",
+    "MIT Invitational 18-19, #4",
+    "Golden Gate Invitational 22-23, #19",
+    "Cornell Invitational 22-23, #9",
+    "Harvard Invitational 22-23, #6",
+    "Centerville Invitational 17-18, #30",
+    "RobertYL, daily fermi questions day #77 [2019 CMU Q29]",
+    "MIT Invitational 22-23, #35",
+    "Golden Gate Invitational 22-23, #41",
+    "Brown Invitational 22-23, #7",
+    "Captains Tryouts Carmel 17-18, #46",
+    "Harvard Invitational 22-23, #7",
+    "BirdSO Satellite Invitational 21-22, #35",
+    "SSSS Fermi (Adi1008) 17-18, #49",
+    "Rickards Invitational 23-24, #46",
+    "RobertYL, daily fermi questions day #80 [2018 Medford Q11]",
+    "RobertYL, daily fermi questions day #41 [2018 Carmel Tryouts Q29]",
+    "SSSs Fermi (luminosityfan) 17-18, #6",
+    "Ohio State Invitational 22-23, #26",
+    "SSSs Fermi (luminosityfan) 17-18, #14",
+    "BirdSO Satellite Invitational 21-22, #52",
+    "Brown Invitational 22-23, #7",
+    "University of Michigan Invitational 18-19, #20",
+    "Brown Invitational 22-23, #7",
+    "SOUP Invitational 23-24, #40"
 ]

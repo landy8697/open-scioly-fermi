@@ -1,0 +1,91 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. (5.00 pts) What are the odds of hitting the roulette correctly 6 times in a row?
+-10
+2. (5.00 pts) How many steps will a human take in their lifetime?
+8
+3. (5.00 pts) How many ants are in the average colony?
+5
+4. (5.00 pts) How many gallons of ice cream area consumed in the United States each year?
+9
+5. (5.00 pts) How many liters of beer are consumed in Germany each year?
+6
+6. (5.00 pts) Approximately how many seconds left do you have to left to live?
+9
+7. (5.00 pts) What is the atmospheric pressure (in ATM) at the bottom of the Mariana Trench?
+4
+8. (5.00 pts) How many base pairs comprise the DNA in all of the cells in the human body combined?
+23
+9. (5.00 pts) How many pizza boxes would one need to make a stack the height of the Leaning Tower of Pisa?
+3
+10. (5.00 pts) How many dead skin cells are shed by all the people on Earth each year?
+18
+11. (5.00 pts) What is the approximate population of the world?
+10
+12. (5.00 pts) How many pieces of un-popped popcorn does it take to fill a 10ft x 10ft x 10ft room?
+8
+13. (5.00 pts) Average number of transistors on a modern CPU?
+11
+14. (5.00 pts) How many manhole covers in the city of New York?
+5
+15. (5.00 pts) How many grains of rice fit in an 8 fluid ounce cup?
+4
+16. (5.00 pts) How many trees are in the amazon rainforest?
+11
+17. (5.00 pts) How many planets in our universe can have life?
+5
+18. (5.00 pts) How many PLAIN M&Ms would it take to fill the grand canyon?
+16
+19. (5.00 pts) What is the probability that a quarter lands on the same side 30 times ?
+-11
+20. (5.00 pts) How many baseballs would fit in an Olympic sized swimming pool?
+5
+21. (5.00 pts) What volume of gasoline in liters is needed to accelerate an SUV from rest to highway speed?
+-2
+22. (5.00 pts) How many people attend Aneheim Disneyland each year?
+7
+23. (5.00 pts) How many hours of computer screen time does a person spend a year?
+3
+24. (5.00 pts) How many minutes do high schoolers spend texting in a year?
+11
+25. (5.00 pts) How many fluid 8 ounce cups of tea is consumed around the world in a year?
+12
+26. (5.00 pts) How many miles of paved road are in the U.S?
+6
+27. (5.00 pts) How many pennies can you stack from the Earth to the moon?
+8
+28. (5.00 pts) How many stone blocks were used to build the pyramid of Giza?
+6
+29. (5.00 pts) How long, in hours, does it take for a beam of light to traverse the continental U.S.?
+-6
+30. (5.00 pts) How many single family homes are in the U.S?
+8
+31. (5.00 pts) How fast does human hair grow (in km/hr)?
+-8
+32. (5.00 pts) How many light years across is the milky way?
+5
+33. (5.00 pts) How many pixels is in a piece of standard paper?
+6
+34. (5.00 pts) How many Christmas trees are sold every year in the U.S?
+7
+35. (5.00 pts) How many kgs of cheese are stored in the United States national cheese bank in Missouri?
+9
+36. (5.00 pts) How many grains of rice can a person eat in their lifetime?
+9
+37. (5.00 pts) How many Olympic pools are in a fluid 8 ounce cup?
+-7
+38. (5.00 pts) How many beats will a heart beat in a lifetime?
+9
+39. (5.00 pts) How many miles thick is a strand of hair?
+-8
+40. (5.00 pts) What is the wavelength of violet light in nanometers?
+-7
+41. (5.00 pts) How many kilowatts of energy is produced by a hamster on a wheel?
+-4
+42. (5.00 pts) How many watts of electricity to power all the lights in Las Vegas per year?
+9
+43. (5.00 pts) How many bowling balls fit in the Pacific Ocean
+18
+44. (5.00 pts) How many grams of trash are produced by an average family per year?
+6

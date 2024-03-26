@@ -5064,6 +5064,264 @@ data = [
         "number": 50
     },
     {
+        "question": "How many liters of water per capita are there on the planet Earth?\n",
+        "answer": 8,
+        "source": "Case Western Reserve University 23-24",
+        "number": 1
+    },
+    {
+        "question": "I have a 2006 Honda Civic (jealous?), how many electrons would it take to equal its mass?\n",
+        "answer": 33,
+        "source": "Case Western Reserve University 23-24",
+        "number": 2
+    },
+    {
+        "question": "How many moon circumferences make up one Earth circumference?\n",
+        "answer": 0,
+        "source": "Case Western Reserve University 23-24",
+        "number": 3
+    },
+    {
+        "question": "How many Calories of pizza does the average American adult eat per year?\n",
+        "answer": 4,
+        "source": "Case Western Reserve University 23-24",
+        "number": 4
+    },
+    {
+        "question": "How many days would it take light to travel the distance of the diameter of the Milky Way Galaxy?\n",
+        "answer": 7,
+        "source": "Case Western Reserve University 23-24",
+        "number": 5
+    },
+    {
+        "question": "What are the chances of rolling snake eyes 10 times in a row with two dice?\n",
+        "answer": -16,
+        "source": "Case Western Reserve University 23-24",
+        "number": 6
+    },
+    {
+        "question": "What is the average height of an American adult male in astronomical units?\n",
+        "answer": -11,
+        "source": "Case Western Reserve University 23-24",
+        "number": 7
+    },
+    {
+        "question": "How many copper atoms are in a pre-1982 penny (made of 100% copper)?\n",
+        "answer": 22,
+        "source": "Case Western Reserve University 23-24",
+        "number": 8
+    },
+    {
+        "question": "What is the ratio of the mass of the sun to the mass of the Earth?\n",
+        "answer": 5,
+        "source": "Case Western Reserve University 23-24",
+        "number": 9
+    },
+    {
+        "question": "The Library of Congress houses 167 million items. How many miles of bookshelves does it have?\n",
+        "answer": 3,
+        "source": "Case Western Reserve University 23-24",
+        "number": 10
+    },
+    {
+        "question": "George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln are memorialized in Mount Rushmore in the Black Hills of South Dakota. If George Washington\u2019s sculpted head had a body to go with it, how tall would super-sized George be in centimeters?\n",
+        "answer": 4,
+        "source": "Case Western Reserve University 23-24",
+        "number": 11
+    },
+    {
+        "question": "What is the population of the most populous nation in the world divided by the population of the least populous nation?\n",
+        "answer": 6,
+        "source": "Case Western Reserve University 23-24",
+        "number": 12
+    },
+    {
+        "question": "What is the number of square inches of ice surface on a typical National Hockey League ice rink?\n",
+        "answer": 6,
+        "source": "Case Western Reserve University 23-24",
+        "number": 13
+    },
+    {
+        "question": "What is the atomic radius of hydrogen in meters?\n",
+        "answer": -11,
+        "source": "Case Western Reserve University 23-24",
+        "number": 14
+    },
+    {
+        "question": "If you completely uncoiled one molecule of human DNA, how long would it be in meters?\n",
+        "answer": 0,
+        "source": "Case Western Reserve University 23-24",
+        "number": 15
+    },
+    {
+        "question": "How many meters above the Earth does the International Space Station orbit?\n",
+        "answer": 5,
+        "source": "Case Western Reserve University 23-24",
+        "number": 16
+    },
+    {
+        "question": "The James Webb Space Telescope orbits the sun at LaGrange point 2, how long (in seconds) does it take a radio signal to reach Earth from the JWST?\n",
+        "answer": 1,
+        "source": "Case Western Reserve University 23-24",
+        "number": 17
+    },
+    {
+        "question": "How many Jupiters could fit between the Earth and the Sun?\n",
+        "answer": 3,
+        "source": "Case Western Reserve University 23-24",
+        "number": 18
+    },
+    {
+        "question": "First produced in 1978, the Intel 8086 was the first processor with x86 architecture. What was its clock speed in cycles/second?\n",
+        "answer": 7,
+        "source": "Case Western Reserve University 23-24",
+        "number": 19
+    },
+    {
+        "question": "What is the volume of a standard NBA basketball in cm 3?\n",
+        "answer": 4,
+        "source": "Case Western Reserve University 23-24",
+        "number": 20
+    },
+    {
+        "question": "What would be the total weight in grams if I had one mole of each of the 118 elements on the periodic table (assume a standard ratio of isotopes)?\n",
+        "answer": 4,
+        "source": "Case Western Reserve University 23-24",
+        "number": 21
+    },
+    {
+        "question": "How many protons would be in that set of atoms (from the previous question)?\n",
+        "answer": 27,
+        "source": "Case Western Reserve University 23-24",
+        "number": 22
+    },
+    {
+        "question": "How many moles of meters from here to the south coast of Canada (going straight north)?\n",
+        "answer": -19,
+        "source": "Case Western Reserve University 23-24",
+        "number": 23
+    },
+    {
+        "question": "What is the population of the U.S.A. divided by the number of men who have walked on the moon?\n",
+        "answer": 7,
+        "source": "Case Western Reserve University 23-24",
+        "number": 24
+    },
+    {
+        "question": "How many floating point operations per second (flops) can the fastest supercomputer execute at its peak?\n",
+        "answer": 18,
+        "source": "Case Western Reserve University 23-24",
+        "number": 25
+    },
+    {
+        "question": "How long in minutes would it take to download an average .mp3 song file with a 6 kbps dial-up modem connection assuming nobody tried to use the phone and ruined the download?\n",
+        "answer": 1,
+        "source": "Case Western Reserve University 23-24",
+        "number": 26
+    },
+    {
+        "question": "How long in seconds can you shower and still use less water than taking a bath?\n",
+        "answer": 3,
+        "source": "Case Western Reserve University 23-24",
+        "number": 27
+    },
+    {
+        "question": "How many Terminal Towers, laid end to end, would reach from Public Square in Cleveland to the Washington Monument in DC??\n",
+        "answer": 3,
+        "source": "Case Western Reserve University 23-24",
+        "number": 28
+    },
+    {
+        "question": "As of the writing of this test, there have been 760 episodes of The Simpsons. How many megabytes of file space would a video file containing all these episodes in standard definition take up?\n",
+        "answer": 5,
+        "source": "Case Western Reserve University 23-24",
+        "number": 29
+    },
+    {
+        "question": "The engine in your new 2023 Dodge Challenger SRT Super Stock produces 807 horsepower. When you tell your Science Olympiad friends about it, they are not impressed until you convert that to SI units. How many Watts does the engine of your awesome new ride produce?\n",
+        "answer": 5,
+        "source": "Case Western Reserve University 23-24",
+        "number": 30
+    },
+    {
+        "question": "How long, in seconds would it take you to listen to all the works of W.A. Mozart back to back (assuming they were played at the intended tempo)?\n",
+        "answer": 6,
+        "source": "Case Western Reserve University 23-24",
+        "number": 31
+    },
+    {
+        "question": "How many tons of TNT would match the yield of the largest nuclear weapon ever produced by mankind?\n",
+        "answer": 10,
+        "source": "Case Western Reserve University 23-24",
+        "number": 32
+    },
+    {
+        "question": "How many asteroids (greater than 1 km in diameter) make up the asteroid belt?\n",
+        "answer": 6,
+        "source": "Case Western Reserve University 23-24",
+        "number": 33
+    },
+    {
+        "question": "How many calories (note the lowercase c) would a 175 lbs. man burn running a marathon in 4 hours?\n",
+        "answer": 6,
+        "source": "Case Western Reserve University 23-24",
+        "number": 34
+    },
+    {
+        "question": "How many words does the average native English-speaking adult know?\n",
+        "answer": 5,
+        "source": "Case Western Reserve University 23-24",
+        "number": 35
+    },
+    {
+        "question": "How long ago (in years) did sharks first appear?\n",
+        "answer": 8,
+        "source": "Case Western Reserve University 23-24",
+        "number": 36
+    },
+    {
+        "question": "If I drove a 2023 Chevy Bolt the length of a marathon, the electricity I used would have been able to power a 100 watt light bulb for how many hours?\n",
+        "answer": 2,
+        "source": "Case Western Reserve University 23-24",
+        "number": 37
+    },
+    {
+        "question": "What is the distance from New York to Los Angeles (as the crow flies) in light years?\n",
+        "answer": -10,
+        "source": "Case Western Reserve University 23-24",
+        "number": 38
+    },
+    {
+        "question": "How many meters did your fingernails grow today (individually, not total)?\n",
+        "answer": -4,
+        "source": "Case Western Reserve University 23-24",
+        "number": 39
+    },
+    {
+        "question": "How many words are in the most recent version of the Oxford English Dictionary?\n",
+        "answer": 5,
+        "source": "Case Western Reserve University 23-24",
+        "number": 40
+    },
+    {
+        "question": "How many households in the U.S.A. own pet cats?\n",
+        "answer": 7,
+        "source": "Case Western Reserve University 23-24",
+        "number": 41
+    },
+    {
+        "question": "How many hairs does the average human have on their head?\n",
+        "answer": 5,
+        "source": "Case Western Reserve University 23-24",
+        "number": 42
+    },
+    {
+        "question": "How many characters (letters, numbers, symbols, and punctuation marks) appear on this test?\n",
+        "answer": 3,
+        "source": "Case Western Reserve University 23-24",
+        "number": 43
+    },
+    {
         "question": "How far away is the star Sirius from the Earth in meters?\n",
         "answer": 16,
         "source": "Duke Invitational 22-23",
@@ -5680,6 +5938,366 @@ data = [
         "answer": 11,
         "source": "Golden Gate Invitational 22-23",
         "number": 53
+    },
+    {
+        "question": "What was the total global energy consumption of Google in 2022, in Joules?\n",
+        "answer": 11,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 1
+    },
+    {
+        "question": "How many times more permutations of a deck of cards are there than positions of a Rubik\u2019s cube?\n",
+        "answer": 48,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 2
+    },
+    {
+        "question": "What is the ratio of the gross domestic product (GDP) of the United States to that of San Marino?\n",
+        "answer": 4,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 3
+    },
+    {
+        "question": "A \u201cblue moon\u201d occurs when a full moon occurs twice in a single calendar month. How many times could light circle the Earth\u2019s equator between one blue moon and the next, on average?\n",
+        "answer": 9,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 4
+    },
+    {
+        "question": "If you pick a random point on the night sky, what is the probability that it is contained within the shadow of Sagittarius A*, the black hole in the center of the Milky Way?\n",
+        "answer": -20,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 5
+    },
+    {
+        "question": "What is the probability that, on any given day in Singapore, there is a total solar eclipse?\n",
+        "answer": -5,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 6
+    },
+    {
+        "question": "How many milliseconds elapsed between the Battle of Hastings and D-Day?\n",
+        "answer": 13,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 7
+    },
+    {
+        "question": "One of this tournament\u2019s sponsors, Jane Street Capital, is known as a high-frequency quantitative trading firm, with multiple offices around the world. In 2020, what was the total worth of the securities that they traded, in US dollars?\n",
+        "answer": 13,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 8
+    },
+    {
+        "question": "How many sheets of paper, stacked on top of each other, would it take to equal the height of the Stanford Tree?\n",
+        "answer": 4,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 9
+    },
+    {
+        "question": "How old is the universe thought to be, in years?\n",
+        "answer": 10,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 10
+    },
+    {
+        "question": "If all of the world\u2019s freshwater was replaced by FairlifeTM Ultra-filtered Chocolate Milk, then how many calories would I gain from drinking it all?\n",
+        "answer": 22,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 11
+    },
+    {
+        "question": "How long, in seconds, would it take for someone driving a Koenigsegg Jesko Absolut to drive from UC Berkeley to Stanford, by way of I-280 South (over the Bay Bridge, down through SF and San Mateo County)? Assume the driver is a speed demon and continuously maintains the theoretical highest speed while operating on E85 race fuel.\n",
+        "answer": 3,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 12
+    },
+    {
+        "question": "The California Academy of Sciences in Golden Gate Park is home to a colony of African penguins. Suppose that a highly motivated wild African penguin wants to visit his captive comrades, and is blessed by the ancient penguin gods to not require any food, water, or rest. How many hours would it take him to swim at top speed from his homeland of South Africa to San Francisco? By the way, I\u2019m pretty sure he doesn\u2019t know of the Panama Canal\u2019s existence...\n",
+        "answer": 3,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 13
+    },
+    {
+        "question": "How many peregrine falcons does it take to lift up an average human?\n",
+        "answer": 2,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 14
+    },
+    {
+        "question": "How many base pairs are in the human genome?\n",
+        "answer": 9,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 15
+    },
+    {
+        "question": "If the US Department of Transportation was around back then, what would they value the statistical loss of life from the Hindenburg disaster to be, in 2022 dollars?\n",
+        "answer": 8,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 16
+    },
+    {
+        "question": "A flop is a basic unit of computation denoting 1 addition, subtraction, multiplication, or division operation. On average, how many flops does it take to solve a system of linear equations in 80 variables and 80 equations?\n",
+        "answer": 6,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 17
+    },
+    {
+        "question": "Suppose that I\u2019m getting tired of eating at school dining halls and instead want to eat the Dunkin\u2019 Donuts Sourdough breakfast sandwich 2 times a day for the entirety of spring semester at UC Berkeley. How many times would I have to run the Boston Marathon in order to burn all of those calories?\n",
+        "answer": 2,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 18
+    },
+    {
+        "question": "How much money would McDonald\u2019s lose if for every Big Mac sold last year, McDonald\u2019s gave out a 14 oz Filet Mignon instead?\n",
+        "answer": 11,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 19
+    },
+    {
+        "question": "It\u2019s often said that a human should consume 2000 Calories/day. How much energy is that in terms of electron volts (eV)?\n",
+        "answer": 26,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 20
+    },
+    {
+        "question": "How many days would one have to eat exactly 2000 Calories to have consumed energy equivalent to the yield of the \u201cFat Man\u201d nuclear bomb?\n",
+        "answer": 7,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 21
+    },
+    {
+        "question": "Ramen noodles are a staple of any college student\u2019s diet. How many packs of Shin Black Ramen would I need to eat to have consumed the recommended daily amount of sodium for 50 people?\n",
+        "answer": 2,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 22
+    },
+    {
+        "question": "How many shots of espresso would an average U.S. male need to consume in order to have consumed an amount of caffeine equivalent to the LD50 of caffeine?\n",
+        "answer": 2,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 23
+    },
+    {
+        "question": "How many peanut M&M\u2019s would one need to equal the weight of a Boeing 737-800?\n",
+        "answer": 7,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 24
+    },
+    {
+        "question": "How many oxygen atoms are in 1L of water?\n",
+        "answer": 25,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 25
+    },
+    {
+        "question": "How many potatoes would I need to replace every utility (telephone) pole in the U.S. with a McDonald\u2019s hash brown?\n",
+        "answer": 8,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 26
+    },
+    {
+        "question": "Going off of the previous question, if I dropped a pebble at a random location in the U.S., what is the probability that I hit one of the McDonald\u2019s hash browns I put down?\n",
+        "answer": -25,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 27
+    },
+    {
+        "question": "How many Bugatti Chirons could I buy with the combined endowment of all Ivy League Schools in the year 2018?\n",
+        "answer": 5,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 28
+    },
+    {
+        "question": "What is the (outer) diameter of a standard flu shot needle, in parsecs?\n",
+        "answer": -20,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 29
+    },
+    {
+        "question": "How many standard hairdryers would I need to run simultaneously to have a power output equal to that of the sun?\n",
+        "answer": 23,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 30
+    },
+    {
+        "question": "Apparently woodchucks don\u2019t actually chuck wood. But anyways, how much wood, in mm3 , could a woodchuck chuck in a galactic year if a woodchuck chucks wood at a rate of 1 mm3 per picosecond?\n",
+        "answer": 28,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 31
+    },
+    {
+        "question": "How many ways are there to travel from the coordinates (0, 0) to (100, 100) if you can only move between lattice points to the right and upwards and cannot cross above the main diagonal?\n",
+        "answer": 57,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 32
+    },
+    {
+        "question": "What is 49!!? Here, \u2018!!\u2019 refers to double factorial, where n!! means the product of all positive integers less than or equal n with the same parity as n.\n",
+        "answer": 32,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 33
+    },
+    {
+        "question": "Let x = SUM (n = 1 ... 100000) 1/n. What is e^x?\n",
+        "answer": 5,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 34
+    },
+    {
+        "question": "What is the probability that a random chosen subset of the positive integers less than or equal to 10 is a subset of the positive integers less than or equal to 4?\n",
+        "answer": -2,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 35
+    },
+    {
+        "question": "What is the total distance, in meters, traveled by the world\u2019s commercial airplanes in one day?\n",
+        "answer": 10,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 36
+    },
+    {
+        "question": "How many Stanford alumni are living today?\n",
+        "answer": 5,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 37
+    },
+    {
+        "question": "How many book volumes are in UC Berkeley libraries?\n",
+        "answer": 7,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 38
+    },
+    {
+        "question": "What is the total combined annual budget of the Lawrence Berkeley National Laboratory and the SLAC National Accelerator Laboratory, in US dollars?\n",
+        "answer": 9,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 39
+    },
+    {
+        "question": "How many colors are used in the tile mosaics in Stanford\u2019s Memorial Church?\n",
+        "answer": 4,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 40
+    },
+    {
+        "question": "How many undergraduate international students\u2019 yearly tuition at UC Berkeley can be paid for by China\u2019s 2023 defense budget?\n",
+        "answer": 7,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 41
+    },
+    {
+        "question": "How many Nobel Prize medals could be cast using the amount of gold that Mansa Musa donated during his historically significant pilgrimage to Mecca?\n",
+        "answer": 5,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 42
+    },
+    {
+        "question": "The plucky tardigrades of Lawrence Berkeley National Laboratory, inspired by their distinct cousin Oski the Bear, seek to attack Stanford University on the eve of the Axe Game. Taking advantage of a captured cache of human blood, how many red blood cells will these \u201cwater bears\u201d need to build a bridge to Stanford Stadium? The bridge has to be wide enough for them to march single-file, and is a straight line in the air.\n",
+        "answer": 12,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 43
+    },
+    {
+        "question": "DDT is an insecticide that was widely used in the 20th century, before being banned due to public outcry that it was inadvertently causing declines in populations of America\u2019s national bird, the bald eagle, due to fertility issues. How much DDT, ingested orally, in picograms, would have a 50% chance of killing an adult blue whale?\n",
+        "answer": 17,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 44
+    },
+    {
+        "question": "How many rolls of toilet paper would I need to completely cover the surface area of the earth?\n",
+        "answer": 14,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 45
+    },
+    {
+        "question": "If I drained 50000 cubic meters of water from Lake Superior for everytime Wildest Dreams (Taylor\u2019s Version) was streamed on Spotify, how much would the depth of Lake Superior change, in meters?\n",
+        "answer": 2,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 46
+    },
+    {
+        "question": "How many oxygen atoms would I inhale if I sat and listened to the entirety of the Midnights (The Til Dawn Edition) album by Taylor Swift?\n",
+        "answer": 25,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 47
+    },
+    {
+        "question": "In \u201cinvisible string\u201d, Taylor Swift sings \u201cone single thread of gold tied me to you\u201d. How much would a rod of solid gold, stretching from Philadelphia to Berkeley with diameter equal to that of 3-ply twine, be worth, in US Dollars?\n",
+        "answer": 11,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 48
+    },
+    {
+        "question": "What is the angular velocity of the Big Ass Fans E-Series 12-ft 6-blade commercial Ceiling Fan spinning at its highest speed in gradians/millisecond? (gradians is not a typo)\n",
+        "answer": -5,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 49
+    },
+    {
+        "question": "How much Bitcoin (at the highest recorded price in history) could I buy with the cost of a 35-stick pack of Wrigley\u2019s Extra Spearmint Sugar Free Chewing Gum?\n",
+        "answer": -5,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 50
+    },
+    {
+        "question": "Fun fact: there\u2019s a (not-so) secret tunnel underneath UC Berkeley that connects the Gardner Main Stacks under our flagship Doe Memorial Library to Moffitt Undergraduate Library next door. Although you\u2019ll need a Cal 1 Card to gain access, this event supervisor luckily has one :D Suppose I\u2019m practicing for a marathon and need a quiet place to train. How many times would I need to run through the Moffitt portion of the tunnel to get to an equivalent distance of a marathon?\n",
+        "answer": 3,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 51
+    },
+    {
+        "question": "In the name of inter-university cooperation, the administration of UC Berkeley decides to dig another tunnel connecting two libraries. One is Doe Memorial, and the other is... Cecil H. Green Library at Stanford... If this new passageway is a direct, straight line from Doe to Green, and has the same height and width as an average door, then how many cubic inches of earth would have to be displaced?\n",
+        "answer": 10,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 52
+    },
+    {
+        "question": "Continuing in the spirit of inter-university cooperation, suppose that the students from Berkeley and Stanford want to break the record for the loudest sound ever recorded. To do this, each student decides to scream as loud as they can. How many students, collectively screaming, will be needed to break this record? Assume that each student screams at a sound level of 80 dB.\n",
+        "answer": 23,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 53
+    },
+    {
+        "question": "Realizing that breaking the record for loudest sound may be a little difficult, the students decide to try their hand at breaking the record for \u201cmost people brushing their teeth simultaneously\u201d. With the minimum number of students needed to break this record, how many total grams of fluoride would be found in all the toothpaste used? Assume each student uses a standard, pea-sized amount of toothpaste and everyone uses Colgate Total Original Toothpaste.\n",
+        "answer": 1,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 54
+    },
+    {
+        "question": "After all that brushing, these students suddenly feel like having a sweet treat: Honey. However, they want to source their honey only from the bees (assume all bees are honey bees) that assisted Ruan Liangming in his record for \u201cworld\u2019s largest mantle of bees\u201d. How much total honey, in tablespoons, would all of those bees produce in their lifetime?\n",
+        "answer": 4,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 55
+    },
+    {
+        "question": "Let\u2019s say that all of the rotisserie chickens that Costco sold in 2021 were all alive on the same day. How much feed, in pounds, would be collectively consumed by all of those chickens on that day?\n",
+        "answer": 7,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 56
+    },
+    {
+        "question": "If every Leopard 2 main battle tank ever manufactured, the primary tank used by Germany as well as a host of other Western countries, suddenly turned into adult leopards, then how many kilograms of meat would they consume each year?\n",
+        "answer": 6,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 57
+    },
+    {
+        "question": "The vast majority of the world\u2019s Internet data is transmitted through underwater fiber-optic cables. What is the total length of these underwater cables, in meters?\n",
+        "answer": 9,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 58
+    },
+    {
+        "question": "What is the maximum power a horse can produce, in horsepower?\n",
+        "answer": 1,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 59
+    },
+    {
+        "question": "The General Electric GE9X is the world\u2019s largest commercial jet engine, used exclusively on Boeing 777X airplanes. If 10,000 GE9X jet engines were strapped to the Earth\u2019s equator, pointed eastward, and started, how long would it take to stop the Earth\u2019s rotation, in years? Don\u2019t worry about the mass of the Earth changing due to fuel consumption.\n",
+        "answer": 10,
+        "source": "Golden Gate Invitational 23-24",
+        "number": 60
     },
     {
         "question": "What is the wingspan of the largest gull species, the great black-backed gull, in angstroms?\n",
@@ -6826,6 +7444,270 @@ data = [
         "answer": 6,
         "source": "High Desert Satellite Invitational 22-23",
         "number": 34
+    },
+    {
+        "question": "What are the odds of hitting the roulette correctly 6 times in a row?\n",
+        "answer": -10,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 1
+    },
+    {
+        "question": "How many steps will a human take in their lifetime?\n",
+        "answer": 8,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 2
+    },
+    {
+        "question": "How many ants are in the average colony?\n",
+        "answer": 5,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 3
+    },
+    {
+        "question": "How many gallons of ice cream area consumed in the United States each year?\n",
+        "answer": 9,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 4
+    },
+    {
+        "question": "How many liters of beer are consumed in Germany each year?\n",
+        "answer": 6,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 5
+    },
+    {
+        "question": "Approximately how many seconds left do you have to left to live?\n",
+        "answer": 9,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 6
+    },
+    {
+        "question": "What is the atmospheric pressure (in ATM) at the bottom of the Mariana Trench?\n",
+        "answer": 4,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 7
+    },
+    {
+        "question": "How many base pairs comprise the DNA in all of the cells in the human body combined?\n",
+        "answer": 23,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 8
+    },
+    {
+        "question": "How many pizza boxes would one need to make a stack the height of the Leaning Tower of Pisa?\n",
+        "answer": 3,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 9
+    },
+    {
+        "question": "How many dead skin cells are shed by all the people on Earth each year?\n",
+        "answer": 18,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 10
+    },
+    {
+        "question": "What is the approximate population of the world?\n",
+        "answer": 10,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 11
+    },
+    {
+        "question": "How many pieces of un-popped popcorn does it take to fill a 10ft x 10ft x 10ft room?\n",
+        "answer": 8,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 12
+    },
+    {
+        "question": "Average number of transistors on a modern CPU?\n",
+        "answer": 11,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 13
+    },
+    {
+        "question": "How many manhole covers in the city of New York?\n",
+        "answer": 5,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 14
+    },
+    {
+        "question": "How many grains of rice fit in an 8 fluid ounce cup?\n",
+        "answer": 4,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 15
+    },
+    {
+        "question": "How many trees are in the amazon rainforest?\n",
+        "answer": 11,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 16
+    },
+    {
+        "question": "How many planets in our universe can have life?\n",
+        "answer": 5,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 17
+    },
+    {
+        "question": "How many PLAIN M&Ms would it take to fill the grand canyon?\n",
+        "answer": 16,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 18
+    },
+    {
+        "question": "What is the probability that a quarter lands on the same side 30 times ?\n",
+        "answer": -11,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 19
+    },
+    {
+        "question": "How many baseballs would fit in an Olympic sized swimming pool?\n",
+        "answer": 5,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 20
+    },
+    {
+        "question": "What volume of gasoline in liters is needed to accelerate an SUV from rest to highway speed?\n",
+        "answer": -2,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 21
+    },
+    {
+        "question": "How many people attend Aneheim Disneyland each year?\n",
+        "answer": 7,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 22
+    },
+    {
+        "question": "How many hours of computer screen time does a person spend a year?\n",
+        "answer": 3,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 23
+    },
+    {
+        "question": "How many minutes do high schoolers spend texting in a year?\n",
+        "answer": 11,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 24
+    },
+    {
+        "question": "How many fluid 8 ounce cups of tea is consumed around the world in a year?\n",
+        "answer": 12,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 25
+    },
+    {
+        "question": "How many miles of paved road are in the U.S?\n",
+        "answer": 6,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 26
+    },
+    {
+        "question": "How many pennies can you stack from the Earth to the moon?\n",
+        "answer": 8,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 27
+    },
+    {
+        "question": "How many stone blocks were used to build the pyramid of Giza?\n",
+        "answer": 6,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 28
+    },
+    {
+        "question": "How long, in hours, does it take for a beam of light to traverse the continental U.S.?\n",
+        "answer": -6,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 29
+    },
+    {
+        "question": "How many single family homes are in the U.S?\n",
+        "answer": 8,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 30
+    },
+    {
+        "question": "How fast does human hair grow (in km/hr)?\n",
+        "answer": -8,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 31
+    },
+    {
+        "question": "How many light years across is the milky way?\n",
+        "answer": 5,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 32
+    },
+    {
+        "question": "How many pixels is in a piece of standard paper?\n",
+        "answer": 6,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 33
+    },
+    {
+        "question": "How many Christmas trees are sold every year in the U.S?\n",
+        "answer": 7,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 34
+    },
+    {
+        "question": "How many kgs of cheese are stored in the United States national cheese bank in Missouri?\n",
+        "answer": 9,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 35
+    },
+    {
+        "question": "How many grains of rice can a person eat in their lifetime?\n",
+        "answer": 9,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 36
+    },
+    {
+        "question": "How many Olympic pools are in a fluid 8 ounce cup?\n",
+        "answer": -7,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 37
+    },
+    {
+        "question": "How many beats will a heart beat in a lifetime?\n",
+        "answer": 9,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 38
+    },
+    {
+        "question": "How many miles thick is a strand of hair?\n",
+        "answer": -8,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 39
+    },
+    {
+        "question": "What is the wavelength of violet light in nanometers?\n",
+        "answer": -7,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 40
+    },
+    {
+        "question": "How many kilowatts of energy is produced by a hamster on a wheel?\n",
+        "answer": -4,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 41
+    },
+    {
+        "question": "How many watts of electricity to power all the lights in Las Vegas per year?\n",
+        "answer": 9,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 42
+    },
+    {
+        "question": "How many bowling balls fit in the Pacific Ocean\n",
+        "answer": 18,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 43
+    },
+    {
+        "question": "How many grams of trash are produced by an average family per year?\n",
+        "answer": 6,
+        "source": "High Desert Satellite Invitational 23-24",
+        "number": 44
     },
     {
         "question": "In the United States, how many swear words are spoken out loud in one average day?\n",
@@ -10366,6 +11248,318 @@ data = [
         "answer": -5,
         "source": "Princeton Invitational 22-23",
         "number": 36
+    },
+    {
+        "question": "How many pounds of water is released into the atmosphere annually by grapes drying into raisins worldwide?\n",
+        "answer": 10,
+        "source": "Princeton Invitational 23-24",
+        "number": 1
+    },
+    {
+        "question": "How long in seconds would it take to travel Route 1 at a garden snail's pace? (Note: Route 1 is about 2/3 the length of the longest route in the US and garden snails are surprisingly fast.)\n",
+        "answer": 8,
+        "source": "Princeton Invitational 23-24",
+        "number": 2
+    },
+    {
+        "question": "The popular trick-shot YouTube channel Dude Perfect attempts their craziest one yet: they are going to place a dartboard at a uniformly random location on the moon and then shoot a dart at a uniformly random location on the moon from orbit. They will attempt this once every minute. What is the expected number of times the Moon will go around the Earth before they succeed in their trickshot?\n",
+        "answer": 10,
+        "source": "Princeton Invitational 23-24",
+        "number": 3
+    },
+    {
+        "question": "How many VHS copies of the movie Titanic could fit in the original RMS Titanic ship?\n",
+        "answer": 8,
+        "source": "Princeton Invitational 23-24",
+        "number": 4
+    },
+    {
+        "question": "How many \u201cXs\u201d (Tweets) were on X (Twitter) in 2023?\n",
+        "answer": 12,
+        "source": "Princeton Invitational 23-24",
+        "number": 5
+    },
+    {
+        "question": "What is the ratio of the energy of one photon of violet wavelength to the (magnitude of) energy of an electron at the first energy level in a hydrogen atom ?\n",
+        "answer": -2,
+        "source": "Princeton Invitational 23-24",
+        "number": 6
+    },
+    {
+        "question": "With standard ASCII character encoding, how many bits would the text of all the Harry Potter books occupy?\n",
+        "answer": 8,
+        "source": "Princeton Invitational 23-24",
+        "number": 7
+    },
+    {
+        "question": "How many liters of ocean water would you have to boil to end up with a ton of salt?\n",
+        "answer": 4,
+        "source": "Princeton Invitational 23-24",
+        "number": 8
+    },
+    {
+        "question": "How many living Princeton Alumni are there?\n",
+        "answer": 5,
+        "source": "Princeton Invitational 23-24",
+        "number": 9
+    },
+    {
+        "question": "Bob hates Valentine's Day. He is arranging the seating for a round table of 7 couples for a Valentine\u2019s Day gathering. How many arrangements are there such that no couples are sitting next to each other?\n",
+        "answer": 10,
+        "source": "Princeton Invitational 23-24",
+        "number": 10
+    },
+    {
+        "question": "What is the weight of LEGO bricks sold every year in units of average African Elephants?\n",
+        "answer": 4,
+        "source": "Princeton Invitational 23-24",
+        "number": 11
+    },
+    {
+        "question": "In the time it takes for a ball to fall (from rest) from the height of the peak of Mount Everest straight down to sea level, how many blinks occur worldwide?\n",
+        "answer": 11,
+        "source": "Princeton Invitational 23-24",
+        "number": 12
+    },
+    {
+        "question": "How many Lincoln pennies have been minted since the turn of the millennium?\n",
+        "answer": 11,
+        "source": "Princeton Invitational 23-24",
+        "number": 13
+    },
+    {
+        "question": "How many seconds would it take for your heart to pump a volume of blood equivalent to that of an olympic sized pool?\n",
+        "answer": 7,
+        "source": "Princeton Invitational 23-24",
+        "number": 14
+    },
+    {
+        "question": "If Dovak Njokovic has a 25% chance of winning any tennis match, what is the probability he gets a calendar year Grand Slam? A calendar year Grand Slam is equivalent to winning four 128-entrance single elimination bracket tournaments in a row.\n",
+        "answer": -17,
+        "source": "Princeton Invitational 23-24",
+        "number": 15
+    },
+    {
+        "question": "If all the energy produced by the world\u2019s wind turbines in the year 2022 was stored on a standard 10 microFarad capacitor, what would the voltage (in Volts) be between the two ends of the capacitor?\n",
+        "answer": 12,
+        "source": "Princeton Invitational 23-24",
+        "number": 16
+    },
+    {
+        "question": "It\u2019s National Golden Retriever Day! How many golden retriever paws are in the world?\n",
+        "answer": 8,
+        "source": "Princeton Invitational 23-24",
+        "number": 17
+    },
+    {
+        "question": "How many days would it take for McDonalds to sell a mole of hamburger assuming they continue to sell at the same rate as today?\n",
+        "answer": 17,
+        "source": "Princeton Invitational 23-24",
+        "number": 18
+    },
+    {
+        "question": "How many cows would I need to produce enough milk in a year to fill a hollow container the size of the earth?\n",
+        "answer": 20,
+        "source": "Princeton Invitational 23-24",
+        "number": 19
+    },
+    {
+        "question": "In 2021, world-famous eater Joey Chestnut ate 76 hotdogs in 10 minutes. How many ounces of chestnuts would he need to eat per second for 10 minutes to match the total number of calories consumed?\n",
+        "answer": 0,
+        "source": "Princeton Invitational 23-24",
+        "number": 20
+    },
+    {
+        "question": "How many Fermi Questions will be written for tournaments in the 2023-2024 Science Olympiad Season?\n",
+        "answer": 4,
+        "source": "Princeton Invitational 23-24",
+        "number": 21
+    },
+    {
+        "question": "How many Joules would you need to power a light-year long string of Christmas lights for an hour?\n",
+        "answer": 20,
+        "source": "Princeton Invitational 23-24",
+        "number": 22
+    },
+    {
+        "question": "How many days would it take Usain Bolt to run along every length of rail track in the US railroad system without repeating any segments at his 2008 Olympic pace?\n",
+        "answer": 2,
+        "source": "Princeton Invitational 23-24",
+        "number": 23
+    },
+    {
+        "question": "Given it takes 80 soldier crabs to store a bit using a flip-flop, how many soldier crabs does it take to make a 64-bit carry ripple adder?\n",
+        "answer": 4,
+        "source": "Princeton Invitational 23-24",
+        "number": 24
+    },
+    {
+        "question": "How many steps does the population of America take per day?\n",
+        "answer": 12,
+        "source": "Princeton Invitational 23-24",
+        "number": 25
+    },
+    {
+        "question": "How many popular votes separated Thomas Jefferson and John Adams in the 1796 Presidential Election?\n",
+        "answer": 3,
+        "source": "Princeton Invitational 23-24",
+        "number": 26
+    },
+    {
+        "question": "What fraction of the GDP of Japan is the biggest price a Pokemon card has sold for?\n",
+        "answer": -6,
+        "source": "Princeton Invitational 23-24",
+        "number": 27
+    },
+    {
+        "question": "How many days would it take to type out every possible ordered combination of 6 or fewer lowercase letters of the English alphabet (with no spaces between) at a rate of 10^-8 characters per nanosecond?\n",
+        "answer": 3,
+        "source": "Princeton Invitational 23-24",
+        "number": 28
+    },
+    {
+        "question": "What velocity in meters per second do you need to launch an angry bird on the surface of the sun for it to leave orbit?\n",
+        "answer": 6,
+        "source": "Princeton Invitational 23-24",
+        "number": 29
+    },
+    {
+        "question": "How many treadmill belts, cut open and laid end to end, would it take to connect the distance between the two farthest apart Planet Fitness locations in the contiguous US?\n",
+        "answer": 6,
+        "source": "Princeton Invitational 23-24",
+        "number": 30
+    },
+    {
+        "question": "What is the weight of the inner core of the earth in cars?\n",
+        "answer": 20,
+        "source": "Princeton Invitational 23-24",
+        "number": 31
+    },
+    {
+        "question": "How many liters of room-temperature Dr. Pepper could be carbonated with the world's CO2 emissions during 2022?\n",
+        "answer": 16,
+        "source": "Princeton Invitational 23-24",
+        "number": 32
+    },
+    {
+        "question": "On average, how many times more likely is someone to die going skydiving compared to winning the powerball?\n",
+        "answer": 3,
+        "source": "Princeton Invitational 23-24",
+        "number": 33
+    },
+    {
+        "question": "At Princeton, an undergraduate student is allocated 2700 sheets of printing paper per a year while a graduate student is allocated 3600 sheets of printing paper per a year. If all enrolled students used all of their allocated printing paper (news flash: they don\u2019t), how tall, in inches, would a pine tree of 24 in diameter need to be to supply all this paper?\n",
+        "answer": 5,
+        "source": "Princeton Invitational 23-24",
+        "number": 34
+    },
+    {
+        "question": "The original Rosetta Stone was a rather inefficient way to store information, in terms of words per kilogram. How many times more efficient is a hardcover copy of the first Diary of a Wimpy Kid book? (The original Rosetta Stone communicated the same message three times in three different languages, but consider the total words on it to be just the number of words in the English translation of the original (unrepeated) message)\n",
+        "answer": 4,
+        "source": "Princeton Invitational 23-24",
+        "number": 35
+    },
+    {
+        "question": "How many kilograms would all the eyeglasses lenses worn by Americans weigh?\n",
+        "answer": 6,
+        "source": "Princeton Invitational 23-24",
+        "number": 36
+    },
+    {
+        "question": "How many adult bed bugs would you need to stack vertically (single file) to reach the height above sea level of the tallest active volcano in the world?\n",
+        "answer": 7,
+        "source": "Princeton Invitational 23-24",
+        "number": 37
+    },
+    {
+        "question": "How many dodecominos are there? Note: A dodecomino is made up of 12 unit squares connected edge to edge, while a tetromino, from Tetris, has 4 unit squares connected edge to edge. Rotations are considered equivalent pieces.\n",
+        "answer": 5,
+        "source": "Princeton Invitational 23-24",
+        "number": 38
+    },
+    {
+        "question": "If you took all the energy released when a slug of sodium reacts with chlorine gas to launch all the salt produced from the reaction straight up (on earth), what height, in meters, above the ground would it reach?\n",
+        "answer": 7,
+        "source": "Princeton Invitational 23-24",
+        "number": 39
+    },
+    {
+        "question": "The electrostatic force between a proton and an electron 1 Angstrom apart is what fraction of the force needed to frictionlessly accelerate a neutron at a rate of 1 septillion meters per second squared?\n",
+        "answer": -5,
+        "source": "Princeton Invitational 23-24",
+        "number": 40
+    },
+    {
+        "question": "Over the course of a fortnight, a hundredth of a furlong of rain falls over a 3-hectare area. How many slugs of water fell per minute on average?\n",
+        "answer": 2,
+        "source": "Princeton Invitational 23-24",
+        "number": 41
+    },
+    {
+        "question": "Suppose you warm up your shoulder and throw a bowling ball at 995 times the speed of light down a bowling lane. In the frame of reference of the bowling ball, how many nanoseconds will elapse before it contacts the pins?\n",
+        "answer": 3,
+        "source": "Princeton Invitational 23-24",
+        "number": 42
+    },
+    {
+        "question": "If you covered the floor of the entire Flatiron Building with quarters, what would be the total value of the quarters in USD?\n",
+        "answer": 7,
+        "source": "Princeton Invitational 23-24",
+        "number": 43
+    },
+    {
+        "question": "How many nanoseconds elapsed between the first tumbler (event in the Olympic Games) and the first Tumblr (account)?\n",
+        "answer": 18,
+        "source": "Princeton Invitational 23-24",
+        "number": 44
+    },
+    {
+        "question": "Although friends often joke that they share one brain cell, what fraction of the cells in an average adult are actually brain cells (specifically neurons)?\n",
+        "answer": -3,
+        "source": "Princeton Invitational 23-24",
+        "number": 45
+    },
+    {
+        "question": "How many meters of thread would you have if you unraveled all the T-shirts sold in the past 10 years?\n",
+        "answer": 12,
+        "source": "Princeton Invitational 23-24",
+        "number": 46
+    },
+    {
+        "question": "How many hamsters running on wheels would you need to temporarily produce the same amount of power as an average full capacity nuclear power plant?\n",
+        "answer": 9,
+        "source": "Princeton Invitational 23-24",
+        "number": 47
+    },
+    {
+        "question": "How much money (in USD) have movies starring Leonardo DiCaprio grossed worldwide?\n",
+        "answer": 10,
+        "source": "Princeton Invitational 23-24",
+        "number": 48
+    },
+    {
+        "question": "What proportion of Princeton\u2019s undergraduate campus is taken up by the room you are currently in?\n",
+        "answer": -5,
+        "source": "Princeton Invitational 23-24",
+        "number": 49
+    },
+    {
+        "question": "PUSO tournament co-director Inwoo Shin is attempting to remember her password, which she knows is exactly 10 numbers long. She randomly types 10 numbers at a rate of 1 number per second and then checks if the password is correct. She repeats this until she gets the password right. What is the expected number of minutes she will take to get the password correct?\n",
+        "answer": 9,
+        "source": "Princeton Invitational 23-24",
+        "number": 50
+    },
+    {
+        "question": "This time, the computer (which is also owned jointly by PUSO tournament co-director Anthony Lopez) helps her out: for each attempt, as soon as she inputs a number incorrectly, the computer clears the attempt and she has to start over. She types at the same rate of one number every second. What is the expected number of minutes she will take to get the password correct?\n",
+        "answer": 8,
+        "source": "Princeton Invitational 23-24",
+        "number": 51
+    },
+    {
+        "question": "If every US coin in circulation was instead a bitcoin, how much would all the coins collectively be worth in US dollars? (Assume current value of bitcoin.)\n",
+        "answer": 15,
+        "source": "Princeton Invitational 23-24",
+        "number": 52
     },
     {
         "question": "How many tennis balls would fit in the Indian Ocean?\n",
@@ -14938,6 +16132,414 @@ data = [
         "answer": 3,
         "source": "UChicago Invitational 22-23",
         "number": 50
+    },
+    {
+        "question": "How many modern transistors are needed to line Earth\u2019s circumference?\n",
+        "answer": 16,
+        "source": "UChicago Invitational 23-24",
+        "number": 1
+    },
+    {
+        "question": "How many moles of carbon are in one Flamin\u2019 Hot Cheeto?\n",
+        "answer": -2,
+        "source": "UChicago Invitational 23-24",
+        "number": 2
+    },
+    {
+        "question": "How many piano strings would the average piano tuner in Chicago tune per year?\n",
+        "answer": 5,
+        "source": "UChicago Invitational 23-24",
+        "number": 3
+    },
+    {
+        "question": "How many femtoseconds is the duration of every Beethoven symphony combined?\n",
+        "answer": 19,
+        "source": "UChicago Invitational 23-24",
+        "number": 4
+    },
+    {
+        "question": "How many IKEAs are there in the entire world?\n",
+        "answer": 2,
+        "source": "UChicago Invitational 23-24",
+        "number": 5
+    },
+    {
+        "question": "Suppose you roll three 12-sided dice. How many ways are there for the product of each die to be even?\n",
+        "answer": 3,
+        "source": "UChicago Invitational 23-24",
+        "number": 6
+    },
+    {
+        "question": "How many single crystals of salt would it take to completely cover the surface of a playing card?\n",
+        "answer": 16,
+        "source": "UChicago Invitational 23-24",
+        "number": 7
+    },
+    {
+        "question": "If each tree on Earth was replaced by a grain of rice, how many servings of rice would it make?\n",
+        "answer": 9,
+        "source": "UChicago Invitational 23-24",
+        "number": 8
+    },
+    {
+        "question": "How many hours would it take light to travel the length (from north to south) of Illinois?\n",
+        "answer": -5,
+        "source": "UChicago Invitational 23-24",
+        "number": 9
+    },
+    {
+        "question": "How many gallons of milk would it take to fill Lake Michigan?\n",
+        "answer": 15,
+        "source": "UChicago Invitational 23-24",
+        "number": 10
+    },
+    {
+        "question": "How many times has Barbie been screened worldwide in theaters since its release?\n",
+        "answer": 6,
+        "source": "UChicago Invitational 23-24",
+        "number": 11
+    },
+    {
+        "question": "In centimeters, how long is the standard distance between first and second base in Wrigley field?\n",
+        "answer": 3,
+        "source": "UChicago Invitational 23-24",
+        "number": 12
+    },
+    {
+        "question": "How many parsecs are in a kilometer?\n",
+        "answer": -14,
+        "source": "UChicago Invitational 23-24",
+        "number": 13
+    },
+    {
+        "question": "How many dried prunes long (measured on their long axis) is a stretched out small intestine?\n",
+        "answer": 3,
+        "source": "UChicago Invitational 23-24",
+        "number": 14
+    },
+    {
+        "question": "How many apples worth of apple juice would it take to fill up an 18-wheeler truck?\n",
+        "answer": 7,
+        "source": "UChicago Invitational 23-24",
+        "number": 15
+    },
+    {
+        "question": "How many standard cans of beans would it take to fill up the volume of the moon?\n",
+        "answer": 22,
+        "source": "UChicago Invitational 23-24",
+        "number": 16
+    },
+    {
+        "question": "Chicago-based FM radio station WHPK is headquartered on the UChicago campus! If I wait exactly a second, how many full wavelengths of the incoming radio wave have passed through me?\n",
+        "answer": 7,
+        "source": "UChicago Invitational 23-24",
+        "number": 17
+    },
+    {
+        "question": "How many different species of beetle are there in the world?\n",
+        "answer": 5,
+        "source": "UChicago Invitational 23-24",
+        "number": 18
+    },
+    {
+        "question": "If the mass of the Earth stayed at its current value, how small of a diameter, in millimeters, would I have to compress the Earth to in order for it to collapse under its own density and become a black hole?\n",
+        "answer": 1,
+        "source": "UChicago Invitational 23-24",
+        "number": 19
+    },
+    {
+        "question": "The fastest baseball pitch ever thrown is around 100mph. How many times faster would it have to have been in order to reach the escape velocity of Earth?\n",
+        "answer": 2,
+        "source": "UChicago Invitational 23-24",
+        "number": 20
+    },
+    {
+        "question": "How many orders does Amazon.com receive per day?\n",
+        "answer": 7,
+        "source": "UChicago Invitational 23-24",
+        "number": 21
+    },
+    {
+        "question": "How many base pairs of DNA are there in one copy of the human genome?\n",
+        "answer": 9,
+        "source": "UChicago Invitational 23-24",
+        "number": 22
+    },
+    {
+        "question": "California\u2019s General Sherman sequoia is the largest tree by volume in the world. How many Rubik\u2019s cubes would fit inside its trunk?\n",
+        "answer": 8,
+        "source": "UChicago Invitational 23-24",
+        "number": 23
+    },
+    {
+        "question": "What is the highest frequency a human being can hear, in hertz?\n",
+        "answer": 4,
+        "source": "UChicago Invitational 23-24",
+        "number": 24
+    },
+    {
+        "question": "How many unique ways can I arrange 8 different books on a shelf that holds 6?\n",
+        "answer": 4,
+        "source": "UChicago Invitational 23-24",
+        "number": 25
+    },
+    {
+        "question": "How many hydrogen atoms are there in a liter of water?\n",
+        "answer": 26,
+        "source": "UChicago Invitational 23-24",
+        "number": 26
+    },
+    {
+        "question": "How long has it been since the fall of the Roman empire, measured in units of the half-life of carbon-14?\n",
+        "answer": -1,
+        "source": "UChicago Invitational 23-24",
+        "number": 27
+    },
+    {
+        "question": "How many seconds would it take for a brick to fall freely from rest, neglecting all air resistance, from the top of the Burj Khalifa?\n",
+        "answer": 1,
+        "source": "UChicago Invitational 23-24",
+        "number": 28
+    },
+    {
+        "question": "How many books are in UChicago\u2019s Regenstein Library?\n",
+        "answer": 6,
+        "source": "UChicago Invitational 23-24",
+        "number": 29
+    },
+    {
+        "question": "How many scholars associated with the University of Chicago have been awarded a Nobel prize?\n",
+        "answer": 2,
+        "source": "UChicago Invitational 23-24",
+        "number": 30
+    },
+    {
+        "question": "If the aircraft supercarrier HMS Queen Elizabeth, the flagship of the British Royal Navy, were to have its fuel tanks be filled with chocolate milk, how many grams of protein would it contain?\n",
+        "answer": 8,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 1
+    },
+    {
+        "question": "Suppose every active member of the Luxembourg Armed Forces suddenly became allergic to every known food, except for chocolate milk. How many Suezmax oil tankers filled to capacity with chocolate milk would be needed to calorically sustain them for exactly one day?\n",
+        "answer": -5,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 2
+    },
+    {
+        "question": "Using the United States of America\u2019s yearly national defense budget for the 2024 fiscal year, how many 52 fl oz bottles of chocolate milk could I purchase from Walmart?\n",
+        "answer": 11,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 3
+    },
+    {
+        "question": "If I wanted to fill the gas tanks of every Leopard 2 Main Battle Tank owned by the Federal Republic of Germany as of 2022 with chocolate milk instead of diesel, how many 52 fl oz bottles of chocolate milk would I need to buy?\n",
+        "answer": 5,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 4
+    },
+    {
+        "question": "If I somehow magically converted the engines of a T-72 Soviet Main Battle Tank to run on chocolate milk (harnessing 100% of the calories within the heavenly liquid), then how far could it go on a full tank, in kilometers?\n",
+        "answer": 1,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 5
+    },
+    {
+        "question": "If I filled the internal tanks of every Dassault Rafale multirole fighter jet operated by the Indian Air Force with chocolate milk instead of fuel, how many calories would exist, just from the fat content?\n",
+        "answer": 7,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 6
+    },
+    {
+        "question": "How many grams of pure gold can I buy with the total amount of credit card debt that Californians currently hold?\n",
+        "answer": 9,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 7
+    },
+    {
+        "question": "If the Golden Gate Bridge in the San Francisco Bay Area suddenly turned into 24 karat gold, how much would it be worth, in the context of the January 2024 market?\n",
+        "answer": 14,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 8
+    },
+    {
+        "question": "If I laid Fort Knox standard gold bars length-wise throughout the entirety of the Interstate 5 highway that exists within California\u2019s borders, then how many gold bars would I need?\n",
+        "answer": 7,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 9
+    },
+    {
+        "question": "To recoup some of our tuition money, some trusted associates and myself have stolen the Nobel Prize medals of every single laureate ever affiliated with the University of California system. How many metric tons of gold would we yield from this dastardly, devious, and diabolical caper?\n",
+        "answer": -2,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 10
+    },
+    {
+        "question": "The Golden 1 Stadium in Sacramento, California, built at the epicenter of the California Gold Rush in the mid-19th century, is home to the Sacramento Kings (Light the Beam!!!). It has a capacity of about 18,000 people, and construction was started in How many Golden 1 Stadiums could be built in 2024 with the liquid value of all of the gold extracted in California during the California Gold Rush?\n",
+        "answer": 1,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 11
+    },
+    {
+        "question": "If I used America\u2019s gold reserves to plate the entirety of California\u2019s surface area in gold, how thick would the layer be, in meters?\n",
+        "answer": -11,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 12
+    },
+    {
+        "question": "\"I'm sorry, the old Taylor can't come to the phone right now\" \"Why? Oh, 'cause she's dead\" How many phone calls have been placed globally ever since Taylor Swift sung this iconic lyric in 2017, to the date of this tournament?\n",
+        "answer": 13,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 13
+    },
+    {
+        "question": "\u201cBad, bad boy, shiny toy with a price. You know that I bought it (oh yeah, you're right, I want it)\u201d Let\u2019s pretend that all of the streams for Taylor Swift\u2019s \u201cCruel Summer\u201d on Spotify are unique (although we all know that\u2019s not true. I make up like... at least 100 of them...). Suppose all of those people bought tickets for the Eras Tour at the resale price averaged from all venues. How many \u201cIt's a Cruel Summer with You\u201d crewneck sweaters could be bought with the money instead?\n",
+        "answer": 10,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 14
+    },
+    {
+        "question": "\u201cGot a long list of ex-lovers. They'll tell you I'm insane\u201d I typed out a list of my competition... I mean... every person that Taylor Swift has ever dated. Only first and last names are used, and popular nicknames are applied, where applicable. If I multiplied the character count, including spaces, of Swift\u2019s popular song \u201cBlank Space,\u201d to the character count of my hit list, what would it be?\n",
+        "answer": 5,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 15
+    },
+    {
+        "question": "\"Saying goodbye is death by a thousand cuts\" If Taylor really did suffer a thousand cuts from every single one of her exes, how many stitches would she need? Assume that each cut is a mild 2-inch wound on a low-movement area of the body.\n",
+        "answer": 5,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 16
+    },
+    {
+        "question": "\u201cYou know I love a London boy. I enjoy walking SoHo, drinking in the afternoon (yeah)\u201d Despite the long distance, luckily Swift is an international pop star. Let\u2019s say she solely took round trips to visit her theoretical English bae, from JFK Intl. Airport in New York City, USA to London-Heathrow Airport in London, England, funding them solely with the royalties she was paid by Spotify in All air travel was done in her private jet, a Dassault Falcon Once she runs out of money, she stops. How many round trips could she take?\n",
+        "answer": 3,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 17
+    },
+    {
+        "question": "\u201cBut it's been two thousand one hundred and 90 days of our love blackout\u201d Suppose that there actually were 2,190 days between every single relationship that Taylor Swift had. She decides to use those periods to work on herself, by learning how to do the Cha-Cha Slide. How many times would she have done the Cha-Cha Slide all throughout her life?\n",
+        "answer": 7,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 18
+    },
+    {
+        "question": "\u201cAll along there was some invisible string tying you to me?\u201d Let\u2019s say there really was an invisible string, tying Travis Kelce and Taylor Swift together (if they\u2019re not together when you guys are taking this test I\u2019m actually gonna be so mad bc I\u2019m writing this in December rn \ud83d\udc80). Suppose they\u2019re each at their hometowns currently, with Kelce being from Westlake, OH and Swift from West Reading, PA. How many times could this supposed \u201cinvisible string\u201d from this situation wrap around a standard American football?\n",
+        "answer": 6,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 19
+    },
+    {
+        "question": "Although this test writer is currently attending UC Berkeley in the San Francisco Bay Area (which is like... at least two football fields away), and cannot be there in person to see all of you amazing people, if I were to steal a Bugatti Chiron Super Sport 300+ and race down the I-5, continuously maintaining top speed and with complete disregard for all traffic laws, how many centuries would it take me to get to UC Riverside?\n",
+        "answer": -6,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 20
+    },
+    {
+        "question": "The \u201cone-percenter\u201d claim refers to the idea that while 99% of motorcyclists are law-abiding, there is a 1% minority that are outlaws. If this is true, then should all \u201cone-percenters\u201d be convicted of federal crimes, then how much would it cost annually for the United States Bureau of Prisons to incarcerate them all?\n",
+        "answer": 10,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 21
+    },
+    {
+        "question": "If every person arrested on suspicion of driving under the influence in 2021 was actually intoxicated with alcohol, just barely over the legal limit, how many fluid ounces of alcohol would be in all of their collective bloodstreams?\n",
+        "answer": 7,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 22
+    },
+    {
+        "question": "What is the collective base horsepower of every Chevrolet Silverado (the most stolen vehicle in the United States) stolen in 2022?\n",
+        "answer": 7,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 23
+    },
+    {
+        "question": "How many base-model Ford Explorers could the California Highway Patrol buy with all of the revenue that comes from speeding tickets issued in California every year?\n",
+        "answer": 4,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 24
+    },
+    {
+        "question": "The Cannonball Run is an unofficial (and illegal, in theory) speed challenge where one attempts to cross the country as fast as possible in any automobile, going from New York City to Los Angeles. Suppose I was doing the Run starting in LA, and I had a California Highway Patrol officer in a standard police-issue Ford Explorer Interceptor pursuing me the entire time. We both magically have unlimited gas and do not have to stop. In US Dollars, how much would it cost the state of California to have this officer maintain his pursuit, from LA, until I finally finish the run and pull over to receive my speeding ticket in NYC?\n",
+        "answer": 3,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 25
+    },
+    {
+        "question": "What is 2024^pi?\n",
+        "answer": 10,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 26
+    },
+    {
+        "question": "What is pi^2024?\n",
+        "answer": 1006,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 27
+    },
+    {
+        "question": "What is 2024!?\n",
+        "answer": 58115,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 28
+    },
+    {
+        "question": "What is 123456789 x 987654321?\n",
+        "answer": 17,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 29
+    },
+    {
+        "question": "What is (e^pi)^(phi^lambda)^(A^K)?\n",
+        "answer": 4,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 30
+    },
+    {
+        "question": "What is 11162005 x 2172024?\n",
+        "answer": 13,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 31
+    },
+    {
+        "question": "If every human on Earth suddenly became the size of the Colossus of Rhodes, then how many pounds of carbon dioxide would we produce daily?\n",
+        "answer": 11,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 32
+    },
+    {
+        "question": "Although this affliction upon humanity magically repaired itself, for some reason, I am now the only colossal human left standing. Time to cause some mayhem! If I tore down the Great Pyramid of Giza, how many Stonehenge\u2019s could I build with the rubble?\n",
+        "answer": 3,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 33
+    },
+    {
+        "question": "Seeing as China isn\u2019t really under any more threat of invasion by ruthless Hun hordes, I suppose it\u2019s fine to \u201crepurpose\u201d the Great Wall of China. If I tore it down, how many Lighthouses of Alexandria\u2019s could I build with the rubble?\n",
+        "answer": 5,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 34
+    },
+    {
+        "question": "Did you all know that destroying ancient monuments is a war crime? I didn\u2019t. In a symbolic gesture, the Hague has set the venue of my trial to be one of the last Wonders of the World left standing after my rampage\u2014 the Colosseum. However.. It\u2019s a ruin\u2014hardly a setting worthy of the International Criminal Court. How many cubic meters of stone would be needed to restore it to its former glory?\n",
+        "answer": 5,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 35
+    },
+    {
+        "question": "I escaped custody and am now hiding in one of the Wonders of the Industrial World: the London sewer system. On an average year, how many tons of sewage passes through the system?\n",
+        "answer": 7,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 36
+    },
+    {
+        "question": "INTERPOL got a hot tip on my location and are now chasing me through Britain (I bet those sewer rats that I befriended... ratted me out). Somehow, they managed to reverse my colossal-ness, but I gained super speed (like... Usain Bolt-level speed) in the process. To make things interesting, I\u2019m fleeing through the Channel Tunnel, one of the Wonders of the Modern World, hopefully to find refuge in France. How many years would it take for me to run from the British side of the tunnel, to the French side?\n",
+        "answer": -4,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 37
+    },
+    {
+        "question": "Fun fact: The Eiffel Tower in Paris, France was considered for a contest naming the new Seven Wonders of the World, but it was not ultimately selected. The vengeful spirit of the Tower now seeks to team up with me to take revenge upon the world. If I managed to somehow abscond with the entire structure, and bring it with me into outer space, then how many Newtons of energy would be released upon the Earth from the kinetic force of me launching the Tower from the Moon?\n",
+        "answer": 16,
+        "source": "UC Riverside Highlander Invitational 23-24",
+        "number": 38
     },
     {
         "question": "How many words are there total on this test?\n",

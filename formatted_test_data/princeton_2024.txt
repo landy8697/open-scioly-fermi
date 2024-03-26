@@ -1,0 +1,106 @@
+Princeton Invitational 23-24
+52
+How many pounds of water is released into the atmosphere annually by grapes drying into raisins worldwide?
+10
+How long in seconds would it take to travel Route 1 at a garden snail's pace? (Note: Route 1 is about 2/3 the length of the longest route in the US and garden snails are surprisingly fast.)
+8
+The popular trick-shot YouTube channel Dude Perfect attempts their craziest one yet: they are going to place a dartboard at a uniformly random location on the moon and then shoot a dart at a uniformly random location on the moon from orbit. They will attempt this once every minute. What is the expected number of times the Moon will go around the Earth before they succeed in their trickshot?
+10
+How many VHS copies of the movie Titanic could fit in the original RMS Titanic ship?
+8
+How many “Xs” (Tweets) were on X (Twitter) in 2023?
+12
+What is the ratio of the energy of one photon of violet wavelength to the (magnitude of) energy of an electron at the first energy level in a hydrogen atom ?
+-2
+With standard ASCII character encoding, how many bits would the text of all the Harry Potter books occupy?
+8
+How many liters of ocean water would you have to boil to end up with a ton of salt?
+4
+How many living Princeton Alumni are there?
+5
+Bob hates Valentine's Day. He is arranging the seating for a round table of 7 couples for a Valentine’s Day gathering. How many arrangements are there such that no couples are sitting next to each other?
+10
+What is the weight of LEGO bricks sold every year in units of average African Elephants?
+4
+In the time it takes for a ball to fall (from rest) from the height of the peak of Mount Everest straight down to sea level, how many blinks occur worldwide?
+11
+How many Lincoln pennies have been minted since the turn of the millennium?
+11
+How many seconds would it take for your heart to pump a volume of blood equivalent to that of an olympic sized pool?
+7
+If Dovak Njokovic has a 25% chance of winning any tennis match, what is the probability he gets a calendar year Grand Slam? A calendar year Grand Slam is equivalent to winning four 128-entrance single elimination bracket tournaments in a row.
+-17
+If all the energy produced by the world’s wind turbines in the year 2022 was stored on a standard 10 microFarad capacitor, what would the voltage (in Volts) be between the two ends of the capacitor?
+12
+It’s National Golden Retriever Day! How many golden retriever paws are in the world?
+8
+How many days would it take for McDonalds to sell a mole of hamburger assuming they continue to sell at the same rate as today?
+17
+How many cows would I need to produce enough milk in a year to fill a hollow container the size of the earth?
+20
+In 2021, world-famous eater Joey Chestnut ate 76 hotdogs in 10 minutes. How many ounces of chestnuts would he need to eat per second for 10 minutes to match the total number of calories consumed?
+0
+How many Fermi Questions will be written for tournaments in the 2023-2024 Science Olympiad Season?
+4
+How many Joules would you need to power a light-year long string of Christmas lights for an hour?
+20
+How many days would it take Usain Bolt to run along every length of rail track in the US railroad system without repeating any segments at his 2008 Olympic pace?
+2
+Given it takes 80 soldier crabs to store a bit using a flip-flop, how many soldier crabs does it take to make a 64-bit carry ripple adder?
+4
+How many steps does the population of America take per day?
+12
+How many popular votes separated Thomas Jefferson and John Adams in the 1796 Presidential Election?
+3
+What fraction of the GDP of Japan is the biggest price a Pokemon card has sold for?
+-6
+How many days would it take to type out every possible ordered combination of 6 or fewer lowercase letters of the English alphabet (with no spaces between) at a rate of 10^-8 characters per nanosecond?
+3
+What velocity in meters per second do you need to launch an angry bird on the surface of the sun for it to leave orbit?
+6
+How many treadmill belts, cut open and laid end to end, would it take to connect the distance between the two farthest apart Planet Fitness locations in the contiguous US?
+6
+What is the weight of the inner core of the earth in cars?
+20
+How many liters of room-temperature Dr. Pepper could be carbonated with the world's CO2 emissions during 2022?
+16
+On average, how many times more likely is someone to die going skydiving compared to winning the powerball?
+3
+At Princeton, an undergraduate student is allocated 2700 sheets of printing paper per a year while a graduate student is allocated 3600 sheets of printing paper per a year. If all enrolled students used all of their allocated printing paper (news flash: they don’t), how tall, in inches, would a pine tree of 24 in diameter need to be to supply all this paper?
+5
+The original Rosetta Stone was a rather inefficient way to store information, in terms of words per kilogram. How many times more efficient is a hardcover copy of the first Diary of a Wimpy Kid book? (The original Rosetta Stone communicated the same message three times in three different languages, but consider the total words on it to be just the number of words in the English translation of the original (unrepeated) message)
+4
+How many kilograms would all the eyeglasses lenses worn by Americans weigh?
+6
+How many adult bed bugs would you need to stack vertically (single file) to reach the height above sea level of the tallest active volcano in the world?
+7
+How many dodecominos are there? Note: A dodecomino is made up of 12 unit squares connected edge to edge, while a tetromino, from Tetris, has 4 unit squares connected edge to edge. Rotations are considered equivalent pieces.
+5
+If you took all the energy released when a slug of sodium reacts with chlorine gas to launch all the salt produced from the reaction straight up (on earth), what height, in meters, above the ground would it reach?
+7
+The electrostatic force between a proton and an electron 1 Angstrom apart is what fraction of the force needed to frictionlessly accelerate a neutron at a rate of 1 septillion meters per second squared?
+-5
+Over the course of a fortnight, a hundredth of a furlong of rain falls over a 3-hectare area. How many slugs of water fell per minute on average?
+2
+Suppose you warm up your shoulder and throw a bowling ball at 995 times the speed of light down a bowling lane. In the frame of reference of the bowling ball, how many nanoseconds will elapse before it contacts the pins?
+3
+If you covered the floor of the entire Flatiron Building with quarters, what would be the total value of the quarters in USD?
+7
+How many nanoseconds elapsed between the first tumbler (event in the Olympic Games) and the first Tumblr (account)?
+18
+Although friends often joke that they share one brain cell, what fraction of the cells in an average adult are actually brain cells (specifically neurons)?
+-3
+How many meters of thread would you have if you unraveled all the T-shirts sold in the past 10 years?
+12
+How many hamsters running on wheels would you need to temporarily produce the same amount of power as an average full capacity nuclear power plant?
+9
+How much money (in USD) have movies starring Leonardo DiCaprio grossed worldwide?
+10
+What proportion of Princeton’s undergraduate campus is taken up by the room you are currently in?
+-5
+PUSO tournament co-director Inwoo Shin is attempting to remember her password, which she knows is exactly 10 numbers long. She randomly types 10 numbers at a rate of 1 number per second and then checks if the password is correct. She repeats this until she gets the password right. What is the expected number of minutes she will take to get the password correct?
+9
+This time, the computer (which is also owned jointly by PUSO tournament co-director Anthony Lopez) helps her out: for each attempt, as soon as she inputs a number incorrectly, the computer clears the attempt and she has to start over. She types at the same rate of one number every second. What is the expected number of minutes she will take to get the password correct?
+8
+If every US coin in circulation was instead a bitcoin, how much would all the coins collectively be worth in US dollars? (Assume current value of bitcoin.)
+15

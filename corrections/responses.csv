@@ -384,3 +384,35 @@ So, it would take Usain Bolt around 37 days to run along the equator if he maint
 3/20/2024 9:44:36,"Centerville Invitational 17-18, #8        ",,-8,"mi to km is 1:1600, km to cm is 1:100000, so its -3-5=-8",
 3/20/2024 10:15:03,"UT Austin Regionals 22-23, #5        ","What is the probability that everyone in a family of 4 survives the virus? [Virus that escaped containment, kills 90% of population]",,,
 3/20/2024 13:41:37,"MIT Invitational 18-19, #8        ",You’re halfway through the test and you think “This test is so dumb. Where are the questions that are like ‘What’s 7 raised to the 34th power?’” What’s 7^(-34),,,
+3/21/2024 8:43:43,"Yale Invitational 17-18, #29        ",,11,"volume of the ESB is 1047723.3239 cubic meters, divide by 19.3 *10^-4 g/m^3 (density of gold) to get 54286182600, which is 11",
+3/21/2024 9:07:54,"University of Michigan Invitational 17-18, #6        ",,17,surface area of jupiter divide by (SA of a playing card *54) gives 17 ,
+3/21/2024 9:34:19,"MIT Invitational 17-18, #34        ",,8,"the explanation is wrong cause like, it was there for 13 years assuming that they were talking about the september in 2017 before this test was given. i mean mit is probably right man. 13*30m is like 400m so 8",
+3/21/2024 13:18:16,"Columbia Invitational 17-18, #22        ",,4,divide the perimeter of the United States by 2000 gives 25940.5 watchtowers. -> 4,
+3/21/2024 14:14:47,"MIT Invitational 18-19, #4        ",,58,"question gives answer in kilocalories technically, so mult by 1000 so 58",teenmoturtle
+3/21/2024 15:17:11,"Golden Gate Invitational 22-23, #19        ",5^222,,,None
+3/21/2024 15:25:20,"Cornell Invitational 22-23, #9        ",,23,11 cubic cm = 11ml = 11g = 11/18.02 ~ 0.5 mol = ~3e23 molecules,
+3/21/2024 17:26:03,"Harvard Invitational 22-23, #6        ",,~,answer is negative???,
+3/21/2024 17:29:49,"Centerville Invitational 17-18, #30        ",,20,15 A = 15 coulombs/second. Divide 15 coulombs by the charge of an electron (1.6*10^-19) to get 9.38^19 --> 20,
+3/21/2024 18:42:09,"RobertYL, daily fermi questions day #77 [2019 CMU Q29]        ",,33,"idk what prev was on?? volts has nothing to do with this volume of the sun ~= 10^27 m^3 = 10^33 cm^3, syrup is about as dense as water so",
+3/21/2024 19:14:12,"MIT Invitational 22-23, #35        ",,2,Question is at the very least ambiguous as to which sentence it is referring to,
+3/21/2024 20:13:58,"Golden Gate Invitational 22-23, #41        ",,,Can this question be removed or details added to make it answerable,
+3/22/2024 18:24:35,"Brown Invitational 22-23, #7        ",,2,"Patriots only have 541 wins in history, which rounds up to 3",
+3/23/2024 8:43:27,"Captains Tryouts Carmel 17-18, #46        ",,26,"The volume of the Atlantic Ocean is about 3.5e8 km^3 = 3.5e17 m^3, which multiplied by the density of water (1e3 kg/m^3) becomes 3.5e20 kg = 3.5e23 g. The specific heat of water is 4.184 J/(g K) and we probably need to heat up all the water by an average of 90 K (because the average temperature of ocean water is around 10 C° (accounting for the very cold water below the surface), the energy needed for the water to get to boiling point is 3.5e23 g * 4.184 J/(g K) * 90 K = 1.3e27 J = 3.2e25 cal. BUT WAIT, we need to account for the latent heat of evaporation, which is 2260 J/g = 540 cal/g, so our final answer is 3.2e25 cal + 3.5e23 g * 540 cal/g = 2.2e26 cal, so the answer is 26. ",errorfunction
+3/23/2024 8:52:36,"Harvard Invitational 22-23, #7        ",,25,"Speed of light c = (3e8 m/s) * (1 carbon radius / 1.7e-10 m) * (3.2e7 s / 1 year) * (1 year / 5 dog years) = 1.1e25 carbon radii/dog year. It turns out that dog years apparently don't scale linearly with time until a certain age (why?????), but after that it scales to about 5 dog years per year. ",errorfunction
+3/23/2024 9:13:37,"BirdSO Satellite Invitational 21-22, #35        ",,12,"6^16 = 2.82e12, so answer is 12. smh ggso please use a calculator :)",errorfunction
+3/23/2024 9:27:32,"SSSS Fermi (Adi1008) 17-18, #49        ",,3,"Paper thickness is 0.5 mm = 5e-4 m, blue light wavelength is about 400 nm = 4e-7 m, dividing gives 1.25e3, so the answer is 3.",errorfunction
+3/23/2024 10:00:58,"Rickards Invitational 23-24, #46        ",,13,"Average adult male has 36 trillion cells, average adult female has 28 trillion cells, difference is 8 trillion cells which is 13. ",errorfunction
+3/23/2024 10:42:11,"RobertYL, daily fermi questions day #80 [2018 Medford Q11]        ",,12,"Earth-Sun distance is 1.5e11 m, length of popsicle stick (accounting for glue) is about 3.5-4 inches = ~0.095 m, so the number of sticks needed is 1.5e11 / 0.095 = 1.6e12, so the answer is 12. ",errorfunction
+3/23/2024 11:04:59,"RobertYL, daily fermi questions day #41 [2018 Carmel Tryouts Q29]        ",,14,"Thickness of quarter is about 1mm = 1e-3 m (previous person who corrected this said 1 mm = 1e-4 m), Earth-Sun distance is 1.5e11 m, so total quarters needed is 1.5e11 / 1e-3 = 1.5e14, so the answer is 14",errorfunction
+3/23/2024 12:31:11,"SSSs Fermi (luminosityfan) 17-18, #6        ",,15,"4.367 ly = 4.13e16 m, using speed of 100 m / 9.58 s = 10.44 m/s, total time is 4.13e16 m /10.44 m/s = 3.96e15 s, so the answer is 15",errorfunction
+3/24/2024 0:50:09,"Ohio State Invitational 22-23, #26        ",,5,"tangential speed of earth is ~ 1000 mph
+1000 * 24 * 7 = 168000
+5",teenmoturtle
+3/24/2024 1:21:44,"SSSs Fermi (luminosityfan) 17-18, #14        ",,41,"volume of milky way = 3 * 10^61
+volume of earth = 10^20
+61 - 20 = 41",teenmoturtle
+3/24/2024 10:46:41,"BirdSO Satellite Invitational 21-22, #52        ",,5,65536 is the result,cindyxxmel
+3/24/2024 22:53:58,"Brown Invitational 22-23, #7        ",,3,Previous correction stated that they have 541 wins. That's a fermi answer of 3. ,BirdyBirdyBirdyBird
+3/24/2024 23:28:21,"University of Michigan Invitational 18-19, #20        ",,-9,SEMs have resolutions of 0.5-4 nanometers. That corresponds with -9,
+3/25/2024 11:27:09,"Brown Invitational 22-23, #7        ",,3,"the person who corrected it initially claimed that they have 541 wins. assuming this is correct, the answer rounds up to 3 not 2. the original answer is correct.",yert
+3/25/2024 18:29:48,"SOUP Invitational 23-24, #40        ",,4,"Real earth radius = 6 million meters, real Jupiter radius = 70 million meters. Soccer ball has a radius of 11 cm, so scaled down Jupiter would have a radius of 70/6 * 0.11 = 1.28m, and a volume of 4/3*pi*(1.28)^3 = 8.8m^3 = 8800 L —> 4",

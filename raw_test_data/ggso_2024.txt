@@ -1,0 +1,226 @@
+_QUESTIONFORMAT_ r'\d+\.'
+_ANSWERFORMAT_ STYLE_SINGLE_NUMBER
+
+1. What was the total global energy consumption of Google in 2022, in Joules?
+2. How many times more permutations of a deck of cards are there than positions of a
+Rubik’s cube?
+3. What is the ratio of the gross domestic product (GDP) of the United States to that of San
+Marino?
+4. A “blue moon” occurs when a full moon occurs twice in a single calendar month. How
+many times could light circle the Earth’s equator between one blue moon and the next, on
+average?
+5. If you pick a random point on the night sky, what is the probability that it is contained
+within the shadow of Sagittarius A*, the black hole in the center of the Milky Way?
+6. What is the probability that, on any given day in Singapore, there is a total solar eclipse?
+7. How many milliseconds elapsed between the Battle of Hastings and D-Day?
+8. One of this tournament’s sponsors, Jane Street Capital, is known as a high-frequency
+quantitative trading firm, with multiple offices around the world. In 2020, what was the
+total worth of the securities that they traded, in US dollars?
+9. How many sheets of paper, stacked on top of each other, would it take to equal the height
+of the Stanford Tree?
+10. How old is the universe thought to be, in years?
+11. If all of the world’s freshwater was replaced by FairlifeTM Ultra-filtered Chocolate Milk,
+then how many calories would I gain from drinking it all?
+12. How long, in seconds, would it take for someone driving a Koenigsegg Jesko Absolut to
+drive from UC Berkeley to Stanford, by way of I-280 South (over the Bay Bridge, down
+through SF and San Mateo County)? Assume the driver is a speed demon and
+continuously maintains the theoretical highest speed while operating on E85 race fuel.
+13. The California Academy of Sciences in Golden Gate Park is home to a colony of African
+penguins. Suppose that a highly motivated wild African penguin wants to visit his captive
+comrades, and is blessed by the ancient penguin gods to not require any food, water, or
+rest. How many hours would it take him to swim at top speed from his homeland of
+
+South Africa to San Francisco? By the way, I’m pretty sure he doesn’t know of the
+Panama Canal’s existence...
+14. How many peregrine falcons does it take to lift up an average human?
+15. How many base pairs are in the human genome?
+16. If the US Department of Transportation was around back then, what would they value the
+statistical loss of life from the Hindenburg disaster to be, in 2022 dollars?
+17. A flop is a basic unit of computation denoting 1 addition, subtraction, multiplication, or
+division operation. On average, how many flops does it take to solve a system of linear
+equations in 80 variables and 80 equations?
+18. Suppose that I’m getting tired of eating at school dining halls and instead want to eat the
+Dunkin’ Donuts Sourdough breakfast sandwich 2 times a day for the entirety of spring
+semester at UC Berkeley. How many times would I have to run the Boston Marathon in
+order to burn all of those calories?
+19. How much money would McDonald’s lose if for every Big Mac sold last year,
+McDonald’s gave out a 14 oz Filet Mignon instead?
+20. It’s often said that a human should consume 2000 Calories/day. How much energy is that
+in terms of electron volts (eV)?
+21. How many days would one have to eat exactly 2000 Calories to have consumed energy
+equivalent to the yield of the “Fat Man” nuclear bomb?
+22. Ramen noodles are a staple of any college student’s diet. How many packs of Shin Black
+Ramen would I need to eat to have consumed the recommended daily amount of sodium
+for 50 people?
+23. How many shots of espresso would an average U.S. male need to consume in order to
+have consumed an amount of caffeine equivalent to the LD50 of caffeine?
+24. How many peanut M&M’s would one need to equal the weight of a Boeing 737-800?
+25. How many oxygen atoms are in 1L of water?
+
+26. How many potatoes would I need to replace every utility (telephone) pole in the U.S.
+with a McDonald’s hash brown?
+27. Going off of the previous question, if I dropped a pebble at a random location in the U.S.,
+what is the probability that I hit one of the McDonald’s hash browns I put down?
+28. How many Bugatti Chirons could I buy with the combined endowment of all Ivy League
+Schools in the year 2018?
+29. What is the (outer) diameter of a standard flu shot needle, in parsecs?
+30. How many standard hairdryers would I need to run simultaneously to have a power
+output equal to that of the sun?
+31. Apparently woodchucks don’t actually chuck wood. But anyways, how much wood, in
+mm3
+, could a woodchuck chuck in a galactic year if a woodchuck chucks wood at a rate
+of 1 mm3 per picosecond?
+32. How many ways are there to travel from the coordinates (0, 0) to (100, 100) if you can
+only move between lattice points to the right and upwards and cannot cross above the
+main diagonal?
+33. What is 49!!? Here, ‘!!’ refers to double factorial, where n!! means the product of all
+positive integers less than or equal n with the same parity as n.
+
+34. Let x = SUM (n = 1 ... 100000) 1/n. What is e^x?
+
+
+35. What is the probability that a random chosen subset of the positive integers less than or
+equal to 10 is a subset of the positive integers less than or equal to 4?
+36. What is the total distance, in meters, traveled by the world’s commercial airplanes in one
+day?
+37. How many Stanford alumni are living today?
+38. How many book volumes are in UC Berkeley libraries?
+39. What is the total combined annual budget of the Lawrence Berkeley National Laboratory
+and the SLAC National Accelerator Laboratory, in US dollars?
+
+40. How many colors are used in the tile mosaics in Stanford’s Memorial Church?
+41. How many undergraduate international students’ yearly tuition at UC Berkeley can be
+paid for by China’s 2023 defense budget?
+42. How many Nobel Prize medals could be cast using the amount of gold that Mansa Musa
+donated during his historically significant pilgrimage to Mecca?
+43. The plucky tardigrades of Lawrence Berkeley National Laboratory, inspired by their
+distinct cousin Oski the Bear, seek to attack Stanford University on the eve of the Axe
+Game. Taking advantage of a captured cache of human blood, how many red blood cells
+will these “water bears” need to build a bridge to Stanford Stadium? The bridge has to be
+wide enough for them to march single-file, and is a straight line in the air.
+44. DDT is an insecticide that was widely used in the 20th century, before being banned due
+to public outcry that it was inadvertently causing declines in populations of America’s
+national bird, the bald eagle, due to fertility issues. How much DDT, ingested orally, in
+picograms, would have a 50% chance of killing an adult blue whale?
+45. How many rolls of toilet paper would I need to completely cover the surface area of the
+earth?
+46. If I drained 50000 cubic meters of water from Lake Superior for everytime Wildest
+Dreams (Taylor’s Version) was streamed on Spotify, how much would the depth of Lake
+Superior change, in meters?
+47. How many oxygen atoms would I inhale if I sat and listened to the entirety of the
+Midnights (The Til Dawn Edition) album by Taylor Swift?
+48. In “invisible string”, Taylor Swift sings “one single thread of gold tied me to you”. How
+much would a rod of solid gold, stretching from Philadelphia to Berkeley with diameter
+equal to that of 3-ply twine, be worth, in US Dollars?
+49. What is the angular velocity of the Big Ass Fans E-Series 12-ft 6-blade commercial
+Ceiling Fan spinning at its highest speed in gradians/millisecond? (gradians is not a typo)
+50. How much Bitcoin (at the highest recorded price in history) could I buy with the cost of a
+35-stick pack of Wrigley’s Extra Spearmint Sugar Free Chewing Gum?
+
+51. Fun fact: there’s a (not-so) secret tunnel underneath UC Berkeley that connects the
+Gardner Main Stacks under our flagship Doe Memorial Library to Moffitt Undergraduate
+Library next door. Although you’ll need a Cal 1 Card to gain access, this event supervisor
+luckily has one :D Suppose I’m practicing for a marathon and need a quiet place to train.
+How many times would I need to run through the Moffitt portion of the tunnel to get to
+an equivalent distance of a marathon?
+52. In the name of inter-university cooperation, the administration of UC Berkeley decides to
+dig another tunnel connecting two libraries. One is Doe Memorial, and the other is...
+Cecil H. Green Library at Stanford... If this new passageway is a direct, straight line
+from Doe to Green, and has the same height and width as an average door, then how
+many cubic inches of earth would have to be displaced?
+53. Continuing in the spirit of inter-university cooperation, suppose that the students from
+Berkeley and Stanford want to break the record for the loudest sound ever recorded. To
+do this, each student decides to scream as loud as they can. How many students,
+collectively screaming, will be needed to break this record? Assume that each student
+screams at a sound level of 80 dB.
+54. Realizing that breaking the record for loudest sound may be a little difficult, the students
+decide to try their hand at breaking the record for “most people brushing their teeth
+simultaneously”. With the minimum number of students needed to break this record, how
+many total grams of fluoride would be found in all the toothpaste used? Assume each
+student uses a standard, pea-sized amount of toothpaste and everyone uses Colgate Total
+Original Toothpaste.
+55. After all that brushing, these students suddenly feel like having a sweet treat: Honey.
+However, they want to source their honey only from the bees (assume all bees are honey
+bees) that assisted Ruan Liangming in his record for “world’s largest mantle of bees”.
+How much total honey, in tablespoons, would all of those bees produce in their lifetime?
+56. Let’s say that all of the rotisserie chickens that Costco sold in 2021 were all alive on the
+same day. How much feed, in pounds, would be collectively consumed by all of those
+chickens on that day?
+57. If every Leopard 2 main battle tank ever manufactured, the primary tank used by
+Germany as well as a host of other Western countries, suddenly turned into adult
+leopards, then how many kilograms of meat would they consume each year?
+
+58. The vast majority of the world’s Internet data is transmitted through underwater
+fiber-optic cables. What is the total length of these underwater cables, in meters?
+59. What is the maximum power a horse can produce, in horsepower?
+60. The General Electric GE9X is the world’s largest commercial jet engine, used exclusively
+on Boeing 777X airplanes. If 10,000 GE9X jet engines were strapped to the Earth’s
+equator, pointed eastward, and started, how long would it take to stop the Earth’s rotation,
+in years? Don’t worry about the mass of the Earth changing due to fuel consumption.
+
+11
+48
+4
+9
+-20
+-5
+13
+13
+4
+10
+
+22
+3
+3
+2
+9
+8
+6
+2
+11
+26
+
+7
+2
+2
+7
+25
+8
+-25
+5
+-20
+23
+
+28
+57
+32
+5
+-2
+10
+5
+7
+9
+4
+
+7
+5
+12
+17
+14
+2
+25
+11
+-5
+-5
+
+3
+10
+23
+1
+4
+7
+6
+9
+1
+10
+
