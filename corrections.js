@@ -324,10 +324,10 @@ corrections = {
         "credit": "bibob or emptiespace"
     },
     "Columbia Invitational 17-18, #16": {
-        "question": "Using just the letters in the alphabet, how many unique 26-letter sequences are possible?",
-        "answer": "37",
-        "explanation": "Gm...\n\nit is 26 to power 26... equal 6156119580207157310796674288400203776..\n\nmethinks answer thus 37..\n\nRB",
-        "credit": "Craig buszka"
+        "question": "",
+        "answer": "26",
+        "explanation": "Idk what the answer is exactly, so I'm reverting to original answer. However, previous correction's logic is incomplete. There are 26^26 ways of choosing the letters, but some are equivalent. if your sequence contains 3 copies of the same letter, then this method would count that sequence 3^2=9 times. These copies must be removed, thus making a drastically smaller answer",
+        "credit": "BirdyBirdyBirdyBird"
     },
     "RobertYL, daily fermi questions day #131 [2019 New Trier Q10]": {
         "question": "How many licks to the center of a tootsie pop?",
@@ -528,9 +528,9 @@ corrections = {
         "credit": ""
     },
     "Captains Tryouts Carmel 17-18, #5": {
-        "question": "How many pennies are in $5645",
-        "answer": "",
-        "explanation": "",
+        "question": "",
+        "answer": "6",
+        "explanation": "how hard is it to add 2",
         "credit": ""
     },
     "SSSS Fermi (luminosityfan) 17-18, #20": {
@@ -762,10 +762,10 @@ corrections = {
         "credit": "JazzyX"
     },
     "RobertYL, daily fermi questions day #35 [2019 Solon Q9]": {
-        "question": "",
-        "answer": "10",
-        "explanation": "bruv look it up",
-        "credit": "Ryan park"
+        "question": "What is the distance from Pluto to the sun in kilometers?",
+        "answer": "9",
+        "explanation": "average distance is 5.9billion km according to NASA",
+        "credit": "john"
     },
     "Columbia Invitational 17-18, #47": {
         "question": "",
@@ -805,9 +805,9 @@ corrections = {
     },
     "RobertYL, daily fermi questions day #105 [2019 Polytechnic Q24]": {
         "question": "",
-        "answer": "-9",
-        "explanation": "probability of being struck in lifetime = 6.5e-5; if we assume that the probability of getting struck per day is x, then (1 - x) ^ (80 * 365 days) = 1 - 6.5e-5; solving gives x is around 2.2 * 10^-9",
-        "credit": "Ryan PARK"
+        "answer": "-6",
+        "explanation": "bro is lying through his teeth",
+        "credit": "bibob"
     },
     "RobertYL, daily fermi questions day #60 [2019 Boca Raton Tryouts Q11]": {
         "question": "",
@@ -828,9 +828,9 @@ corrections = {
         "credit": "emptiespace"
     },
     "University of Florida North Regional 17-18, #47": {
-        "question": "How many hours would it take the world\u2019s fastest plane to fly the Earth's orbit?",
-        "answer": "",
-        "explanation": "",
+        "question": "",
+        "answer": "0",
+        "explanation": "Fastest plan goes 11850 km/h. Circumference of Earth is ~40,075 km. 40,075/11850 is ~3.38",
         "credit": ""
     },
     "SSSs Fermi (luminosityfan) 17-18, #21": {
@@ -907,8 +907,8 @@ corrections = {
     },
     "UChicago Invitational 22-23, #14": {
         "question": "",
-        "answer": "-4",
-        "explanation": "the \"height\" of a piece of paper refers to the dimensions of the paper along its surface, not its thickness",
+        "answer": "-10",
+        "explanation": "that answers in meters assuming its 1 sheet",
         "credit": ""
     },
     "University of Florida North Regional 17-18, #38": {
@@ -1501,9 +1501,9 @@ corrections = {
     },
     "Centerville Invitational 17-18, #8": {
         "question": "",
-        "answer": "-8",
-        "explanation": "mi to km is 1:1600, km to cm is 1:100000, so its -3-5=-8",
-        "credit": ""
+        "answer": "-5",
+        "explanation": "the ratio is 1:1.7 for miles to kilometers, not 1:1600.",
+        "credit": "Mang223"
     },
     "UT Austin Regionals 22-23, #5": {
         "question": "What is the probability that everyone in a family of 4 survives the virus? [Virus that escaped containment, kills 90% of population]",
@@ -1635,6 +1635,120 @@ corrections = {
         "question": "",
         "answer": "4",
         "explanation": "Real earth radius = 6 million meters, real Jupiter radius = 70 million meters. Soccer ball has a radius of 11 cm, so scaled down Jupiter would have a radius of 70/6 * 0.11 = 1.28m, and a volume of 4/3*pi*(1.28)^3 = 8.8m^3 = 8800 L \u2014> 4",
+        "credit": ""
+    },
+    "High Desert Mini Invitational 22-23, #4": {
+        "question": "",
+        "answer": "13",
+        "explanation": "30 trillion --> 13 according to https://www.healthline.com/health/number-of-cells-in-body",
+        "credit": ""
+    },
+    "FermiSweat, Fermi Questions, but butter (chicken), #17": {
+        "question": "",
+        "answer": "5",
+        "explanation": "According to this source (might be wrong), https://rentechdigital.com/smartscraper/business-report-details/india/restaurants, there are 250k restaurants in India, meaning we would have to visit 125k --> 5, in order to have a 50% chance of finding the correct one. Other sources site 500k - 1M restaurants but I have not seen anything above 1M so the answer should still be 5",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #93 [2018 Iolani Q17]": {
+        "question": "",
+        "answer": "-9",
+        "explanation": "google",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #6 [2019 WWPS Q4]": {
+        "question": "",
+        "answer": "53",
+        "explanation": "(3.8e26 W) * (3.2e7 s) / (1e-19 J) = ~1.2e53",
+        "credit": "errorfunction"
+    },
+    "High Desert Satellite Invitational 23-24, #18": {
+        "question": "",
+        "answer": "19",
+        "explanation": "4.17*10^12 m^3 -> 4.17*10^18 cm^3, an m&m takes up about 0.65 cm of space so 4.17/0.65 * 10^18 which is clearly 19.",
+        "credit": "bibob"
+    },
+    "Yale Invitational 17-18, #24": {
+        "question": "Muons have a half life of 1.56*10^-6 seconds. I stand at rest and observe a million muon particles travel from one end of a 10^4 meter tunnel to another end, at velocity v=0.8c, where c is the speed of light. How many muons reach the end?",
+        "answer": "",
+        "explanation": "",
+        "credit": ""
+    },
+    "High Desert Satellite Invitational 23-24, #20": {
+        "question": "",
+        "answer": "7",
+        "explanation": "Baseball volume is ~2e-1 L, Olympic swimming pool is 2.5e6 L, so number is 2.5e6 / 2e-1 which is about 1e7, so the answer is 7.",
+        "credit": "errorfunction"
+    },
+    "UT Austin Invitational 23-24, #21": {
+        "question": "",
+        "answer": "1998",
+        "explanation": "Since the power of n is 999, we only really need the last term to approximate the series, so the sum is 100^999 = 10^1998, meaning the answer is 1998. Note that the ratio of the 99th term to the 100th term is (99/100)^999 = 4.36e-5, so only the 100th term is actually important.",
+        "credit": "errorfunction"
+    },
+    "BirdSO In-Person Invitational 22-23, #8": {
+        "question": "",
+        "answer": "10",
+        "explanation": "Metric ton is 1e6 g, each bill has a mass of about 1 g (according to the US government), so 1e6 * $100 * 100 c/$ = 1e10 cents, so the answer is 10",
+        "credit": "errorfunction"
+    },
+    "MIT Invitational 18-19, #21": {
+        "question": "",
+        "answer": "0",
+        "explanation": "A male cries 1.3 times on average per month. 1/10 of a gram in a liter of coke. 30 days in a month. This is just 0.",
+        "credit": ""
+    },
+    "Carnegie Mellon Invitational 22-23, #32": {
+        "question": "",
+        "answer": "2",
+        "explanation": "Mass of neptune is 10^26, while the mass of earth is 6x10^24. this ratio is 2.",
+        "credit": "emptiespace"
+    },
+    "RobertYL, daily fermi questions day #83 [2019 Centerville Q13]": {
+        "question": "",
+        "answer": "22",
+        "explanation": "10^21 liters in the earths ocean, 1/20 liters per balloon. 22",
+        "credit": ""
+    },
+    "MIT Invitational 21-22, #45": {
+        "question": "",
+        "answer": "12",
+        "explanation": "The US uses 4000 TWh/year=1.4*10^19J/year. Wood has an energy density of 7*10^6J/lb. 1.4*10^19J/year * 1lb/(7*10^6J)=2*10^12lb/year -> 12",
+        "credit": "BirdyBirdyBirdyBird"
+    },
+    "BirdSO In-Person Invitational 22-23, #48": {
+        "question": "Based on the previous question, if you randomly placed a guess between -98 and 98 for every question, what is the probability that you receive either partial or full credit on every question?",
+        "answer": "",
+        "explanation": "Please provide an explanation of the \"previous question\"",
+        "credit": ""
+    },
+    "Duke Invitational 22-23, #23": {
+        "question": "",
+        "answer": "5",
+        "explanation": "its been some time so now its at 195m views with approx 1.5 years ago, thats like 195/450 which is less than 0.5 so now its rounding down. L taylor",
+        "credit": ""
+    },
+    "SSSs Fermi (luminosityfan) 17-18, #15": {
+        "question": "",
+        "answer": "10",
+        "explanation": "Sun diameter (1.4 million km) / 6 inches (phone length) = ~9e9 --> 10",
+        "credit": "eddyzow"
+    },
+    "SSSS Fermi (Adi1008) 17-18, #34": {
+        "question": "",
+        "answer": "9",
+        "explanation": "1 cumulonimbus cloud is 1 million tonnes = 1 billion kg = 1billion liters -> 9",
+        "credit": "BirdyBirdyBirdyBird"
+    },
+    "UChicago Invitational 22-23, #43": {
+        "question": "",
+        "answer": "7",
+        "explanation": "A typical cloud weighs 1 million pounds - some google sources talk about ones weighing much larger, these are the rarest of massive clouds that we can see.",
+        "credit": ""
+    },
+    "Northview Invitational 23-24, #38": {
+        "question": "",
+        "answer": "42",
+        "explanation": "If mogwai reproduce at 5 per 10 seconds, then there are 60 periods of reproduction in a 10-minute period, and so the answer is 5^60",
         "credit": ""
     }
 }
@@ -1971,5 +2085,33 @@ corrections_list = [
     "Brown Invitational 22-23, #7",
     "University of Michigan Invitational 18-19, #20",
     "Brown Invitational 22-23, #7",
-    "SOUP Invitational 23-24, #40"
+    "SOUP Invitational 23-24, #40",
+    "High Desert Mini Invitational 22-23, #4",
+    "FermiSweat, Fermi Questions, but butter (chicken), #17",
+    "RobertYL, daily fermi questions day #93 [2018 Iolani Q17]",
+    "RobertYL, daily fermi questions day #6 [2019 WWPS Q4]",
+    "High Desert Satellite Invitational 23-24, #18",
+    "Yale Invitational 17-18, #24",
+    "RobertYL, daily fermi questions day #105 [2019 Polytechnic Q24]",
+    "Yale Invitational 17-18, #24",
+    "University of Florida North Regional 17-18, #47",
+    "High Desert Satellite Invitational 23-24, #20",
+    "UT Austin Invitational 23-24, #21",
+    "BirdSO In-Person Invitational 22-23, #8",
+    "RobertYL, daily fermi questions day #35 [2019 Solon Q9]",
+    "Centerville Invitational 17-18, #8",
+    "Yale Invitational 17-18, #24",
+    "MIT Invitational 18-19, #21",
+    "Carnegie Mellon Invitational 22-23, #32",
+    "RobertYL, daily fermi questions day #83 [2019 Centerville Q13]",
+    "MIT Invitational 21-22, #45",
+    "BirdSO In-Person Invitational 22-23, #48",
+    "Duke Invitational 22-23, #23",
+    "UChicago Invitational 22-23, #14",
+    "SSSs Fermi (luminosityfan) 17-18, #15",
+    "Captains Tryouts Carmel 17-18, #5",
+    "Columbia Invitational 17-18, #16",
+    "SSSS Fermi (Adi1008) 17-18, #34",
+    "UChicago Invitational 22-23, #43",
+    "Northview Invitational 23-24, #38"
 ]

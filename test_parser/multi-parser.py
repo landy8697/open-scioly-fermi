@@ -140,6 +140,7 @@ def read_full_disjoint(current_file:str):
     filewrite.write(title+"\n")
     filewrite.write(f"{len(questions)}\n")
     for i in range(len(questions)):
+        #print(f"QUESTION {i+1}: {questions[i]}, ANSWER: {answers[i]}\n")
         filewrite.write(questions[i]+"\n")
         filewrite.write(f"{answers[i]}\n")
     fileinput.close()

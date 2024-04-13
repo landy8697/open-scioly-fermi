@@ -1,0 +1,88 @@
+Jordan Invitational 23-24
+43
+How many characters are there on the 2024 Science Olympiad Division C Rules Manual?
+5
+How many plastic water bottles are consumed each year in the world?
+11
+How much would an hour-long superbowl ad cost?
+9
+How many games of fortnite are played in a fortnight?
+5
+How much salt is in the Dead Sea, in kilograms?
+13
+How many chocolate chips are consumed per year in the US?
+11
+How many marbles would it take to cover the entire US Interstate highway system?
+12
+How many weeks would it take to send a telegraph message across the length of all the tele- graph wires in the world?
+-5
+How many molecules of ATP have you used in the time it took to read this problem?
+21
+Everyone knows the earth is flat. If I accidentally fell off the edge and drifted off into the empty void, how fast would I have to throw an orange in order to have the same momentum as the (real) Earth traveling through space?
+8
+What gravitational force does the Moon exert on Proxima Centauri, in Newtons?
+8
+Assume you took a watermelon and compressed it so that it collapsed into a black hole. What would be the acceleration, in g’s, of a grain of sand at the event horizon?
+41
+The mitochondria is the powerhouse of the cell. How many mitochondria is required to pro- duce enough energy to power the world’s electricity needs for a second?
+30
+Graphite in pencils is made of carbon, like diamonds. If you took the lead in a standard #2 pencil (assume it’s pure graphite) and applied enough pressure that it turned into a spherical diamond, how many solar systems would this diamond span?
+-16
+If you took every carbon atom from the lead in a standard #2 pencil (assuming the lead is pure graphite) and lined them up end to end, how many centimeters would they span?
+15
+What is the kinetic energy in joules of the water falling down Niagara Falls at any given moment?
+8
+What is the total weight of the Great Pacific Garbage patch, in metric tons?
+5
+How many trees (on average, based on data over the past year) are cut down each minute?
+4
+What is the value of the square of the number of carbon atoms in the Earth’s atmosphere?
+81
+What is the sum of Thomas Robert Malthus and Niko Tinbergen’s ages when they died?
+2
+How many industrial ecologists are currently employed in the US?
+5
+How many students are currently enrolled in Texas A&M’s department of ecology and con- servation biology?
+2
+What’s the ratio between the biomass of all people in the world and the total biomass of the world?
+-4
+What is the difference between the number of people born in 2023 and the number of people born in 2022 (in people)?
+5
+If I had a nickel for every pothole in the US, what is the total dollar value of the sum of change I’d have?
+6
+On a scale from 5-10, where 10 is best, how amazing was that pun above? (Note that 0 is not an acceptable answer for this question).
+1
+How many metric tons of sweet potatoes are grown each year?
+8
+What is the net primary productivity of the the surface of the world’s oceans, in pound * Calories per year?
+14
+How many people around the world practice subsistence agriculture?
+9
+What is the square of the number of people in the US who live in food deserts?
+15
+How many years would it take for a population with a growth rate of 001% to double?
+5
+How many nanograms of apples are produced per year?
+23
+How many pounds of coal will the amount of energy from these apples be equivalent to?
+10
+Time for some chemistry!Ammonia is a great fertilizer.What is the square of the standard molar enthalpy of the formation of ammonia, in kJ^2?
+3
+How much energy is invested in green tech, in cents?
+13
+How many quads of renewable energy are produced each year in the US?
+1
+How many grams of carbon are emitted per person per day in the US?
+4
+Let’s do some math! Find e^e^e
+6
+How many ways are there to arrange the letters in JORDANSCIENCEOLYMPIAD?
+17
+Let S be the set {1, 2, .. 100}. How many functions f: S → S exist such that for any three distinct elements a,b,c of S, we cannot have f(a)=f(b)=f(c)?
+195
+I am constructing a sequence based on the following rules: | Elements of the sequence must be either 1,2, or 3 | The sequence must start with 1 | There cannot be any two consecutive 1’s, 2’s, or 3’s How many such sequences of length 200 exist?
+60
+Let’s change it up a little. I am constructing a sequence based on the following rules: | Elements of the sequence must be either 1,2, or 3 | The sequence must start with 1 | There cannot be any three consecutive 1’s, 2’s, or 3’s. How many such sequences of length 200 exist?
+87
+With four colors, how many ways are there to color every state in the map of the U.S., such that no two adjacent states have the same color?
+11
