@@ -103,9 +103,9 @@ corrections = {
     },
     "RobertYL, daily fermi questions day #66 [2019 Northmont Q5]": {
         "question": "",
-        "answer": "-32",
-        "explanation": "jupiter is more massive than a housefly",
-        "credit": ""
+        "answer": "-29",
+        "explanation": "Mass of adult housefly - 0.0450g / mass of Jupiter 1.90E+27 = 2.368E-29",
+        "credit": "5omil"
     },
     "High Desert Satellite Invitational 22-23, #24": {
         "question": "",
@@ -1117,14 +1117,14 @@ corrections = {
     },
     "Sahil Gandhi, WSO Regionals 22-23, #8": {
         "question": "",
-        "answer": "23",
-        "explanation": "specific molar volume is 22.4 L (at standard temperature and pressure, which should be approximately true when the person stops inhaling), human lung capacity is about 6 L, so the number of molecules inhaled is (6 / 22.4) * 1 mol = 1.6e23 molecules",
-        "credit": "errorfunction"
+        "answer": "22",
+        "explanation": "Breath = 0.5L, density of air = 1g/L, air is mostly N2 with molar mass of about 30g/mole, 0.5L*1g/L=0.5g, 0.5g*(6*10^23 molecules)/30g=10^22->22",
+        "credit": "BirdyBirdyBirdyBird"
     },
     "SOUP Invitational 22-23, #50": {
         "question": "",
-        "answer": "9",
-        "explanation": "10-digit numbers are between 10^10 and 10^9. By the Prime Number Theorem, there are approximately 10^9 primes less than 10^10 and 10^9 / 9 less than 10^9 - therefore, the total number of 10-digit primes should be 8/9 * 10^9 which rounds up to 9.",
+        "answer": "8",
+        "explanation": "whoever did the original correction might be sped",
         "credit": ""
     },
     "RobertYL, daily fermi questions day #15 [2018 Mesa-Wilson Q43]": {
@@ -1314,10 +1314,10 @@ corrections = {
         "credit": "ryan park"
     },
     "RobertYL, daily fermi questions day #77 [2019 CMU Q29]": {
-        "question": "",
-        "answer": "33",
-        "explanation": "idk what prev was on?? volts has nothing to do with this volume of the sun ~= 10^27 m^3 = 10^33 cm^3, syrup is about as dense as water so",
-        "credit": ""
+        "question": "If the sun was replaced with the equivalent volume of maple syrup, what would its mass be in grams?",
+        "answer": "",
+        "explanation": "",
+        "credit": "BirdyBirdyBirdyBird"
     },
     "RobertYL, daily fermi questions day #41 [2018 Carmel Tryouts Q29]": {
         "question": "",
@@ -1585,9 +1585,9 @@ corrections = {
     },
     "BirdSO Satellite Invitational 21-22, #35": {
         "question": "",
-        "answer": "12",
-        "explanation": "6^16 = 2.82e12, so answer is 12. smh ggso please use a calculator :)",
-        "credit": "errorfunction"
+        "answer": "13",
+        "explanation": "It's 7^16 dumbass",
+        "credit": ""
     },
     "Rickards Invitational 23-24, #46": {
         "question": "",
@@ -1750,6 +1750,186 @@ corrections = {
         "answer": "42",
         "explanation": "If mogwai reproduce at 5 per 10 seconds, then there are 60 periods of reproduction in a 10-minute period, and so the answer is 5^60",
         "credit": ""
+    },
+    "Sahil Gandhi, WSO Regionals 22-23, #37": {
+        "question": "What is the ratio between the amount of storage taken up by Red Dead Redemption 2 and Brawl Stars?",
+        "answer": "2",
+        "explanation": "150GB for RDR2, 350MB for Brawl. 150,000/350=400 -> 2",
+        "credit": "BirdyBirdyBirdyBird"
+    },
+    "SOUP Invitational 23-24, #22": {
+        "question": "",
+        "answer": "8",
+        "explanation": "111 million entries according to wikipedia (my history teacher won't be happy about Wikipedia)",
+        "credit": "BirdyBirdyBirdyBird"
+    },
+    "Sahil Gandhi, WSO Regionals 22-23, #31": {
+        "question": "Did you know that french fries are actually from Belgium? Hopefully! How many servings of deep-fried french fries would it take to equal the yearly caloric intake of an elephant?",
+        "answer": "",
+        "explanation": "",
+        "credit": "BirdyBirdyBirdBird"
+    },
+    "Highlands Virtual Invitational 23-24, #10": {
+        "question": "",
+        "answer": "10",
+        "explanation": "Soccer field is 105 m x 68 m = 7.14e3 m^2, Mars surface area is 4 pi * (3.4e6 m)^2 = 1.45e14 m^2. Dividing, we get 2.0e10, so the answer is 10.",
+        "credit": "errorfunction"
+    },
+    "High Desert Mini Invitational 23-24, #5": {
+        "question": "",
+        "answer": "11",
+        "explanation": "I checked several sources online and they all seem to agree that the average American spends a little less than $1000 on Christmas. Multiplying that by the population of the US gives an upper bound of 3.5e11 dollars. Of course not everyone in the US contributes to the number (young children are probably excluded) but the resulting answer would be lower than the upper bound and still round to 10^11. Therefore, the answer is 11.",
+        "credit": "errorfunction"
+    },
+    "Rickards Invitational 23-24, #27": {
+        "question": "",
+        "answer": "41",
+        "explanation": "One barn is 100 square femtometers, or 10^-28 m^2. The Roman Empire was apparently 5.0e6 km^2 = 5.0e12 m^2 at its peak in the 2nd century CE under Trajan. This problem is hilariously unlucky since if we divide 5.0e12 by 1e-28, we get 5.0e40 which rounds up to 41.",
+        "credit": "errorfunction"
+    },
+    "Columbia Invitational 17-18, #45": {
+        "question": "",
+        "answer": "5",
+        "explanation": "average pencil draws a line 2-3 km long, earth's circumference is 2pi * 6378km = 40074km long, 16000 pencils needed, pencil is 7.5in long on average, so 4 + 1 = 5 inches of pencil required",
+        "credit": "choi"
+    },
+    "SOUP Invitational 23-24, #34": {
+        "question": "How many digits does 13^123456789 have?",
+        "answer": "",
+        "explanation": "",
+        "credit": "randomeclipse"
+    },
+    "SOUP Invitational 23-24, #37": {
+        "question": "If the sun and earth both double in size, how long in seconds will it take for the earth to go around the sun?",
+        "answer": "",
+        "explanation": "",
+        "credit": ".waful (discord)"
+    },
+    "High Desert Satellite Invitational 23-24, #40": {
+        "question": "",
+        "answer": "2",
+        "explanation": "The wavelength of violet light is 380 nm",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #100 [2018 Kenston Q28]": {
+        "question": "",
+        "answer": "10",
+        "explanation": "US-Mexico border length is around 3000 km = 3e6 m (google), total volume is therefore 3e6m * 2m * thickness. The question was kind of vague about the thickness but given the context of this problem a rather thick wall of around 0.5 m (or more) is likely implied. As a result (using thickness 0.5 m), the wall has a total volume of 3.6e6 m^3, and since brick density is on average about 1.8e3 kg/m^3, the total mass of the wall is 5.4e9 kg, which rounds up to 10.",
+        "credit": "errorfunction"
+    },
+    "RobertYL, daily fermi questions day #39 [2019 NCS Q4]": {
+        "question": "",
+        "answer": "-6",
+        "explanation": "Two solve paths: 1 million earths fit in sun, so 1/10^6->-6, or radius of sun = 7*10^5km, radius of earth = 6500km, ((7*10^3)/(7*10^5))^3=10^-6->-6",
+        "credit": "BirdyBirdyBirdyBird"
+    },
+    "RobertYL, daily fermi questions day #112 [2019 Boyceville Q23]": {
+        "question": "What is the density of a neutron star in kg/m^3?",
+        "answer": "",
+        "explanation": "",
+        "credit": "BirdyBirdyBirdyBird"
+    },
+    "High Desert Satellite Invitational 23-24, #43": {
+        "question": "",
+        "answer": "20",
+        "explanation": "Volume of Pacific Ocean is 7.14e8 km^3 = 7.14e17 m^3 = 7.14e20 L, bowling ball volume is around 5000 cm^3 = 5 L, so our final answer is 7.13e20 / 5e0 = 1.4e20, so the final answer is 20.",
+        "credit": "errorfunction"
+    },
+    "RobertYL, daily fermi questions day #106 [2019 NCS Q1]": {
+        "question": "How many minutes are there in a century?",
+        "answer": "9",
+        "explanation": "3.1e7 seconds in a year * 1e2 years so 2 + 7 = 9",
+        "credit": "choi"
+    },
+    "University of Georgia Invitational 18-19, #4": {
+        "question": "If you earned a penny for every 10 steps you walk, how much cents will you earn by the time you are 40 years old?",
+        "answer": "",
+        "explanation": "",
+        "credit": ""
+    },
+    "Duke Invitational 22-23, #13": {
+        "question": "",
+        "answer": "8",
+        "explanation": "duke chapel is 64 m tall, which is 6*10^7 micrometers --> 8",
+        "credit": ""
+    },
+    "Sahil Gandhi, WSO Regionals 22-23, #6": {
+        "question": "",
+        "answer": "6",
+        "explanation": "The surface area of the pyramid of Giza measures approximately 10^5 m^2 and the surface area of a sticky note measures approximately 10^-1 m^2, therefore the answer is 10^5/10^-1 = 10^6 m^2.",
+        "credit": "Kian and Leo"
+    },
+    "Golden Gate Invitational 22-23, #52": {
+        "question": "",
+        "answer": "12",
+        "explanation": "Global energy consumption is about 6* 10^21 joules. one hair dryer is around 1000 W, so over the course of the year it would consume 3* 10^10 Joules (3* 10^7 seconds * 1000 W). In order to be equivalent to double the yearly consumption, the energy the hair dryers consume needs to be to the power of 22, so 10^12 hair dryers are needed. --> 12",
+        "credit": ""
+    },
+    "UChicago Invitational 22-23, #16": {
+        "question": "",
+        "answer": "",
+        "explanation": "Depends which way the snickers bars are stacked, horizontally or vertically",
+        "credit": ""
+    },
+    "UT Austin Invitational 22-23, #18": {
+        "question": "",
+        "answer": "11",
+        "explanation": "Using the most commonly cited values of 7.5e21 grains of sand on Earth and 100-400 billion stars in the Milky Way, we get a range of 1.9-7.5e10. Since I tend to see the value of 100 billion stars more often, the most likely answer is closer to 7.5e10 so the final answer is 11.",
+        "credit": "errorfunction"
+    },
+    "Highlands Virtual Invitational 23-24, #21": {
+        "question": "",
+        "answer": "9",
+        "explanation": "I found a few estimates online for food waste per student and it seems that around 25-50% of food is wasted by students (so like a quarter to a half of every meal). I will round to 50% to account for additional food that is produced but never served (yeah this problem is depressing). There are around 53 million K-12 students in the US, which are mostly served lunch by the school they attend (some get breakfast too and some bring their own food but it should balance out more or less), so about 20 days per month. Therefore, the number of meals wasted (i.e. the number of meals that could be produced with the waste) is 0.5 x 5.3e7 x 20 = 5.3e8 which rounds up to 9 (kind of on the fence about this one but the original answer of 6 is definitely wrong).",
+        "credit": "errorfunction"
+    },
+    "Northview Invitational 23-24, #26": {
+        "question": "",
+        "answer": "14",
+        "explanation": "radius of earth is 6e6 m, formula for sa of a sphere is 4(pi)r^2",
+        "credit": "HBD IV on discord"
+    },
+    "UT Austin Invitational 23-24, #44": {
+        "question": "What is auto?",
+        "answer": "",
+        "explanation": "",
+        "credit": ""
+    },
+    "BullSO Invitational 22-23, #3": {
+        "question": "",
+        "answer": "-4",
+        "explanation": "Toothpick diameter is ~1.5 mm = 1.5e-3 m, green light wavelength is around 550 nm = 5.5e-7 m. Dividing these numbers gives 3.67e-4, so the answer is -4.",
+        "credit": "errorfunction"
+    },
+    "RobertYL, daily fermi questions day #48 [2018 Centerville Q4]": {
+        "question": "",
+        "answer": "7",
+        "explanation": "Mt. Everest height/width of penny = 8.849*10^3/(1.5*10^-3) = 5.8*10^6 = 7",
+        "credit": ""
+    },
+    "SSSS Fermi (Adi1008) 17-18, #24": {
+        "question": "",
+        "answer": "10",
+        "explanation": "the US imports 8.33 million barrels of oil/day (https://www.eia.gov/energyexplained/oil-and-petroleum-products/imports-and-exports.php) times 365 days = 3* 10^10 barrels a year.",
+        "credit": ""
+    },
+    "Case Western Reserve University 23-24, #14": {
+        "question": "",
+        "answer": "-10",
+        "explanation": "Bohr radius is 5.2e-11 m, so the answer is -10",
+        "credit": "errorfunction"
+    },
+    "UMass Amherst Invitational 22-23, #31": {
+        "question": "",
+        "answer": "14",
+        "explanation": "Using the relativistic kinetic energy formula: KE = mc^2 * (1/sqrt(1-(v/c)^2) - 1), and substituting v/c = 0.01 and m = 60-80 kg gives an answer range of 2.700-3.600e14 J. Note that since v/c \u2248 0, the non-relativistic kinetic energy formula also gives 2.7-3.6e14 J, so the answer is 14",
+        "credit": "errorfunction"
+    },
+    "North Pocono Invitational 22-23, #28": {
+        "question": "",
+        "answer": "22",
+        "explanation": "1 mol of any gas at standard conditions is 22.4 liters. A lays bag is probably 1 liter or so at max of oxygen, so 6e23/20 is about 3e22->22.",
+        "credit": "emptiespace"
     }
 }
 corrections_list = [
@@ -2113,5 +2293,41 @@ corrections_list = [
     "Columbia Invitational 17-18, #16",
     "SSSS Fermi (Adi1008) 17-18, #34",
     "UChicago Invitational 22-23, #43",
-    "Northview Invitational 23-24, #38"
+    "Northview Invitational 23-24, #38",
+    "Sahil Gandhi, WSO Regionals 22-23, #37",
+    "RobertYL, daily fermi questions day #77 [2019 CMU Q29]",
+    "SOUP Invitational 23-24, #22",
+    "Sahil Gandhi, WSO Regionals 22-23, #31",
+    "Highlands Virtual Invitational 23-24, #10",
+    "High Desert Mini Invitational 23-24, #5",
+    "Rickards Invitational 23-24, #27",
+    "Columbia Invitational 17-18, #45",
+    "SOUP Invitational 23-24, #34",
+    "RobertYL, daily fermi questions day #66 [2019 Northmont Q5]",
+    "SOUP Invitational 23-24, #37",
+    "High Desert Satellite Invitational 23-24, #40",
+    "RobertYL, daily fermi questions day #100 [2018 Kenston Q28]",
+    "RobertYL, daily fermi questions day #39 [2019 NCS Q4]",
+    "Sahil Gandhi, WSO Regionals 22-23, #8",
+    "RobertYL, daily fermi questions day #112 [2019 Boyceville Q23]",
+    "High Desert Satellite Invitational 23-24, #43",
+    "RobertYL, daily fermi questions day #106 [2019 NCS Q1]",
+    "University of Georgia Invitational 18-19, #4",
+    "Duke Invitational 22-23, #13",
+    "Sahil Gandhi, WSO Regionals 22-23, #6",
+    "Golden Gate Invitational 22-23, #52",
+    "UChicago Invitational 22-23, #16",
+    "UT Austin Invitational 22-23, #18",
+    "Highlands Virtual Invitational 23-24, #21",
+    "Northview Invitational 23-24, #26",
+    "UT Austin Invitational 23-24, #44",
+    "BullSO Invitational 22-23, #3",
+    "RobertYL, daily fermi questions day #48 [2018 Centerville Q4]",
+    "SOUP Invitational 22-23, #50",
+    "SSSS Fermi (Adi1008) 17-18, #24",
+    "BirdSO Satellite Invitational 21-22, #35",
+    "Case Western Reserve University 23-24, #14",
+    "UMass Amherst Invitational 22-23, #31",
+    "North Pocono Invitational 22-23, #28",
+    "High Desert Satellite Invitational 23-24, #40"
 ]
