@@ -7,9 +7,9 @@ corrections = {
     },
     "BirdSO In-Person Invitational 22-23, #5": {
         "question": "What is 2^12?",
-        "answer": "",
-        "explanation": "",
-        "credit": "None"
+        "answer": "4",
+        "explanation": "log(2) * 12 = .30103 * 12 ~= 3.6 ==> 4",
+        "credit": "choi"
     },
     "BullSO Invitational 22-23, #25": {
         "question": "What is the probability of a randomly selected person on Earth having an IQ of above 200?",
@@ -1003,9 +1003,9 @@ corrections = {
     },
     "BirdSO Mini Invitational 21-22, #22": {
         "question": "",
-        "answer": "0",
-        "explanation": "Amount of dirt per swimming pool: 1.5g/cm^3 dirt * (10000 cm^3 per cubic meter) * (50 * 25 *2 meters^3) * (1kg/1000g) = 3750 kg\n\nWeight of an adult blue whale: ~110,000 kg\n\nPools per whale: ~29 (1)",
-        "credit": "Trippy (@tripleqgaming for discord)"
+        "answer": "-2",
+        "explanation": "Dude the explanation is literally wrong idk what this guy is thinking. 1 cubic meter is 10^6 cm^3, not 10^4\n\nHoly shit please actually check your answer before you submit corrections we get it you got it wrong deal with it",
+        "credit": ""
     },
     "Yale Invitational 17-18, #14": {
         "question": "",
@@ -1333,8 +1333,8 @@ corrections = {
     },
     "Carnegie Mellon Invitational 22-23, #5": {
         "question": "",
-        "answer": "22",
-        "explanation": "mass is 5.5e18 tons so 5.5e21kg --> 22",
+        "answer": "19",
+        "explanation": "https://journals.ametsoc.org/view/journals/clim/18/6/jcli-3299.1.xml\n5.1 x 10^18 kg is the figure given by this paper",
         "credit": ""
     },
     "Camas Invitational 22-23, #26": {
@@ -1513,8 +1513,8 @@ corrections = {
     },
     "Yale Invitational 17-18, #29": {
         "question": "",
-        "answer": "11",
-        "explanation": "volume of the ESB is 1047723.3239 cubic meters, divide by 19.3 *10^-4 g/m^3 (density of gold) to get 54286182600, which is 11",
+        "answer": "13",
+        "explanation": "The density is not 19.3 x 10^-4 g/m^3, that\u2019s way too light. The actual density is 19.3 x 10^6 g/m^3 and since the volume of the empire state building is 1,000,000 m^3, the mass would be around 20 x 10^12 or 13 as the answer",
         "credit": ""
     },
     "University of Michigan Invitational 17-18, #6": {
@@ -1873,9 +1873,9 @@ corrections = {
     },
     "UT Austin Invitational 22-23, #18": {
         "question": "",
-        "answer": "11",
-        "explanation": "Using the most commonly cited values of 7.5e21 grains of sand on Earth and 100-400 billion stars in the Milky Way, we get a range of 1.9-7.5e10. Since I tend to see the value of 100 billion stars more often, the most likely answer is closer to 7.5e10 so the final answer is 11.",
-        "credit": "errorfunction"
+        "answer": "8",
+        "explanation": "Most sources online actually say 7.5*10^18 grains of sand, not ^21. Using the same number of stars in the milky way gives an answer of 19-11 = 8.",
+        "credit": ""
     },
     "Highlands Virtual Invitational 23-24, #21": {
         "question": "",
@@ -1930,6 +1930,18 @@ corrections = {
         "answer": "22",
         "explanation": "1 mol of any gas at standard conditions is 22.4 liters. A lays bag is probably 1 liter or so at max of oxygen, so 6e23/20 is about 3e22->22.",
         "credit": "emptiespace"
+    },
+    "RobertYL, daily fermi questions day #99 [2018 Fairfax Q5b]": {
+        "question": "",
+        "answer": "15",
+        "explanation": "distance from South Africa to Australia = 10^4km = 10^7 m = 10^15 angstroms",
+        "credit": "chyler"
+    },
+    "Princeton Invitational 23-24, #40": {
+        "question": "",
+        "answer": "15",
+        "explanation": "look it up dumbass",
+        "credit": ""
     }
 }
 corrections_list = [
@@ -2329,5 +2341,12 @@ corrections_list = [
     "Case Western Reserve University 23-24, #14",
     "UMass Amherst Invitational 22-23, #31",
     "North Pocono Invitational 22-23, #28",
-    "High Desert Satellite Invitational 23-24, #40"
+    "High Desert Satellite Invitational 23-24, #40",
+    "UT Austin Invitational 22-23, #18",
+    "BirdSO In-Person Invitational 22-23, #5",
+    "RobertYL, daily fermi questions day #99 [2018 Fairfax Q5b]",
+    "Princeton Invitational 23-24, #40",
+    "BirdSO Mini Invitational 21-22, #22",
+    "Carnegie Mellon Invitational 22-23, #5",
+    "Yale Invitational 17-18, #29"
 ]

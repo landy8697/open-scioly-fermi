@@ -481,3 +481,13 @@ volume of earth = 10^20
 5/4/2024 9:00:01,"UMass Amherst Invitational 22-23, #31        ",,14,"Using the relativistic kinetic energy formula: KE = mc^2 * (1/sqrt(1-(v/c)^2) - 1), and substituting v/c = 0.01 and m = 60-80 kg gives an answer range of 2.700-3.600e14 J. Note that since v/c ≈ 0, the non-relativistic kinetic energy formula also gives 2.7-3.6e14 J, so the answer is 14",errorfunction
 5/4/2024 19:59:02,"North Pocono Invitational 22-23, #28        ",,22,"1 mol of any gas at standard conditions is 22.4 liters. A lays bag is probably 1 liter or so at max of oxygen, so 6e23/20 is about 3e22->22.",emptiespace
 5/4/2024 21:46:50,"High Desert Satellite Invitational 23-24, #40        ",,2,The wavelength of violet light is 380 nm,
+5/5/2024 18:04:00,"UT Austin Invitational 22-23, #18        ",,8,"Most sources online actually say 7.5*10^18 grains of sand, not ^21. Using the same number of stars in the milky way gives an answer of 19-11 = 8.",
+5/6/2024 8:03:33,"BirdSO In-Person Invitational 22-23, #5        ",What is 2^12?,4,log(2) * 12 = .30103 * 12 ~= 3.6 ==> 4,choi
+5/6/2024 23:58:58,"RobertYL, daily fermi questions day #99 [2018 Fairfax Q5b]        ",,15,distance from South Africa to Australia = 10^4km = 10^7 m = 10^15 angstroms,chyler
+5/9/2024 14:00:00,"Princeton Invitational 23-24, #40        ",,15,look it up dumbass,
+5/9/2024 14:21:40,"BirdSO Mini Invitational 21-22, #22        ",,-2,"Dude the explanation is literally wrong idk what this guy is thinking. 1 cubic meter is 10^6 cm^3, not 10^4
+
+Holy shit please actually check your answer before you submit corrections we get it you got it wrong deal with it",
+5/13/2024 13:03:05,"Carnegie Mellon Invitational 22-23, #5        ",,19,"https://journals.ametsoc.org/view/journals/clim/18/6/jcli-3299.1.xml
+5.1 x 10^18 kg is the figure given by this paper",
+5/15/2024 13:29:24,"Yale Invitational 17-18, #29        ",,13,"The density is not 19.3 x 10^-4 g/m^3, that’s way too light. The actual density is 19.3 x 10^6 g/m^3 and since the volume of the empire state building is 1,000,000 m^3, the mass would be around 20 x 10^12 or 13 as the answer",
