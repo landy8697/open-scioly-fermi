@@ -153,6 +153,7 @@ function applyCorrections(curData, source){
     curData["originalAnswer"] = curData["answer"]; 
     curData["originalQuestion"] = curData["question"];
     curData["id"] = curID;
+    curData["hasAnswerCorrection"] = (corrections[source]["answer"] != "");
     //Check and apply correction if it exists
     if(source in corrections){
         console.log("CORRECTION FOUND");
@@ -188,7 +189,7 @@ function placeQuestionHTML(curData, source){
     console.log(curData);
     let curCredit = (curData.credit != null) ? curData.credit : "______"
     //QUESTION AND CREDIT DISPLAY
-    if(curData.answer != curData.originalAnswer && curCredit.toUpperCase() != "NONE"){
+    if(curData["hasAnswerCorrection"] && curCredit.toUpperCase() != "NONE"){
         document.getElementById("question-box").innerHTML = 
         `<p>${curData.question}</p>
         <small><i>${source}<br>Answer corrected by ${curCredit}
@@ -296,7 +297,7 @@ function submitAnswer(){
     }
     console.log("Original Answer", curData.originalAnswer);
     console.log("Current Answer", curData.answer);
-    if(curData.answer != curData.originalAnswer){
+    if(curData["hasAnswerCorrection"]){
         let explanation = "Explanation: " + (curData.explanation != "" ? curData.explanation : "None");
         console.log(curData.explanation);
         document.getElementById("change-alert").classList.remove("d-none");
