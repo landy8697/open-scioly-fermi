@@ -153,7 +153,7 @@ function applyCorrections(curData, source){
     curData["originalAnswer"] = curData["answer"]; 
     curData["originalQuestion"] = curData["question"];
     curData["id"] = curID;
-    curData["hasAnswerCorrection"] = (corrections[source]["answer"] != "");
+    curData["hasAnswerCorrection"] = (source in corrections) ? (corrections[source]["answer"] != "") : false;
     //Check and apply correction if it exists
     if(source in corrections){
         console.log("CORRECTION FOUND");
