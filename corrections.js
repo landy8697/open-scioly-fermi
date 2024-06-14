@@ -1560,9 +1560,9 @@ corrections = {
         "credit": ""
     },
     "MIT Invitational 22-23, #35": {
-        "question": "",
-        "answer": "2",
-        "explanation": "Question is at the very least ambiguous as to which sentence it is referring to",
+        "question": "How many letters are utilized by this very quirky sentence?",
+        "answer": "1",
+        "explanation": "The \"History ...\" part was the beginning of the next section after that; regardless, every sentence in the question has less than 50 characters",
         "credit": ""
     },
     "Golden Gate Invitational 22-23, #41": {
@@ -1837,9 +1837,9 @@ corrections = {
     },
     "RobertYL, daily fermi questions day #106 [2019 NCS Q1]": {
         "question": "How many minutes are there in a century?",
-        "answer": "9",
-        "explanation": "3.1e7 seconds in a year * 1e2 years so 2 + 7 = 9",
-        "credit": "choi"
+        "answer": "8",
+        "explanation": "3.1e7 seconds in a year roughly translates to a little more than 5e5 minutes in a year so 6 + 2 = 8",
+        "credit": "ac"
     },
     "University of Georgia Invitational 18-19, #4": {
         "question": "If you earned a penny for every 10 steps you walk, how much cents will you earn by the time you are 40 years old?",
@@ -1885,9 +1885,9 @@ corrections = {
     },
     "Northview Invitational 23-24, #26": {
         "question": "",
-        "answer": "14",
-        "explanation": "radius of earth is 6e6 m, formula for sa of a sphere is 4(pi)r^2",
-        "credit": "HBD IV on discord"
+        "answer": "15",
+        "explanation": "surface area is 5 * 10^14 meters. \u2014> 15",
+        "credit": ""
     },
     "UT Austin Invitational 23-24, #44": {
         "question": "What is auto?",
@@ -1941,6 +1941,48 @@ corrections = {
         "question": "",
         "answer": "15",
         "explanation": "look it up dumbass",
+        "credit": ""
+    },
+    "Highlands Virtual Invitational 23-24, #22": {
+        "question": "",
+        "answer": "12",
+        "explanation": "Sun explodes in 7 billion years, times 150 goals / year = about 1 trillion years --> 12",
+        "credit": ""
+    },
+    "Highlands Virtual Invitational 23-24, #30": {
+        "question": "",
+        "answer": "11",
+        "explanation": "Rain per thunderstorm is 2e6 kg, mass of raindrop is ~3e-5 kg. by DIVISION we get 11 as answer",
+        "credit": "shut ur bitchass up"
+    },
+    "High Desert Mini Invitational 23-24, #10": {
+        "question": "",
+        "answer": "8",
+        "explanation": "On average, the Postal Service processes and delivers 162.1 million pieces of First-Class Mail each day. On average, the Postal Service processes 318 million mail pieces each day, 13.3 million each hour, 221,080 each minute and 3,684 each second.\n\nfrom google <3",
+        "credit": "Rama BULUSU"
+    },
+    "University of Florida North Regional 17-18, #27": {
+        "question": "",
+        "answer": "4",
+        "explanation": "The length of the Golden Gate Bridge is 8,981 ft. The width of a CD is 4.7 in, or 0.39 ft. 8981/0.39 = 22930 CDs -> 4.",
+        "credit": ""
+    },
+    "Seven Lakes Invitational 17-18, #23": {
+        "question": "",
+        "answer": "-13",
+        "explanation": "Human cell contains about 6 * 10^-12 grams or 6 * 10^-15 kg; thus weighs ~6 * 10^-14",
+        "credit": ""
+    },
+    "RobertYL, daily fermi questions day #109 [2019 Athens Q18]": {
+        "question": "",
+        "answer": "",
+        "explanation": "football field is 120 yd by 50 yd and baseball is 3.7 cm radius, do math",
+        "credit": ""
+    },
+    "Yale Invitational 17-18, #10": {
+        "question": "",
+        "answer": "-8",
+        "explanation": "moon mass 7e22 kg and sun mass 2e30 kg, MATHEMATICS gives 3.5e-8 roughly",
         "credit": ""
     }
 }
@@ -2348,5 +2390,15 @@ corrections_list = [
     "Princeton Invitational 23-24, #40",
     "BirdSO Mini Invitational 21-22, #22",
     "Carnegie Mellon Invitational 22-23, #5",
-    "Yale Invitational 17-18, #29"
+    "Yale Invitational 17-18, #29",
+    "Highlands Virtual Invitational 23-24, #22",
+    "Highlands Virtual Invitational 23-24, #30",
+    "High Desert Mini Invitational 23-24, #10",
+    "University of Florida North Regional 17-18, #27",
+    "RobertYL, daily fermi questions day #106 [2019 NCS Q1]",
+    "Seven Lakes Invitational 17-18, #23",
+    "RobertYL, daily fermi questions day #109 [2019 Athens Q18]",
+    "Yale Invitational 17-18, #10",
+    "MIT Invitational 22-23, #35",
+    "Northview Invitational 23-24, #26"
 ]
